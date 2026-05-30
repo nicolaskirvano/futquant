@@ -1,0 +1,58 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+import type { HTMLAttributes } from "astro/types";
+import Socials from "./Socials.astro";
+import { useTranslations } from "@/i18n";
+import config from "@/config";
+
+type Props = {
+  noMarginTop?: boolean;
+} & HTMLAttributes<"footer">;
+
+const { noMarginTop = false, class: className, ...attrs } = Astro.props;
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const t = useTranslations(locale);
+const currentYear = new Date().getFullYear();
+---
+
+<footer
+  class:list={["app-layout", { "mt-auto": !noMarginTop }, className]}
+  {...attrs}
+>
+  <div
+    class="border-border flex flex-col items-center justify-between border-t py-6 sm:flex-row-reverse sm:py-4"
+  >
+    <Socials />
+    <div class="my-2 flex flex-col items-center gap-2">
+      <nav
+        class="flex flex-wrap items-center justify-center gap-x-4 gap-y-2 text-sm"
+        aria-label="Links legais"
+      >
+        <a
+          href={getRelativeLocaleUrl(locale, "politica-de-privacidade")}
+          class="hover:text-accent"
+        >
+          {t.footer.privacy}
+        </a>
+        <a
+          href={getRelativeLocaleUrl(locale, "termos-de-uso")}
+          class="hover:text-accent"
+        >
+          {t.footer.terms}
+        </a>
+        <a
+          href={getRelativeLocaleUrl(locale, "contato")}
+          class="hover:text-accent"
+        >
+          {t.footer.contact}
+        </a>
+      </nav>
+      <div class="flex flex-col items-center whitespace-nowrap sm:flex-row">
+        <span>{t.footer.copyright} &#169; {currentYear}</span>
+        <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
+        <span>{t.footer.allRightsReserved}</span>
+      </div>
+    </div>
+  </div>
+</footer>

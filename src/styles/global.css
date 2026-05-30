@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@import "./theme.css";
+@import "./typography.css";
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+@layer base {
+  html {
+    background: var(--background);
+    color-scheme: dark;
+  }
+
+  body {
+    background:
+      linear-gradient(rgba(232, 152, 96, 0.045) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(232, 152, 96, 0.04) 1px, transparent 1px),
+      var(--background);
+    background-size: 64px 64px;
+    color: var(--foreground);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-archivo);
+    font-weight: 900;
+    letter-spacing: 0;
+  }
+
+  * {
+    @apply border-border outline-accent/75;
+    scrollbar-width: auto;
+    scrollbar-color: var(--color-muted) transparent;
+  }
+  a,
+  button {
+    @apply outline-accent outline-offset-1 focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: var(--accent-foreground);
+  }
+}
+
+@utility max-w-app {
+  @apply max-w-4xl;
+}
+
+@utility app-layout {
+  @apply max-w-app mx-auto w-full px-4;
+}
+
+@utility active-nav {
+  @apply text-accent underline decoration-2 underline-offset-8;
+}
+
+@utility brand-eyebrow {
+  @apply text-accent font-mono text-xs font-medium uppercase;
+}
+
+@utility brand-panel {
+  @apply border-border bg-muted/75;
+}
+
+:target {
+  scroll-margin-block: 1rem;
+}
