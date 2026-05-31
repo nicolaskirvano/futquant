@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:37:49.000Z
+pubDatetime: 2026-05-31T19:00:03.000Z
 title: "Mercado da LALIGA EA SPORTS no EA FC (31/05/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false

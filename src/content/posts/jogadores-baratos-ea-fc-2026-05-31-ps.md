@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:37:48.000Z
+pubDatetime: 2026-05-31T19:00:02.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -42,8 +42,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Alexandre Penetra | 90 | CB | — | 13k coins | 0% |
 | Enzo Francescoli | 90 | CAM | — | 14k coins | -6.8% |
 | Ingrid Syrstad Engen | 90 | CB | — | 15k coins | +9.1% |
-| Florian Wirtz | 89 | CAM | Premier League | 6k coins | -5.2% |
-| Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +10% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +3.8% |
+| Alisson | 89 | GK | Premier League | 6k coins | +3.8% |
 
 
 ## 📈 Destaques
