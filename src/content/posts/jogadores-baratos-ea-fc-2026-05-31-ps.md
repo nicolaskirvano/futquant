@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:36:15.000Z
+pubDatetime: 2026-05-31T13:40:06.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -17,6 +17,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 > 💰 **Melhor pechincha:** Vincenzo Grifo (92) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
+
+Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -37,11 +39,28 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 | Harry Kane | 89 | ST | Bundesliga | 6k coins | +10% |
 
 
+## 📈 Destaques
+
+- **Vincenzo Grifo (92, LM)** da —, a apenas **14k coins**
+
+- **Julie Foudy (91, CM)** da Icons, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Rodri (90, CDM)** da Premier League, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **8k coins**
+
+- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins**
+
+
 ## Por que estas cartas?
 
 - **Rating 83+** garante atributos competitivos para a maioria dos modos.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
+
+
+## 📐 Como o FutQuant gera estes dados
+Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
 
 
 ## Perguntas frequentes

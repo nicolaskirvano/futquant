@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:36:16.000Z
+pubDatetime: 2026-05-31T13:40:07.000Z
 title: "Mercado do EA FC hoje (31/05/2026): análise de altas, baixas e previsões — PC"
 draft: false
 featured: true

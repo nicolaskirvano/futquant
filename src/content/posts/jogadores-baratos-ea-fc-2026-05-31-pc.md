@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:36:16.000Z
+pubDatetime: 2026-05-31T13:40:07.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -17,6 +17,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 > 💰 **Melhor pechincha:** Rodri (90) por apenas 9k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
+
+Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -37,11 +39,28 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 | Mapi León | 89 | CB | Liga F | 7k coins | +14.8% |
 
 
+## 📈 Destaques
+
+- **Rodri (90, CDM)** da Premier League, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
+
+- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
+
+- **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
+
+
 ## Por que estas cartas?
 
 - **Rating 83+** garante atributos competitivos para a maioria dos modos.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
+
+
+## 📐 Como o FutQuant gera estes dados
+Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
 
 
 ## Perguntas frequentes

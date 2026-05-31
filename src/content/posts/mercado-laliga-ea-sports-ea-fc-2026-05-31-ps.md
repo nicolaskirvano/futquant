@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:36:16.000Z
+pubDatetime: 2026-05-31T13:40:08.000Z
 title: "Mercado da LALIGA EA SPORTS no EA FC (31/05/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -48,6 +48,16 @@ Cartas da liga que mais valorizaram na última semana:
 | Míchel Salgado | 89 | RB | 38k coins | +54% |
 | Roony Bardghji | 90 | RM | 29k coins | +46.2% |
 | Capdevila | 86 | LB | 19k coins | +35.7% |
+
+
+## 📈 Análise da LALIGA EA SPORTS
+
+A carta mais valiosa da liga é **Lamine Yamal (92)**, a 7.77M coins. 
+No movimento da semana, **Julián Alvarez (89)** lidera as altas (+81.8% em 7 dias), sinal de procura crescente por cartas da LALIGA EA SPORTS. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+
+
+## 📐 Como o FutQuant gera estes dados
+Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
 
 
 ## Perguntas frequentes
