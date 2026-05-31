@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T17:00:03.000Z
+pubDatetime: 2026-05-31T18:37:49.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,27 +30,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Rodri | 90 | CDM | Premier League | 9k coins | +50% |
-| Erling Haaland | 90 | ST | Premier League | 9k coins | -12.6% |
+| Erling Haaland | 90 | ST | Premier League | 10k coins | -11.6% |
 | Virgil van Dijk | 90 | CB | Premier League | 10k coins | +4.2% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -2.4% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -2.3% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
+| Ingrid Syrstad Engen | 90 | CB | — | 14k coins | -24.7% |
 | Caroline Graham Hansen | 90 | RW | Liga F | 15k coins | -3.3% |
+| Frida Maanum | 90 | CAM | — | 15k coins | -3.3% |
+| Enzo Francescoli | 90 | CAM | — | 15k coins | -13% |
 | Mariona | 89 | CM | Barclays WSL | 6k coins | -16.2% |
-| Mapi León | 89 | CB | Liga F | 6k coins | -4.6% |
 | Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -8.7% |
-| Alessia Russo | 89 | ST | Barclays WSL | 6k coins | -3.1% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +6.6% |
+| Mapi León | 89 | CB | Liga F | 6k coins | -4.6% |
+| Florian Wirtz | 89 | CAM | Premier League | 6k coins | +6.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6k coins | -3% |
 | Khadija Shaw | 89 | ST | Barclays WSL | 6k coins | -1.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 7k coins | 0% |
-| Florian Wirtz | 89 | CAM | Premier League | 7k coins | +10% |
-| Harry Kane | 89 | ST | Bundesliga | 7k coins | +1.5% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
