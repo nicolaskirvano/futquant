@@ -4,6 +4,10 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
+# segmento do blog (FQ_SEG / FQ_SEG_LABEL) — define o nicho. Vazio = blog geral.
+if [ -f scripts/blog.env ]; then set -a; . scripts/blog.env; set +a; fi
+RUN_LEAGUE_ROTATOR="${RUN_LEAGUE_ROTATOR:-1}"
+
 # sincroniza com o remoto (descarta divergência local p/ evitar conflito de push)
 git fetch -q origin master
 git reset --hard -q origin/master
@@ -14,7 +18,8 @@ for plat in ps pc; do
   python3 scripts/generate_investments.py  --ch-ssh local --platform "$plat" || true
   python3 scripts/generate_budget.py       --ch-ssh local --platform "$plat" || true
 done
-python3 scripts/generate_league.py --ch-ssh local --platform ps || true
+# rotador de liga só faz sentido no blog geral (blogs segmentados já são de 1 nicho)
+[ "$RUN_LEAGUE_ROTATOR" = "1" ] && python3 scripts/generate_league.py --ch-ssh local --platform ps || true
 
 # commita e publica só se algo mudou
 if [ -n "$(git status --porcelain)" ]; then

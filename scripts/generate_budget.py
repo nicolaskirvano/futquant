@@ -10,7 +10,7 @@ def query(platform):
       FROM {fq.U}
       WHERE platform='{platform}' AND {fq.QUALITY} AND rating>=83
         AND current_price BETWEEN 1500 AND 15000
-        AND change_pct_24h BETWEEN -15 AND 60
+        AND change_pct_24h BETWEEN -15 AND 60{fq.seg()}
       ORDER BY rating DESC, current_price ASC LIMIT 15"""
 
 def main():
@@ -25,7 +25,8 @@ def main():
     plat = fq.PLAT_LABEL[a.platform]; today = fq.today_br_str()
     top = rows[0]
     slug = f"jogadores-baratos-ea-fc-{fq.date_slug()}-{a.platform}"
-    title = f"Jogadores baratos e bons no EA FC ({today}) — joias 83+ por menos de 15k — {plat}"
+    scope = f"da {fq.seg_label()}" if fq.seg_label() else "no EA FC"
+    title = f"Jogadores baratos e bons {scope} ({today}) — joias 83+ por menos de 15k — {plat}"
     desc = (f"As melhores cartas custo-benefício do EA FC Ultimate Team em {today} ({plat}): "
             f"jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco.")
     cols = [("player_name","Jogador"),("rating","OVR"),("position","Pos"),("league","Liga"),("price","Preço"),("d7","7d")]

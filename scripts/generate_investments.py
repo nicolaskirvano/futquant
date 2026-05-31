@@ -16,7 +16,7 @@ def query(platform):
       FROM {fq.U} u LEFT JOIN {P} p ON u.resource_id=p.resource_id AND u.platform=p.platform
       WHERE u.platform='{platform}' AND u.{fq.QUALITY} AND u.rating>=84
         AND u.current_price BETWEEN 15000 AND 250000
-        AND u.change_pct_24h BETWEEN 1 AND 40 AND u.change_pct_7d BETWEEN 5 AND 90
+        AND u.change_pct_24h BETWEEN 1 AND 40 AND u.change_pct_7d BETWEEN 5 AND 90{fq.seg('u')}
       ORDER BY u.change_pct_7d DESC LIMIT 15"""
 
 def analyse(c):
@@ -50,7 +50,8 @@ def main():
         print("poucos investimentos hoje; pulando", file=sys.stderr); sys.exit(0)
     plat = fq.PLAT_LABEL[a.platform]; today = fq.today_br_str(); top = rows[0]
     slug = f"melhores-investimentos-ea-fc-{fq.date_slug()}-{a.platform}"
-    title = f"Melhores investimentos no EA FC hoje ({today}): análise e previsões — {plat}"
+    scope = f"na {fq.seg_label()}" if fq.seg_label() else "no EA FC"
+    title = f"Melhores investimentos {scope} hoje ({today}): análise e previsões — {plat}"
     desc = (f"As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em {today} ({plat}), "
             f"cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite.")
     cols = [("player_name","Jogador"),("rating","OVR"),("league","Liga"),("price","Preço"),

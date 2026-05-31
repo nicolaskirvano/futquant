@@ -20,7 +20,7 @@ def q_movers(platform, direction):
              p.signal AS signal
       FROM {fq.U} u LEFT JOIN {P} p ON u.resource_id=p.resource_id AND u.platform=p.platform
       WHERE u.platform='{platform}' AND u.{fq.QUALITY} AND u.rating>=80
-        AND u.current_price>=20000 AND u.change_pct_24h {cond}
+        AND u.current_price>=20000 AND u.change_pct_24h {cond}{fq.seg('u')}
       ORDER BY u.change_pct_24h {order} LIMIT 10"""
 
 def q_forecast(platform, sig):
@@ -33,14 +33,14 @@ def q_forecast(platform, sig):
       FROM {fq.U} u INNER JOIN {P} p ON u.resource_id=p.resource_id AND u.platform=p.platform
       WHERE u.platform='{platform}' AND u.{fq.QUALITY} AND u.rating>=83
         AND u.current_price BETWEEN 15000 AND 400000 AND p.signal='{sig}' AND p.confidence>=0.8
-        AND abs(p.predicted_change_pct_24h) BETWEEN 2 AND 35
+        AND abs(p.predicted_change_pct_24h) BETWEEN 2 AND 35{fq.seg('u')}
       ORDER BY {order} LIMIT 8"""
 
 def q_sentiment(platform):
     return f"""
       SELECT countIf(change_pct_24h>0) AS up, countIf(change_pct_24h<0) AS down,
              countIf(change_pct_24h=0) AS flat, round(avg(change_pct_24h),2) AS avg
-      FROM {fq.U} WHERE platform='{platform}' AND {fq.QUALITY} AND rating>=80 AND current_price>=5000"""
+      FROM {fq.U} WHERE platform='{platform}' AND {fq.QUALITY} AND rating>=80 AND current_price>=5000{fq.seg()}"""
 
 def analyse(card, kind):
     """Mini-análise textual de uma carta (com níveis técnicos + previsão)."""
@@ -91,7 +91,8 @@ def main():
     up_n, down_n, avg = int(sent.get("up",0)), int(sent.get("down",0)), float(sent.get("avg",0))
     sentiment = fq.market_sentiment(up_n, down_n, avg)
     slug = f"mercado-ea-fc-{fq.date_slug()}-{a.platform}"
-    title = f"Mercado do EA FC hoje ({today}): análise de altas, baixas e previsões — {plat}"
+    scope = f"da {fq.seg_label()}" if fq.seg_label() else "do EA FC"
+    title = f"Mercado {scope} hoje ({today}): análise de altas, baixas e previsões — {plat}"
     desc = (f"Análise completa do mercado do EA FC Ultimate Team em {today} ({plat}): sentimento do dia, "
             f"maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados.")
     top_up = ups[0] if ups else None

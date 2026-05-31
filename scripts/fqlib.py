@@ -94,6 +94,25 @@ def disclaimer(plat_label):
 # filtros de qualidade reutilizáveis (sem anomalias)
 QUALITY = "is_anomaly=0"
 
+# --- Segmento do blog (torna cada blog distinto sem duplicar geradores) ---
+# FQ_SEG: condição SQL simples sobre o universe, ex: "league='Premier League'", "position='GK'",
+#         "current_price<=25000", "nation='Brazil'". FQ_SEG_LABEL: rótulo p/ títulos.
+_SEG = os.environ.get("FQ_SEG", "").strip()
+SEG_LABEL = os.environ.get("FQ_SEG_LABEL", "").strip()
+
+def seg(alias=""):
+    """Cláusula AND do segmento, com alias opcional da tabela (ex: 'u')."""
+    if not _SEG:
+        return ""
+    prefix = (alias + ".") if alias else ""
+    return f" AND {prefix}{_SEG}"
+
+def seg_label():
+    return SEG_LABEL
+
+def has_seg():
+    return bool(_SEG)
+
 def signal_label(signal, prob_alta):
     """Rótulo legível da previsão do modelo."""
     try:
