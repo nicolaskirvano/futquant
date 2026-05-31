@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T17:00:03.000Z
+pubDatetime: 2026-05-31T18:37:49.000Z
 title: "Mercado da LALIGA EA SPORTS no EA FC (31/05/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -49,11 +49,11 @@ Cartas da liga que mais valorizaram na última semana:
 | Lamine Yamal | 92 | RW | 7.60M coins | +69.4% |
 | Vini Jr. | 90 | ST | 1.01M coins | +57.3% |
 | Marcus Rashford | 90 | LM | 940k coins | +53.1% |
+| Rafael Márquez | 88 | CB | 38k coins | +51.5% |
 | Diego Forlán | 88 | ST | 22k coins | +43.6% |
 | Federico Valverde | 91 | CM | 2.10M coins | +38.2% |
 | Arda Güler | 93 | RM | 135k coins | +35% |
 | Brahim | 90 | RM | 121k coins | +34.4% |
-| Rafael Márquez | 88 | CB | 33k coins | +31.7% |
 | Dávid Hancko | 89 | CB | 40k coins | +31.7% |
 
 

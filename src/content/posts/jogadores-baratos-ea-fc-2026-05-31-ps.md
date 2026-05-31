@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T17:00:02.000Z
+pubDatetime: 2026-05-31T18:37:48.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -33,7 +33,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Gianluca Vialli | 91 | ST | — | 15k coins | -4.8% |
 | Dimitar Berbatov | 91 | ST | — | 15k coins | -7.7% |
 | Alexia Putellas | 91 | CM | Liga F | 15k coins | -4.8% |
-| Virgil van Dijk | 90 | CB | Premier League | 9k coins | +3.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -3.4% |
 | Erling Haaland | 90 | ST | Premier League | 10k coins | 0% |
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +1% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
@@ -42,7 +42,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Alexandre Penetra | 90 | CB | — | 13k coins | 0% |
 | Enzo Francescoli | 90 | CAM | — | 14k coins | -6.8% |
 | Ingrid Syrstad Engen | 90 | CB | — | 15k coins | +9.1% |
-| Harry Kane | 89 | ST | Bundesliga | 5k coins | +6% |
+| Florian Wirtz | 89 | CAM | Premier League | 6k coins | -5.2% |
 | Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +10% |
 
 
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins**
 
-- **Virgil van Dijk (90, CB)** da Premier League, a apenas **9k coins**
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **8k coins**
 
 
 ## Por que estas cartas?

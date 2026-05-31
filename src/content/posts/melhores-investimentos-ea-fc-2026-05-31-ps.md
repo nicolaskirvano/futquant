@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T17:00:02.000Z
+pubDatetime: 2026-05-31T18:37:48.000Z
 title: "Melhores investimentos no EA FC hoje (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,6 +32,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bradley Barcola | 90 | Ligue 1 McDonald's | 189k coins | +11.2% | +89% | 42% |
+| Robbie Keane | 86 | Premier League | 22k coins | +28.4% | +65.4% | 50% |
 | João Cancelo | 87 | ROSHN Saudi League | 57k coins | +2.7% | +62.9% | 43% |
 | Wesley Sneijder | 88 | Serie A TIM | 46k coins | +3.4% | +62.3% | 54% |
 | Joe Cole | 88 | Premier League | 201k coins | +28% | +60.8% | 5% |
@@ -39,26 +40,25 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Maicon | 90 | Serie A TIM | 100k coins | +22% | +56.2% | 51% |
 | Nicolò Zaniolo | 86 | Serie A TIM | 23k coins | +7% | +55.9% | 5% |
 | Avery Patterson | 93 | — | 22k coins | +3.6% | +55.4% | 93% |
+| Rafael Márquez | 88 | LALIGA EA SPORTS | 38k coins | +7% | +51.5% | 5% |
 | Vanessa Fudalla | 88 | GPFBL | 66k coins | +1.6% | +50.6% | 23% |
 | Manuela Giugliano | 95 | — | 29k coins | +7.4% | +48.7% | 80% |
 | Aleksandar Stanković | 87 | 1A Pro League | 103k coins | +39.2% | +48.2% | 23% |
 | Saeed Al Owairan | 85 | ROSHN Saudi League | 95k coins | +23.4% | +47.3% | 95% |
 | Marco Asensio | 96 | — | 51k coins | +8.5% | +46.8% | 5% |
-| Joshua Kimmich | 89 | Bundesliga | 100k coins | +5.3% | +44.9% | 27% |
-| Diego Forlán | 88 | LALIGA EA SPORTS | 22k coins | +3.5% | +43.6% | 95% |
 
 
 ## 📈 Análise dos destaques
 
 - **Bradley Barcola (90)** — 189k coins, **+89% em 7 dias** (+11.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
+- **Robbie Keane (86)** — 22k coins, **+65.4% em 7 dias** (+28.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
 - **João Cancelo (87)** — 57k coins, **+62.9% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Wesley Sneijder (88)** — 46k coins, **+62.3% em 7 dias** (+3.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Joe Cole (88)** — 201k coins, **+60.8% em 7 dias** (+28% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
-- **Juan Mata (88)** — 56k coins, **+58.6% em 7 dias** (+21.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
