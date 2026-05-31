@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:08.000Z
+pubDatetime: 2026-05-31T22:00:03.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Rodri | 90 | CDM | Premier League | 9k coins | +32.4% |
 | Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
-| Erling Haaland | 90 | ST | Premier League | 11k coins | +7.5% |
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | 0% |
+| Erling Haaland | 90 | ST | Premier League | 11k coins | +7.5% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Caroline Graham Hansen | 90 | RW | Liga F | 13k coins | -14.5% |
-| Ingrid Syrstad Engen | 90 | CB | — | 14k coins | -24.7% |
-| Frida Maanum | 90 | CAM | — | 15k coins | -3.3% |
-| Enzo Francescoli | 90 | CAM | — | 15k coins | -13% |
 | Raphinha | 89 | LM | LALIGA EA SPORTS | 6k coins | -13% |
 | Florian Wirtz | 89 | CAM | Premier League | 6k coins | -10.4% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +8.2% |
 | Alessia Russo | 89 | ST | Barclays WSL | 7k coins | +6.4% |
 | Alisson | 89 | GK | Premier League | 7k coins | -1.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 7k coins | -1.4% |
+| Harry Kane | 89 | ST | Bundesliga | 7k coins | +13.1% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 7k coins | +43.8% |
+| Mapi León | 89 | CB | Liga F | 7k coins | +4.6% |
 
 
 ## 📈 Destaques
@@ -52,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **11k coins**
-
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins**
+
+- **Erling Haaland (90, ST)** da Premier League, a apenas **11k coins**
 
 - **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 

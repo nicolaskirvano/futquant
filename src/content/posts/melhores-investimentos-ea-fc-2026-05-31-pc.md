@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:08.000Z
+pubDatetime: 2026-05-31T22:00:03.000Z
 title: "Melhores investimentos no EA FC hoje (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -32,33 +32,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lotta Schelin | 90 | Icons | 210k coins | +32.1% | +84.2% | 44% |
-| Jade Rose | 85 | Barclays WSL | 55k coins | +8.9% | +73.2% | 62% |
-| Anders Dreyer | 94 | — | 32k coins | +22.6% | +71% | 19% |
-| Paul Onuachu | 88 | Trendyol Süper Lig | 40k coins | +8.1% | +70.2% | 47% |
-| Ousmane Diomande | 85 | Liga Portugal | 55k coins | +23.6% | +69.2% | 56% |
-| Davor Šuker | 89 | Icons | 34k coins | +10.7% | +64.6% | 37% |
-| Edna Imade | 86 | Liga F | 35k coins | +6.1% | +55.6% | 40% |
-| Larissa Mühlhaus | 92 | — | 20k coins | +2.6% | +54.9% | 0% |
+| Paul Onuachu | 88 | Trendyol Süper Lig | 43k coins | +3% | +84% | 47% |
+| Mateo Kovačić | 90 | Premier League | 29k coins | +16% | +75.8% | 41% |
+| Nuno Tavares | 91 | Serie A TIM | 68k coins | +10.6% | +71.1% | 57% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 25k coins | +7.6% | +70.7% | 22% |
+| Trincão | 86 | Liga Portugal | 49k coins | +24.2% | +62.5% | 39% |
+| Francisco Moura | 90 | Liga Portugal | 25k coins | +8.7% | +61.3% | 23% |
+| Leroy Sané | 90 | Trendyol Süper Lig | 30k coins | +9.9% | +60.5% | 41% |
+| Vanessa Gilles | 94 | — | 40k coins | +37.9% | +58.4% | 0% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 61k coins | +6.1% | +55.4% | 25% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 36k coins | +16.4% | +52.7% | 52% |
 | Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% | 21% |
-| Nina Lührßen | 93 | — | 20k coins | +5.2% | +47.3% | 0% |
-| Peter Crouch | 87 | Premier League | 202k coins | +34.7% | +44.3% | 54% |
-| Jorthy Mokio | 86 | Eredivisie | 23k coins | +9.5% | +43.8% | 59% |
-| Paula Fernández | 93 | — | 20k coins | +3.9% | +42.9% | 0% |
-| Matthieu Udol | 93 | — | 20k coins | +1.3% | +41.1% | 0% |
-| Nicolás Otamendi | 86 | Liga Portugal | 65k coins | +8.3% | +40.5% | 50% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 37k coins | +16.4% | +50.5% | 45% |
+| Julia Grosso | 88 | NWSL | 24k coins | +26.3% | +50% | 54% |
+| Nina Lührßen | 93 | — | 21k coins | +9% | +49.1% | 0% |
 
 
 ## 📈 Análise dos destaques
 
 - **Lotta Schelin (90)** — 210k coins, **+84.2% em 7 dias** (+32.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jade Rose (85)** — 55k coins, **+73.2% em 7 dias** (+8.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paul Onuachu (88)** — 43k coins, **+84% em 7 dias** (+3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Anders Dreyer (94)** — 32k coins, **+71% em 7 dias** (+22.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mateo Kovačić (90)** — 29k coins, **+75.8% em 7 dias** (+16% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Paul Onuachu (88)** — 40k coins, **+70.2% em 7 dias** (+8.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nuno Tavares (91)** — 68k coins, **+71.1% em 7 dias** (+10.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ousmane Diomande (85)** — 55k coins, **+69.2% em 7 dias** (+23.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ben Chilwell (90)** — 25k coins, **+70.7% em 7 dias** (+7.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
