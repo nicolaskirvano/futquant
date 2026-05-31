@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:40:07.000Z
+pubDatetime: 2026-05-31T17:00:02.000Z
 title: "Mercado do EA FC hoje (31/05/2026): análise de altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -11,11 +11,22 @@ tags:
   - altas-e-baixas
   - pc
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+faq:
+  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
+    a: "Giovane (89, Serie A TIM), com +59.6% em 24h, a 21k coins no PC."
+  - q: "E a maior queda do dia?"
+    a: "Marek Hamšík (89), -48.8% em 24h, a 32k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 26k coins."
+  - q: "O mercado do EA FC está em alta ou baixa hoje?"
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 600 cartas em alta contra 1002 em queda (média 1.5%)."
+  - q: "Os dados de preço do FutQuant são confiáveis?"
+    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **607 subiram** e **1011 caíram**, com variação média de **0.9%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **600 subiram** e **1002 caíram**, com variação média de **1.5%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Giovane (89) **+59.6%** · 🔴 **Maior baixa:** Marek Hamšík (89) **-48.8%**
 
@@ -53,11 +64,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Grimaldo | 91 | Bundesliga | 34k coins | -43.8% | -43.8% |
 | Harry Wilson | 88 | Premier League | 48k coins | -42.2% | 0% |
 | Kim Little | 87 | Barclays WSL | 28k coins | -41.8% | -7.6% |
-| Kenny Dalglish | 89 | Icons | 137k coins | -40.4% | -18.4% |
 | Elisabeth Terland | 85 | Barclays WSL | 24k coins | -39.4% | -39% |
 | João Cancelo | 87 | ROSHN Saudi League | 28k coins | -39% | -52.1% |
 | Mamadou Sangaré | 87 | Ligue 1 McDonald's | 44k coins | -37.9% | -1.1% |
-| Laurent Blanc | 88 | Icons | 73k coins | -37.6% | -26.3% |
+| Cristiano Ronaldo | 86 | ROSHN Saudi League | 875k coins | -37.5% | -58.3% |
+| Julio César Enciso | 87 | Ligue 1 McDonald's | 197k coins | -37.5% | -7.1% |
 
 
 ### Análise das baixas
@@ -97,16 +108,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
 Giovane (89, Serie A TIM), com +59.6% em 24h, a 21k coins no PC.
 
-**E a maior queda?**  
+**E a maior queda do dia?**  
 Marek Hamšík (89), -48.8% em 24h, a 32k coins.
 
-**Qual carta tem mais chance de subir amanhã?**  
+**Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 26k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 607 cartas em alta contra 1011 em queda (média 0.9%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 600 cartas em alta contra 1002 em queda (média 1.5%).
 
-**Esses dados são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 

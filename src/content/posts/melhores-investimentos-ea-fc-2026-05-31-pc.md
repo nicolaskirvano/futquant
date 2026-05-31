@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:40:07.000Z
+pubDatetime: 2026-05-31T17:00:03.000Z
 title: "Melhores investimentos no EA FC hoje (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -10,6 +10,13 @@ tags:
   - previsoes
   - pc
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+faq:
+  - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
+    a: "Katie McCabe (92, sem liga) lidera, com +87.5% em 7 dias a 30k coins no PC."
+  - q: "Investir em FUT dá lucro garantido?"
+    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
+  - q: "Com que frequência a lista de investimentos atualiza?"
+    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
 ## Por que estas cartas
@@ -29,12 +36,12 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Griedge Mbock | 86 | D1 Arkema | 38k coins | +6.9% | +79.1% | 17% |
 | Marc Bartra | 87 | LALIGA EA SPORTS | 80k coins | +1.3% | +70.2% | 16% |
 | Marcelo | 90 | — | 38k coins | +15.9% | +70% | 46% |
+| Robbie Keane | 86 | Premier League | 18k coins | +14.3% | +67.4% | 14% |
 | Sol Campbell | 88 | — | 59k coins | +7.3% | +66.2% | 26% |
 | Anthony Nwakaeme | 87 | Trendyol Süper Lig | 119k coins | +36.8% | +65.3% | 22% |
 | Joan García | 94 | — | 62k coins | +31.9% | +58% | 0% |
 | Ayase Ueda | 92 | — | 36k coins | +1.4% | +57% | 60% |
 | Jakub Kiwior | 94 | — | 36k coins | +2.9% | +56.5% | 0% |
-| Esteban Cambiasso | 86 | Serie A TIM | 18k coins | +29.1% | +54.4% | 24% |
 | Fredrik Aursnes | 92 | — | 22k coins | +10.3% | +53.6% | 0% |
 | Thomas Müller | 86 | MLS | 190k coins | +12.4% | +53.2% | 46% |
 | Filip Kostić | 88 | Serie A TIM | 32k coins | +12.1% | +52.9% | 46% |
@@ -74,8 +81,8 @@ Katie McCabe (92, sem liga) lidera, com +87.5% em 7 dias a 30k coins no PC.
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista atualiza?**  
-Várias vezes ao dia, junto com os preços do mercado.
+**Com que frequência a lista de investimentos atualiza?**  
+Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
 ---
