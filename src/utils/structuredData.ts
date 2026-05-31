@@ -145,6 +145,25 @@ export function getBlogPostingStructuredData(
     keywords: input.tags,
     inLanguage: config.site.lang,
     isAccessibleForFree: true,
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: ["h1", "h2", "blockquote"],
+    },
+  });
+}
+
+export function getFaqStructuredData(
+  faq: { q: string; a: string }[] | undefined
+) {
+  if (!faq || faq.length === 0) return null;
+  return compactJsonLd({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faq.map(({ q, a }) => ({
+      "@type": "Question",
+      name: q,
+      acceptedAnswer: { "@type": "Answer", text: a },
+    })),
   });
 }
 

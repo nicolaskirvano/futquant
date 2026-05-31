@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:40:06.000Z
+pubDatetime: 2026-05-31T14:13:26.000Z
 title: "Mercado do EA FC hoje (31/05/2026): análise de altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -11,6 +11,17 @@ tags:
   - altas-e-baixas
   - ps
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+faq:
+  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
+    a: "Mika Godts (87, Eredivisie), com +51.7% em 24h, a 22k coins no Console (PS)."
+  - q: "E a maior queda do dia?"
+    a: "Marcos Llorente (90), -49.9% em 24h, a 641k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Santi Cazorla (87) — 95% de probabilidade de alta, a 100k coins."
+  - q: "O mercado do EA FC está em alta ou baixa hoje?"
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 765 cartas em alta contra 1336 em queda (média -1.68%)."
+  - q: "Os dados de preço do FutQuant são confiáveis?"
+    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
@@ -111,16 +122,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
 Mika Godts (87, Eredivisie), com +51.7% em 24h, a 22k coins no Console (PS).
 
-**E a maior queda?**  
+**E a maior queda do dia?**  
 Marcos Llorente (90), -49.9% em 24h, a 641k coins.
 
-**Qual carta tem mais chance de subir amanhã?**  
+**Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Santi Cazorla (87) — 95% de probabilidade de alta, a 100k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
 Hoje o mercado está em mercado em baixa — predominam as quedas, com 765 cartas em alta contra 1336 em queda (média -1.68%).
 
-**Esses dados são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 

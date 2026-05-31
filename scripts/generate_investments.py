@@ -75,17 +75,20 @@ def main():
              "- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.\n"
              "- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.\n")
     b.append(fq.methodology())
-    b.append("\n## ❓ Perguntas frequentes\n")
-    b.append(f"**Qual a melhor carta para investir hoje ({today}) no EA FC?**  \n"
-             f"{top['player_name']} ({top['rating']}, {top.get('league') or 'sem liga'}) lidera, com +{top['d7']}% "
-             f"em 7 dias a {fq.fmt_coins(top['price'])} coins no {plat}"
-             + (f", e o modelo dá {int(float(top['prob_alta']))}% de chance de seguir subindo.\n" if top.get('prob_alta') else ".\n"))
-    b.append("**Investir em FUT dá lucro garantido?**  \nNão. São probabilidades baseadas em dados históricos; "
-             "o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.\n")
-    b.append("**Com que frequência a lista atualiza?**  \nVárias vezes ao dia, junto com os preços do mercado.\n")
+    faqs = []
+    faqs.append((f"Qual a melhor carta para investir hoje ({today}) no EA FC?",
+                 f"{top['player_name']} ({top['rating']}, {top.get('league') or 'sem liga'}) lidera, com +{top['d7']}% "
+                 f"em 7 dias a {fq.fmt_coins(top['price'])} coins no {plat}"
+                 + (f", e o modelo dá {int(float(top['prob_alta']))}% de chance de seguir subindo." if top.get('prob_alta') else ".")))
+    faqs.append(("Investir em FUT dá lucro garantido?",
+                 "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e "
+                 "lançamentos. Use como apoio à decisão, não como garantia."))
+    faqs.append(("Com que frequência a lista de investimentos atualiza?",
+                 "Várias vezes ao dia, junto com os preços do mercado do EA FC."))
+    b.append(fq.faq_block(faqs))
     b.append(fq.disclaimer(plat))
     print(fq.write_post(a.out, slug, title, desc, ["investimentos","trading","previsoes",a.platform],
-                        "\n".join(b), featured=True))
+                        "\n".join(b), featured=True, faq=faqs))
 
 if __name__ == "__main__":
     main()

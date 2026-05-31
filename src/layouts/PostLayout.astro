@@ -4,6 +4,7 @@ import config from "@/config";
 import {
   getBlogPostingStructuredData,
   getBreadcrumbStructuredData,
+  getFaqStructuredData,
   serializeJsonLd,
 } from "@/utils/structuredData";
 
@@ -16,6 +17,7 @@ type Props = {
   modDatetime?: Date | null;
   author?: string;
   tags?: string[];
+  faq?: { q: string; a: string }[];
 };
 
 const { site } = config;
@@ -29,6 +31,7 @@ const {
   modDatetime,
   author,
   tags,
+  faq,
 } = Astro.props;
 
 const resolvedCanonicalURL =
@@ -50,6 +53,7 @@ const breadcrumbStructuredData = getBreadcrumbStructuredData([
   { name: "Posts", url: "/posts/" },
   { name: title ?? site.title, url: resolvedCanonicalURL },
 ]);
+const faqStructuredData = getFaqStructuredData(faq);
 ---
 
 <Layout
@@ -57,11 +61,9 @@ const breadcrumbStructuredData = getBreadcrumbStructuredData([
   {description}
   {ogImage}
   canonicalURL={resolvedCanonicalURL}
+  ogType="article"
 >
   <Fragment slot="head">
-    <!-- Override og:type for article pages -->
-    <meta property="og:type" content="article" />
-
     {
       pubDatetime && (
         <meta
@@ -90,6 +92,16 @@ const breadcrumbStructuredData = getBreadcrumbStructuredData([
       is:inline
       set:html={serializeJsonLd(breadcrumbStructuredData)}
     />
+
+    {
+      faqStructuredData && (
+        <script
+          type="application/ld+json"
+          is:inline
+          set:html={serializeJsonLd(faqStructuredData)}
+        />
+      )
+    }
   </Fragment>
 
   <slot />

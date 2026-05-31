@@ -150,28 +150,32 @@ def main():
              "resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: "
              "não só o preço, mas **para onde ele tende a ir**.\n")
 
-    # FAQ expandido
-    b.append("\n## ❓ Perguntas frequentes\n")
+    # FAQ estruturado (vira FAQPage JSON-LD via frontmatter)
+    faqs = []
     if top_up:
-        b.append(f"**Qual foi a maior alta do EA FC hoje ({today})?**  \n"
-                 f"{top_up['player_name']} ({top_up['rating']}, {top_up.get('league') or 'sem liga'}), "
-                 f"com +{top_up['d24']}% em 24h, a {fq.fmt_coins(top_up['price'])} coins no {plat}.\n")
+        faqs.append((f"Qual foi a maior alta do EA FC hoje ({today})?",
+                     f"{top_up['player_name']} ({top_up['rating']}, {top_up.get('league') or 'sem liga'}), "
+                     f"com +{top_up['d24']}% em 24h, a {fq.fmt_coins(top_up['price'])} coins no {plat}."))
     if top_down:
-        b.append(f"**E a maior queda?**  \n{top_down['player_name']} ({top_down['rating']}), "
-                 f"{top_down['d24']}% em 24h, a {fq.fmt_coins(top_down['price'])} coins.\n")
+        faqs.append(("E a maior queda do dia?",
+                     f"{top_down['player_name']} ({top_down['rating']}), {top_down['d24']}% em 24h, "
+                     f"a {fq.fmt_coins(top_down['price'])} coins."))
     if rises:
         rb = rises[0]
-        b.append(f"**Qual carta tem mais chance de subir amanhã?**  \nPelo modelo FutQuant, "
-                 f"{rb['player_name']} ({rb['rating']}) — {int(float(rb['prob_alta']))}% de probabilidade de alta, "
-                 f"a {fq.fmt_coins(rb['price'])} coins.\n")
-    b.append(f"**O mercado do EA FC está em alta ou baixa hoje?**  \nHoje o mercado está em {sentiment.replace('**','')}, "
-             f"com {up_n} cartas em alta contra {down_n} em queda (média {avg}%).\n")
-    b.append(f"**Esses dados são confiáveis?**  \nSim — preços reais do mercado, atualizados várias vezes ao dia "
-             f"e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.\n")
+        faqs.append(("Qual carta tem mais chance de subir amanhã no EA FC?",
+                     f"Pelo modelo FutQuant, {rb['player_name']} ({rb['rating']}) — "
+                     f"{int(float(rb['prob_alta']))}% de probabilidade de alta, a {fq.fmt_coins(rb['price'])} coins."))
+    faqs.append(("O mercado do EA FC está em alta ou baixa hoje?",
+                 f"Hoje o mercado está em {sentiment.replace('**','')}, com {up_n} cartas em alta "
+                 f"contra {down_n} em queda (média {avg}%)."))
+    faqs.append(("Os dados de preço do FutQuant são confiáveis?",
+                 "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. "
+                 "As previsões são probabilísticas e servem de apoio, não garantia."))
+    b.append(fq.faq_block(faqs))
     b.append(fq.disclaimer(plat))
 
     tags = ["mercado", "precos", "previsoes", "altas-e-baixas", a.platform]
-    print(fq.write_post(a.out, slug, title, desc, tags, "\n".join(b), featured=True))
+    print(fq.write_post(a.out, slug, title, desc, tags, "\n".join(b), featured=True, faq=faqs))
 
 if __name__ == "__main__":
     main()

@@ -54,14 +54,19 @@ def main():
                 "- **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.\n"
                 "- Filtramos preços anômalos para você não cair em cotação irreal.\n")
     body.append(fq.methodology())
-    body.append("\n## Perguntas frequentes\n")
-    body.append(f"**Qual o melhor jogador barato do EA FC hoje ({today})?**  \n"
-                f"{top['player_name']} ({top['rating']}, {top.get('league') or 'sem liga'}) aparece como melhor "
-                f"custo-benefício, a {fq.fmt_coins(top['price'])} coins no {plat}.\n")
-    body.append(f"**Esses preços são reais?**  \nSim — vêm do mercado do EA FC, atualizados várias vezes ao dia "
-                f"e filtrados contra anomalias.\n")
+    faqs = []
+    faqs.append((f"Qual o melhor jogador barato do EA FC hoje ({today})?",
+                 f"{top['player_name']} ({top['rating']}, {top.get('league') or 'sem liga'}) aparece como melhor "
+                 f"custo-benefício, a {fq.fmt_coins(top['price'])} coins no {plat}."))
+    faqs.append(("Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?",
+                 "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para "
+                 "montar um time competitivo gastando pouco. A lista é atualizada todos os dias."))
+    faqs.append(("Esses preços são reais?",
+                 "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."))
+    body.append(fq.faq_block(faqs))
     body.append(fq.disclaimer(plat))
-    print(fq.write_post(a.out, slug, title, desc, ["baratos","custo-beneficio","budget",a.platform], "\n".join(body)))
+    print(fq.write_post(a.out, slug, title, desc, ["baratos","custo-beneficio","budget",a.platform],
+                        "\n".join(body), faq=faqs))
 
 if __name__ == "__main__":
     main()

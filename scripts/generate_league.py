@@ -65,16 +65,20 @@ def main():
                     f"(+{r0['d7']}% em 7 dias), sinal de procura crescente por cartas da {league}. "
                     f"Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.\n")
     body.append(fq.methodology())
-    body.append("\n## Perguntas frequentes\n")
-    body.append(f"**Qual o jogador mais caro da {league} no EA FC hoje?**  \n"
-                f"{top['player_name']} ({top['rating']}), a {fq.fmt_coins(top['price'])} coins no {plat} em {today}.\n")
+    faqs = []
+    faqs.append((f"Qual o jogador mais caro da {league} no EA FC hoje?",
+                 f"{top['player_name']} ({top['rating']}), a {fq.fmt_coins(top['price'])} coins no {plat} em {today}."))
     if len(risers) >= 1:
         r = risers[0]
-        body.append(f"**Quem mais valorizou na {league} esta semana?**  \n"
-                    f"{r['player_name']} ({r['rating']}), +{r['d7']}% em 7 dias, a {fq.fmt_coins(r['price'])} coins.\n")
+        faqs.append((f"Quem mais valorizou na {league} esta semana no EA FC?",
+                     f"{r['player_name']} ({r['rating']}), +{r['d7']}% em 7 dias, a {fq.fmt_coins(r['price'])} coins."))
+    faqs.append((f"Onde ver os preços das cartas da {league} no EA FC Ultimate Team?",
+                 f"O FutQuant acompanha os preços de todas as cartas da {league}, atualizados todos os dias, "
+                 f"com as mais valiosas e as que mais valorizam."))
+    body.append(fq.faq_block(faqs))
     body.append(fq.disclaimer(plat))
     tags = ["liga", slugify(league), "mercado", a.platform]
-    print(fq.write_post(a.out, slug, title, desc, tags, "\n".join(body)))
+    print(fq.write_post(a.out, slug, title, desc, tags, "\n".join(body), faq=faqs))
 
 if __name__ == "__main__":
     main()

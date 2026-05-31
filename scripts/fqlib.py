@@ -54,8 +54,21 @@ def md_table(rows, cols):
 def _esc(s):
     return str(s).replace('"', '\\"')
 
-def write_post(out_dir, slug, title, description, tags, body, featured=False):
-    """Escreve o .md com frontmatter compatível com o schema AstroPaper (pubDatetime sem aspas)."""
+def faq_block(pairs):
+    """Markdown do bloco de FAQ visível (mesma fonte do FAQPage schema)."""
+    out = ["\n## ❓ Perguntas frequentes\n"]
+    for q, a in pairs:
+        out.append(f"**{q}**  \n{a}\n")
+    return "\n".join(out)
+
+def write_post(out_dir, slug, title, description, tags, body, featured=False, faq=None):
+    """Escreve o .md com frontmatter compatível com o schema AstroPaper (pubDatetime sem aspas).
+    faq = lista de (pergunta, resposta) -> emitida no frontmatter p/ gerar FAQPage JSON-LD."""
+    faq_yaml = ""
+    if faq:
+        faq_yaml = "faq:\n" + "".join(
+            f'  - q: "{_esc(q)}"\n    a: "{_esc(a)}"\n' for q, a in faq
+        )
     fm = (
         "---\n"
         'author: "FutQuant"\n'
@@ -65,6 +78,7 @@ def write_post(out_dir, slug, title, description, tags, body, featured=False):
         f"featured: {'true' if featured else 'false'}\n"
         "tags:\n" + "".join(f"  - {t}\n" for t in tags) +
         f'description: "{_esc(description)}"\n'
+        + faq_yaml +
         "---\n\n"
     )
     os.makedirs(out_dir, exist_ok=True)
