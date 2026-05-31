@@ -50,8 +50,9 @@ def main():
         print("poucos investimentos hoje; pulando", file=sys.stderr); sys.exit(0)
     plat = fq.PLAT_LABEL[a.platform]; today = fq.today_br_str(); top = rows[0]
     slug = f"melhores-investimentos-ea-fc-{fq.date_slug()}-{a.platform}"
-    scope = f"na {fq.seg_label()}" if fq.seg_label() else "no EA FC"
-    title = f"Melhores investimentos {scope} hoje ({today}): análise e previsões — {plat}"
+    seg = fq.seg_label()
+    title = (f"Melhores investimentos em {seg} no EA FC ({today}): análise e previsões — {plat}" if seg
+             else f"Melhores investimentos no EA FC hoje ({today}): análise e previsões — {plat}")
     desc = (f"As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em {today} ({plat}), "
             f"cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite.")
     cols = [("player_name","Jogador"),("rating","OVR"),("league","Liga"),("price","Preço"),

@@ -91,8 +91,9 @@ def main():
     up_n, down_n, avg = int(sent.get("up",0)), int(sent.get("down",0)), float(sent.get("avg",0))
     sentiment = fq.market_sentiment(up_n, down_n, avg)
     slug = f"mercado-ea-fc-{fq.date_slug()}-{a.platform}"
-    scope = f"da {fq.seg_label()}" if fq.seg_label() else "do EA FC"
-    title = f"Mercado {scope} hoje ({today}): análise de altas, baixas e previsões — {plat}"
+    seg = fq.seg_label()
+    title = (f"{seg} no EA FC hoje ({today}): mercado, altas, baixas e previsões — {plat}" if seg
+             else f"Mercado do EA FC hoje ({today}): análise de altas, baixas e previsões — {plat}")
     desc = (f"Análise completa do mercado do EA FC Ultimate Team em {today} ({plat}): sentimento do dia, "
             f"maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados.")
     top_up = ups[0] if ups else None

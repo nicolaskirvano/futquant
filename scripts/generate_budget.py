@@ -25,8 +25,9 @@ def main():
     plat = fq.PLAT_LABEL[a.platform]; today = fq.today_br_str()
     top = rows[0]
     slug = f"jogadores-baratos-ea-fc-{fq.date_slug()}-{a.platform}"
-    scope = f"da {fq.seg_label()}" if fq.seg_label() else "no EA FC"
-    title = f"Jogadores baratos e bons {scope} ({today}) — joias 83+ por menos de 15k — {plat}"
+    seg = fq.seg_label()
+    title = (f"Jogadores baratos de {seg} no EA FC ({today}) — joias por menos de 15k — {plat}" if seg
+             else f"Jogadores baratos e bons no EA FC ({today}) — joias 83+ por menos de 15k — {plat}")
     desc = (f"As melhores cartas custo-benefício do EA FC Ultimate Team em {today} ({plat}): "
             f"jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco.")
     cols = [("player_name","Jogador"),("rating","OVR"),("position","Pos"),("league","Liga"),("price","Preço"),("d7","7d")]
