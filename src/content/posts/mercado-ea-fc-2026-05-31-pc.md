@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T14:14:00.000Z
+pubDatetime: 2026-05-31T17:00:02.000Z
 title: "Mercado do EA FC hoje (31/05/2026): análise de altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 26k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 606 cartas em alta contra 1007 em queda (média 0.95%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 600 cartas em alta contra 1002 em queda (média 1.5%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **606 subiram** e **1007 caíram**, com variação média de **0.95%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **600 subiram** e **1002 caíram**, com variação média de **1.5%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Giovane (89) **+59.6%** · 🔴 **Maior baixa:** Marek Hamšík (89) **-48.8%**
 
@@ -115,7 +115,7 @@ Marek Hamšík (89), -48.8% em 24h, a 32k coins.
 Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 26k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 606 cartas em alta contra 1007 em queda (média 0.95%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 600 cartas em alta contra 1002 em queda (média 1.5%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

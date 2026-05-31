@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T14:14:01.000Z
+pubDatetime: 2026-05-31T17:00:03.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 9k coins | +57.1% |
+| Rodri | 90 | CDM | Premier League | 9k coins | +50% |
 | Erling Haaland | 90 | ST | Premier League | 9k coins | -12.6% |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | -1% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +4.2% |
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -2.4% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 15k coins | -3.3% |
+| Mariona | 89 | CM | Barclays WSL | 6k coins | -16.2% |
+| Mapi León | 89 | CB | Liga F | 6k coins | -4.6% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -8.7% |
 | Alessia Russo | 89 | ST | Barclays WSL | 6k coins | -3.1% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +4.9% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +6.6% |
 | Khadija Shaw | 89 | ST | Barclays WSL | 6k coins | -1.5% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 6k coins | +20.4% |
-| Harry Kane | 89 | ST | Bundesliga | 7k coins | 0% |
+| Patri Guijarro | 89 | CDM | Liga F | 7k coins | 0% |
 | Florian Wirtz | 89 | CAM | Premier League | 7k coins | +10% |
-| Mapi León | 89 | CB | Liga F | 7k coins | 0% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 7k coins | -5.6% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | -1.5% |
-| Alisson | 89 | GK | Premier League | 7k coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 7k coins | +1.5% |
 
 
 ## 📈 Destaques
