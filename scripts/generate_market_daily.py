@@ -1,157 +1,177 @@
 #!/usr/bin/env python3
+"""FutQuant — post 'Mercado do Dia' em formato de ANÁLISE PROFUNDA:
+sentimento macro + altas/baixas + previsões do modelo + níveis técnicos + metodologia + FAQ.
+Dados: ClickHouse nf_market_filter_universe (preço/técnico) + price_predictions (previsão).
 """
-FutQuant — gerador do post diário "Mercado do Dia".
-Consulta o ClickHouse (nf_market_filter_universe) com curadoria de qualidade
-(is_anomaly=0 + faixas realistas) e gera um post markdown SEO/GEO.
+import argparse, os, sys
+import fqlib as fq
 
-Uso:
-  python3 generate_market_daily.py [--platform ps|pc] [--out DIR] [--ch-ssh user@host]
-O acesso ao ClickHouse é via `ssh <host> docker exec <container> clickhouse-client`.
-"""
-import argparse, json, subprocess, datetime, os, sys, unicodedata, re
-
-CH_CONTAINER = "clickhouse-uwb8-clickhouse-1"
-U = "nfmarket.nf_market_filter_universe"
-
-def ch_query(sql, ssh_host):
-    """Roda uma query no ClickHouse (via stdin, sem escaping) e devolve lista de dicts.
-    ssh_host='local' => roda `docker exec` direto (quando o script roda no host do ClickHouse)."""
-    if ssh_host == "local":
-        cmd = ["docker", "exec", "-i", CH_CONTAINER, "clickhouse-client", "--format", "JSONEachRow"]
-    else:
-        remote = f"docker exec -i {CH_CONTAINER} clickhouse-client --format JSONEachRow"
-        cmd = ["ssh", "-o", "BatchMode=yes", "-o", "ConnectTimeout=20", ssh_host, remote]
-    out = subprocess.run(cmd, input=sql, capture_output=True, text=True, timeout=60)
-    if out.returncode != 0:
-        raise RuntimeError(f"ClickHouse query falhou: {out.stderr[:300]}")
-    rows = [json.loads(l) for l in out.stdout.splitlines() if l.strip()]
-    return rows
+P = "nfmarket.price_predictions"
 
 def q_movers(platform, direction):
-    op = "BETWEEN 3 AND 60" if direction == "up" else "BETWEEN -50 AND -3"
+    cond = "BETWEEN 3 AND 60" if direction == "up" else "BETWEEN -50 AND -3"
     order = "DESC" if direction == "up" else "ASC"
     return f"""
-      SELECT player_name, rating, league, position, toInt64(current_price) AS price,
-             round(change_pct_24h,1) AS d24
-      FROM {U}
-      WHERE platform='{platform}' AND is_anomaly=0 AND rating>=80
-        AND current_price>=20000 AND change_pct_24h {op}
-      ORDER BY change_pct_24h {order} LIMIT 10"""
+      SELECT u.player_name AS player_name, u.rating AS rating, u.league AS league, u.position AS position,
+             toInt64(u.current_price) AS price, round(u.change_pct_24h,1) AS d24, round(u.change_pct_7d,1) AS d7,
+             toInt64(u.min_24h) AS min24, toInt64(u.max_24h) AS max24,
+             u.support_level AS sup, u.resistance_level AS res, toInt64(u.sma_7d) AS sma7,
+             round(p.predicted_change_pct_24h,1) AS prev24, round(p.prob_rise_5pct*100,0) AS prob_alta,
+             p.signal AS signal
+      FROM {fq.U} u LEFT JOIN {P} p ON u.resource_id=p.resource_id AND u.platform=p.platform
+      WHERE u.platform='{platform}' AND u.{fq.QUALITY} AND u.rating>=80
+        AND u.current_price>=20000 AND u.change_pct_24h {cond}
+      ORDER BY u.change_pct_24h {order} LIMIT 10"""
 
-def q_invest(platform):
+def q_forecast(platform, sig):
+    order = "p.prob_rise_5pct DESC" if sig == "rise" else "p.prob_rise_5pct ASC"
     return f"""
-      SELECT player_name, rating, league, toInt64(current_price) AS price,
-             round(change_pct_24h,1) AS d24, round(change_pct_7d,1) AS d7
-      FROM {U}
-      WHERE platform='{platform}' AND is_anomaly=0 AND rating>=84
-        AND current_price BETWEEN 20000 AND 150000
-        AND change_pct_24h BETWEEN 1 AND 40 AND change_pct_7d BETWEEN 3 AND 80
-      ORDER BY change_pct_7d DESC LIMIT 8"""
+      SELECT u.player_name AS player_name, u.rating AS rating, u.league AS league,
+             toInt64(u.current_price) AS price, round(p.predicted_change_pct_24h,1) AS prev24,
+             toInt64(u.current_price * (1 + p.predicted_change_pct_24h/100)) AS preco_prev,
+             round(p.prob_rise_5pct*100,0) AS prob_alta, p.signal AS signal
+      FROM {fq.U} u INNER JOIN {P} p ON u.resource_id=p.resource_id AND u.platform=p.platform
+      WHERE u.platform='{platform}' AND u.{fq.QUALITY} AND u.rating>=83
+        AND u.current_price BETWEEN 15000 AND 400000 AND p.signal='{sig}' AND p.confidence>=0.8
+        AND abs(p.predicted_change_pct_24h) BETWEEN 2 AND 35
+      ORDER BY {order} LIMIT 8"""
 
-def fmt_coins(n):
-    n = int(n)
-    if n >= 1_000_000: return f"{n/1_000_000:.2f}M".replace(".00", "")
-    if n >= 1_000: return f"{n/1_000:.0f}k"
-    return str(n)
+def q_sentiment(platform):
+    return f"""
+      SELECT countIf(change_pct_24h>0) AS up, countIf(change_pct_24h<0) AS down,
+             countIf(change_pct_24h=0) AS flat, round(avg(change_pct_24h),2) AS avg
+      FROM {fq.U} WHERE platform='{platform}' AND {fq.QUALITY} AND rating>=80 AND current_price>=5000"""
 
-def table(rows, cols):
-    head = "| " + " | ".join(c[1] for c in cols) + " |\n"
-    sep  = "| " + " | ".join("---" for _ in cols) + " |\n"
-    body = ""
-    for r in rows:
-        cells = []
-        for key, _ in cols:
-            v = r.get(key, "")
-            if key == "price": v = fmt_coins(v) + " coins"
-            elif key in ("d24", "d7"): v = f"+{v}%" if float(v) > 0 else f"{v}%"
-            elif key == "league" and not v: v = "—"
-            cells.append(str(v))
-        body += "| " + " | ".join(cells) + " |\n"
-    return head + sep + body
+def analyse(card, kind):
+    """Mini-análise textual de uma carta (com níveis técnicos + previsão)."""
+    name, r = card["player_name"], card["rating"]
+    price = fq.fmt_coins(card["price"])
+    rng = f"{fq.fmt_coins(card['min24'])}–{fq.fmt_coins(card['max24'])}"
+    verb = "subiu" if kind == "up" else "caiu"
+    pct = card["d24"]
+    line = (f"**{name} ({r})** {verb} **{'+' if float(pct)>0 else ''}{pct}%** em 24h, a **{price} coins** "
+            f"(faixa do dia: {rng}).")
+    sma = fq.trend_vs_sma(card["price"], card["sma7"])
+    if sma: line += f" Está {sma}."
+    sig = card.get("signal")
+    try:
+        prob = int(float(card.get("prob_alta")))
+    except (TypeError, ValueError):
+        prob = None
+    if sig == "rise":
+        if kind == "up":
+            line += f" 🔮 O modelo projeta **continuidade da alta**" + (f" ({prob}% de chance de subir mais)." if prob else ".")
+        else:
+            line += f" 🔮 O modelo projeta **recuperação** (reversão para alta)" + (f", com {prob}% de probabilidade." if prob else ".")
+    elif sig == "fall":
+        if kind == "up":
+            line += " ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo."
+        else:
+            line += " ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo."
+    else:
+        line += " O modelo vê **estabilização** no curto prazo."
+    return line
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--platform", default="ps", choices=["ps", "pc"])
-    ap.add_argument("--ch-ssh", default="root@2.24.126.42")
+    ap.add_argument("--ch-ssh", default="local")
     ap.add_argument("--out", default=os.path.join(os.path.dirname(__file__), "..", "src", "content", "posts"))
-    args = ap.parse_args()
+    a = ap.parse_args()
+    plat = fq.PLAT_LABEL[a.platform]; today = fq.today_br_str()
 
-    plat_label = "Console (PS)" if args.platform == "ps" else "PC"
-    ups = ch_query(q_movers(args.platform, "up"), args.ch_ssh)
-    downs = ch_query(q_movers(args.platform, "down"), args.ch_ssh)
-    invest = ch_query(q_invest(args.platform), args.ch_ssh)
+    ups = fq.ch_query(q_movers(a.platform, "up"), a.ch_ssh)
+    downs = fq.ch_query(q_movers(a.platform, "down"), a.ch_ssh)
+    rises = fq.ch_query(q_forecast(a.platform, "rise"), a.ch_ssh)
+    falls = fq.ch_query(q_forecast(a.platform, "fall"), a.ch_ssh)
+    sent = (fq.ch_query(q_sentiment(a.platform), a.ch_ssh) or [{}])[0]
     if not ups and not downs:
-        print("Sem dados de mercado suficientes; abortando.", file=sys.stderr)
-        sys.exit(2)
+        print("sem dados de mercado; abortando", file=sys.stderr); sys.exit(0)
 
-    now = datetime.datetime.now(datetime.timezone.utc)
-    today_br = (now - datetime.timedelta(hours=3)).strftime("%d/%m/%Y")
-    slug = f"mercado-ea-fc-{(now - datetime.timedelta(hours=3)).strftime('%Y-%m-%d')}-{args.platform}"
+    up_n, down_n, avg = int(sent.get("up",0)), int(sent.get("down",0)), float(sent.get("avg",0))
+    sentiment = fq.market_sentiment(up_n, down_n, avg)
+    slug = f"mercado-ea-fc-{fq.date_slug()}-{a.platform}"
+    title = f"Mercado do EA FC hoje ({today}): análise de altas, baixas e previsões — {plat}"
+    desc = (f"Análise completa do mercado do EA FC Ultimate Team em {today} ({plat}): sentimento do dia, "
+            f"maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados.")
     top_up = ups[0] if ups else None
     top_down = downs[0] if downs else None
 
-    cols_mv = [("player_name","Jogador"),("rating","OVR"),("league","Liga"),("price","Preço"),("d24","24h")]
-    cols_iv = [("player_name","Jogador"),("rating","OVR"),("league","Liga"),("price","Preço"),("d24","24h"),("d7","7d")]
+    mv_cols = [("player_name","Jogador"),("rating","OVR"),("league","Liga"),("price","Preço"),
+               ("d24","24h"),("d7","7d")]
+    fc_cols = [("player_name","Jogador"),("rating","OVR"),("price","Preço atual"),
+               ("preco_prev","Preço previsto 24h"),("prob_alta","Prob. alta")]
 
-    title = f"Mercado do EA FC hoje ({today_br}): maiores altas e baixas — {plat_label}"
-    desc = (f"As maiores altas e baixas de preço do EA FC Ultimate Team em {today_br} "
-            f"no {plat_label}: quem subiu, quem caiu e os melhores investimentos do dia, com dados reais.")
-    tags = ["mercado", "precos", "altas-e-baixas", args.platform]
-    # pubDatetime SEM aspas (schema usa z.date()); strings com aspas; tags como lista YAML
-    def esc(s): return s.replace('"', '\\"')
-    fm_yaml = (
-        "---\n"
-        f"author: \"FutQuant\"\n"
-        f"pubDatetime: {now.strftime('%Y-%m-%dT%H:%M:%S.000Z')}\n"
-        f"title: \"{esc(title)}\"\n"
-        f"draft: false\n"
-        f"featured: false\n"
-        "tags:\n" + "".join(f"  - {t}\n" for t in tags) +
-        f"description: \"{esc(desc)}\"\n"
-        "---\n\n"
-    )
+    b = []
+    # Resumo macro
+    b.append("## 📊 Resumo do mercado hoje\n")
+    b.append(f"Em **{today}**, o mercado do **EA FC Ultimate Team** no **{plat}** está em {sentiment}: "
+             f"das cartas relevantes (80+ acima de 5k coins), **{up_n} subiram** e **{down_n} caíram**, "
+             f"com variação média de **{avg}%** nas últimas 24 horas. "
+             f"{'Bom momento para vender quem valorizou e ficar de olho em correções para comprar.' if avg<0 else 'Mercado comprador — cuidado para não pagar topo em cartas já esticadas.'}\n")
+    if top_up and top_down:
+        b.append(f"> 🟢 **Maior alta:** {top_up['player_name']} ({top_up['rating']}) **+{top_up['d24']}%** · "
+                 f"🔴 **Maior baixa:** {top_down['player_name']} ({top_down['rating']}) **{top_down['d24']}%**\n")
 
-    body = []
-    body.append(f"O mercado do **EA FC Ultimate Team** não para — e o **FutQuant** lê os preços de mais de "
-                f"18 mil cartas para mostrar, todos os dias, o que de fato se mexeu. Abaixo, o resumo de "
-                f"**{today_br}** no **{plat_label}**, com dados curados (sem anomalias de preço).\n")
+    # Altas
+    b.append("## 🟢 Maiores altas (24h)\n")
+    b.append(fq.md_table(ups, mv_cols) if ups else "_Sem altas relevantes hoje._\n")
+    if ups:
+        b.append("\n### Análise das altas\n")
+        for c in ups[:3]:
+            b.append("- " + analyse(c, "up") + "\n")
+
+    # Baixas
+    b.append("\n## 🔴 Maiores baixas (24h)\n")
+    b.append(fq.md_table(downs, mv_cols) if downs else "_Sem baixas relevantes hoje._\n")
+    if downs:
+        b.append("\n### Análise das baixas\n")
+        for c in downs[:3]:
+            b.append("- " + analyse(c, "down") + "\n")
+
+    # Previsões do modelo
+    if rises:
+        b.append("\n## 🔮 O que o modelo prevê para as próximas 24h\n")
+        b.append("As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** "
+                 "(sinal de alta, confiança alta):\n")
+        b.append(fq.md_table(rises, fc_cols))
+    if falls:
+        b.append("\n## ⚠️ Cuidado: o modelo projeta queda\n")
+        b.append("Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:\n")
+        b.append(fq.md_table(falls, [("player_name","Jogador"),("rating","OVR"),("price","Preço atual"),
+                                     ("prev24","Variação prevista")]))
+
+    # Metodologia (E-E-A-T)
+    b.append("\n## 📐 Como o FutQuant lê o mercado\n")
+    b.append("Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do "
+             "mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** "
+             "(cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no "
+             "histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e "
+             "resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: "
+             "não só o preço, mas **para onde ele tende a ir**.\n")
+
+    # FAQ expandido
+    b.append("\n## ❓ Perguntas frequentes\n")
     if top_up:
-        body.append(f"> **Destaque de alta:** {top_up['player_name']} ({top_up['rating']}) subiu "
-                    f"**+{top_up['d24']}%** nas últimas 24h, a {fmt_coins(top_up['price'])} coins.")
+        b.append(f"**Qual foi a maior alta do EA FC hoje ({today})?**  \n"
+                 f"{top_up['player_name']} ({top_up['rating']}, {top_up.get('league') or 'sem liga'}), "
+                 f"com +{top_up['d24']}% em 24h, a {fq.fmt_coins(top_up['price'])} coins no {plat}.\n")
     if top_down:
-        body.append(f"> **Destaque de baixa:** {top_down['player_name']} ({top_down['rating']}) caiu "
-                    f"**{top_down['d24']}%**, a {fmt_coins(top_down['price'])} coins.\n")
+        b.append(f"**E a maior queda?**  \n{top_down['player_name']} ({top_down['rating']}), "
+                 f"{top_down['d24']}% em 24h, a {fq.fmt_coins(top_down['price'])} coins.\n")
+    if rises:
+        rb = rises[0]
+        b.append(f"**Qual carta tem mais chance de subir amanhã?**  \nPelo modelo FutQuant, "
+                 f"{rb['player_name']} ({rb['rating']}) — {int(float(rb['prob_alta']))}% de probabilidade de alta, "
+                 f"a {fq.fmt_coins(rb['price'])} coins.\n")
+    b.append(f"**O mercado do EA FC está em alta ou baixa hoje?**  \nHoje o mercado está em {sentiment.replace('**','')}, "
+             f"com {up_n} cartas em alta contra {down_n} em queda (média {avg}%).\n")
+    b.append(f"**Esses dados são confiáveis?**  \nSim — preços reais do mercado, atualizados várias vezes ao dia "
+             f"e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.\n")
+    b.append(fq.disclaimer(plat))
 
-    body.append("## 🟢 Maiores altas (24h)\n")
-    body.append(table(ups, cols_mv) if ups else "_Sem altas relevantes hoje._\n")
-    body.append("\n## 🔴 Maiores baixas (24h)\n")
-    body.append(table(downs, cols_mv) if downs else "_Sem baixas relevantes hoje._\n")
-    if invest:
-        body.append("\n## 💎 Investimentos do dia (84+, em tendência de alta)\n")
-        body.append("Cartas com tendência consistente de alta em 24h **e** 7 dias — candidatas a valorização:\n")
-        body.append(table(invest, cols_iv))
-
-    # Bloco GEO: FAQ estruturado (LLMs citam isto)
-    body.append("\n## Perguntas frequentes\n")
-    if top_up:
-        body.append(f"**Qual foi a maior alta do EA FC hoje ({today_br})?**  \n"
-                    f"{top_up['player_name']} ({top_up['rating']}, {top_up.get('league') or 'sem liga'}), "
-                    f"com +{top_up['d24']}% em 24h, cotado a {fmt_coins(top_up['price'])} coins no {plat_label}.\n")
-    if top_down:
-        body.append(f"**E a maior queda?**  \n"
-                    f"{top_down['player_name']} ({top_down['rating']}), {top_down['d24']}% em 24h, "
-                    f"a {fmt_coins(top_down['price'])} coins.\n")
-    body.append(f"**De onde vêm esses dados?**  \n"
-                f"De centenas de milhões de pontos de preço coletados de múltiplas fontes do mercado do "
-                f"EA FC Ultimate Team, filtrados para remover anomalias. Atualizado diariamente pelo FutQuant.\n")
-    body.append(f"\n---\n\n*Preços de {plat_label}, referência de {today_br}. "
-                f"Variações de mercado podem mudar a qualquer momento — invista com responsabilidade.*\n")
-
-    os.makedirs(args.out, exist_ok=True)
-    path = os.path.join(args.out, slug + ".md")
-    with open(path, "w") as f:
-        f.write(fm_yaml + "\n".join(body))
-    print(path)
+    tags = ["mercado", "precos", "previsoes", "altas-e-baixas", a.platform]
+    print(fq.write_post(a.out, slug, title, desc, tags, "\n".join(b), featured=True))
 
 if __name__ == "__main__":
     main()

@@ -37,9 +37,10 @@ def fmt_coins(n):
 
 def _cell(r, key):
     v = r.get(key, "")
-    if key in ("price", "preco"): return fmt_coins(v) + " coins"
-    if key in ("d24", "d7", "pct", "pct7d", "pct24h"):
+    if key in ("price", "preco", "preco_prev"): return fmt_coins(v) + " coins"
+    if key in ("d24", "d7", "pct", "pct7d", "pct24h", "prev24"):
         return f"+{v}%" if float(v) > 0 else f"{v}%"
+    if key == "prob_alta": return f"{int(float(v))}%"
     if key == "league" and not v: return "—"
     return str(v)
 
@@ -78,3 +79,36 @@ def disclaimer(plat_label):
 
 # filtros de qualidade reutilizáveis (sem anomalias)
 QUALITY = "is_anomaly=0"
+
+def signal_label(signal, prob_alta):
+    """Rótulo legível da previsão do modelo."""
+    try:
+        prob = int(float(prob_alta))
+    except (TypeError, ValueError):
+        prob = None
+    if signal == "rise":
+        return f"📈 Alta provável" + (f" ({prob}%)" if prob is not None else "")
+    if signal == "fall":
+        return f"📉 Queda provável" + (f" ({100-prob}%)" if prob is not None else "")
+    return "➡️ Estável"
+
+def trend_vs_sma(price, sma7):
+    """Posição do preço atual frente à média de 7 dias (sinal de tendência)."""
+    try:
+        price, sma7 = float(price), float(sma7)
+        if sma7 <= 0: return None
+        diff = (price - sma7) / sma7 * 100
+        if diff >= 8: return f"{diff:+.0f}% acima da média de 7 dias (aquecida)"
+        if diff <= -8: return f"{diff:+.0f}% abaixo da média de 7 dias (descontada)"
+        return f"em linha com a média de 7 dias ({diff:+.0f}%)"
+    except (TypeError, ValueError, ZeroDivisionError):
+        return None
+
+def market_sentiment(up, down, avg):
+    """Frase de sentimento macro do mercado."""
+    total = up + down
+    if total == 0: return "mercado parado"
+    pct_up = up / total * 100
+    if avg >= 1.5 or pct_up >= 60: return "mercado **em alta** — predominam as valorizações"
+    if avg <= -1.5 or pct_up <= 40: return "mercado **em baixa** — predominam as quedas"
+    return "mercado **lateral** — sem direção clara"
