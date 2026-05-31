@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T12:00:03.000Z
+pubDatetime: 2026-05-31T13:36:16.000Z
 title: "Mercado da LALIGA EA SPORTS no EA FC (31/05/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -14,22 +14,22 @@ description: "Panorama de preços da LALIGA EA SPORTS no EA FC Ultimate Team em 
 
 A **LALIGA EA SPORTS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **31/05/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da LALIGA EA SPORTS:** Kylian Mbappé (96), a 5.07M coins.
+> 👑 **Carta mais valiosa da LALIGA EA SPORTS:** Lamine Yamal (92), a 7.77M coins.
 
 ## 👑 Mais valiosos da LALIGA EA SPORTS
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Kylian Mbappé | 96 | ST | 5.07M coins | -7.8% |
+| Lamine Yamal | 92 | RW | 7.77M coins | +143.6% |
+| Kylian Mbappé | 96 | ST | 5.20M coins | -1.9% |
 | Kylian Mbappé | 91 | ST | 4.38M coins | 0% |
 | Kylian Mbappé | 92 | ST | 3.25M coins | 0% |
-| Kylian Mbappé | 92 | ST | 2.40M coins | +1% |
-| Kylian Mbappé | 92 | ST | 2.06M coins | -10% |
-| Pedri | 92 | CM | 1.65M coins | -2.6% |
-| Raphinha | 95 | LM | 1.35M coins | -18.1% |
-| Jude Bellingham | 93 | CAM | 1.16M coins | -3.4% |
-| Iñaki Williams | 87 | RM | 1.14M coins | -12% |
-| Rafael Márquez | 93 | CB | 1.13M coins | -12.8% |
+| Kylian Mbappé | 92 | ST | 2.34M coins | +6.4% |
+| Federico Valverde | 91 | CM | 2.20M coins | +26.6% |
+| Kylian Mbappé | 92 | ST | 2.09M coins | -8.6% |
+| Pedri | 92 | CM | 1.68M coins | -0.9% |
+| Raphinha | 95 | LM | 1.55M coins | -6.1% |
+| Iñaki Williams | 87 | RM | 1.20M coins | -7.7% |
 
 
 ## 📈 Em alta na LALIGA EA SPORTS (7 dias)
@@ -38,25 +38,25 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Míchel Salgado | 89 | RB | 47k coins | +88% |
-| Vini Jr. | 90 | ST | 1.10M coins | +86.4% |
-| Julián Alvarez | 89 | ST | 390k coins | +82.2% |
-| Julián Alvarez | 88 | ST | 218k coins | +74.4% |
-| Robert Lewandowski | 88 | ST | 3k coins | +61.1% |
-| Federico Valverde | 91 | RM | 685k coins | +60.8% |
-| Marcus Rashford | 90 | LM | 950k coins | +49.4% |
-| Iván Zamorano | 91 | ST | 66k coins | +46.7% |
-| Dávid Hancko | 89 | CB | 42k coins | +43.1% |
-| Paulo Futre | 88 | LW | 34k coins | +39.6% |
+| Julián Alvarez | 89 | ST | 409k coins | +81.8% |
+| Julián Alvarez | 88 | ST | 223k coins | +78.4% |
+| Lamine Yamal | 92 | RW | 7.77M coins | +70.8% |
+| Federico Valverde | 91 | RM | 735k coins | +67.4% |
+| Iván Zamorano | 91 | ST | 74k coins | +65.6% |
+| Vini Jr. | 90 | ST | 958k coins | +61% |
+| Marcus Rashford | 90 | LM | 950k coins | +56% |
+| Míchel Salgado | 89 | RB | 38k coins | +54% |
+| Roony Bardghji | 90 | RM | 29k coins | +46.2% |
+| Capdevila | 86 | LB | 19k coins | +35.7% |
 
 
 ## Perguntas frequentes
 
 **Qual o jogador mais caro da LALIGA EA SPORTS no EA FC hoje?**  
-Kylian Mbappé (96), a 5.07M coins no Console (PS) em 31/05/2026.
+Lamine Yamal (92), a 7.77M coins no Console (PS) em 31/05/2026.
 
 **Quem mais valorizou na LALIGA EA SPORTS esta semana?**  
-Míchel Salgado (89), +88% em 7 dias, a 47k coins.
+Julián Alvarez (89), +81.8% em 7 dias, a 409k coins.
 
 
 ---

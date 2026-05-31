@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T12:00:02.000Z
+pubDatetime: 2026-05-31T13:36:16.000Z
 title: "Melhores investimentos no EA FC hoje (31/05/2026) — PC"
 draft: false
 featured: false
@@ -28,10 +28,10 @@ Subindo em **24h e 7 dias** — o sinal mais confiável de momentum de mercado:
 | Marcelo | 90 | — | 38k coins | +15.9% | +70% |
 | Sol Campbell | 88 | — | 59k coins | +7.3% | +66.2% |
 | Anthony Nwakaeme | 87 | Trendyol Süper Lig | 119k coins | +36.8% | +65.3% |
-| Daniele De Rossi | 87 | Serie A TIM | 35k coins | +32.1% | +59.1% |
 | Joan García | 94 | — | 62k coins | +31.9% | +58% |
 | Ayase Ueda | 92 | — | 36k coins | +1.4% | +57% |
 | Jakub Kiwior | 94 | — | 36k coins | +2.9% | +56.5% |
+| Esteban Cambiasso | 86 | Serie A TIM | 18k coins | +29.1% | +54.4% |
 | Fredrik Aursnes | 92 | — | 22k coins | +10.3% | +53.6% |
 | Thomas Müller | 86 | MLS | 190k coins | +12.4% | +53.2% |
 | Filip Kostić | 88 | Serie A TIM | 32k coins | +12.1% | +52.9% |
