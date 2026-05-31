@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:00:03.000Z
+pubDatetime: 2026-05-31T21:27:08.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 9k coins | +50% |
-| Erling Haaland | 90 | ST | Premier League | 10k coins | -11.6% |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +4.2% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -2.3% |
+| Rodri | 90 | CDM | Premier League | 9k coins | +32.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
+| Erling Haaland | 90 | ST | Premier League | 11k coins | +7.5% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | 0% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 13k coins | -14.5% |
 | Ingrid Syrstad Engen | 90 | CB | — | 14k coins | -24.7% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 15k coins | -3.3% |
 | Frida Maanum | 90 | CAM | — | 15k coins | -3.3% |
 | Enzo Francescoli | 90 | CAM | — | 15k coins | -13% |
-| Mariona | 89 | CM | Barclays WSL | 6k coins | -16.2% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 6k coins | -8.7% |
-| Mapi León | 89 | CB | Liga F | 6k coins | -4.6% |
-| Florian Wirtz | 89 | CAM | Premier League | 6k coins | +6.7% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6k coins | -3% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 6k coins | -1.5% |
+| Raphinha | 89 | LM | LALIGA EA SPORTS | 6k coins | -13% |
+| Florian Wirtz | 89 | CAM | Premier League | 6k coins | -10.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 7k coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +8.2% |
+| Alessia Russo | 89 | ST | Barclays WSL | 7k coins | +6.4% |
+| Alisson | 89 | GK | Premier League | 7k coins | -1.4% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
+- **Erling Haaland (90, ST)** da Premier League, a apenas **11k coins**
+
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins**
 
 - **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

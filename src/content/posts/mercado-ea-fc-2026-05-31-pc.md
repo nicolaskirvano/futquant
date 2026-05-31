@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:00:02.000Z
+pubDatetime: 2026-05-31T21:27:07.000Z
 title: "Mercado do EA FC hoje (31/05/2026): análise de altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 771 cartas em alta contra 889 em queda (média 3.19%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 776 cartas em alta contra 877 em queda (média 2.15%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **771 subiram** e **889 caíram**, com variação média de **3.19%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **776 subiram** e **877 caíram**, com variação média de **2.15%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Alyssa Thompson (91) **+59.3%** · 🔴 **Maior baixa:** Marwane Saadane (83) **-48%**
 
@@ -40,10 +40,10 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Dennis Bergkamp | 93 | Icons | 406k coins | +56.2% | +35.3% |
 | Aaron Drinan | 95 | — | 46k coins | +55.9% | +27.8% |
 | Juan Mata | 88 | A-League | 72k coins | +54.6% | -27.8% |
+| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +54.2% | -8.6% |
 | Jack McGlynn | 87 | MLS | 20k coins | +53.8% | +29% |
 | Nuno Tavares | 91 | Serie A TIM | 65k coins | +53.8% | +63.5% |
 | Estefanía Banini | 89 | Liga F | 26k coins | +52.9% | +30% |
-| Juan David Cabal | 85 | Serie A TIM | 28k coins | +52.7% | -8.9% |
 
 
 ### Análise das altas
@@ -68,7 +68,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Melchie Dumornay | 87 | D1 Arkema | 167k coins | -43.4% | -54.9% |
 | Athenea | 86 | Liga F | 34k coins | -43.3% | -15% |
 | Arthur Atta | 85 | Serie A TIM | 45k coins | -43.1% | -65.2% |
-| Kim Little | 87 | Barclays WSL | 28k coins | -41.8% | -7.6% |
+| Giorgio Chiellini | 88 | Icons | 111k coins | -42.5% | -3.5% |
 
 
 ### Análise das baixas
@@ -117,11 +117,13 @@ Marwane Saadane (83), -48% em 24h, a 20k coins.
 Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 771 cartas em alta contra 889 em queda (média 3.19%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 776 cartas em alta contra 877 em queda (média 2.15%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
