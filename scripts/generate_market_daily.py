@@ -14,9 +14,13 @@ CH_CONTAINER = "clickhouse-uwb8-clickhouse-1"
 U = "nfmarket.nf_market_filter_universe"
 
 def ch_query(sql, ssh_host):
-    """Roda uma query no ClickHouse (via stdin, sem problemas de escaping) e devolve lista de dicts."""
-    remote = f"docker exec -i {CH_CONTAINER} clickhouse-client --format JSONEachRow"
-    cmd = ["ssh", "-o", "BatchMode=yes", "-o", "ConnectTimeout=20", ssh_host, remote]
+    """Roda uma query no ClickHouse (via stdin, sem escaping) e devolve lista de dicts.
+    ssh_host='local' => roda `docker exec` direto (quando o script roda no host do ClickHouse)."""
+    if ssh_host == "local":
+        cmd = ["docker", "exec", "-i", CH_CONTAINER, "clickhouse-client", "--format", "JSONEachRow"]
+    else:
+        remote = f"docker exec -i {CH_CONTAINER} clickhouse-client --format JSONEachRow"
+        cmd = ["ssh", "-o", "BatchMode=yes", "-o", "ConnectTimeout=20", ssh_host, remote]
     out = subprocess.run(cmd, input=sql, capture_output=True, text=True, timeout=60)
     if out.returncode != 0:
         raise RuntimeError(f"ClickHouse query falhou: {out.stderr[:300]}")
