@@ -104,6 +104,15 @@ def trend_vs_sma(price, sma7):
     except (TypeError, ValueError, ZeroDivisionError):
         return None
 
+def methodology():
+    """Bloco de metodologia (E-E-A-T) reutilizável entre os posts."""
+    return ("\n## 📐 Como o FutQuant gera estes dados\n"
+            "Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, "
+            "coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos "
+            "**anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, "
+            "**médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado "
+            "tratado — não número solto.\n")
+
 def market_sentiment(up, down, avg):
     """Frase de sentimento macro do mercado."""
     total = up + down

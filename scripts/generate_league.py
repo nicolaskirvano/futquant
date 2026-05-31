@@ -56,6 +56,15 @@ def main():
         body.append(f"\n## 📈 Em alta na {league} (7 dias)\n")
         body.append(f"Cartas da liga que mais valorizaram na última semana:\n")
         body.append(fq.md_table(risers, cols_r))
+    if len(risers) >= 2:
+        body.append(f"\n## 📈 Análise da {league}\n")
+        body.append(f"A carta mais valiosa da liga é **{top['player_name']} ({top['rating']})**, a "
+                    f"{fq.fmt_coins(top['price'])} coins. ")
+        r0 = risers[0]
+        body.append(f"No movimento da semana, **{r0['player_name']} ({r0['rating']})** lidera as altas "
+                    f"(+{r0['d7']}% em 7 dias), sinal de procura crescente por cartas da {league}. "
+                    f"Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.\n")
+    body.append(fq.methodology())
     body.append("\n## Perguntas frequentes\n")
     body.append(f"**Qual o jogador mais caro da {league} no EA FC hoje?**  \n"
                 f"{top['player_name']} ({top['rating']}), a {fq.fmt_coins(top['price'])} coins no {plat} em {today}.\n")

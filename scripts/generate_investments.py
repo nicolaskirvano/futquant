@@ -1,17 +1,43 @@
 #!/usr/bin/env python3
-"""FutQuant — post 'Melhores investimentos do dia' (cartas em tendência consistente de alta)."""
+"""FutQuant — post 'Melhores investimentos' com análise: cartas 84+ em tendência de alta
+consistente (24h+7d) cruzadas com a previsão do modelo e níveis técnicos."""
 import argparse, os, sys
 import fqlib as fq
 
+P = "nfmarket.price_predictions"
+
 def query(platform):
     return f"""
-      SELECT player_name, rating, league, position, toInt64(current_price) AS price,
-             round(change_pct_24h,1) AS d24, round(change_pct_7d,1) AS d7
-      FROM {fq.U}
-      WHERE platform='{platform}' AND {fq.QUALITY} AND rating>=84
-        AND current_price BETWEEN 15000 AND 250000
-        AND change_pct_24h BETWEEN 1 AND 40 AND change_pct_7d BETWEEN 5 AND 90
-      ORDER BY change_pct_7d DESC LIMIT 15"""
+      SELECT u.player_name AS player_name, u.rating AS rating, u.league AS league, u.position AS position,
+             toInt64(u.current_price) AS price, round(u.change_pct_24h,1) AS d24, round(u.change_pct_7d,1) AS d7,
+             toInt64(u.sma_7d) AS sma7, toInt64(u.min_24h) AS min24, toInt64(u.max_24h) AS max24,
+             round(p.prob_rise_5pct*100,0) AS prob_alta, p.signal AS signal,
+             round(p.predicted_change_pct_24h,1) AS prev24
+      FROM {fq.U} u LEFT JOIN {P} p ON u.resource_id=p.resource_id AND u.platform=p.platform
+      WHERE u.platform='{platform}' AND u.{fq.QUALITY} AND u.rating>=84
+        AND u.current_price BETWEEN 15000 AND 250000
+        AND u.change_pct_24h BETWEEN 1 AND 40 AND u.change_pct_7d BETWEEN 5 AND 90
+      ORDER BY u.change_pct_7d DESC LIMIT 15"""
+
+def analyse(c):
+    name, r = c["player_name"], c["rating"]
+    line = (f"**{name} ({r})** — {fq.fmt_coins(c['price'])} coins, **+{c['d7']}% em 7 dias** "
+            f"(+{c['d24']}% em 24h).")
+    sma = fq.trend_vs_sma(c["price"], c["sma7"])
+    if sma: line += f" Preço {sma}."
+    sig, prob = c.get("signal"), c.get("prob_alta")
+    try: prob = int(float(prob))
+    except (TypeError, ValueError): prob = None
+    pv = None
+    try: pv = abs(float(c.get("prev24")))
+    except (TypeError, ValueError): pass
+    if sig == "rise" and prob and pv and pv <= 35:
+        line += f" 🔮 O modelo reforça a tese: **{prob}% de chance de seguir subindo**."
+    elif sig == "fall":
+        line += " ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela."
+    else:
+        line += " Momentum positivo; acompanhe para escolher o ponto de entrada."
+    return line
 
 def main():
     ap = argparse.ArgumentParser()
@@ -22,34 +48,44 @@ def main():
     rows = fq.ch_query(query(a.platform), a.ch_ssh)
     if len(rows) < 4:
         print("poucos investimentos hoje; pulando", file=sys.stderr); sys.exit(0)
-    plat = fq.PLAT_LABEL[a.platform]; today = fq.today_br_str()
-    top = rows[0]
+    plat = fq.PLAT_LABEL[a.platform]; today = fq.today_br_str(); top = rows[0]
     slug = f"melhores-investimentos-ea-fc-{fq.date_slug()}-{a.platform}"
-    title = f"Melhores investimentos no EA FC hoje ({today}) — {plat}"
-    desc = (f"As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em {today} "
-            f"({plat}): candidatas a valorização com base em dados de 24h e 7 dias.")
-    cols = [("player_name","Jogador"),("rating","OVR"),("league","Liga"),("price","Preço"),("d24","24h"),("d7","7d")]
-    body = []
-    body.append(f"Investir bem no **EA FC Ultimate Team** é ler tendência, não palpite. O **FutQuant** cruza a "
-                f"variação de **24 horas e 7 dias** de mais de 18 mil cartas e destaca abaixo as **84+ que vêm "
-                f"subindo de forma consistente** — as melhores candidatas a valorização em **{today}** no **{plat}**.\n")
-    body.append(f"> 🔝 **Destaque:** {top['player_name']} ({top['rating']}) acumula **+{top['d7']}% em 7 dias** "
-                f"(+{top['d24']}% nas últimas 24h), a {fq.fmt_coins(top['price'])} coins.\n")
-    body.append("## 💎 Cartas em tendência de alta (84+)\n")
-    body.append("Subindo em **24h e 7 dias** — o sinal mais confiável de momentum de mercado:\n")
-    body.append(fq.md_table(rows, cols))
-    body.append("\n## Como ler esta lista\n")
-    body.append("- **24h** e **7d** positivos juntos = tendência sustentada, não pico isolado.\n"
-                "- Prefira entrar em correções (quedas curtas dentro da alta) para reduzir risco.\n"
-                "- Liquidez importa: cartas de ligas/rating populares vendem mais rápido.\n")
-    body.append("\n## Perguntas frequentes\n")
-    body.append(f"**Qual a melhor carta para investir hoje ({today}) no EA FC?**  \n"
-                f"Pelos dados do FutQuant, {top['player_name']} ({top['rating']}, {top.get('league') or 'sem liga'}) "
-                f"lidera, com +{top['d7']}% em 7 dias a {fq.fmt_coins(top['price'])} coins no {plat}.\n")
-    body.append(f"**Esses dados são atualizados?**  \nSim — recalculados várias vezes ao dia a partir do mercado real, "
-                f"sem anomalias de preço.\n")
-    body.append(fq.disclaimer(plat))
-    print(fq.write_post(a.out, slug, title, desc, ["investimentos","trading",a.platform], "\n".join(body), featured=False))
+    title = f"Melhores investimentos no EA FC hoje ({today}): análise e previsões — {plat}"
+    desc = (f"As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em {today} ({plat}), "
+            f"cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite.")
+    cols = [("player_name","Jogador"),("rating","OVR"),("league","Liga"),("price","Preço"),
+            ("d24","24h"),("d7","7d"),("prob_alta","Prob. alta")]
+    b = []
+    b.append("## Por que estas cartas\n")
+    b.append(f"Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** "
+             f"cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma "
+             f"consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **{today}** "
+             f"no **{plat}**:\n")
+    b.append(f"> 🔝 **Destaque:** {top['player_name']} ({top['rating']}) acumula **+{top['d7']}% em 7 dias** "
+             f"a {fq.fmt_coins(top['price'])} coins.\n")
+    b.append("## 💎 Cartas em tendência de alta (84+)\n")
+    b.append("Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:\n")
+    b.append(fq.md_table(rows, cols))
+    b.append("\n## 📈 Análise dos destaques\n")
+    for c in rows[:5]:
+        b.append("- " + analyse(c) + "\n")
+    b.append("\n## Como usar esta lista\n")
+    b.append("- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.\n"
+             "- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.\n"
+             "- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.\n"
+             "- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.\n")
+    b.append(fq.methodology())
+    b.append("\n## ❓ Perguntas frequentes\n")
+    b.append(f"**Qual a melhor carta para investir hoje ({today}) no EA FC?**  \n"
+             f"{top['player_name']} ({top['rating']}, {top.get('league') or 'sem liga'}) lidera, com +{top['d7']}% "
+             f"em 7 dias a {fq.fmt_coins(top['price'])} coins no {plat}"
+             + (f", e o modelo dá {int(float(top['prob_alta']))}% de chance de seguir subindo.\n" if top.get('prob_alta') else ".\n"))
+    b.append("**Investir em FUT dá lucro garantido?**  \nNão. São probabilidades baseadas em dados históricos; "
+             "o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.\n")
+    b.append("**Com que frequência a lista atualiza?**  \nVárias vezes ao dia, junto com os preços do mercado.\n")
+    b.append(fq.disclaimer(plat))
+    print(fq.write_post(a.out, slug, title, desc, ["investimentos","trading","previsoes",a.platform],
+                        "\n".join(b), featured=True))
 
 if __name__ == "__main__":
     main()

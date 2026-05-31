@@ -36,11 +36,24 @@ def main():
     body.append(f"> 💰 **Melhor pechincha:** {top['player_name']} ({top['rating']}) por apenas "
                 f"{fq.fmt_coins(top['price'])} coins.\n")
     body.append("## 💎 Joias baratas (83+, abaixo de 15k)\n")
+    body.append("Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):\n")
     body.append(fq.md_table(rows, cols))
+    body.append("\n## 📈 Destaques\n")
+    for c in rows[:5]:
+        d7 = c.get("d7")
+        nota = ""
+        try:
+            d7f = float(d7)
+            if d7f <= -8: nota = " — vem **caindo na semana**, pode ser ponto de entrada barato."
+            elif d7f >= 15: nota = " — já **valorizando**, sinal de procura crescente."
+        except (TypeError, ValueError): pass
+        body.append(f"- **{c['player_name']} ({c['rating']}, {c.get('position') or '—'})** da {c.get('league') or '—'}, "
+                    f"a apenas **{fq.fmt_coins(c['price'])} coins**{nota}\n")
     body.append("\n## Por que estas cartas?\n")
     body.append("- **Rating 83+** garante atributos competitivos para a maioria dos modos.\n"
                 "- **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.\n"
                 "- Filtramos preços anômalos para você não cair em cotação irreal.\n")
+    body.append(fq.methodology())
     body.append("\n## Perguntas frequentes\n")
     body.append(f"**Qual o melhor jogador barato do EA FC hoje ({today})?**  \n"
                 f"{top['player_name']} ({top['rating']}, {top.get('league') or 'sem liga'}) aparece como melhor "
