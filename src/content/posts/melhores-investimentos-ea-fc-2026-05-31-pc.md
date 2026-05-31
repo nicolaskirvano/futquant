@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:37:49.000Z
+pubDatetime: 2026-05-31T19:00:03.000Z
 title: "Melhores investimentos no EA FC hoje (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
