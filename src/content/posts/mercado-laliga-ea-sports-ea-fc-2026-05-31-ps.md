@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T13:40:08.000Z
+pubDatetime: 2026-05-31T14:14:01.000Z
 title: "Mercado da LALIGA EA SPORTS no EA FC (31/05/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -10,6 +10,13 @@ tags:
   - mercado
   - ps
 description: "Panorama de preços da LALIGA EA SPORTS no EA FC Ultimate Team em 31/05/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
+faq:
+  - q: "Qual o jogador mais caro da LALIGA EA SPORTS no EA FC hoje?"
+    a: "Lamine Yamal (92), a 7.77M coins no Console (PS) em 31/05/2026."
+  - q: "Quem mais valorizou na LALIGA EA SPORTS esta semana no EA FC?"
+    a: "Julián Alvarez (89), +81.8% em 7 dias, a 409k coins."
+  - q: "Onde ver os preços das cartas da LALIGA EA SPORTS no EA FC Ultimate Team?"
+    a: "O FutQuant acompanha os preços de todas as cartas da LALIGA EA SPORTS, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **LALIGA EA SPORTS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **31/05/2026** no **Console (PS)**.
@@ -60,13 +67,16 @@ No movimento da semana, **Julián Alvarez (89)** lidera as altas (+81.8% em 7 di
 Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
 
 
-## Perguntas frequentes
+## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da LALIGA EA SPORTS no EA FC hoje?**  
 Lamine Yamal (92), a 7.77M coins no Console (PS) em 31/05/2026.
 
-**Quem mais valorizou na LALIGA EA SPORTS esta semana?**  
+**Quem mais valorizou na LALIGA EA SPORTS esta semana no EA FC?**  
 Julián Alvarez (89), +81.8% em 7 dias, a 409k coins.
+
+**Onde ver os preços das cartas da LALIGA EA SPORTS no EA FC Ultimate Team?**  
+O FutQuant acompanha os preços de todas as cartas da LALIGA EA SPORTS, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
 
 
 ---
