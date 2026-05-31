@@ -8,9 +8,13 @@ cd "$(dirname "$0")/.."
 git fetch -q origin master
 git reset --hard -q origin/master
 
-# gera os posts do dia (ClickHouse local). Adicione mais geradores/plataformas aqui.
-python3 scripts/generate_market_daily.py --ch-ssh local --platform ps
-python3 scripts/generate_market_daily.py --ch-ssh local --platform pc
+# gera os posts do dia (ClickHouse local). Cada gerador é tolerante a falha (|| true).
+for plat in ps pc; do
+  python3 scripts/generate_market_daily.py --ch-ssh local --platform "$plat" || true
+  python3 scripts/generate_investments.py  --ch-ssh local --platform "$plat" || true
+  python3 scripts/generate_budget.py       --ch-ssh local --platform "$plat" || true
+done
+python3 scripts/generate_league.py --ch-ssh local --platform ps || true
 
 # commita e publica só se algo mudou
 if [ -n "$(git status --porcelain)" ]; then
