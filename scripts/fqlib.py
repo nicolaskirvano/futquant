@@ -87,8 +87,30 @@ def write_post(out_dir, slug, title, description, tags, body, featured=False, fa
         f.write(fm + body)
     return path
 
+_NF = 'https://nfmarket.com.br'
+_CTA_VARIANTS = [
+    f'📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. '
+    f'Acompanhe ao vivo e receba alertas de alta e queda em <a href="{_NF}" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.',
+    f'💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? '
+    f'O <a href="{_NF}" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.',
+    f'⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — '
+    f'<a href="{_NF}" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.',
+    f'📊 Esta análise usa os dados do <a href="{_NF}" rel="sponsored noopener" target="_blank">NF Market</a>: '
+    f'preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.',
+    f'🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, '
+    f'use o <a href="{_NF}" rel="sponsored noopener" target="_blank">NF Market</a>.',
+    f'🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no '
+    f'<a href="{_NF}" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.',
+]
+
+def cta():
+    """CTA sutil e VARIADO p/ o NF Market (rel=sponsored). Varia por dia+segmento p/ não repetir entre blogs."""
+    idx = (br().timetuple().tm_yday + sum(ord(c) for c in (SEG_LABEL or "x"))) % len(_CTA_VARIANTS)
+    return "\n> " + _CTA_VARIANTS[idx] + "\n"
+
 def disclaimer(plat_label):
-    return (f"\n---\n\n*Preços de {plat_label}, referência de {today_br_str()}. "
+    return (cta() +
+            f"\n---\n\n*Preços de {plat_label}, referência de {today_br_str()}. "
             f"Variações de mercado mudam a qualquer momento — invista com responsabilidade.*\n")
 
 # filtros de qualidade reutilizáveis (sem anomalias)
