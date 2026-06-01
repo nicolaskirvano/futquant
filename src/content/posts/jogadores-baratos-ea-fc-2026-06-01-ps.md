@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:00:02.000Z
+pubDatetime: 2026-06-01T13:00:02.000Z
 title: "Jogadores baratos e bons no EA FC (01/06/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -37,13 +37,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Caroline Graham Hansen | 90 | RW | Liga F | 12k coins | +2.1% |
 | Alexandre Penetra | 90 | CB | — | 13k coins | 0% |
-| Enzo Francescoli | 90 | CAM | — | 15k coins | +7.3% |
-| Frida Maanum | 90 | CAM | — | 15k coins | -1.7% |
+| Frida Maanum | 90 | CAM | — | 14k coins | -6.7% |
+| Ingrid Syrstad Engen | 90 | CB | — | 14k coins | -3.3% |
 | Khadija Shaw | 89 | ST | Barclays WSL | 6k coins | +9.6% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 6k coins | +1.7% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +20% |
 | Alisson | 89 | GK | Premier League | 6k coins | +7.1% |
 | Mapi León | 89 | CB | Liga F | 6k coins | +17.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 6k coins | +6.9% |
 
 
 ## 📈 Destaques
