@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:00:03.000Z
+pubDatetime: 2026-06-01T01:00:03.000Z
 title: "Mercado da LALIGA EA SPORTS no EA FC (31/05/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -36,7 +36,7 @@ A **LALIGA EA SPORTS** é uma das ligas mais usadas no **EA FC Ultimate Team** �
 | Raphinha | 95 | LM | 1.50M coins | +7.1% |
 | Pedri | 92 | CM | 1.50M coins | -11.8% |
 | Iñaki Williams | 87 | RM | 1.30M coins | +8.3% |
-| Rafael Márquez | 93 | CB | 1.14M coins | -8.2% |
+| Robert Lewandowski | 88 | ST | 1.13M coins | +8% |
 
 
 ## 📈 Em alta na LALIGA EA SPORTS (7 dias)
@@ -50,11 +50,11 @@ Cartas da liga que mais valorizaram na última semana:
 | Isco | 86 | CAM | 66k coins | +54.6% |
 | Marcus Rashford | 90 | LM | 949k coins | +54.3% |
 | Unai Simón | 90 | GK | 26k coins | +53.6% |
-| Rafael Márquez | 88 | CB | 38k coins | +51.5% |
+| Javier Mascherano | 88 | CB | 20k coins | +51.9% |
 | Lamine Yamal | 92 | RW | 6.70M coins | +49.6% |
 | Julián Alvarez | 88 | ST | 200k coins | +49.2% |
-| Santi Cazorla | 87 | CAM | 114k coins | +49% |
 | Moleiro | 88 | LM | 22k coins | +46.7% |
+| Míchel Salgado | 89 | RB | 35k coins | +41.4% |
 
 
 ## 📈 Análise da LALIGA EA SPORTS

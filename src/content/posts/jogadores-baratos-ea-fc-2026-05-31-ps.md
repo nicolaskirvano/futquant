@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:00:02.000Z
+pubDatetime: 2026-06-01T01:00:02.000Z
 title: "Jogadores baratos e bons no EA FC (31/05/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vincenzo Grifo | 92 | LM | — | 14k coins | 0% |
-| Rodri | 90 | CDM | Premier League | 8k coins | +41.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -3.4% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +11.6% |
-| Erling Haaland | 90 | ST | Premier League | 10k coins | +2.1% |
+| Virgil van Dijk | 90 | CB | Premier League | 8k coins | -4.5% |
+| Erling Haaland | 90 | ST | Premier League | 10k coins | +3.2% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +1% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Alexandre Penetra | 90 | CB | — | 13k coins | 0% |
 | Frida Maanum | 90 | CAM | — | 14k coins | -10% |
 | Enzo Francescoli | 90 | CAM | — | 14k coins | -6.8% |
 | Ingrid Syrstad Engen | 90 | CB | — | 14k coins | +3.7% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +3.8% |
-| Alisson | 89 | GK | Premier League | 6k coins | +3.8% |
-| Harry Kane | 89 | ST | Bundesliga | 6k coins | +3.8% |
-| Mapi León | 89 | CB | Liga F | 6k coins | +5.4% |
-| Patri Guijarro | 89 | CDM | Liga F | 6k coins | +5.4% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 14k coins | +18.8% |
+| Alisson | 89 | GK | Premier League | 6k coins | 0% |
+| Patri Guijarro | 89 | CDM | Liga F | 6k coins | +16% |
+| Alessia Russo | 89 | ST | Barclays WSL | 6k coins | +1.8% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +3.6% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 6k coins | +9.3% |
 
 
 ## 📈 Destaques
 
 - **Vincenzo Grifo (92, LM)** da —, a apenas **14k coins**
 
-- **Rodri (90, CDM)** da Premier League, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **8k coins**
+
+- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins**
 
 - **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins**
+- **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 
 
 ## Por que estas cartas?

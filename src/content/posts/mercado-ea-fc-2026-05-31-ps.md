@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:00:01.000Z
+pubDatetime: 2026-06-01T01:00:01.000Z
 title: "Mercado do EA FC hoje (31/05/2026): análise de altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Vitinha (91), -45.6% em 24h, a 588k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Timo Werner (87) — 95% de probabilidade de alta, a 98k coins."
+    a: "Pelo modelo FutQuant, David Raya (92) — 95% de probabilidade de alta, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 763 cartas em alta contra 1316 em queda (média -1.31%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 758 cartas em alta contra 1316 em queda (média -0.9%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **763 subiram** e **1316 caíram**, com variação média de **-1.31%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **758 subiram** e **1316 caíram**, com variação média de **-0.9%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Laura Georges (89) **+57.6%** · 🔴 **Maior baixa:** Vitinha (91) **-45.6%**
 
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Timo Werner | 87 | 98k coins | 122k coins | 95% |
-| Mario Götze | 88 | 54k coins | 68k coins | 95% |
-| Roy Keane | 86 | 68k coins | 78k coins | 95% |
-| Robin van Persie | 88 | 100k coins | 118k coins | 95% |
-| Kelly Smith | 89 | 68k coins | 84k coins | 95% |
-| James Milner | 88 | 69k coins | 82k coins | 95% |
-| Frank Rijkaard | 87 | 70k coins | 84k coins | 95% |
-| Oskar Pietuszewski | 86 | 62k coins | 71k coins | 95% |
+| David Raya | 92 | 38k coins | 45k coins | 95% |
+| Lewis Miley | 89 | 30k coins | 35k coins | 95% |
+| Enzo Fernández | 91 | 38k coins | 47k coins | 95% |
+| Patri Guijarro | 90 | 48k coins | 59k coins | 95% |
+| Stina Blackstenius | 90 | 35k coins | 40k coins | 95% |
+| Elliot Stroud | 94 | 29k coins | 34k coins | 95% |
+| Mateo Kovačić | 90 | 26k coins | 30k coins | 95% |
+| Alyssa Thompson | 91 | 113k coins | 139k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Giulia Gwinn | 89 | 30k coins | -15.6% |
-| Laura Dick | 93 | 26k coins | -29.2% |
-| Gabriel Sara | 89 | 31k coins | -24.1% |
-| Francisco Conceição | 89 | 39k coins | -16.7% |
-| Can Uzun | 89 | 31k coins | -29% |
-| Loïc Badé | 88 | 29k coins | -17.3% |
-| Alexia Putellas | 92 | 44k coins | -17.5% |
-| Milan Škriniar | 93 | 26k coins | -23.8% |
+| Nuno Tavares | 87 | 47k coins | -24.1% |
+| Keita Baldé | 88 | 27k coins | -17.3% |
+| Bartosz Kapustka | 87 | 29k coins | -34.2% |
+| Jens Petter Hauge | 88 | 50k coins | -24% |
+| Mikael Ishak | 87 | 42k coins | -24% |
+| Leah Williamson | 88 | 30k coins | -23.8% |
+| Ian Maatsen | 89 | 40k coins | -21.4% |
+| Scott McTominay | 87 | 45k coins | -17.5% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -126,10 +126,10 @@ Laura Georges (89, D1 Arkema), com +57.6% em 24h, a 34k coins no Console (PS).
 Vitinha (91), -45.6% em 24h, a 588k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Timo Werner (87) — 95% de probabilidade de alta, a 98k coins.
+Pelo modelo FutQuant, David Raya (92) — 95% de probabilidade de alta, a 38k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 763 cartas em alta contra 1316 em queda (média -1.31%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 758 cartas em alta contra 1316 em queda (média -0.9%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
