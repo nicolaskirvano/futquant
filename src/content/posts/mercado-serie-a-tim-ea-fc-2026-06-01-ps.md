@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T16:00:03.000Z
+pubDatetime: 2026-06-01T19:00:03.000Z
 title: "Mercado da Serie A TIM no EA FC (01/06/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false

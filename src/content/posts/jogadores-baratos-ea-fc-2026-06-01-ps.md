@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T16:00:02.000Z
+pubDatetime: 2026-06-01T19:00:02.000Z
 title: "Jogadores baratos e bons no EA FC (01/06/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
