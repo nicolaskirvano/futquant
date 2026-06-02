@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:00:03.000Z
+pubDatetime: 2026-06-02T13:00:03.000Z
 title: "Mercado da Bundesliga no EA FC (02/06/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
