@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:37:33.000Z
+pubDatetime: 2026-06-18T22:01:00.000Z
 title: "Mercado do EA FC hoje (18/06/2026): análise de altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,98 +13,108 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Roy Makaay (89, Bundesliga), com +60% em 24h, a 30k coins no PC."
+    a: "Dirk Kuyt (88, Eredivisie), com +58.9% em 24h, a 29k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nico Schlotterbeck (87), -47% em 24h, a 22k coins."
+    a: "Celia Šašić (92), -48.4% em 24h, a 39k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 46k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 721 cartas em alta contra 898 em queda (média 0.51%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 655 cartas em alta contra 1014 em queda (média -0.49%)."
+  - q: "Posso confiar nos preços e previsões do FutQuant?"
+    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📊 Como está o mercado agora
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **721 subiram** e **898 caíram**, com variação média de **0.51%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado geral de PC se encontra pressionado nesta terça-feira, 18/06/2026, com um saldo negativo claro onde as quedas superam as altas por 1014 a 655. A média de variação em 24 horas é de -0.49%, indicando um ambiente de venda e cautela para a maioria dos ativos.
 
-> 🟢 **Maior alta:** Roy Makaay (89) **+60%** · 🔴 **Maior baixa:** Nico Schlotterbeck (87) **-47%**
+> 🟢 **Maior alta:** Dirk Kuyt (88) **+58.9%** · 🔴 **Maior baixa:** Celia Šašić (92) **-48.4%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roy Makaay | 89 | Bundesliga | 30k coins | +60% | +8.1% |
-| Dennis Bergkamp | 91 | Icons | 74k coins | +59.8% | +62.4% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 98k coins | +55.5% | +24.4% |
-| Dávid Hancko | 89 | LALIGA EA SPORTS | 66k coins | +55.3% | -0.8% |
-| Grace Kazadi | 87 | D1 Arkema | 24k coins | +53.8% | +38.9% |
-| Mario Götze | 88 | Bundesliga | 70k coins | +52.4% | +85% |
-| João Neves | 96 | — | 5M coins | +52.2% | +55.8% |
-| Josip Mišić | 85 | Liga Hrvatska | 74k coins | +51.3% | +67.4% |
-| Nwankwo Kanu | 86 | Premier League | 29k coins | +50.8% | +107% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 195k coins | +50.4% | +1% |
+| Dirk Kuyt | 88 | Eredivisie | 29k coins | +58.9% | +38.1% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 24k coins | +57.4% | -8.6% |
+| Matheus Cunha | 87 | Premier League | 200k coins | +56.2% | +44.9% |
+| Ian Rush | 92 | — | 34k coins | +54% | +67.5% |
+| Javier Zanetti | 91 | Icons | 169k coins | +53.6% | +31% |
+| Alyssa Thompson | 91 | Barclays WSL | 207k coins | +53.3% | +48.9% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 46k coins | +51.7% | +58.3% |
+| John Barnes | 89 | Icons | 151k coins | +51% | +13% |
+| Hernán Crespo | 88 | Icons | 40k coins | +50.9% | +63.3% |
+| Denzel Dumfries | 89 | Serie A TIM | 90k coins | +50.8% | +33.1% |
 
 
-### Análise das altas
-
-- **Roy Makaay (89)** subiu **+60%** em 24h, a **30k coins** (faixa do dia: 16k–30k). Está +34% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Dennis Bergkamp (91)** subiu **+59.8%** em 24h, a **74k coins** (faixa do dia: 46k–74k). Está +28% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Javier Mascherano (89)** subiu **+55.5%** em 24h, a **98k coins** (faixa do dia: 60k–159k). Está em linha com a média de 7 dias (+8%). O modelo vê **estabilização** no curto prazo.
+Dirk Kuyt lidera o ranking de altas com 58.9% a 29k, seguido de perto por Míchel Salgado com 57.4% a 24k. Matheus Cunha também se destaca com alta de 56.2% a 200k, enquanto Alyssa Thompson sobe 53.3% para 207k, mostrando força em carteiras específicas.
 
 
-## 🔴 Maiores baixas (24h)
+## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nico Schlotterbeck | 87 | Bundesliga | 22k coins | -47% | -56.5% |
-| Paulo Futre | 89 | LALIGA EA SPORTS | 200k coins | -45.5% | -36.7% |
-| Eric Maxim Choupo-Moting | 86 | MLS | 20k coins | -45.1% | +5% |
-| Lennart Karl | 83 | Bundesliga | 40k coins | -44.7% | +5% |
-| Rafa | 84 | Trendyol Süper Lig | 30k coins | -44.2% | -33% |
-| João Félix | 84 | ROSHN Saudi League | 420k coins | -43.8% | +20% |
-| Tyrick Mitchell | 96 | — | 700k coins | -43.6% | -0.3% |
-| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 34k coins | -42.5% | -15.9% |
-| Tom Ince | 84 | EFL Championship | 30k coins | -41% | -40.4% |
-| Jonathan Tah | 88 | Bundesliga | 54k coins | -37.3% | -21.5% |
+| Celia Šašić | 92 | GPFBL | 39k coins | -48.4% | -1.2% |
+| Lotte Wubben-Moy | 85 | Barclays WSL | 23k coins | -43.3% | -25.6% |
+| Paulo Futre | 92 | Liga Portugal | 135k coins | -43.2% | -30.9% |
+| Bruno Guimarães | 89 | Premier League | 30k coins | -42% | -5.4% |
+| Jonathan David | 90 | Serie A TIM | 35k coins | -40.7% | -63.4% |
+| Morata | 87 | Serie A TIM | 84k coins | -40.5% | +1.5% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 48k coins | -40.4% | +15.9% |
+| Louis Reed | 84 | EFL League One | 28k coins | -40.2% | -37.2% |
+| Malik Tillman | 85 | Bundesliga | 22k coins | -38.8% | -18.2% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 37k coins | -38.8% | -9.8% |
 
 
-### Análise das baixas
+Celia Šašić despencou 48.4% em 24h, fechando a 39k, enquanto Lotte Wubben-Moy caiu 43.3% para 23k. Paulo Futre perdeu 43.2% a 135k e Bruno Guimarães desceu 42% a 30k, refletindo a pressão vendedora sobre esses cartões.
 
-- **Nico Schlotterbeck (87)** caiu **-47%** em 24h, a **22k coins** (faixa do dia: 22k–50k). Está -47% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Paulo Futre (89)** caiu **-45.5%** em 24h, a **200k coins** (faixa do dia: 200k–367k). Está -28% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+## 🔮 Radar de valorização (24h)
 
-- **Eric Maxim Choupo-Moting (86)** caiu **-45.1%** em 24h, a **20k coins** (faixa do dia: 18k–39k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Agnes Beever-Jones | 90 | 46k coins | 47k coins | 81% |
+| Uli Hoeneß | 88 | 29k coins | 30k coins | 80% |
+| Giovani Lo Celso | 91 | 42k coins | 44k coins | 80% |
+
+
+O modelo projeta alta para Agnes Beever-Jones com probabilidade de 81% a 46k coins. Uli Hoeneß e Giovani Lo Celso também entram na lista com 80% de probabilidade de alta, cotados a 29k e 42k respectivamente.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
 
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
+O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
 | Mikel Gogorza | 86 | 70k coins | -14.4% |
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 O que fazer hoje
+Dado o cenário de quedas dominantes, o conselho é evitar compras impulsivas e focar na venda de ativos que já perderam valor significativo. Considere segurar as carteiras com alta probabilidade de subida, como Agnes Beever-Jones, e aguardar estabilização do mercado.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 📐 Como o FutQuant le o mercado
+Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Roy Makaay (89, Bundesliga), com +60% em 24h, a 30k coins no PC.
+Dirk Kuyt (88, Eredivisie), com +58.9% em 24h, a 29k coins no PC.
 
 **E a maior queda do dia?**  
-Nico Schlotterbeck (87), -47% em 24h, a 22k coins.
+Celia Šašić (92), -48.4% em 24h, a 39k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**  
+Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 46k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 721 cartas em alta contra 898 em queda (média 0.51%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 655 cartas em alta contra 1014 em queda (média -0.49%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+**Posso confiar nos preços e previsões do FutQuant?**  
+Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
 > 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.

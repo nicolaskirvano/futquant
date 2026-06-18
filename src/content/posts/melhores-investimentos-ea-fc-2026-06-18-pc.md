@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:37:34.000Z
+pubDatetime: 2026-06-18T22:01:14.000Z
 title: "Melhores investimentos no EA FC hoje (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Hiroki Ito (93, sem liga) lidera, com +87% em 7 dias a 25k coins no PC."
+    a: "Matheus Dias (87, Liga Portugal) lidera, com +87.9% em 7 dias a 31k coins no PC, e o modelo dá 77% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,15 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Hiroki Ito (93) acumula **+87% em 7 dias** a 25k coins.
+> 🔝 **Destaque:** Matheus Dias (87) acumula **+87.9% em 7 dias** a 31k coins.
+
+
+## 🧠 A leitura do dia
+No cenário do EA FC Ultimate Team em 18 de junho de 2026, o mercado apresenta oportunidades distintas baseadas na volatilidade recente. Matheus Dias destaca-se como a aposta mais segura para entrada, com alta probabilidade de valorização (77%) e um aumento de 1,6% nas últimas 24 horas, cotado a 31k coins. Para investidores que buscam retornos mais agressivos, Aymeric Laporte e Yan Diomande mostram movimentos expressivos de 39,2% e 36,4% respectivamente, embora suas probabilidades de alta futura sejam baixas (23% e 0%), sugerindo cautela ou venda rápida.
+
+Outras cartas merecem atenção devido ao equilíbrio entre risco e recompensa. Juan Mata, da A-League, registra uma subida de 30% com uma probabilidade moderada de alta de 57% a 52k coins, apresentando um perfil interessante de sustentabilidade. Paulo Dybala, apesar do preço elevado de 142k coins, mantém uma alta probabilidade de 36% após subir 22,5%, indicando interesse constante de usuários de squads premium. Já Hayley Raso, da GPFBL, sobe 23,1% a 40k, mas com apenas 27% de chance de continuar subindo, exigindo timing preciso na saída.
+
+Cartas como Diego Milito e Mohammed Noor oferecem entradas acessíveis em torno de 40k e 32k, mas com probabilidades de alta muito baixas (26% e 0%), o que as torna menos atrativas para holdings de longo prazo. Ayyoub Bouaddi e Jerzy Dudek, ambos a 30k, apresentam aumentos de 3,4% e 15,4%, com probabilidades de 39% e 29%. Em resumo, para quem busca segurança, Matheus Dias é o foco; para ganhos rápidos com maior risco, Laporte e Diomande são as opções, enquanto Mata e Dybala equilibram o portfólio com potencial de valorização sustentável.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +39,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hiroki Ito | 93 | — | 25k coins | +1% | +87% | 0% |
-| Jürgen Kohler | 91 | — | 46k coins | +7.5% | +86% | 57% |
-| David Alaba | 93 | — | 75k coins | +6.8% | +84.8% | 0% |
-| Mohammed Noor | 90 | — | 29k coins | +18.2% | +80.6% | 0% |
-| Martin Baturina | 89 | Serie A TIM | 50k coins | +13.7% | +79.3% | 60% |
-| Manuel Neuer | 86 | Bundesliga | 85k coins | +27.8% | +78.9% | 60% |
-| Marcos Senesi | 88 | Premier League | 40k coins | +7.9% | +78% | 42% |
-| Roy Makaay | 91 | — | 25k coins | +21.2% | +77.6% | 0% |
-| Elliot Anderson | 86 | Premier League | 35k coins | +2.2% | +77.2% | 36% |
-| Pernille Harder | 87 | GPFBL | 35k coins | +15% | +76.9% | 23% |
-| Saki Kumagai | 88 | Barclays WSL | 30k coins | +20% | +76.5% | 41% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 34k coins | +26% | +73.9% | 78% |
-| Francisco Moura | 90 | Liga Portugal | 34k coins | +13.9% | +73.3% | 23% |
-| Uli Hoeneß | 90 | — | 29k coins | +30% | +73.3% | 0% |
-| Oliver Bierhoff | 90 | — | 32k coins | +23.1% | +73% | 0% |
+| Matheus Dias | 87 | Liga Portugal | 31k coins | +1.6% | +87.9% | 77% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 30k coins | +3.4% | +87.5% | 39% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 55k coins | +39.2% | +85.9% | 23% |
+| Juan Mata | 88 | A-League | 52k coins | +30% | +85.7% | 57% |
+| Diego Milito | 91 | — | 40k coins | +3.9% | +83.9% | 26% |
+| Hayley Raso | 85 | GPFBL | 40k coins | +23.1% | +83.9% | 27% |
+| Paulo Dybala | 88 | Serie A TIM | 142k coins | +22.5% | +81.5% | 36% |
+| Mohammed Noor | 90 | — | 32k coins | +18.2% | +80.6% | 0% |
+| Jerzy Dudek | 86 | Premier League | 30k coins | +15.4% | +76.5% | 29% |
+| Yan Diomande | 92 | — | 88k coins | +36.4% | +76% | 0% |
+| Louisa Necib | 90 | D1 Arkema | 42k coins | +34.9% | +73.5% | 17% |
+| Matthias Ginter | 88 | Bundesliga | 85k coins | +2.4% | +73.5% | 48% |
+| Uli Hoeneß | 90 | — | 29k coins | +18.2% | +73.3% | 0% |
+| Vangelis Pavlidis | 90 | Liga Portugal | 47k coins | +11.9% | +72.5% | 73% |
+| Jérémy Doku | 84 | Premier League | 152k coins | +6.2% | +70.9% | 18% |
 
 
 ## 📈 Análise dos destaques
 
-- **Hiroki Ito (93)** — 25k coins, **+87% em 7 dias** (+1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Matheus Dias (87)** — 31k coins, **+87.9% em 7 dias** (+1.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jürgen Kohler (91)** — 46k coins, **+86% em 7 dias** (+7.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ayyoub Bouaddi (86)** — 30k coins, **+87.5% em 7 dias** (+3.4% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **David Alaba (93)** — 75k coins, **+84.8% em 7 dias** (+6.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Aymeric Laporte (90)** — 55k coins, **+85.9% em 7 dias** (+39.2% em 24h). Preço +55% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mohammed Noor (90)** — 29k coins, **+80.6% em 7 dias** (+18.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Juan Mata (88)** — 52k coins, **+85.7% em 7 dias** (+30% em 24h). Preço +48% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Martin Baturina (89)** — 50k coins, **+79.3% em 7 dias** (+13.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Diego Milito (91)** — 40k coins, **+83.9% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -69,14 +77,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 📐 Como o FutQuant le o mercado
+Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Hiroki Ito (93, sem liga) lidera, com +87% em 7 dias a 25k coins no PC.
+Matheus Dias (87, Liga Portugal) lidera, com +87.9% em 7 dias a 31k coins no PC, e o modelo dá 77% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
