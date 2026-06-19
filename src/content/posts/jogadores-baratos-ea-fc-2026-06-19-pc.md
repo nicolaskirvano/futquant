@@ -1,27 +1,27 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:01:31.000Z
-title: "Jogadores baratos e bons no EA FC (19/06/2026) — joias 83+ por menos de 15k — Console (PS)"
+pubDatetime: 2026-06-19T19:03:24.000Z
+title: "Jogadores baratos e bons no EA FC (19/06/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 19/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 19/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/06/2026)?"
-    a: "Frantzdy Pierrot (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Edmilson Junior (92, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Frantzdy Pierrot (92) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Edmilson Junior (92) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Frantzdy Pierrot | 92 | ST | — | 15k coins | +11.8% |
-| Amir Murillo | 92 | RB | — | 15k coins | +15.7% |
-| Antonio Sanabria | 92 | ST | — | 15k coins | +18% |
-| Enner Valencia | 92 | ST | — | 15k coins | +15.7% |
-| Edmilson Junior | 92 | LW | — | 15k coins | +18% |
-| Jean-Ricner Bellegarde | 92 | CAM | — | 15k coins | +18% |
-| Yoane Wissa | 92 | ST | — | 15k coins | +26.4% |
-| Miguel Almirón | 92 | LM | — | 15k coins | +15.4% |
-| Cristian Martínez | 92 | RM | — | 15k coins | +15.7% |
-| Willy Semedo | 92 | LM | — | 15k coins | +18% |
-| Arthur Theate | 92 | CB | — | 15k coins | +15.4% |
-| Olwethu Makhanya | 91 | CB | — | 15k coins | +20% |
-| David Møller Wolfe | 91 | LB | — | 15k coins | +11.1% |
-| Kerem Aktürkoğlu | 91 | LW | — | 15k coins | +11.8% |
-| Yan Valery | 91 | RB | — | 15k coins | +20% |
+| Edmilson Junior | 92 | LW | — | 14k coins | +20% |
+| Jean-Ricner Bellegarde | 92 | CAM | — | 14k coins | +20% |
+| Antonio Sanabria | 92 | ST | — | 15k coins | +17.6% |
+| Willy Semedo | 92 | LM | — | 15k coins | +15.7% |
+| Frantzdy Pierrot | 92 | ST | — | 15k coins | +15.7% |
+| Amir Murillo | 92 | RB | — | 15k coins | +13.5% |
+| Miguel Almirón | 92 | LM | — | 15k coins | +11.1% |
+| Mario Pašalić | 92 | CM | — | 15k coins | +15.4% |
+| Enner Valencia | 92 | ST | — | 15k coins | +15.4% |
+| Jason Geria | 92 | RB | — | 15k coins | +9.1% |
+| Cristian Martínez | 92 | RM | — | 15k coins | +17.6% |
+| Ahmed Fathi | 91 | CDM | — | 14k coins | +17.6% |
+| Kerem Aktürkoğlu | 91 | LW | — | 14k coins | +13.7% |
+| Yan Valery | 91 | RB | — | 14k coins | +18% |
+| Adalberto Carrasquilla | 91 | CM | — | 15k coins | +15.4% |
 
 
 ## 📈 Destaques
 
-- **Frantzdy Pierrot (92, ST)** da —, a apenas **15k coins**
+- **Edmilson Junior (92, LW)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Amir Murillo (92, RB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Jean-Ricner Bellegarde (92, CAM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Antonio Sanabria (92, ST)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Enner Valencia (92, ST)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Willy Semedo (92, LM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Edmilson Junior (92, LW)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Frantzdy Pierrot (92, ST)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/06/2026)?**  
-Frantzdy Pierrot (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Edmilson Junior (92, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -86,4 +86,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
