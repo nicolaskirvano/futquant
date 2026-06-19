@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:00:40.000Z
+pubDatetime: 2026-06-19T01:01:18.000Z
 title: "Melhores investimentos no EA FC hoje (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 40k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
+    a: "Morata (87, Serie A TIM) lidera, com +84.8% em 7 dias a 42k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,17 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Maya Le Tissier (88) acumula **+89.3% em 7 dias** a 40k coins.
+> 🔝 **Destaque:** Morata (87) acumula **+84.8% em 7 dias** a 42k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team para consoles PlayStation, a análise de 18 de junho de 2026 destaca oportunidades claras baseadas em tendências de alta dos últimos sete dias. Entre os destaques, Antoine Griezmann (87, LALIGA EA SPORTS) apresenta o maior percentual de valorização em 24h, com 39%, e uma probabilidade de alta de 95%, posicionando-se a 43k coins. Esta combinação de alta volatilidade positiva e forte probabilidade estatística sugere que a carta está em uma fase de acumulação de valor, tornando-a um candidato sólido para entrada imediata, especialmente para quem busca ganhos rápidos com segurança relativa no curto prazo.
+O mercado do EA FC Ultimate Team em consoles PlayStation, na data de 18 de junho de 2026, apresenta uma dinâmica interessante para investidores que buscam oportunidades de curto prazo. Ao analisar as tendências de valorização dos últimos sete dias, destacam-se cartas com movimentos significativos nas últimas 24 horas, indicando oportunidades concretas de entrada. O foco aqui é identificar quais ativos combinam ganho percentual recente com alta probabilidade de continuidade na alta, permitindo ao jogador maximizar seus lucros com riscos calculados e baseados estritamente nos dados disponíveis.
 
-Outra opção notável é Maya Le Tissier (88, Barclays WSL), que registrou alta de 19,5% em 24h, também com 95% de probabilidade de continuação da tendência, custando 40k coins. A similaridade nos indicadores de probabilidade com o Griezmann reforça a confiança nesta seleção feminina, que tem se mostrado consistente no mercado. Para investidores com maior capital disponível, Mario Lemina (89, Trendyol Süper Lig) atrai atenção com valorização de 6,4% e preço de 100k coins, embora sua probabilidade de alta seja de apenas 44%. Isso indica um movimento mais volátil, exigindo cautela, mas potencialmente lucrativo se a tendência se sustentar.
+Entre as opções mais acessíveis, Kim Little (87) da Barclays WSL se destaca como uma das escolhas mais seguras. Apesar de um crescimento modesto de 3,8% nas últimas 24 horas, a carta possui uma impressionante probabilidade de alta de 95%. Com o preço atual em 26 mil coins, essa combinação de baixa volatilidade recente e extrema confiança no movimento futuro sugere uma entrada de baixo risco, ideal para quem deseja garantir lucros consistentes sem expor grandes quantias de capital a incertezas.
 
-Cartas como Frida Maanum (90, s/liga) e Nwankwo Kanu (87, Premier League) oferecem alternativas intermediárias. Maanum subiu 21,4% a 37k coins com 44% de probabilidade, enquanto Kanu cresceu 16,2% a 44k coins com 59% de chance de alta. Ambas apresentam perfis de risco moderado. Por outro lado, opções como Ingrid Syrstad Engen (90, s/liga), apesar de alta de 23,9%, possuem apenas 5% de probabilidade de alta, o que as torna arriscadas. O foco deve permanecer em Griezmann e Le Tissier pela robustez dos dados de probabilidade.
+Para investidores dispostos a assumir um risco médio em busca de retornos mais expressivos, Mohammed Noor (90) e Oliver Bierhoff (90) oferecem perfis atrativos. Noor, sem liga específica, subiu 10,7% em 24 horas e está cotado a 24 mil coins, com uma probabilidade de alta de 43%. Já Bierhoff, também sem liga, registrou alta de 11,1% nas mesmas 24 horas, custando 30 mil coins e compartilhando a mesma probabilidade de alta de 30% com Uli Hoeneß. Esses ativos permitem uma diversificação interessante, onde o potencial de ganho é substancial, apoiado por uma probabilidade de sucesso superior à média do mercado.
 
-Em resumo, o mercado atual recompensa a disciplina. Evite cartas com baixa probabilidade de alta, como João Moutinho (5%) ou Couhaib Driouech (80% de probabilidade, mas apenas 2,9% de alta, o que pode indicar saturação). Priorize Griezmann e Le Tissier pela convergência entre alta percentual significativa e probabilidade elevada de continuidade, garantindo uma estratégia de investimento mais fundamentada nos dados atuais do mercado de console.
+No extremo oposto, para quem busca segurança máxima em valores mais elevados, Kouadio Manu Koné (88) da Serie A TIM é uma aposta sólida. A carta cresceu apenas 2,6% nas últimas 24 horas, mas carrega uma probabilidade de alta de 95%, similar a Kim Little. Cotada a 110 mil coins, ela representa uma oportunidade de estabilizar investimentos maiores, aproveitando a quase certeza de valorização contínua, mesmo que o crescimento diário imediato pareça conservador.
+
+Cartas de alto valor como Joshua Kimmich (89) da Bundesliga, a 159 mil coins, e Barış Alper Yılmaz (86) da Trendyol Süper Lig, a 96 mil coins, apresentam oscilações mais agressivas. Kimmich subiu 10,6% com probabilidade de alta de 27%, enquanto Yılmaz cresceu 12,4% com probabilidade de 16%. Embora os ganhos percentuais sejam atraentes, as probabilidades de alta são relativamente baixas, indicando que esses movimentos podem ser efêmeros ou voláteis, exigindo cautela e timing preciso de venda para evitar perdas.
+
+Finalmente, nomes icônicos como Nwankwo Kanu (87) e Morata (87) oferecem cenários distintos. Kanu, da Premier League, registrou alta de 18,4% em 24 horas e custa 45 mil coins, com uma robusta probabilidade de alta de 59%, tornando-o uma das melhores oportunidades de equilíbrio entre risco e retorno. Já Morata, da Serie A TIM, apesar do forte crescimento de 21,4% para 42 mil coins, possui apenas 5% de probabilidade de alta futura, sugerindo que seu pico pode estar próximo e que a venda imediata seria mais prudente do que a manutenção do investimento.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -41,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Maya Le Tissier | 88 | Barclays WSL | 40k coins | +19.5% | +89.3% | 95% |
-| Marc Cucurella | 86 | Premier League | 71k coins | +36.5% | +84.4% | 44% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 100k coins | +6.4% | +83.5% | 44% |
-| Uli Hoeneß | 90 | — | 35k coins | +18.1% | +82.4% | 30% |
-| Frida Maanum | 90 | — | 37k coins | +21.4% | +81.3% | 44% |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 43k coins | +39% | +78.1% | 95% |
-| Nwankwo Kanu | 87 | Premier League | 44k coins | +16.2% | +75.5% | 59% |
-| Ingrid Syrstad Engen | 90 | — | 33k coins | +23.9% | +75% | 5% |
-| João Moutinho | 88 | Liga Portugal | 109k coins | +10.1% | +74.4% | 5% |
-| Couhaib Driouech | 86 | Eredivisie | 108k coins | +2.9% | +74.2% | 80% |
-| Seydou Doumbia | 85 | Serie A TIM | 38k coins | +4.6% | +72.8% | 95% |
-| Barış Alper Yılmaz | 86 | Trendyol Süper Lig | 112k coins | +31.8% | +71.4% | 16% |
-| Juan David Cabal | 85 | Serie A TIM | 39k coins | +11.2% | +71% | 5% |
-| Sami Al Jaber | 86 | ROSHN Saudi League | 39k coins | +9.4% | +67% | 50% |
-| Jawad El Yamiq | 87 | LaLiga Hypermotion | 36k coins | +9.1% | +63.6% | 5% |
+| Morata | 87 | Serie A TIM | 42k coins | +21.4% | +84.8% | 5% |
+| Oliver Bierhoff | 90 | — | 30k coins | +11.1% | +84.6% | 30% |
+| Kim Little | 87 | Barclays WSL | 26k coins | +3.8% | +83.3% | 95% |
+| Mohammed Noor | 90 | — | 24k coins | +10.7% | +79.7% | 43% |
+| Barış Alper Yılmaz | 86 | Trendyol Süper Lig | 96k coins | +12.4% | +77.4% | 16% |
+| Uli Hoeneß | 90 | — | 29k coins | +8.1% | +76.5% | 30% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 110k coins | +2.6% | +75.4% | 95% |
+| Joshua Kimmich | 89 | Bundesliga | 159k coins | +10.6% | +74.4% | 27% |
+| Nwankwo Kanu | 87 | Premier League | 45k coins | +18.4% | +73.1% | 59% |
+| Jill Scott | 91 | Barclays WSL | 110k coins | +4.8% | +71.9% | 5% |
+| Couhaib Driouech | 86 | Eredivisie | 108k coins | +2.9% | +71.4% | 80% |
+| Enzo Fernández | 91 | Premier League | 77k coins | +2% | +71.1% | 95% |
+| Ollie Watkins | 90 | Premier League | 44k coins | +16.4% | +69.7% | 8% |
+| João Moutinho | 88 | Liga Portugal | 102k coins | +2% | +68.6% | 5% |
+| Julian Quiñones | 87 | ROSHN Saudi League | 101k coins | +1% | +66.9% | 23% |
 
 
 ## 📈 Análise dos destaques
 
-- **Maya Le Tissier (88)** — 40k coins, **+89.3% em 7 dias** (+19.5% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Morata (87)** — 42k coins, **+84.8% em 7 dias** (+21.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Marc Cucurella (86)** — 71k coins, **+84.4% em 7 dias** (+36.5% em 24h). Preço +58% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Oliver Bierhoff (90)** — 30k coins, **+84.6% em 7 dias** (+11.1% em 24h). Preço +41% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Mario Lemina (89)** — 100k coins, **+83.5% em 7 dias** (+6.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kim Little (87)** — 26k coins, **+83.3% em 7 dias** (+3.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Uli Hoeneß (90)** — 35k coins, **+82.4% em 7 dias** (+18.1% em 24h). Preço +67% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Mohammed Noor (90)** — 24k coins, **+79.7% em 7 dias** (+10.7% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Frida Maanum (90)** — 37k coins, **+81.3% em 7 dias** (+21.4% em 24h). Preço +56% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Barış Alper Yılmaz (86)** — 96k coins, **+77.4% em 7 dias** (+12.4% em 24h). Preço em linha com a média de 7 dias (-8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -86,7 +90,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Maya Le Tissier (88, Barclays WSL) lidera, com +89.3% em 7 dias a 40k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
+Morata (87, Serie A TIM) lidera, com +84.8% em 7 dias a 42k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
