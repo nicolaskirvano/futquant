@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:02:34.000Z
+pubDatetime: 2026-06-20T22:02:57.000Z
 title: "Jogadores baratos e bons no EA FC (20/06/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Elliot Stroud (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Hiroki Ito (93) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Elliot Stroud (94) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hiroki Ito | 93 | CB | — | 14k coins | -33.3% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -22.1% |
-| Iliman Ndiaye | 93 | LM | — | 15k coins | -14.7% |
-| Esperanza Pizarro | 92 | CM | — | 12k coins | -63.2% |
-| Jesse Randall | 92 | LM | — | 12k coins | -69.2% |
-| Luciano Valente | 92 | CM | — | 12k coins | -68.8% |
-| Antonio Sanabria | 92 | ST | — | 14k coins | -1.9% |
-| Arthur Theate | 92 | CB | — | 14k coins | +3.7% |
-| Mario Pašalić | 92 | CM | — | 14k coins | -1.8% |
-| Cristian Martínez | 92 | RM | — | 14k coins | -1.9% |
-| Edmilson Junior | 92 | LW | — | 14k coins | 0% |
-| Frantzdy Pierrot | 92 | ST | — | 14k coins | +3.8% |
-| Enner Valencia | 92 | ST | — | 14k coins | +3.6% |
-| Jason Geria | 92 | RB | — | 14k coins | -6.9% |
-| Raúl Jiménez | 92 | ST | — | 14k coins | -10.8% |
+| Elliot Stroud | 94 | LB | — | 14k coins | -64.6% |
+| Ryan Wintle | 94 | CDM | — | 14k coins | -64.5% |
+| Blás Riveros | 94 | LB | — | 14k coins | -65.5% |
+| Christoph Baumgartner | 93 | CAM | — | 12k coins | -64.1% |
+| Nicolas López | 93 | ST | — | 12k coins | -67.5% |
+| Victor Froholdt | 93 | CM | — | 12k coins | -63.1% |
+| Eldor Shomurodov | 93 | ST | — | 12k coins | -65.5% |
+| Diego Luna | 93 | CAM | — | 13k coins | -61.1% |
+| Milan Škriniar | 93 | CB | — | 13k coins | -68.1% |
+| Jakob Glesnes | 93 | CB | — | 13k coins | -67.9% |
+| Bartosz Nowak | 93 | LW | — | 13k coins | -65.8% |
+| Maria Méndez | 93 | CB | — | 13k coins | -62.5% |
+| Marco Palestra | 93 | RB | — | 13k coins | -64.4% |
+| Omar Sowunmi | 93 | CB | — | 13k coins | -66.7% |
+| Jesse Randall | 93 | LM | — | 14k coins | -25% |
 
 
 ## 📈 Destaques
 
-- **Hiroki Ito (93, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Elliot Stroud (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ryan Wintle (94, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Iliman Ndiaye (93, LM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Blás Riveros (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Esperanza Pizarro (92, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christoph Baumgartner (93, CAM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jesse Randall (92, LM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nicolas López (93, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Hiroki Ito (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Elliot Stroud (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

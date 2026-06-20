@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:02:05.000Z
+pubDatetime: 2026-06-20T22:02:22.000Z
 title: "Mercado do EA FC hoje (20/06/2026): análise de altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Aarón (85, LALIGA EA SPORTS), com +59.8% em 24h, a 78k coins no PC."
+    a: "Matías Soulé (86, Serie A TIM), com +58.8% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Roberto Carlos (91), -50% em 24h, a 630k coins."
+    a: "Fiamma Benítez (96), -50% em 24h, a 50k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 48k coins."
+    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 573 cartas em alta contra 1067 em queda (média -4.69%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 622 cartas em alta contra 1042 em queda (média -2.21%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de EA FC Ultimate Team nesta data de 20 de junho de 2026 apresenta um cenário de extrema volatilidade e predomínio de sentimento vendedor, caracterizado por uma pressão descendente generalizada que afeta a maioria dos ativos líquidos. Com uma média negativa de -4.69% em apenas 24 horas, o ambiente reflete uma fase de consolidação onde os traders mais experientes estão realizando lucros ou se protegendo contra incertezas futuras, resultando em um desequilíbrio claro entre oferta e demanda. Os dados indicam que 1067 cartas sofreram quedas de preço, enquanto apenas 573 registram altas, o que sinaliza que a cautela é a estratégia predominante entre a comunidade de trading neste momento específico. Para quem opera no segmento geral, é fundamental entender que essa dinâmica de queda não é uniforme, pois existem oportunidades de compra seletiva em ativos específicos que deflacionaram excessivamente, mas o risco de continuar caindo permanece elevado para a maioria das categorias. O tom do dia exige disciplina rigorosa, evitando-se compras impulsivas em cartas que ainda não encontraram seu suporte técnico, focando-se apenas em oportunidades onde a probabilidade de reversão é estatisticamente favorável.
+O mercado de hoje exibe um cenário profundamente hostil para especuladores, caracterizado por um sentimento majoritariamente vendedor que pesa sobre a maioria das cotações, com uma média de variação negativa de -2.21% nas últimas 24 horas refletindo a cautela extrema dos traders. A disparidade entre as 622 altas registradas contra as 1042 quedas evidencia uma liquidez em retração, onde apenas ativos com catalisadores específicos conseguem romper a gravidade do bear market estabelecido. Neste contexto de 20/06/2026, a volatilidade não é aleatória, mas sim concentrada em nichos específicos que atraem a atenção de mercados de compra seletivos, enquanto a massa crítica de cartas sofre com a falta de demanda orgânica. O trader experiente deve ler esses sinais não como ruído, mas como uma confirmação de que o capital está fugindo de ativos de médio e alto porte sem justificativa narrativa imediata. Portanto, a estratégia para este dia deve ser de extrema seletividade, evitando posições largas e focando apenas nas anomalias estatísticas que indicam acúmulo de ordens de compra em pontos de preço específicos.
 
-> 🟢 **Maior alta:** Aarón (85) **+59.8%** · 🔴 **Maior baixa:** Roberto Carlos (91) **-50%**
+> 🟢 **Maior alta:** Matías Soulé (86) **+58.8%** · 🔴 **Maior baixa:** Fiamma Benítez (96) **-50%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aarón | 85 | LALIGA EA SPORTS | 78k coins | +59.8% | +81.3% |
-| Ibañez | 86 | ROSHN Saudi League | 98k coins | +57.6% | +42.8% |
-| Amine Gouiri | 84 | Ligue 1 McDonald's | 44k coins | +57.5% | +5% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 27k coins | +57.1% | +59.4% |
-| Clara Mateo | 92 | D1 Arkema | 188k coins | +56.8% | +64.2% |
-| Diego Milito | 91 | — | 28k coins | +56.8% | -40.8% |
-| Wendie Renard | 86 | D1 Arkema | 24k coins | +56.2% | +29.9% |
-| Rubén García | 87 | LALIGA EA SPORTS | 42k coins | +56% | +41.8% |
-| Éder Militão | 86 | LALIGA EA SPORTS | 160k coins | +55.3% | +15.9% |
-| Leif Davis | 84 | EFL Championship | 50k coins | +55% | +4.7% |
+| Matías Soulé | 86 | Serie A TIM | 32k coins | +58.8% | +27% |
+| Aarón | 85 | LALIGA EA SPORTS | 72k coins | +58.5% | +74.3% |
+| Júnior Brumado | 84 | 3F Superliga | 43k coins | +58.3% | +21.8% |
+| Juan Cuadrado | 86 | Serie A TIM | 30k coins | +57.1% | +6.9% |
+| Scott McTominay | 87 | Serie A TIM | 95k coins | +56.7% | -4.7% |
+| Marshall Munetsi | 84 | Ligue 1 McDonald's | 33k coins | +52.5% | +19.2% |
+| Endrick | 86 | LALIGA EA SPORTS | 700k coins | +51.5% | +22.4% |
+| Rafael Leão | 86 | Serie A TIM | 826k coins | +51.1% | +22% |
+| Fermín | 83 | LALIGA EA SPORTS | 58k coins | +51% | +8.3% |
+| Kenny Dalglish | 89 | Icons | 120k coins | +50.9% | -8.4% |
 
 
-Entre os poucos ativos que conseguiram defiar a tendência de baixa, destacam-se movimentos agressivos em cartas de ligas específicas, impulsionados provavelmente por eventos de jogo ou promoções pontuais que aumentaram a demanda por esses jogadores. Aarón, da LALIGA EA SPORTS, lidera as altas com um salto impressionante de 59.8% em 24 horas, atingindo a marca de 78k coins, com uma probabilidade de alta futura estimada em 56%, sugerindo que o momentum pode se sustentar se a demanda por sua posição continuar forte. Ibañez, do ROSHN Saudi League, também apresenta uma performance robusta com alta de 57.6% em 24 horas, posicionado a 98k coins, embora sua probabilidade de alta seja ligeiramente menor em 47%, o que indica cautela para entradas nesse nível de preço. Amine Gouiri, da Ligue 1 McDonald's, subiu 57.5% em 24 horas para 44k coins, com uma probabilidade de alta de 56%, o que o torna um ativo interessante para traders que buscam exposição em atacantes de liga francesa com bom custo-benefício. Corentin Tolisso, também da Ligue 1 McDonald's, registrou alta de 57.1% em 24 horas para 27k coins, com a maior probabilidade de alta do grupo em 60%, indicando forte expectativa de continuidade do movimento para cima. Esses movimentos isolados em meio a uma queda geral sugerem que o capital está sendo realocado para ativos de menor capilaridade ou com utilidade específica em SBCs ou eventos de fim de semana, criando oportunidades de arbitragem para quem monitora essas distorções de preço em tempo real.
+Destacam-se no topo das altas o Matías Soulé, da Serie A TIM, que registrou um impressionante aumento de 58.8% em 24h, atingindo 32k coins com uma probabilidade de alta projetada de 59%, sugerindo forte acúmulo institucional ou preparação para evento futuro. Junto a ele, Aarón, da LALIGA EA SPORTS, subiu 58.5% para cotar a 72k coins, mantendo uma probabilidade de alta de 56%, o que indica sustentação na demanda por suas habilidades técnicas em composições de ataque. Júnior Brumado, da 3F Superliga, também se destaca com alta de 58.3% a 43k coins, embora sua probabilidade de alta de 35% sugira que este movimento possa ser mais especulativo do que fundamentado em longo prazo. Juan Cuadrado, veterano da Serie A TIM, apresentou alta de 57.1% a 30k coins, com probabilidade de alta de 30%, demonstrando que até cartas mais antigas podem ter momentos de liquidez repentina devido a necessidades de squads específicos. Scott McTominay, também da Serie A TIM, fecha o grupo de destaque com alta de 56.7% a 95k coins e probabilidade de alta de 59%, consolidando-se como um ativo de maior valor com trajetória ascendente robusta neste momento de mercado.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roberto Carlos | 91 | Icons | 630k coins | -50% | -44.4% |
-| Trinity Rodman | 87 | NWSL | 127k coins | -49.2% | -28.8% |
-| David Brooks | 86 | Premier League | 20k coins | -48.8% | +6.5% |
-| Ahmet Oğuz | 86 | EFL League One | 21k coins | -47.3% | -50.4% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 26k coins | -47.3% | -69.8% |
-| Lauren James | 89 | Barclays WSL | 95k coins | -47.2% | -45.7% |
-| Romée Leuchter | 96 | — | 174k coins | -47.1% | -39.1% |
-| Nuno Tavares | 87 | Serie A TIM | 50k coins | -46.8% | -56.1% |
-| Federico Dimarco | 96 | — | 20k coins | -46.5% | -68.8% |
-| James Milner | 88 | Premier League | 38k coins | -45.3% | -46.1% |
+| Fiamma Benítez | 96 | — | 50k coins | -50% | -72% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 690k coins | -48.1% | -28.1% |
+| Ashley Cole | 92 | — | 73k coins | -46.6% | -44.7% |
+| Vangelis Pavlidis | 95 | — | 20k coins | -46.4% | -61.3% |
+| Nahuel Molina | 91 | — | 85k coins | -45.6% | -44.2% |
+| Kevin De Bruyne | 88 | Serie A TIM | 200k coins | -45.2% | -45.4% |
+| Patrick van Aanholt | 85 | Eredivisie | 24k coins | -45% | -39% |
+| Nicolò Savona | 83 | Premier League | 54k coins | -44.9% | -42.6% |
+| Gianluigi Donnarumma | 95 | — | 241k coins | -44.7% | -49.8% |
+| Ahmet Oğuz | 86 | EFL League One | 28k coins | -44.2% | -53.4% |
 
 
-O lado das baixas é dominado por quedas severas em ativos que perderam relevância ou sofreram excesso de oferta, com Roberto Carlos, um Icon de 91 rating, despencando 50% em 24 horas para 630k coins, apesar de sua probabilidade de alta ser de apenas 19%, o que sugere que a queda pode se estender se não houver gatilhos de SBC imediatos. Trinity Rodman, do NWSL, caiu 49.2% em 24 horas para 127k coins, com uma probabilidade de alta de 50%, indicando um ponto de equilíbrio onde o ativo pode estar encontrando suporte, mas ainda carrega riscos significantes de volatilidade. David Brooks, da Premier League, registrou queda de 48.8% em 24 horas para 20k coins, com baixa probabilidade de alta de 25%, o que o torna um ativo arriscado para compra, pois a tendência descendente ainda parece ter força. Ahmet Oğuz, da EFL League One, caiu 47.3% em 24 horas para 21k coins, com probabilidade de alta de apenas 12%, refletindo a falta de interesse do mercado em ativos de ligas menores sem utilidade comprovada em eventos atuais. Ferland Mendy, da LALIGA EA SPORTS, também caiu 47.3% em 24 horas para 26k coins, mas com probabilidade de alta de 46%, o que pode indicar uma oportunidade de compra de alta se o mercado estabilizar, pois a queda pode ter sido exagerada em relação à sua utilidade real. Esses movimentos de baixa drástica exigem que o trader evite tentar adivinhar o fundo, preferindo esperar por sinais de reversão mais claros ou por eventos que reajam a demanda por essas posições específicas.
+Na outra ponta do espectro, a correção é violenta e abrangente, liderada por Fiamma Benítez, que despencou 50% em 24h para 50k coins, com probabilidade de alta de 0%, indicando total desinteresse do mercado e possível liquidação de estoque. Ousmane Dembélé, da Ligue 1 McDonald's, sofreu uma queda de 48.1% a 690k coins, ainda mantendo uma probabilidade de alta de 28%, o que pode atrair compradores de risco dispostos a apostar na recuperação de um ativo de elite. Ashley Cole, sem liga associada, caiu 46.6% a 73k coins com probabilidade de alta de 12%, refletindo a fragilidade de cartas de legado que dependem exclusivamente de nostalgia para manter valor. Vangelis Pavlidis, também sem liga, recuou 46.4% a 20k coins com probabilidade de alta de 0%, sinalizando um ativo que perdeu relevância competitiva e está sendo abandonado pelos traders. Nahuel Molina, sem liga, caiu 45.6% a 85k coins com probabilidade de alta de 36%, enquanto Kevin De Bruyne, da Serie A TIM, despencou 45.2% a 200k coins com probabilidade de alta de 13%, mostrando que até ícones não estão imunes à pressão vendedora generalizada que afeta o mercado de alto valor hoje.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,24 +74,15 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Agnes Beever-Jones | 90 | 48k coins | 49k coins | 81% |
-| Giovani Lo Celso | 91 | 33k coins | 35k coins | 80% |
+| Agnes Beever-Jones | 90 | 50k coins | 51k coins | 81% |
+| Giovani Lo Celso | 91 | 30k coins | 31k coins | 80% |
 
 
-O modelo de previsão identifica oportunidades interessantes em ativos com alta probabilidade de valorização futura, destacando Agnes Beever-Jones, do Barclays WSL, com probabilidade de alta de 81% e preço atual de 48k coins, o que sugere uma forte expectativa de compra seletiva em atacantes femininas de alto rating. Giovani Lo Celso, da LALIGA EA SPORTS, é outro ativo com projeção positiva, apresentando probabilidade de alta de 80% e cotado a 33k coins, indicando que o mercado pode começar a preçar sua utilidade em SBCs ou eventos futuros de liga espanhola. Esses dois ativos representam as melhores oportunidades de compra baseada em dados, pois suas probabilidades de alta são significativamente superiores à média do mercado, oferecendo um risco ajustado mais favorável para traders que buscam exposição em ativos com potencial de valorização a curto prazo. A recomendação é monitorar de perto esses dois jogadores, buscando entradas em preços competitivos ou utilizando ordens de compra para garantir o melhor preço possível antes que o mercado ajuste suas expectativas para cima.
-
-
-## ⚠️ Cartas em risco nas próximas 24h
-
-Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
-
-| Jogador | OVR | Preço atual | Variação prevista |
-| --- | --- | --- | --- |
-| Mikel Gogorza | 86 | 65k coins | -14.4% |
+O modelo preditivo identifica oportunidades de contra-tendência em ativos específicos, destacando Agnes Beever-Jones da Barclays WSL, que cotada a 50k coins possui uma probabilidade de alta de 81%, sugerindo um movimento técnico iminente de correção para cima. Paralelamente, Giovani Lo Celso da LALIGA EA SPORTS, cotado a 30k coins, apresenta probabilidade de alta de 80%, indicando forte potencial de valorização baseado em padrões históricos de compra e venda. Esses dados sugerem que, apesar do clima vendedor geral, existem bolsões de acumulação silenciosa em categorias específicas que o mercado ainda não precificou adequadamente, oferecendo assimetria favorável para traders que conseguirem entrar antes da manifestação óbvia desses movimentos. A divergência entre o sentimento geral negativo e essas previsões positivas pontuais cria uma oportunidade de arbitragem temporal, onde a paciência é mais valiosa do que a execução rápida. É crucial monitorar de perto esses dois ativos, pois a alta probabilidade de valorização indica que a oferta está sendo absorvida rapidamente em níveis de preço atuais, preparando o terreno para uma ruptura ascendente nas próximas horas.
 
 
 ## 🎯 Conclusão do dia
-A estratégia para hoje deve ser predominantemente defensiva, focando em evitar compras em ativos que estão em tendência de queda acentuada, como Roberto Carlos e David Brooks, que apresentam baixas probabilidades de alta e riscos elevados de perda. Priorize a compra seletiva de ativos com alta probabilidade de valorização, como Agnes Beever-Jones e Giovani Lo Celso, que oferecem um perfil de risco-recompensa mais favorável com base nas previsões do modelo. Para traders mais agressivos, considere pequenas posições em Aarón e Corentin Tolisso, aproveitando o momentum de alta atual, mas mantenha stops de perda rigorosos para proteger o capital caso a tendência se inverta. Evite segurar ativos com quedas acentuadas e baixa probabilidade de alta, como Ahmet Oğuz e Ibañez, a menos que haja um gatilho específico de SBC ou evento que justifique a manutenção da posição. O timing é crucial, pois o mercado está em um período de alta volatilidade, e decisões rápidas baseadas em dados podem ser a diferença entre lucro e prejuízo; portanto, monitore os preços em tempo real e esteja pronto para ajustar sua estratégia conforme novas informações surgirem.
+A estratégia para hoje deve focar em evitar exposições a ativos de queda livre como Fiamma Benítez e Vangelis Pavlidis, que apresentam zero probabilidade de alta e risco de perda total de capital. Recomenda-se comprar apenas as probabilidades de alta confirmadas pelo modelo, especificamente Agnes Beever-Jones e Giovani Lo Celso, utilizando ordens limitadas ligeiramente abaixo dos preços atuais para garantir margem de segurança. Para os ativos em alta como Matías Soulé e Scott McTominay, a recomendação é segurar apenas se já estiverem em portfólio, evitando novas compras a preços esticados dada a probabilidade de correção após movimentos tão abruptos. Traders agressivos podem considerar a compra de Ousmane Dembélé como aposta de recuperação, mas devem definir stops de perda rígidos devido à volatilidade extrema do ativo. O foco principal deve ser a preservação de capital neste dia de clima vendedor, priorizando liquidez e evitando alavancagem excessiva em mercados que exibem mais de mil quedas do que altas.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -101,16 +92,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Aarón (85, LALIGA EA SPORTS), com +59.8% em 24h, a 78k coins no PC.
+Matías Soulé (86, Serie A TIM), com +58.8% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**  
-Roberto Carlos (91), -50% em 24h, a 630k coins.
+Fiamma Benítez (96), -50% em 24h, a 50k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 48k coins.
+Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 573 cartas em alta contra 1067 em queda (média -4.69%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 622 cartas em alta contra 1042 em queda (média -2.21%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
