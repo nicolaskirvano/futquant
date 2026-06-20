@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:03:22.000Z
+pubDatetime: 2026-06-20T01:02:31.000Z
 title: "Melhores investimentos no EA FC hoje (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Zé Roberto (87, Bundesliga) lidera, com +89.9% em 7 dias a 84k coins no PC, e o modelo dá 60% de chance de seguir subindo."
+    a: "Morata (87, Serie A TIM) lidera, com +88.4% em 7 dias a 66k coins no PC, e o modelo dá 11% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Zé Roberto (87) acumula **+89.9% em 7 dias** a 84k coins.
+> 🔝 **Destaque:** Morata (87) acumula **+88.4% em 7 dias** a 66k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário do mercado de EA FC Ultimate Team em 19 de junho de 2026, a volatilidade das últimas 24 horas destaca oportunidades claras para investidores que buscam ganhos de curto prazo. Ao analisar a tendência de valorização dos últimos sete dias, é evidente que o foco deve recair sobre jogadores com alta probabilidade de continuidade na alta e variação percentual significativa. Entre os destaques absolutos, Morata (87, Serie A TIM) apresenta o maior impulso imediato, com um aumento de 33% em apenas um dia, posicionando-se a 66k coins. No entanto, sua probabilidade de alta futura é a mais baixa do grupo, com apenas 11%, o que sugere que este movimento pode ser um pico isolado ou uma correção iminente, exigindo cautela extrema de quem pretende entrar.
+Ao analisar o mercado de EA FC Ultimate Team em PC para o dia 19 de junho de 2026, observa-se um cenário de volatilidade interessante, onde a probabilidade de valorização futura emerge como um fator decisivo tanto quanto o aumento percentual imediato das últimas 24 horas. A análise dos dados revela que investidores devem priorizar cartas que combinam uma subida consistente com uma alta probabilidade estatística de continuação dessa tendência, evitando ativos que, apesar de mostrarem picos de preço, carecem de sustentabilidade no mercado secundário. A estratégia ideal para este período foca em ativos de médio a baixo custo que apresentam uma correlação positiva entre o desempenho recente e a expectativa de alta, permitindo uma gestão de risco mais eficiente para carteiras de coins diversificadas.
 
-Por outro lado, o equilíbrio entre risco e recompensa aponta para Billy Gilmour (87, Serie A TIM) como a entrada mais sólida atualmente. Com uma valorização de 13,9% nas últimas 24 horas e um preço de 45k coins, a carta possui a maior probabilidade de alta entre todas analisadas, chegando a 76%. Essa combinação estatística indica uma tendência de mercado robusta, provavelmente impulsionada pela demanda em times temáticos da Serie A TIM. Para investidores que preferem segurança estatística sobre ganhos explosivos imediatos, Gilmour representa a opção mais racional, oferecendo uma base estável para crescimento contínuo nos próximos dias.
+Entre as opções mais seguras e promissoras, Agnes Beever-Jones destaca-se como a aposta mais sólida do momento. A atacante da Barclays WSL, com uma rating de 90, registrou uma impressionante alta de 23,1% em apenas 24 horas, posicionando-se a 56 mil coins. O que torna esta carta particularmente atrativa não é apenas o salto de preço, mas sim a probabilidade de alta de 81%, a maior do grupo analisado. Este indicador sugere uma forte demanda sustentada, possivelmente impulsionada por eventos de jogo ou atualizações de equipe, tornando-a um ativo de entrada com baixo risco de reversão imediata e alto potencial de retorno no curto prazo.
 
-O setor feminino, especificamente a Liga F, também demonstra dinamismo interessante, embora com probabilidades de alta moderadas. Nerea Nevado (89, Liga F) e Rocío Gálvez (85, Liga F) registraram aumentos de 22,8% e 22,6% respectivamente, cotadas a 30k e 28k coins. Apesar de suas probabilidades de alta serem de 38% e 39%, respectivamente, a magnitude do movimento diário sugere uma liquidez crescente nessas cartas. Para portfólios diversificados que não dependem exclusivamente de grandes nomes da Premier League ou Bundesliga, essas atletas oferecem uma via de entrada de baixo custo com potencial de retorno rápido, desde que o investidor esteja disposto a gerenciar o risco associado às probabilidades sub-40%.
+Outra carta que merece atenção imediata é Marek Hamšík, veterano da Serie A TIM com rating 89. O meio-campista subiu 10,1% em 24 horas, estabilizando seu preço em 60 mil coins. Com uma probabilidade de alta de 67%, Hamšík representa um equilíbrio perfeito entre valorização moderada e segurança estatística. Para investidores que buscam evitar a extrema volatilidade de cartas com picos momentâneos, Hamšík oferece uma trajetória ascendente consistente, ideal para quem deseja construir uma reserva de valor sem expor grande parte do capital a riscos desnecessários no mercado de PC.
 
-Na Bundesliga, Zé Roberto (87) e Keven Schlotterbeck (89) apresentam perfis distintos. Zé Roberto subiu 6,2% para 84k coins, com uma probabilidade de alta de 60%, indicando uma tendência suave mas consistente. Já Schlotterbeck, apesar de ser uma carta de rating superior (89), tem uma probabilidade de alta de apenas 29% para os 10,7% de crescimento observados. A discrepância entre o aumento recente e a baixa probabilidade futura em Schlotterbeck pode indicar que a carta atingiu sua resistência de preço atual, sendo mais adequado para trade rápido do que para holding de longo prazo.
+Juan Mata também se apresenta como uma excelente oportunidade de entrada. O meia da A-League, com rating 88, apresentou uma alta de 16,4% em 24 horas, cotado a 55 mil coins. Com uma probabilidade de alta de 57%, Mata demonstra uma tendência de valorização robusta, superando a média do mercado em termos de consistência. Sua posição de preço acessível, combinada com uma probabilidade de crescimento superior a 50%, o torna um ativo líquido e fácil de negociar, permitindo aos jogadores girarem seus coins rapidamente enquanto capturam os ganhos de valorização.
 
-Outros jogadores merecem menção por sua volatilidade específica. Hugo Ekitiké (86, Premier League) saltou 23,3% para 42k coins, com 53% de chance de alta, representando uma boa aposta de médio risco. Anis Hadj-Moussa (86, Eredivisie) segue uma lógica similar, com 18,8% de alta e 57% de probabilidade, cotado a 95k coins. Por fim, Paulo Dybala (88, Serie A TIM) e Thiago (85, MLS) mostram aumentos modestos de 7,4% e 6,5%, respectivamente, mas suas baixas probabilidades de alta (36% e 26%) sugerem que o momento de compra pode não ser o ideal, a menos que haja uma notícia específica de evento futuro não contemplada nos dados atuais. Em resumo, o mercado favorece entradas em Gilmour e Ekitiké pela relação risco-retorno favorável.
+Para perfis de investimento mais arrojados, Kelechi Iheanacho oferece um caso interessante de assimetria de risco e retorno. Apesar de ter registrado um aumento modesto de apenas 1,7% em 24 horas, a probabilidade de alta de 59% indica que o mercado ainda não precificou totalmente seu potencial. Cotado a apenas 30 mil coins, o atacante da Scottish Premiership representa uma entrada de baixo custo com uma expectativa de valorização significativa, ideal para carteiras que buscam diversificar em ativos subvalorizados que podem experimentar uma correção de preço para cima nas próximas sessões.
+
+Por outro lado, é crucial exercitar cautela com cartas como Couhaib Driouech e Cédric Bakambu. Embora Driouech tenha disparado 31,9% e Bakambu tenha subido 20%, suas probabilidades de alta são de apenas 22% e 19%, respectivamente. Esses números indicam que os preços atuais podem estar inflados por demanda momentânea, sugerindo um risco elevado de correção. Portanto, a recomendação estratégica é focar em Beever-Jones, Hamšík, Mata e Iheanacho, que oferecem o melhor equilíbrio entre preço atual, crescimento recente e, principalmente, probabilidade estatística de continuação da valorização no mercado de PC.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Zé Roberto | 87 | Bundesliga | 84k coins | +6.2% | +89.9% | 60% |
-| Billy Gilmour | 87 | Serie A TIM | 45k coins | +13.9% | +87.5% | 76% |
-| Paulo Dybala | 88 | Serie A TIM | 165k coins | +7.4% | +87.1% | 36% |
-| Hugo Ekitiké | 86 | Premier League | 42k coins | +23.3% | +87.1% | 53% |
-| Thiago | 85 | MLS | 29k coins | +6.5% | +85.5% | 26% |
-| Nerea Nevado | 89 | Liga F | 30k coins | +22.8% | +84.2% | 38% |
-| Rocío Gálvez | 85 | Liga F | 28k coins | +22.6% | +83.9% | 39% |
-| Anis Hadj-Moussa | 86 | Eredivisie | 95k coins | +18.8% | +82.7% | 57% |
-| Keven Schlotterbeck | 89 | Bundesliga | 32k coins | +10.7% | +82.4% | 29% |
-| Morata | 87 | Serie A TIM | 66k coins | +33% | +77.3% | 11% |
-| Jens Petter Hauge | 91 | Eliteserien | 42k coins | +13.5% | +75% | 48% |
-| Adam Wharton | 88 | Premier League | 30k coins | +14% | +74.7% | 76% |
-| Unai López | 87 | LALIGA EA SPORTS | 29k coins | +21.1% | +74.2% | 47% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 184k coins | +2.2% | +73.6% | 52% |
-| Ritsu Doan | 86 | Bundesliga | 80k coins | +6.7% | +73% | 60% |
+| Morata | 87 | Serie A TIM | 66k coins | +8.3% | +88.4% | 11% |
+| Jade Le Guilly | 89 | D1 Arkema | 40k coins | +6% | +87.4% | 42% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 56k coins | +23.1% | +86.7% | 81% |
+| Couhaib Driouech | 86 | Eredivisie | 95k coins | +31.9% | +84.5% | 22% |
+| Elliot Anderson | 86 | Premier League | 35k coins | +9.4% | +84.2% | 36% |
+| Dejan Lovren | 86 | Hellas Liga | 70k coins | +2.2% | +79.5% | 34% |
+| Marek Hamšík | 89 | Serie A TIM | 60k coins | +10.1% | +79.1% | 67% |
+| Juan Mata | 88 | A-League | 55k coins | +16.4% | +77.4% | 57% |
+| Kelechi Iheanacho | 87 | Scottish Premiership | 30k coins | +1.7% | +75% | 59% |
+| Cédric Bakambu | 86 | LALIGA EA SPORTS | 30k coins | +20% | +73.9% | 19% |
+| Mohamed Salah | 89 | Premier League | 23k coins | +37.1% | +71.4% | 22% |
+| Dominik Szoboszlai | 87 | Premier League | 236k coins | +25.5% | +68.6% | 68% |
+| Marta | 90 | NWSL | 45k coins | +9.1% | +63.3% | 68% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 30k coins | +14.4% | +63% | 71% |
+| Eduardo Quaresma | 88 | Liga Portugal | 49k coins | +12.7% | +57.3% | 59% |
 
 
 ## 📈 Análise dos destaques
 
-- **Zé Roberto (87)** — 84k coins, **+89.9% em 7 dias** (+6.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Morata (87)** — 66k coins, **+88.4% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Billy Gilmour (87)** — 45k coins, **+87.5% em 7 dias** (+13.9% em 24h). Preço em linha com a média de 7 dias (+0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jade Le Guilly (89)** — 40k coins, **+87.4% em 7 dias** (+6% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Paulo Dybala (88)** — 165k coins, **+87.1% em 7 dias** (+7.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Agnes Beever-Jones (90)** — 56k coins, **+86.7% em 7 dias** (+23.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
 
-- **Hugo Ekitiké (86)** — 42k coins, **+87.1% em 7 dias** (+23.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Couhaib Driouech (86)** — 95k coins, **+84.5% em 7 dias** (+31.9% em 24h). Preço +45% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Thiago (85)** — 29k coins, **+85.5% em 7 dias** (+6.5% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Elliot Anderson (86)** — 35k coins, **+84.2% em 7 dias** (+9.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +90,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Zé Roberto (87, Bundesliga) lidera, com +89.9% em 7 dias a 84k coins no PC, e o modelo dá 60% de chance de seguir subindo.
+Morata (87, Serie A TIM) lidera, com +88.4% em 7 dias a 66k coins no PC, e o modelo dá 11% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
