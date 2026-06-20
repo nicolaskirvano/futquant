@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:02:26.000Z
+pubDatetime: 2026-06-20T19:02:32.000Z
 title: "Melhores investimentos no EA FC hoje (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Tim Ream (85, MLS) lidera, com +89.5% em 7 dias a 90k coins no PC, e o modelo dá 28% de chance de seguir subindo."
+    a: "Tim Ream (85, MLS) lidera, com +89.5% em 7 dias a 100k coins no PC, e o modelo dá 28% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Tim Ream (85) acumula **+89.5% em 7 dias** a 90k coins.
+> 🔝 **Destaque:** Tim Ream (85) acumula **+89.5% em 7 dias** a 100k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-O cenário do mercado de EA FC Ultimate Team em PC, datado de 20 de junho de 2026, apresenta uma volatilidade interessante para investidores que buscam oportunidades de curto a médio prazo. Ao analisar as tendências dos últimos sete dias, focando especificamente nas variações de preço das últimas 24 horas, identificamos ativos com potencial de valorização significativo. A chave para uma estratégia sólida neste momento reside na combinação entre o percentual de alta recente e a probabilidade estatística de continuidade dessa tendência, evitando assim compras em ativos que já atingiram seu pico imediato. Entre as opções disponíveis, algumas cartas se destacam por oferecerem um equilíbrio mais favorável entre risco e retorno, considerando seus preços atuais e a demanda projetada pela comunidade.
+O mercado de EA FC Ultimate Team em PC, nesta data de 20 de junho de 2026, apresenta uma volatilidade interessante, impulsionada principalmente por movimentos específicos em cartas de linhas femininas e ícones históricos. Ao analisar as tendências dos últimos sete dias, é evidente que os investidores estão buscando oportunidades de entrada com baixo custo e alta probabilidade de valorização. Entre as opções mais atrativas, destacam-se as cartas de Andreia Jacinto e Maëlle Garbino. A lateral-esquerda da Liga F, Andreia Jacinto, registra um impressionante aumento de 10,2% em apenas 24 horas, posicionando-se a 32 mil moedas. Com uma probabilidade de alta de 58%, ela se consolida como uma das apostas mais seguras para quem busca retornos rápidos no segmento de baixo investimento, aproveitando a escassez momentânea no mercado.
 
-Um dos pontos mais atrativos para entrada imediata é a carta de Mohamed Salah (89, Premier League). Com uma valorização robusta de 23,8% nas últimas 24 horas, o jogador está cotado a apenas 24 mil coins. Apesar de a probabilidade de alta ser de apenas 22%, o baixo valor de entrada minimiza o risco financeiro, tornando-o uma opção acessível para portfólios diversificados. Outro destaque notável é o Nicolò González (86, Premier League), que registrou uma alta de 22,1% e custa 40 mil coins. Com uma probabilidade de alta de 26%, ele representa uma aposta segura para quem busca liquidez rápida, já que jogadores da Premier League tendem a manter demanda constante devido à popularidade do campeonato.
+Paralelamente, Maëlle Garbino, da D1 Arkema, oferece um cenário ainda mais promissor em termos de probabilidade. A cartista de 86 de overall subiu 23,7% em um dia, atingindo o preço de 29 mil moedas. O que torna essa carta particularmente interessante é a sua probabilidade de alta de 62%, a segunda mais elevada entre todas as opções analisadas. Para traders iniciantes ou aqueles com capital limitado, a entrada em Garbino representa um equilíbrio ideal entre risco e retorno, com um preço de acesso que não compromete significativamente a liquidez da conta.
 
-No segmento feminino, as oportunidades são particularmente promissoras. Mary Alice Vignola (85, NWSL) lidera as porcentagens de alta com impressionantes 35,4% em 24 horas, custando apenas 26 mil coins. Sua probabilidade de alta de 47% a consolida como uma das melhores relações custo-benefício do mercado atual. Complementando essa análise, Tara McKeown (89, NWSL) oferece uma perspectiva ainda mais sólida, com uma probabilidade de alta de 58%, a mais alta entre os jogadores listados. Apesar de ter subido 20,6% e custar 32 mil coins, a alta probabilidade sugere que a tendência de valorização deve se manter, o que é crucial para investimentos em cartas de elite feminina que muitas vezes sofrem com oscilações bruscas.
+No segmento de médio porte, Granit Xhaka se destaca como o ativo mais robusto. O volante da Premier League, com 89 de overall, experimentou uma alta de 28,2% nas últimas 24 horas, com o preço subindo para 75 mil moedas. A força dessa tendência é respaldada pela probabilidade de alta de 63%, a maior do grupo. Essa combinação de volume de negociação e expectativa de crescimento sugere que Xhaka não é apenas uma flutuação momentânea, mas sim uma carta que está sendo acumulada por jogadores que buscam compilar times competitivos para eventos futuros, consolidando seu valor de mercado a curto prazo.
 
-Para investidores com capital mais elevado e tolerância a riscos diferentes, Wesley Sneijder (89, Serie A TIM) merece atenção. Embora a alta tenha sido modesta de 4,2%, a probabilidade de alta é a mais elevada da lista, com 65%. Cotado a 250 mil coins, ele é um ativo de alto valor, mas a alta probabilidade indica uma sustentação de preço forte, ideal para quem busca estabilidade em vez de ganhos explosivos imediatos. Da mesma forma, Gervinho (85, Serie A TIM) apresenta uma probabilidade de alta de 60% com um custo de entrada de apenas 29 mil coins, após subir 8,1%. Essa combinação de alta probabilidade e preço baixo o torna um "cavalo escuro" com potencial de surpresa.
+Para quem possui maior capital disponível, as cartas de ícones e jogadores de elite oferecem oportunidades distintas. Geoff Hurst, o icônico atacante com 90 de overall, surpreendeu com uma alta de 31,8% em 24 horas, atingindo 59 mil moedas. Apesar de ter uma probabilidade de alta de apenas 25%, o volume de crescimento é significativo, indicando uma compra especulativa forte. Da mesma forma, Sissi, com 88 de overall e preço de 58 mil moedas, subiu 8,7%, mantendo uma probabilidade de alta de 32%. Ambas as cartas parecem estar em uma fase de estabilização após picos recentes, oferecendo uma janela de oportunidade para entrada antes de possíveis correções.
 
-Outras cartas merecem consideração dependendo do perfil de risco. Juan Mata (88, A-League) possui a segunda maior probabilidade de alta (57%), custando 53 mil coins, o que o torna uma aposta de médio porte com boa segurança. Elliot Anderson (86, Premier League) também se destaca com 36% de probabilidade de alta e um preço muito acessível de 34 mil coins, após subir 15%. Por outro lado, Leah Williamson (88, Barclays WSL), apesar da alta expressiva de 31,6%, tem uma probabilidade de alta baixa de 18%, o que pode indicar uma correção iminente, sugerindo cautela na compra. Tim Ream (85, MLS) também apresenta probabilidade alta de 28%, mas seu preço de 90 mil coins exige uma análise mais criteriosa de entrada.
+No topo da tabela de preços, Tim Ream e Cora Zicai representam investimentos de maior risco e recompensa. Ream, da MLS, está a 100 mil moedas com alta de 1,1% e probabilidade de 28%, enquanto Zicai, da GPFBL, também a 100 mil moedas, subiu 13,5% com probabilidade de 59%. A discrepância entre a alta de Ream e a de Zicai, apesar de preços semelhantes, sugere que Zicai tem uma demanda mais orgânica e sustentada. A alta probabilidade de Zicai indica que o mercado ainda vê potencial de valorização, enquanto Ream pode estar saturado.
 
-Em resumo, as melhores oportunidades de entrada hoje concentram-se em jogadores com alta probabilidade de valorização e preços competitivos. Tara McKeown, Wesley Sneijder e Mary Alice Vignola se destacam pela segurança estatística, enquanto Mohamed Salah e Gervinho oferecem acessibilidade. O investidor deve priorizar a probabilidade de alta para mitigar riscos de correção rápida, especialmente em ativos de maior valor como Sneijder. A diversificação entre ligas e gêneros, aproveitando a demanda específica de cada comunidade, é a estratégia mais sã para maximizar lucros neste ciclo de mercado de junho de 2026.
+Finalmente, vale a pena observar as defesas de alto nível. Pau Cubarsí, da LaLiga, subiu 17,4% para 98 mil moedas, com probabilidade de alta de 54%, mostrando solidez. Luke Shaw, da Premier League, com 49 mil moedas, apresentou alta de 7,5% e probabilidade de 56%, sendo uma opção mais conservadora. Por outro lado, Jill Scott, da Barclays WSL, lidera em percentual de alta com 32,6% em 24 horas, a 43 mil moedas, com probabilidade de 32%. Sua volatilidade extrema exige cautela, mas para traders experientes, o movimento rápido de Scott pode oferecer lucros expressivos em curto prazo, desde que gerido com stops de perda rigorosos.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tim Ream | 85 | MLS | 90k coins | +5.9% | +89.5% | 28% |
-| Elliot Anderson | 86 | Premier League | 34k coins | +15% | +79.2% | 36% |
-| Leah Williamson | 88 | Barclays WSL | 50k coins | +31.6% | +77% | 18% |
-| Juan Mata | 88 | A-League | 53k coins | +8.9% | +76% | 57% |
-| Nico González | 86 | Premier League | 40k coins | +22.1% | +75.8% | 26% |
-| Mary Alice Vignola | 85 | NWSL | 26k coins | +35.4% | +75.4% | 47% |
-| Tara McKeown | 89 | NWSL | 32k coins | +20.6% | +72% | 58% |
-| Mohamed Salah | 89 | Premier League | 24k coins | +23.8% | +67.8% | 22% |
-| Wesley Sneijder | 89 | Serie A TIM | 250k coins | +4.2% | +67.8% | 65% |
-| Gervinho | 85 | Serie A TIM | 29k coins | +8.1% | +64.4% | 60% |
-| Paulo Dybala | 91 | Serie A TIM | 216k coins | +3.6% | +64% | 51% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 70k coins | +7.7% | +62.8% | 45% |
-| Gonçalo Guedes | 89 | LALIGA EA SPORTS | 36k coins | +28.6% | +61.8% | 28% |
-| Michelle Agyemang | 89 | Barclays Women’s Super League | 34k coins | +11.3% | +60.5% | 23% |
-| Kerolin Nicoli | 89 | Barclays WSL | 60k coins | +8.1% | +60% | 44% |
+| Tim Ream | 85 | MLS | 100k coins | +1.1% | +89.5% | 28% |
+| Andreia Jacinto | 88 | Liga F | 32k coins | +10.2% | +85.7% | 58% |
+| Geoff Hurst | 90 | Icons | 59k coins | +31.8% | +82.9% | 25% |
+| Sissi | 88 | Icons | 58k coins | +8.7% | +76.5% | 32% |
+| Jill Scott | 87 | Barclays WSL | 43k coins | +32.6% | +75% | 32% |
+| Granit Xhaka | 89 | Premier League | 75k coins | +28.2% | +74.4% | 63% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 98k coins | +17.4% | +74.1% | 54% |
+| Maëlle Garbino | 86 | D1 Arkema | 29k coins | +23.7% | +71.6% | 62% |
+| Cora Zicai | 88 | GPFBL | 100k coins | +13.5% | +68.3% | 59% |
+| Luke Shaw | 86 | Premier League | 49k coins | +7.5% | +66.7% | 56% |
+| Selina Cerci | 87 | GPFBL | 30k coins | +34.5% | +64.8% | 29% |
+| Gervinho | 85 | Serie A TIM | 30k coins | +16% | +61.1% | 60% |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 80k coins | +14.3% | +60.8% | 71% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 69k coins | +6.2% | +60.5% | 45% |
+| Fiamma Benítez | 86 | Liga F | 30k coins | +3.4% | +60% | 57% |
 
 
 ## 📈 Análise dos destaques
 
-- **Tim Ream (85)** — 90k coins, **+89.5% em 7 dias** (+5.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Tim Ream (85)** — 100k coins, **+89.5% em 7 dias** (+1.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Elliot Anderson (86)** — 34k coins, **+79.2% em 7 dias** (+15% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andreia Jacinto (88)** — 32k coins, **+85.7% em 7 dias** (+10.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Leah Williamson (88)** — 50k coins, **+77% em 7 dias** (+31.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Geoff Hurst (90)** — 59k coins, **+82.9% em 7 dias** (+31.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Juan Mata (88)** — 53k coins, **+76% em 7 dias** (+8.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sissi (88)** — 58k coins, **+76.5% em 7 dias** (+8.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nico González (86)** — 40k coins, **+75.8% em 7 dias** (+22.1% em 24h). Preço +57% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (87)** — 43k coins, **+75% em 7 dias** (+32.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Tim Ream (85, MLS) lidera, com +89.5% em 7 dias a 90k coins no PC, e o modelo dá 28% de chance de seguir subindo.
+Tim Ream (85, MLS) lidera, com +89.5% em 7 dias a 100k coins no PC, e o modelo dá 28% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

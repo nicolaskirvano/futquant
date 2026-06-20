@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:01:16.000Z
+pubDatetime: 2026-06-20T19:01:19.000Z
 title: "Jogadores baratos e bons no EA FC (20/06/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Lewis Ferguson (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Ryan Wintle (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lewis Ferguson (93) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Ryan Wintle (94) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lewis Ferguson | 93 | CM | — | 13k coins | -18.2% |
-| Jordan Ayew | 93 | RM | — | 14k coins | -7.9% |
-| Miguel Almirón | 92 | LM | — | 13k coins | -1.9% |
-| Arthur Theate | 92 | CB | — | 13k coins | -3.7% |
-| Edmilson Junior | 92 | LW | — | 13k coins | -1.9% |
-| Mario Pašalić | 92 | CM | — | 13k coins | -3.7% |
-| Hannibal | 92 | CM | — | 13k coins | -1.9% |
-| Enner Valencia | 92 | ST | — | 13k coins | -3.7% |
-| Cristian Martínez | 92 | RM | — | 13k coins | 0% |
-| Amir Murillo | 92 | RB | — | 13k coins | -1.9% |
-| Frantzdy Pierrot | 92 | ST | — | 13k coins | 0% |
-| Jason Geria | 92 | RB | — | 13k coins | -7.1% |
-| Willy Semedo | 92 | LM | — | 13k coins | 0% |
-| Jean-Ricner Bellegarde | 92 | CAM | — | 13k coins | 0% |
-| Amar Dedić | 92 | RB | — | 13k coins | -11.7% |
+| Ryan Wintle | 94 | CDM | — | 15k coins | -62.9% |
+| Diego Luna | 93 | CAM | — | 13k coins | -63.6% |
+| Hiroki Ito | 93 | CB | — | 13k coins | -32.5% |
+| Lewis Ferguson | 93 | CM | — | 13k coins | -19.7% |
+| Jesse Randall | 93 | LM | — | 14k coins | -22.9% |
+| Iliman Ndiaye | 93 | LM | — | 14k coins | -18.2% |
+| Pavel Šulc | 93 | CAM | — | 14k coins | -37.9% |
+| Edson Álvarez | 93 | CDM | — | 14k coins | -27% |
+| Gonçalo Ramos | 93 | ST | — | 14k coins | -56.9% |
+| Jordan Ayew | 93 | RM | — | 14k coins | -6.3% |
+| Esperanza Pizarro | 92 | CM | — | 12k coins | -65% |
+| Caleb Taylor | 92 | CB | — | 12k coins | -66.2% |
+| Luciano Valente | 92 | CM | — | 12k coins | -66.9% |
+| Jesse Randall | 92 | LM | — | 12k coins | -65.5% |
+| Weston McKennie | 92 | RM | — | 12k coins | -70.3% |
 
 
 ## 📈 Destaques
 
+- **Ryan Wintle (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Diego Luna (93, CAM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Hiroki Ito (93, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Lewis Ferguson (93, CM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jordan Ayew (93, RM)** da —, a apenas **14k coins**
-
-- **Miguel Almirón (92, LM)** da —, a apenas **13k coins**
-
-- **Arthur Theate (92, CB)** da —, a apenas **13k coins**
-
-- **Edmilson Junior (92, LW)** da —, a apenas **13k coins**
+- **Jesse Randall (93, LM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Lewis Ferguson (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Ryan Wintle (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
