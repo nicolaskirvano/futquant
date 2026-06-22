@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T10:00:10.000Z
+pubDatetime: 2026-06-22T16:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (22/06/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 22/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/06/2026)?"
-    a: "Trincão (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Matt Grimes (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Trincão (94) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Matt Grimes (94) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Trincão | 94 | CAM | — | 13k coins | -65.1% |
-| Blás Riveros | 94 | LB | — | 13k coins | -70.6% |
-| Jacobo Ramón | 94 | CB | — | 14k coins | -57.2% |
-| Elliot Stroud | 94 | LB | — | 14k coins | -66.7% |
-| Matt Grimes | 94 | CDM | — | 14k coins | -66.7% |
-| Ryan Wintle | 94 | CDM | — | 14k coins | -66.7% |
-| Kerim Alajbegović | 94 | LM | — | 14k coins | -85.7% |
-| Cristian Roldan | 94 | CDM | — | 15k coins | -69.9% |
-| Ewa Pajor | 94 | ST | — | 15k coins | -75.8% |
-| Stine Ballisager | 93 | CB | — | 12k coins | -69.9% |
-| Sebastian Berhalter | 93 | CM | — | 12k coins | -69.8% |
-| Diego Luna | 93 | CAM | — | 12k coins | -63.3% |
-| Maximiliano Araújo | 93 | LB | — | 12k coins | -69.9% |
-| Christoph Baumgartner | 93 | CAM | — | 12k coins | -69.5% |
-| Nicolas López | 93 | ST | — | 12k coins | -68.5% |
+| Matt Grimes | 94 | CDM | — | 14k coins | -67.8% |
+| Laura Dick | 93 | GK | — | 12k coins | -81.6% |
+| Nina Lührßen | 93 | LB | — | 12k coins | -64% |
+| Fabio Fehr | 93 | RB | — | 12k coins | -68.8% |
+| Omar Sowunmi | 93 | CB | — | 12k coins | -67.7% |
+| Mylène Chavas | 93 | GK | — | 12k coins | -72.1% |
+| Aleix García | 93 | CM | — | 12k coins | -69.8% |
+| Sebastian Berhalter | 93 | CM | — | 12k coins | -70.2% |
+| Victor Froholdt | 93 | CM | — | 12k coins | -67.1% |
+| Paula Fernández | 93 | CM | — | 12k coins | -64% |
+| Eldor Shomurodov | 93 | ST | — | 12k coins | -68.4% |
+| Haji Wright | 93 | ST | — | 12k coins | -67.5% |
+| Ingrid Syrstad Engen | 93 | CB | — | 12k coins | -74.6% |
+| Vivianne Miedema | 93 | CAM | — | 13k coins | -68.8% |
+| Jakob Glesnes | 93 | CB | — | 13k coins | -66.4% |
 
 
 ## 📈 Destaques
 
-- **Trincão (94, CAM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Blás Riveros (94, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jacobo Ramón (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Elliot Stroud (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Matt Grimes (94, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Laura Dick (93, GK)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Nina Lührßen (93, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Fabio Fehr (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Omar Sowunmi (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/06/2026)?**  
-Trincão (94, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
+Matt Grimes (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
