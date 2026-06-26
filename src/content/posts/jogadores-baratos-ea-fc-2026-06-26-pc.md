@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T13:00:10.000Z
+pubDatetime: 2026-06-26T19:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (26/06/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Vanessa Gilles (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vanessa Gilles (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Georgia Stanway (95) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vanessa Gilles | 94 | CB | — | 14k coins | -81.4% |
-| Christoph Baumgartner | 93 | CAM | — | 12k coins | -57.7% |
-| Santiago Mouriño | 93 | RB | — | 12k coins | -59.3% |
-| Maria Méndez | 93 | CB | — | 12k coins | -59.2% |
-| Stine Ballisager | 93 | CB | — | 12k coins | -60.9% |
-| Vivianne Miedema | 93 | CAM | — | 12k coins | -64.3% |
-| Darko Nejašmić | 93 | CM | — | 12k coins | -51.9% |
-| Diego Luna | 93 | CAM | — | 12k coins | -48.5% |
-| Aleix García | 93 | CM | — | 12k coins | -41.9% |
-| Fabio Fehr | 93 | RB | — | 12k coins | -61.8% |
-| Haji Wright | 93 | ST | — | 12k coins | -50% |
-| Nicolas López | 93 | ST | — | 12k coins | -50% |
-| Paula Fernández | 93 | CM | — | 12k coins | -59.2% |
-| Eldor Shomurodov | 93 | ST | — | 12k coins | -62.4% |
-| Bartosz Nowak | 93 | LW | — | 12k coins | -61.8% |
+| Georgia Stanway | 95 | CDM | — | 15k coins | -16.1% |
+| Rudi Völler | 94 | ST | — | 14k coins | -8.2% |
+| Yui Hasegawa | 94 | CDM | — | 14k coins | -23.9% |
+| Ryan Wintle | 94 | CDM | — | 14k coins | +20.3% |
+| Esmee Brugts | 94 | LB | — | 15k coins | -54.5% |
+| Diego Luna | 93 | CAM | — | 13k coins | -14.8% |
+| Bixente Lizarazu | 93 | LB | — | 13k coins | -35.8% |
+| Ingrid Syrstad Engen | 93 | CB | — | 14k coins | -25% |
+| Stine Ballisager | 93 | CB | — | 14k coins | -10% |
+| Sebastian Berhalter | 93 | CM | — | 14k coins | -3.6% |
+| Tōko Koga | 93 | CB | — | 14k coins | -16.9% |
+| Fabio Fehr | 93 | RB | — | 14k coins | -20.6% |
+| Olivia Moultrie | 93 | CAM | — | 14k coins | -15.6% |
+| Vivianne Miedema | 93 | CAM | — | 14k coins | -6.8% |
+| Haji Wright | 93 | ST | — | 14k coins | -12.9% |
 
 
 ## 📈 Destaques
 
-- **Vanessa Gilles (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Georgia Stanway (95, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christoph Baumgartner (93, CAM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (94, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Santiago Mouriño (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Yui Hasegawa (94, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maria Méndez (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ryan Wintle (94, CDM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Stine Ballisager (93, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (94, LB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Vanessa Gilles (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
