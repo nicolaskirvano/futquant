@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:00:06.000Z
+pubDatetime: 2026-06-26T22:00:06.000Z
 title: "Jogadores baratos e bons no EA FC (26/06/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Bixente Lizarazu (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Rudi Völler (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Bixente Lizarazu (93) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Rudi Völler (94) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bixente Lizarazu | 93 | LB | — | 13k coins | -37% |
-| Sami Al Jaber | 92 | ST | — | 12k coins | -21.3% |
-| Hidetoshi Nakata | 92 | CAM | — | 12k coins | -23% |
-| Vincent Kompany | 92 | CB | — | 13k coins | -16.4% |
-| Mario Mandžukić | 92 | ST | — | 14k coins | -1.9% |
-| Louisa Necib | 92 | LM | — | 14k coins | -1.8% |
-| Jamie Carragher | 92 | CB | — | 14k coins | -9.5% |
-| Ian Rush | 92 | ST | — | 15k coins | -35.9% |
-| Alan Shearer | 92 | ST | — | 15k coins | -21.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +21.4% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +28.6% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 4k coins | +33.3% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5k coins | +8.3% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -6.1% |
-| Sonia Bompastor | 89 | LB | — | 12k coins | -14.3% |
+| Rudi Völler | 94 | ST | — | 12k coins | -11.5% |
+| Wesley Sneijder | 94 | CAM | — | 15k coins | -27.2% |
+| Bixente Lizarazu | 93 | LB | — | 13k coins | -34.6% |
+| Hidetoshi Nakata | 92 | CAM | — | 12k coins | -18% |
+| Vincent Kompany | 92 | CB | — | 13k coins | -14.8% |
+| Sami Al Jaber | 92 | ST | — | 13k coins | -14.8% |
+| Mario Mandžukić | 92 | ST | — | 14k coins | 0% |
+| Alan Shearer | 92 | ST | — | 14k coins | -27.6% |
+| Louisa Necib | 92 | LM | — | 14k coins | +1.8% |
+| Jamie Carragher | 92 | CB | — | 15k coins | -9.7% |
+| Erling Haaland | 90 | ST | Premier League | 12k coins | -36.1% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 14k coins | +8.2% |
+| Alisson | 89 | GK | Premier League | 3k coins | 0% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 5k coins | +51.6% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6k coins | -6.2% |
 
 
 ## 📈 Destaques
 
-- **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (94, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sami Al Jaber (92, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (94, CAM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Hidetoshi Nakata (92, CAM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Vincent Kompany (92, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Mario Mandžukić (92, ST)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Bixente Lizarazu (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Rudi Völler (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
