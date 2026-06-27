@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:00:10.000Z
+pubDatetime: 2026-06-27T01:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (26/06/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hiroki Ito | 94 | CB | — | 14k coins | -5% |
-| Wesley Sneijder | 94 | CAM | — | 14k coins | -30.9% |
-| Rudi Völler | 94 | ST | — | 14k coins | -8.2% |
-| Blás Riveros | 94 | LB | — | 14k coins | -12.1% |
-| Cristian Roldan | 94 | CDM | — | 15k coins | -34.4% |
-| Anders Dreyer | 94 | RW | — | 15k coins | -25.8% |
-| Elliot Stroud | 94 | LB | — | 15k coins | -14.1% |
-| Izzy Rodriguez | 94 | LB | — | 15k coins | -22.5% |
-| Bixente Lizarazu | 93 | LB | — | 12k coins | -38.3% |
-| Darko Nejašmić | 93 | CM | — | 14k coins | -1.8% |
-| Jesse Randall | 93 | LM | — | 14k coins | -3.5% |
-| Carl Rushworth | 93 | GK | — | 14k coins | -40.4% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -1.8% |
-| Victor Froholdt | 93 | CM | — | 14k coins | 0% |
-| Avery Patterson | 93 | RB | — | 14k coins | -1.8% |
+| Hiroki Ito | 94 | CB | — | 14k coins | 0% |
+| Luka Vušković | 94 | CB | — | 14k coins | -14.7% |
+| Pervis Estupiñán | 94 | LB | — | 15k coins | -43.6% |
+| Rudi Völler | 94 | ST | — | 15k coins | -8.2% |
+| Wesley Sneijder | 94 | CAM | — | 15k coins | -25.9% |
+| Jacobo Ramón | 94 | CB | — | 15k coins | -20% |
+| Jan Bednarek | 94 | CB | — | 15k coins | -17.8% |
+| Bixente Lizarazu | 93 | LB | — | 12k coins | -40.7% |
+| Jason Geria | 93 | RB | — | 13k coins | +1.9% |
+| Santiago Mouriño | 93 | RB | — | 13k coins | +3.8% |
+| George Hirst | 93 | ST | — | 13k coins | -46.5% |
+| Sultan Mandash | 93 | RW | — | 13k coins | -45.5% |
+| Enner Valencia | 93 | ST | — | 13k coins | +1.9% |
+| Lewis Ferguson | 93 | CM | — | 13k coins | -5.4% |
+| Avery Patterson | 93 | RB | — | 14k coins | +9.1% |
 
 
 ## 📈 Destaques
 
 - **Hiroki Ito (94, CB)** da —, a apenas **14k coins**
 
-- **Wesley Sneijder (94, CAM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luka Vušković (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (94, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pervis Estupiñán (94, LB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Blás Riveros (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (94, ST)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristian Roldan (94, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (94, CAM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
