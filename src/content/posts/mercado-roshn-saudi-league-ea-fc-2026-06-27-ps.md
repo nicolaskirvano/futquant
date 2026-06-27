@@ -1,0 +1,86 @@
+---
+author: "FutQuant"
+pubDatetime: 2026-06-27T10:00:12.000Z
+title: "Mercado da ROSHN Saudi League no EA FC (27/06/2026): cartas mais valiosas e em alta — Console (PS)"
+draft: false
+featured: false
+tags:
+  - liga
+  - roshn-saudi-league
+  - mercado
+  - ps
+description: "Panorama de preços da ROSHN Saudi League no EA FC Ultimate Team em 27/06/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
+faq:
+  - q: "Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?"
+    a: "Cristiano Ronaldo (90), a 6.03M coins no Console (PS) em 27/06/2026."
+  - q: "Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?"
+    a: "João Félix (93), +74.8% em 7 dias, a 382k coins."
+  - q: "Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?"
+    a: "O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
+---
+
+A **ROSHN Saudi League** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **27/06/2026** no **Console (PS)**.
+
+> 👑 **Carta mais valiosa da ROSHN Saudi League:** Cristiano Ronaldo (90), a 6.03M coins.
+
+## 👑 Mais valiosos da ROSHN Saudi League
+
+| Jogador | OVR | Pos | Preço | 24h |
+| --- | --- | --- | --- | --- |
+| Cristiano Ronaldo | 90 | ST | 6.03M coins | -21.7% |
+| Cristiano Ronaldo | 92 | ST | 1.33M coins | -13.3% |
+| Cristiano Ronaldo | 89 | ST | 880k coins | -2.6% |
+| Cristiano Ronaldo | 88 | ST | 790k coins | -26.5% |
+| João Félix | 93 | CAM | 382k coins | +2.1% |
+| Cristiano Ronaldo | 86 | ST | 273k coins | -21.8% |
+| Saeed Al Owairan | 91 | RW | 162k coins | +2.1% |
+| Sadio Mané | 88 | LM | 157k coins | -14% |
+| Darwin Núñez | 90 | ST | 132k coins | -15.9% |
+| Theo Hernández | 88 | LB | 126k coins | -28.4% |
+
+
+## 📈 Em alta na ROSHN Saudi League (7 dias)
+
+Cartas da liga que mais valorizaram na última semana:
+
+| Jogador | OVR | Pos | Preço | 7d |
+| --- | --- | --- | --- | --- |
+| João Félix | 93 | CAM | 382k coins | +74.8% |
+| Karim Benzema | 88 | ST | 65k coins | +67.5% |
+| Saeed Al Owairan | 85 | RW | 54k coins | +54.7% |
+| Abdoulaye Doucouré | 87 | CDM | 62k coins | +54.1% |
+| Darwin Núñez | 90 | ST | 132k coins | +40.4% |
+| Rúben Neves | 87 | CM | 40k coins | +33.3% |
+| Neymar Jr | 83 | CAM | 65k coins | +30.2% |
+| Ibañez | 86 | CB | 80k coins | +29% |
+| Malcom | 87 | RW | 50k coins | +26.7% |
+| Cristiano Ronaldo | 90 | ST | 6.03M coins | +25.8% |
+
+
+## 📈 Análise da ROSHN Saudi League
+
+A carta mais valiosa da liga é **Cristiano Ronaldo (90)**, a 6.03M coins. 
+No movimento da semana, **João Félix (93)** lidera as altas (+74.8% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+
+
+## ⚙️ A engine por tras deste post
+Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+
+
+## ❓ Perguntas frequentes
+
+**Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?**  
+Cristiano Ronaldo (90), a 6.03M coins no Console (PS) em 27/06/2026.
+
+**Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?**  
+João Félix (93), +74.8% em 7 dias, a 382k coins.
+
+**Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?**  
+O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
+
+
+> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
+
+---
+
+*Preços de Console (PS), referência de 27/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
