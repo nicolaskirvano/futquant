@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:00:10.000Z
+pubDatetime: 2026-06-27T13:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (27/06/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
+    a: "Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Georgia Stanway (95) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Luka Vušković (94) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Georgia Stanway | 95 | CDM | — | 15k coins | -10% |
-| Hiroki Ito | 94 | CB | — | 14k coins | +5.4% |
-| Luka Vušković | 94 | CB | — | 14k coins | -9.1% |
-| Pervis Estupiñán | 94 | LB | — | 14k coins | -40.6% |
-| Fabio Fehr | 93 | RB | — | 13k coins | +3.8% |
-| Bixente Lizarazu | 93 | LB | — | 13k coins | -34.6% |
-| Marco Palestra | 93 | RB | — | 13k coins | +3.8% |
-| Maria Méndez | 93 | CB | — | 13k coins | +1.9% |
-| Jakob Glesnes | 93 | CB | — | 13k coins | +1.9% |
-| Nina Lührßen | 93 | LB | — | 13k coins | +3.9% |
-| Matthieu Udol | 93 | LB | — | 13k coins | +1.9% |
-| Stine Ballisager | 93 | CB | — | 13k coins | +3.8% |
-| Paula Fernández | 93 | CM | — | 13k coins | +1.9% |
-| Diego Luna | 93 | CAM | — | 13k coins | 0% |
-| Olivia Moultrie | 93 | CAM | — | 13k coins | 0% |
+| Luka Vušković | 94 | CB | — | 14k coins | -13.6% |
+| Wesley Sneijder | 94 | CAM | — | 15k coins | -30.9% |
+| Rudi Völler | 94 | ST | — | 15k coins | -6.6% |
+| Jerdy Schouten | 94 | CB | — | 15k coins | +7.1% |
+| Bixente Lizarazu | 93 | LB | — | 13k coins | -35.8% |
+| Iliman Ndiaye | 93 | LM | — | 13k coins | 0% |
+| Ingrid Syrstad Engen | 93 | CB | — | 14k coins | +3.8% |
+| Haji Wright | 93 | ST | — | 14k coins | +7.7% |
+| Sebastian Berhalter | 93 | CM | — | 14k coins | +3.8% |
+| Paula Fernández | 93 | CM | — | 14k coins | +3.8% |
+| Sultan Mandash | 93 | RW | — | 14k coins | -44.6% |
+| Matthieu Udol | 93 | LB | — | 14k coins | +3.8% |
+| Vivianne Miedema | 93 | CAM | — | 14k coins | +3.8% |
+| Aleksandar Pavlović | 93 | CDM | — | 14k coins | +3.8% |
+| Avery Patterson | 93 | RB | — | 14k coins | +3.8% |
 
 
 ## 📈 Destaques
 
-- **Georgia Stanway (95, CDM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Hiroki Ito (94, CB)** da —, a apenas **14k coins**
-
 - **Luka Vušković (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pervis Estupiñán (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (94, CAM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fabio Fehr (93, RB)** da —, a apenas **13k coins**
+- **Rudi Völler (94, ST)** da —, a apenas **15k coins**
+
+- **Jerdy Schouten (94, CB)** da —, a apenas **15k coins**
+
+- **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Georgia Stanway (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
+Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
