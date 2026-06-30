@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T22:00:13.000Z
+pubDatetime: 2026-06-30T01:00:12.000Z
 title: "Mercado da Premier League no EA FC (29/06/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Premier League no EA FC hoje?"
     a: "Alexander Isak (88), a 1.50M coins no Console (PS) em 29/06/2026."
   - q: "Quem mais valorizou na Premier League esta semana no EA FC?"
-    a: "Eberechi Eze (86), +77.4% em 7 dias, a 118k coins."
+    a: "Erling Haaland (92), +82.7% em 7 dias, a 190k coins."
   - q: "Onde ver os preços das cartas da Premier League no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Premier League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -28,15 +28,15 @@ A **Premier League** é uma das ligas mais usadas no **EA FC Ultimate Team** —
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Alexander Isak | 88 | ST | 1.50M coins | 0% |
-| Viktor Gyökeres | 94 | ST | 1.27M coins | -29.3% |
-| Micky van de Ven | 90 | CB | 1.20M coins | -0.2% |
-| Micky van de Ven | 87 | CB | 1.07M coins | -3.6% |
-| Yaya Touré | 93 | CDM | 1.05M coins | +1.6% |
-| Virgil van Dijk | 95 | CB | 1.02M coins | 0% |
-| Jaap Stam | 89 | CB | 985k coins | +3.2% |
-| Anthony Gordon | 90 | ST | 832k coins | -11.6% |
-| Cole Palmer | 92 | CAM | 704k coins | +9.8% |
-| Yaya Touré | 88 | CM | 700k coins | -0.1% |
+| Micky van de Ven | 90 | CB | 1.24M coins | +8.8% |
+| Viktor Gyökeres | 94 | ST | 1.20M coins | -30.3% |
+| Virgil van Dijk | 95 | CB | 1.04M coins | -9.1% |
+| Virgil van Dijk | 90 | CB | 1.04M coins | +10.1% |
+| Jaap Stam | 89 | CB | 985k coins | -12.1% |
+| Micky van de Ven | 87 | CB | 929k coins | -3.5% |
+| Yaya Touré | 88 | CM | 821k coins | +9.9% |
+| Harry Kewell | 91 | LW | 638k coins | +7.4% |
+| Erling Haaland | 91 | ST | 633k coins | 0% |
 
 
 ## 📈 Em alta na Premier League (7 dias)
@@ -45,22 +45,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Eberechi Eze | 86 | CAM | 118k coins | +77.4% |
-| Daniel James | 87 | RM | 279k coins | +72.2% |
-| Carlos Tévez | 89 | ST | 370k coins | +71.8% |
-| Declan Rice | 91 | CDM | 330k coins | +65% |
-| Martin Ødegaard | 87 | CM | 76k coins | +57.8% |
-| Elliot Anderson | 89 | CDM | 248k coins | +47.1% |
-| Dominik Szoboszlai | 87 | CAM | 74k coins | +29.8% |
-| Gabriel Martinelli | 87 | LW | 90k coins | +28.6% |
-| Harry Kewell | 91 | LW | 646k coins | +25.6% |
-| David Brooks | 86 | RM | 20k coins | +23.1% |
+| Erling Haaland | 92 | ST | 190k coins | +82.7% |
+| Eberechi Eze | 86 | CAM | 125k coins | +82.2% |
+| Cole Palmer | 88 | CAM | 250k coins | +80.3% |
+| Daniel James | 87 | RM | 279k coins | +69.1% |
+| Declan Rice | 91 | CDM | 322k coins | +63.3% |
+| Carlos Tévez | 89 | ST | 338k coins | +61.8% |
+| Elliot Anderson | 89 | CDM | 250k coins | +47.1% |
+| Dominik Szoboszlai | 87 | CAM | 84k coins | +45.9% |
+| Rayan Cherki | 87 | RW | 94k coins | +35% |
+| Martin Ødegaard | 87 | CM | 73k coins | +33.9% |
 
 
 ## 📈 Análise da Premier League
 
 A carta mais valiosa da liga é **Alexander Isak (88)**, a 1.50M coins. 
-No movimento da semana, **Eberechi Eze (86)** lidera as altas (+77.4% em 7 dias), sinal de procura crescente por cartas da Premier League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Erling Haaland (92)** lidera as altas (+82.7% em 7 dias), sinal de procura crescente por cartas da Premier League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 🧪 De onde vêm estes números
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Alexander Isak (88), a 1.50M coins no Console (PS) em 29/06/2026.
 
 **Quem mais valorizou na Premier League esta semana no EA FC?**  
-Eberechi Eze (86), +77.4% em 7 dias, a 118k coins.
+Erling Haaland (92), +82.7% em 7 dias, a 190k coins.
 
 **Onde ver os preços das cartas da Premier League no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Premier League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
