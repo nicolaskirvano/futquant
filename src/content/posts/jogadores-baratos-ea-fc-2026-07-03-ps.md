@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:00:06.000Z
+pubDatetime: 2026-07-03T13:00:05.000Z
 title: "Jogadores baratos e bons no EA FC (03/07/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Ayase Ueda (95, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Ayase Ueda (95, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ayase Ueda (95) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Ayase Ueda (95) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ayase Ueda | 95 | ST | — | 12k coins | -44.6% |
+| Ayase Ueda | 95 | ST | — | 14k coins | -46.5% |
 | Noah Okafor | 95 | ST | — | 14k coins | -65.2% |
 | Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -23% |
 | Sander Berge | 94 | CDM | — | 12k coins | -23% |
-| Yassine Bounou | 94 | GK | — | 12k coins | -12.5% |
 | Jovo Lukić | 94 | ST | — | 12k coins | -23% |
-| Richie Laryea | 94 | LB | — | 12k coins | -40.7% |
-| Hiroki Ito | 94 | CB | — | 15k coins | +5.3% |
-| Iliman Ndiaye | 94 | LM | — | 15k coins | +7.1% |
-| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
-| Roberto Alvarado | 93 | RM | — | 12k coins | 0% |
-| Kevin Danso | 93 | CB | — | 12k coins | -23% |
-| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
+| Yassine Bounou | 94 | GK | — | 13k coins | -7.1% |
+| Richie Laryea | 94 | LB | — | 13k coins | -35.8% |
+| Hiroki Ito | 94 | CB | — | 14k coins | +3.5% |
+| Iliman Ndiaye | 94 | LM | — | 15k coins | +5.4% |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
 | Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
+| Roberto Alvarado | 93 | RM | — | 12k coins | 0% |
+| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
+| Kevin Danso | 93 | CB | — | 12k coins | -23% |
 
 
 ## 📈 Destaques
 
-- **Ayase Ueda (95, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ayase Ueda (95, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Noah Okafor (95, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Sander Berge (94, CDM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Yassine Bounou (94, GK)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jovo Lukić (94, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Ayase Ueda (95, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Ayase Ueda (95, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

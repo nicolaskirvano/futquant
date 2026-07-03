@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:00:10.000Z
+pubDatetime: 2026-07-03T13:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (03/07/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Noah Okafor | 95 | ST | — | 14k coins | -67.1% |
+| Noah Okafor | 95 | ST | — | 14k coins | -67.7% |
+| Ayase Ueda | 95 | ST | — | 14k coins | -45.5% |
+| Julian Quiñones | 95 | LW | — | 14k coins | -62.7% |
 | Moisés Caicedo | 95 | CDM | — | 14k coins | -75.2% |
-| Ayase Ueda | 95 | ST | — | 14k coins | -44.6% |
-| Kalidou Koulibaly | 95 | CB | — | 14k coins | -74.3% |
-| Fabián Ruiz | 95 | CM | — | 14k coins | -71.8% |
-| Jovo Lukić | 94 | ST | — | 12k coins | -23% |
-| Richie Laryea | 94 | LB | — | 12k coins | -42% |
-| Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -23% |
+| Kalidou Koulibaly | 95 | CB | — | 15k coins | -71.8% |
 | Sander Berge | 94 | CDM | — | 12k coins | -23% |
-| Yassine Bounou | 94 | GK | — | 13k coins | -7.7% |
-| Iliman Ndiaye | 94 | LM | — | 15k coins | +1.7% |
-| Kevin Danso | 93 | CB | — | 12k coins | -23% |
-| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
+| Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -23% |
+| Jovo Lukić | 94 | ST | — | 12k coins | -23% |
+| Yassine Bounou | 94 | GK | — | 12k coins | -3.8% |
+| Richie Laryea | 94 | LB | — | 13k coins | -35.8% |
+| Hiroki Ito | 94 | CB | — | 15k coins | -4.8% |
+| Roberto Alvarado | 93 | RM | — | 12k coins | 0% |
 | Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
-| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
+| Kevin Danso | 93 | CB | — | 12k coins | -23% |
 
 
 ## 📈 Destaques
 
 - **Noah Okafor (95, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Moisés Caicedo (95, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Ayase Ueda (95, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kalidou Koulibaly (95, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julian Quiñones (95, LW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fabián Ruiz (95, CM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Moisés Caicedo (95, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Kalidou Koulibaly (95, CB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
