@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:00:10.000Z
+pubDatetime: 2026-07-03T19:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (03/07/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Julian Quiñones (95, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Moisés Caicedo (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Julian Quiñones (95) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Moisés Caicedo (95) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 95 | LW | — | 13k coins | -63.4% |
-| Noah Okafor | 95 | ST | — | 14k coins | -65.8% |
-| Moisés Caicedo | 95 | CDM | — | 14k coins | -73.9% |
-| Ayase Ueda | 95 | ST | — | 14k coins | -42.6% |
-| Kalidou Koulibaly | 95 | CB | — | 14k coins | -71.8% |
-| Jovo Lukić | 94 | ST | — | 12k coins | -23% |
-| Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -23% |
-| Sander Berge | 94 | CDM | — | 12k coins | -21.3% |
-| Yassine Bounou | 94 | GK | — | 13k coins | 0% |
-| Roberto Alvarado | 93 | RM | — | 12k coins | 0% |
-| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
-| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
-| Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
+| Moisés Caicedo | 95 | CDM | — | 14k coins | -71.2% |
+| Kalidou Koulibaly | 95 | CB | — | 15k coins | -70.3% |
+| Noah Okafor | 95 | ST | — | 15k coins | -63.4% |
+| Ayase Ueda | 95 | ST | — | 15k coins | -40.6% |
+| Tsuyoshi Watanabe | 94 | CB | — | 13k coins | -16.4% |
+| Jovo Lukić | 94 | ST | — | 13k coins | -18% |
+| Yassine Bounou | 94 | GK | — | 13k coins | -5.8% |
+| Sander Berge | 94 | CDM | — | 13k coins | -14.8% |
+| Richie Laryea | 94 | LB | — | 14k coins | -23.5% |
+| Iliman Ndiaye | 94 | LM | — | 14k coins | +5.3% |
+| Hiroki Ito | 94 | CB | — | 14k coins | 0% |
+| Rudi Völler | 94 | ST | — | 15k coins | +5.3% |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
-| Kevin Danso | 93 | CB | — | 12k coins | -23% |
+| Roberto Alvarado | 93 | RM | — | 12k coins | 0% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Julian Quiñones (95, LW)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Noah Okafor (95, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Moisés Caicedo (95, CDM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ayase Ueda (95, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kalidou Koulibaly (95, CB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kalidou Koulibaly (95, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Noah Okafor (95, ST)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ayase Ueda (95, ST)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Tsuyoshi Watanabe (94, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Julian Quiñones (95, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
+Moisés Caicedo (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
