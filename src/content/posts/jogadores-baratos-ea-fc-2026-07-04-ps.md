@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:00:05.000Z
+pubDatetime: 2026-07-04T13:00:05.000Z
 title: "Jogadores baratos e bons no EA FC (04/07/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -16.4% |
 | Jovo Lukić | 94 | ST | — | 13k coins | -16.4% |
 | Sander Berge | 94 | CDM | — | 13k coins | -14.8% |
-| Richie Laryea | 94 | LB | — | 14k coins | -30.9% |
-| Hiroki Ito | 94 | CB | — | 14k coins | -5% |
-| Iliman Ndiaye | 94 | LM | — | 15k coins | +5.3% |
-| Kevin Danso | 93 | CB | — | 12k coins | -19.7% |
-| Çağlar Söyüncü | 93 | CB | — | 12k coins | +2.1% |
+| Hiroki Ito | 94 | CB | — | 14k coins | -3.4% |
+| Iliman Ndiaye | 94 | LM | — | 15k coins | +3.5% |
 | Roberto Alvarado | 93 | RM | — | 12k coins | 0% |
-| Enner Valencia | 93 | ST | — | 14k coins | -1.8% |
-| Antonio Sanabria | 93 | ST | — | 14k coins | 0% |
-| Miguel Almirón | 93 | LM | — | 14k coins | -3.4% |
-| Jason Geria | 93 | RB | — | 14k coins | 0% |
-| Willy Semedo | 93 | LM | — | 14k coins | 0% |
-| George Hirst | 93 | ST | — | 14k coins | -1.7% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
+| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
+| Andrés Cubas | 93 | CM | — | 12k coins | 0% |
+| Kevin Danso | 93 | CB | — | 12k coins | -19.7% |
+| Yoane Wissa | 93 | ST | — | 14k coins | -1.7% |
+| Enner Valencia | 93 | ST | — | 14k coins | 0% |
+| Jason Geria | 93 | RB | — | 14k coins | +1.8% |
+| Antonio Sanabria | 93 | ST | — | 14k coins | +1.8% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | 0% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Sander Berge (94, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Richie Laryea (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Hiroki Ito (94, CB)** da —, a apenas **14k coins**
+
+- **Iliman Ndiaye (94, LM)** da —, a apenas **15k coins**
 
 
 ## Por que estas cartas?
