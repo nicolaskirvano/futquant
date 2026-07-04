@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T22:00:06.000Z
+pubDatetime: 2026-07-04T01:00:06.000Z
 title: "Jogadores baratos e bons no EA FC (03/07/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Richie Laryea | 94 | LB | — | 12k coins | -30.9% |
+| Richie Laryea | 94 | LB | — | 12k coins | -34.6% |
+| Jovo Lukić | 94 | ST | — | 12k coins | -16.4% |
 | Tsuyoshi Watanabe | 94 | CB | — | 13k coins | -16.4% |
-| Sander Berge | 94 | CDM | — | 13k coins | -16.4% |
-| Jovo Lukić | 94 | ST | — | 13k coins | -18% |
-| Rudi Völler | 94 | ST | — | 14k coins | -3.4% |
-| Hiroki Ito | 94 | CB | — | 14k coins | -3.4% |
+| Sander Berge | 94 | CDM | — | 13k coins | -18% |
+| Rudi Völler | 94 | ST | — | 14k coins | -5.2% |
 | Iliman Ndiaye | 94 | LM | — | 14k coins | 0% |
-| Yassine Bounou | 94 | GK | — | 15k coins | +5.4% |
-| Kevin Danso | 93 | CB | — | 12k coins | -21.3% |
-| Jesper Karlström | 93 | CDM | — | 12k coins | +4.3% |
-| Roberto Alvarado | 93 | RM | — | 12k coins | +6.4% |
-| Sultan Mandash | 93 | RW | — | 14k coins | -3.4% |
-| Enner Valencia | 93 | ST | — | 14k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -1.8% |
-| Antonio Sanabria | 93 | ST | — | 14k coins | 0% |
+| Hiroki Ito | 94 | CB | — | 14k coins | -5.1% |
+| Kevin Danso | 93 | CB | — | 12k coins | -23% |
+| Roberto Alvarado | 93 | RM | — | 12k coins | +4.3% |
+| Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
+| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
+| Andrés Cubas | 93 | CM | — | 12k coins | 0% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | +2.1% |
+| Jason Geria | 93 | RB | — | 14k coins | -1.8% |
+| Mario Pašalić | 93 | CM | — | 14k coins | -3.4% |
 
 
 ## 📈 Destaques
 
 - **Richie Laryea (94, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Jovo Lukić (94, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sander Berge (94, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jovo Lukić (94, ST)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rudi Völler (94, ST)** da —, a apenas **14k coins**
 
