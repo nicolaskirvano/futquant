@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:00:13.000Z
+pubDatetime: 2026-07-06T19:00:13.000Z
 title: "Mercado da Trendyol Süper Lig no EA FC (06/07/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Trendyol Süper Lig no EA FC hoje?"
     a: "Quaresma (88), a 205k coins no Console (PS) em 06/07/2026."
   - q: "Quem mais valorizou na Trendyol Süper Lig esta semana no EA FC?"
-    a: "Victor Osimhen (90), +35.7% em 7 dias, a 175k coins."
+    a: "Václav Černý (87), +88.1% em 7 dias, a 30k coins."
   - q: "Onde ver os preços das cartas da Trendyol Süper Lig no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Trendyol Süper Lig, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -27,16 +27,16 @@ A **Trendyol Süper Lig** é uma das ligas mais usadas no **EA FC Ultimate Team*
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Quaresma | 88 | RW | 205k coins | +19.2% |
-| Victor Osimhen | 90 | ST | 175k coins | +23.2% |
-| Victor Osimhen | 88 | ST | 155k coins | +5.3% |
-| Barış Alper Yılmaz | 89 | LM | 145k coins | +14.3% |
-| Barış Alper Yılmaz | 88 | LM | 139k coins | +35% |
-| Ederson | 87 | GK | 75k coins | +10.4% |
-| Jayden Oosterwolde | 87 | LB | 71k coins | +8.8% |
-| Barış Alper Yılmaz | 86 | LM | 68k coins | +25% |
-| Gabriel Sara | 89 | CDM | 60k coins | -2.5% |
-| Victor Osimhen | 88 | ST | 59k coins | +4.2% |
+| Quaresma | 88 | RW | 205k coins | +11.7% |
+| Barış Alper Yılmaz | 88 | LM | 169k coins | +67.3% |
+| Victor Osimhen | 90 | ST | 161k coins | +13.4% |
+| Barış Alper Yılmaz | 89 | LM | 160k coins | +20% |
+| N'Golo Kanté | 93 | CDM | 120k coins | +11.1% |
+| Ederson | 87 | GK | 80k coins | +12.7% |
+| Mario Lemina | 89 | CDM | 68k coins | +1.5% |
+| Jayden Oosterwolde | 87 | LB | 64k coins | 0% |
+| Barış Alper Yılmaz | 86 | LM | 64k coins | -0.9% |
+| Victor Osimhen | 88 | ST | 63k coins | +4.1% |
 
 
 ## 📈 Em alta na Trendyol Süper Lig (7 dias)
@@ -45,22 +45,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Victor Osimhen | 90 | ST | 175k coins | +35.7% |
-| Anthony Nwakaeme | 87 | LW | 45k coins | +32.8% |
-| Quaresma | 88 | RW | 205k coins | +32.3% |
-| Oleksandr Zubkov | 84 | RM | 34k coins | +21.8% |
-| Mauro Icardi | 87 | ST | 38k coins | +20.2% |
-| Ederson | 87 | GK | 75k coins | +13.6% |
-| Victor Osimhen | 88 | ST | 155k coins | +10.3% |
-| Anderson Talisca | 85 | CAM | 31k coins | +9.7% |
-| Chibuike Nwaiwu | 84 | CB | 32k coins | +7.4% |
-| Cenk Tosun | 85 | ST | 49k coins | +5.9% |
+| Václav Černý | 87 | RM | 30k coins | +88.1% |
+| İrfan Can Kahveci | 78 | RW | 2k coins | +37.5% |
+| Quaresma | 88 | RW | 205k coins | +29% |
+| Barış Alper Yılmaz | 88 | LM | 169k coins | +25.2% |
+| N'Golo Kanté | 93 | CDM | 120k coins | +25% |
+| Victor Osimhen | 90 | ST | 161k coins | +24.8% |
+| Anthony Nwakaeme | 87 | LW | 38k coins | +24.1% |
+| Mauro Icardi | 87 | ST | 40k coins | +18.5% |
+| Ederson | 87 | GK | 80k coins | +14.3% |
+| Anderson Talisca | 85 | CAM | 32k coins | +10.6% |
 
 
 ## 📈 Análise da Trendyol Süper Lig
 
 A carta mais valiosa da liga é **Quaresma (88)**, a 205k coins. 
-No movimento da semana, **Victor Osimhen (90)** lidera as altas (+35.7% em 7 dias), sinal de procura crescente por cartas da Trendyol Süper Lig. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Václav Černý (87)** lidera as altas (+88.1% em 7 dias), sinal de procura crescente por cartas da Trendyol Süper Lig. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 🔍 Como apuramos os preços
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 Quaresma (88), a 205k coins no Console (PS) em 06/07/2026.
 
 **Quem mais valorizou na Trendyol Süper Lig esta semana no EA FC?**  
-Victor Osimhen (90), +35.7% em 7 dias, a 175k coins.
+Václav Černý (87), +88.1% em 7 dias, a 30k coins.
 
 **Onde ver os preços das cartas da Trendyol Süper Lig no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Trendyol Süper Lig, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
