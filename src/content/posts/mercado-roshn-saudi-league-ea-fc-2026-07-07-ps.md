@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T10:00:12.000Z
+pubDatetime: 2026-07-07T13:00:14.000Z
 title: "Mercado da ROSHN Saudi League no EA FC (07/07/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?"
     a: "Cristiano Ronaldo (90), a 8.32M coins no Console (PS) em 07/07/2026."
   - q: "Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?"
-    a: "Mohammed Noor (88), +70.6% em 7 dias, a 21k coins."
+    a: "Karim Benzema (88), +62.4% em 7 dias, a 100k coins."
   - q: "Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -28,15 +28,15 @@ A **ROSHN Saudi League** é uma das ligas mais usadas no **EA FC Ultimate Team**
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 90 | ST | 8.32M coins | -0.1% |
-| Cristiano Ronaldo | 92 | ST | 1.72M coins | -0.5% |
-| Cristiano Ronaldo | 88 | ST | 1.33M coins | -5.2% |
-| Cristiano Ronaldo | 89 | ST | 1.25M coins | -7.1% |
-| João Félix | 93 | CAM | 500k coins | +11.3% |
-| Cristiano Ronaldo | 86 | ST | 470k coins | +26% |
-| João Félix | 84 | ST | 240k coins | +22.4% |
-| João Félix | 86 | LW | 199k coins | +15% |
-| Riyad Mahrez | 87 | RM | 144k coins | -3.3% |
-| Saeed Al Owairan | 91 | RW | 139k coins | -10.3% |
+| Cristiano Ronaldo | 92 | ST | 1.70M coins | -0.1% |
+| Cristiano Ronaldo | 89 | ST | 1.20M coins | -13.7% |
+| Cristiano Ronaldo | 86 | ST | 459k coins | +24.1% |
+| João Félix | 84 | ST | 218k coins | +10.1% |
+| João Félix | 86 | LW | 206k coins | +15.1% |
+| Saeed Al Owairan | 91 | RW | 154k coins | +2.1% |
+| Sadio Mané | 88 | LM | 129k coins | +22.8% |
+| Riyad Mahrez | 87 | RM | 128k coins | -4% |
+| Karim Benzema | 88 | ST | 100k coins | +50% |
 
 
 ## 📈 Em alta na ROSHN Saudi League (7 dias)
@@ -45,22 +45,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Mohammed Noor | 88 | CAM | 21k coins | +70.6% |
-| Karim Benzema | 88 | ST | 110k coins | +65.4% |
-| Aymeric Laporte | 82 | CB | 5k coins | +62.5% |
-| Cristiano Ronaldo | 89 | ST | 1.25M coins | +58.5% |
-| Cristiano Ronaldo | 86 | ST | 470k coins | +55.1% |
-| Cristiano Ronaldo | 88 | ST | 1.33M coins | +53.2% |
-| Saeed Al Owairan | 86 | ST | 85k coins | +40.5% |
-| Enzo Millot | 89 | CAM | 16k coins | +40% |
-| Salem Al Dawsari | 91 | LM | 37k coins | +34.8% |
-| Cristiano Ronaldo | 92 | ST | 1.72M coins | +30.8% |
+| Karim Benzema | 88 | ST | 100k coins | +62.4% |
+| Mohammed Noor | 88 | CAM | 18k coins | +58.8% |
+| Cristiano Ronaldo | 86 | ST | 459k coins | +51.5% |
+| Aymeric Laporte | 82 | CB | 4k coins | +46.9% |
+| Cristiano Ronaldo | 89 | ST | 1.20M coins | +46.3% |
+| Enzo Millot | 89 | CAM | 27k coins | +42% |
+| Cristiano Ronaldo | 92 | ST | 1.70M coins | +28.6% |
+| Joshua King | 85 | ST | 17k coins | +21.4% |
+| Riyad Mahrez | 87 | RM | 128k coins | +21% |
+| João Félix | 86 | LW | 206k coins | +17.7% |
 
 
 ## 📈 Análise da ROSHN Saudi League
 
 A carta mais valiosa da liga é **Cristiano Ronaldo (90)**, a 8.32M coins. 
-No movimento da semana, **Mohammed Noor (88)** lidera as altas (+70.6% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Karim Benzema (88)** lidera as altas (+62.4% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## ⚙️ A engine por tras deste post
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 Cristiano Ronaldo (90), a 8.32M coins no Console (PS) em 07/07/2026.
 
 **Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?**  
-Mohammed Noor (88), +70.6% em 7 dias, a 21k coins.
+Karim Benzema (88), +62.4% em 7 dias, a 100k coins.
 
 **Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
