@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T19:00:13.000Z
+pubDatetime: 2026-07-09T22:00:13.000Z
 title: "Mercado da Premier League no EA FC (09/07/2026): cartas mais valiosas e em alta — Console (PS)"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Premier League no EA FC hoje?"
     a: "Alexander Isak (88), a 1.50M coins no Console (PS) em 09/07/2026."
   - q: "Quem mais valorizou na Premier League esta semana no EA FC?"
-    a: "Carlos Tévez (89), +86.4% em 7 dias, a 420k coins."
+    a: "Adam Wharton (88), +83.8% em 7 dias, a 40k coins."
   - q: "Onde ver os preços das cartas da Premier League no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Premier League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -28,15 +28,15 @@ A **Premier League** é uma das ligas mais usadas no **EA FC Ultimate Team** —
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Alexander Isak | 88 | ST | 1.50M coins | 0% |
-| Virgil van Dijk | 90 | CB | 1.25M coins | +25.6% |
-| Micky van de Ven | 87 | CB | 1.17M coins | +26.7% |
-| Micky van de Ven | 90 | CB | 1.10M coins | -23.4% |
-| Yaya Touré | 93 | CDM | 949k coins | -9.5% |
-| Cole Palmer | 92 | CAM | 900k coins | -2.3% |
-| Virgil van Dijk | 95 | CB | 890k coins | -27% |
-| Virgil van Dijk | 91 | CB | 637k coins | -17.6% |
+| Micky van de Ven | 90 | CB | 1.10M coins | -14.4% |
+| Jaap Stam | 89 | CB | 1.10M coins | -13.4% |
+| Virgil van Dijk | 95 | CB | 989k coins | -13.6% |
+| Yaya Touré | 93 | CDM | 985k coins | -7.9% |
+| Micky van de Ven | 87 | CB | 943k coins | +6.4% |
+| Cole Palmer | 92 | CAM | 850k coins | +6% |
+| Virgil van Dijk | 91 | CB | 769k coins | -11.8% |
+| Yaya Touré | 88 | CM | 750k coins | +6% |
 | Erling Haaland | 91 | ST | 633k coins | 0% |
-| Bukayo Saka | 91 | RW | 616k coins | 0% |
 
 
 ## 📈 Em alta na Premier League (7 dias)
@@ -45,22 +45,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Carlos Tévez | 89 | ST | 420k coins | +86.4% |
-| Cristian Romero | 86 | CB | 41k coins | +78.6% |
-| David Raya | 88 | GK | 45k coins | +76.5% |
-| Andrew Robertson | 86 | LB | 340k coins | +76.2% |
-| Nico O'Reilly | 84 | LM | 52k coins | +75.8% |
-| Jerzy Dudek | 86 | GK | 24k coins | +72.3% |
-| Ryan Gravenberch | 87 | CDM | 37k coins | +70.7% |
-| Harry Wilson | 88 | RM | 38k coins | +70.5% |
-| Mohamed Salah | 91 | RM | 35k coins | +64.4% |
-| Joelinton | 87 | CM | 100k coins | +63.1% |
+| Adam Wharton | 88 | CDM | 40k coins | +83.8% |
+| Micky van de Ven | 82 | CB | 6k coins | +77.8% |
+| Andrew Robertson | 86 | LB | 336k coins | +76.2% |
+| Joelinton | 87 | CM | 98k coins | +72.8% |
+| Eberechi Eze | 86 | CAM | 131k coins | +69% |
+| Carlos Tévez | 89 | ST | 411k coins | +68.6% |
+| David Raya | 88 | GK | 45k coins | +68.2% |
+| Jay-Jay Okocha | 90 | CAM | 194k coins | +68.1% |
+| Kevin Schade | 88 | LM | 30k coins | +61.9% |
+| Rodri | 92 | CDM | 119k coins | +59.7% |
 
 
 ## 📈 Análise da Premier League
 
 A carta mais valiosa da liga é **Alexander Isak (88)**, a 1.50M coins. 
-No movimento da semana, **Carlos Tévez (89)** lidera as altas (+86.4% em 7 dias), sinal de procura crescente por cartas da Premier League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Adam Wharton (88)** lidera as altas (+83.8% em 7 dias), sinal de procura crescente por cartas da Premier League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 🧪 De onde vêm estes números
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Alexander Isak (88), a 1.50M coins no Console (PS) em 09/07/2026.
 
 **Quem mais valorizou na Premier League esta semana no EA FC?**  
-Carlos Tévez (89), +86.4% em 7 dias, a 420k coins.
+Adam Wharton (88), +83.8% em 7 dias, a 40k coins.
 
 **Onde ver os preços das cartas da Premier League no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Premier League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
