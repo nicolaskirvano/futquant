@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T16:00:10.000Z
+pubDatetime: 2026-07-10T19:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (10/07/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "José María Giménez (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** José María Giménez (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Jude Bellingham (90) por apenas 11k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| José María Giménez | 94 | CB | — | 14k coins | +12% |
-| Sander Berge | 94 | CDM | — | 14k coins | +27.1% |
-| Nico Paz | 94 | CAM | — | 15k coins | +23.1% |
-| Jhon Arias | 93 | RM | — | 13k coins | +10.6% |
-| Odilon Kossounou | 93 | CB | — | 13k coins | +10.6% |
-| Alexis Saelemaekers | 93 | RM | — | 13k coins | +10.6% |
-| Maximilian Beier | 93 | ST | — | 13k coins | +10.6% |
-| Hamdy Fathy | 93 | CDM | — | 14k coins | +19.1% |
-| Sergiño Dest | 93 | RW | — | 14k coins | +10.4% |
-| Jesper Karlström | 93 | CDM | — | 14k coins | +19.1% |
-| Andrés Cubas | 93 | CM | — | 14k coins | +17% |
-| Çağlar Söyüncü | 93 | CB | — | 14k coins | +19.1% |
-| Kevin Danso | 93 | CB | — | 14k coins | +21.3% |
-| Roberto Alvarado | 93 | RM | — | 14k coins | +14.9% |
-| Ali Ahmed | 92 | LM | — | 13k coins | +10.6% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | +7.9% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 12k coins | -53.7% |
+| Erling Haaland | 90 | ST | Premier League | 13k coins | +14.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 2k coins | -51.9% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -6.7% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -6.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +96% |
+| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 7k coins | +28.6% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +8.9% |
+| Celia Šašić | 89 | ST | GPFBL | 13k coins | +10.6% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +24.4% |
+| Birgit Prinz | 89 | ST | — | 15k coins | +5.4% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 15k coins | -30.9% |
+| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -17% |
 
 
 ## 📈 Destaques
 
-- **José María Giménez (94, CB)** da —, a apenas **14k coins**
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins**
 
-- **Sander Berge (94, CDM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nico Paz (94, CAM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Erling Haaland (90, ST)** da Premier League, a apenas **13k coins**
 
-- **Jhon Arias (93, RM)** da —, a apenas **13k coins**
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
 
-- **Odilon Kossounou (93, CB)** da —, a apenas **13k coins**
+- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-José María Giménez (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Jude Bellingham (90, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

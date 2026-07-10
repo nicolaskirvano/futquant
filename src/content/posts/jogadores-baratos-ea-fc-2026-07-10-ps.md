@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T16:00:06.000Z
+pubDatetime: 2026-07-10T19:00:06.000Z
 title: "Jogadores baratos e bons no EA FC (10/07/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Jovo Lukić (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Jovo Lukić (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jovo Lukić (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Jovo Lukić (94) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jovo Lukić | 94 | ST | — | 14k coins | +21.3% |
-| José María Giménez | 94 | CB | — | 14k coins | +14.3% |
-| Tsuyoshi Watanabe | 94 | CB | — | 14k coins | +19.1% |
-| Hamdy Fathy | 93 | CDM | — | 13k coins | +10.6% |
-| Jesper Karlström | 93 | CDM | — | 13k coins | +10.6% |
-| Andrés Cubas | 93 | CM | — | 13k coins | +10.6% |
-| Çağlar Söyüncü | 93 | CB | — | 13k coins | +10.6% |
-| Kevin Danso | 93 | CB | — | 13k coins | +10.6% |
-| Odilon Kossounou | 93 | CB | — | 13k coins | +10.6% |
-| Roberto Alvarado | 93 | RM | — | 13k coins | +10.6% |
-| Alexis Saelemaekers | 93 | RM | — | 13k coins | +10.6% |
-| Maximilian Beier | 93 | ST | — | 13k coins | +8.5% |
-| Sergiño Dest | 93 | RW | — | 13k coins | +10.6% |
-| Eom Ji Sung | 92 | LM | — | 13k coins | +13% |
-| Ali Ahmed | 92 | LM | — | 13k coins | +8.5% |
+| Jovo Lukić | 94 | ST | — | 15k coins | +20.8% |
+| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +25% |
+| Hidetoshi Nakata | 92 | CAM | — | 15k coins | +15.7% |
+| Sami Al Jaber | 92 | ST | — | 15k coins | +9.1% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -25.5% |
+| Alisson | 89 | GK | Premier League | 2k coins | -25% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -21.7% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -28.1% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +109.1% |
+| Celia Šašić | 89 | ST | GPFBL | 11k coins | -4.3% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -4.3% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 12k coins | -27% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | +6.1% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +4.3% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -1.9% |
 
 
 ## 📈 Destaques
 
-- **Jovo Lukić (94, ST)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Jovo Lukić (94, ST)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **José María Giménez (94, CB)** da —, a apenas **14k coins**
+- **Tsuyoshi Watanabe (94, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Tsuyoshi Watanabe (94, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Hidetoshi Nakata (92, CAM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Hamdy Fathy (93, CDM)** da —, a apenas **13k coins**
+- **Sami Al Jaber (92, ST)** da —, a apenas **15k coins**
 
-- **Jesper Karlström (93, CDM)** da —, a apenas **13k coins**
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-Jovo Lukić (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Jovo Lukić (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
