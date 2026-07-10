@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:00:06.000Z
+pubDatetime: 2026-07-10T13:00:06.000Z
 title: "Jogadores baratos e bons no EA FC (10/07/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | José María Giménez | 94 | CB | — | 14k coins | +8% |
 | Jovo Lukić | 94 | ST | — | 14k coins | +21.3% |
-| Sander Berge | 94 | CDM | — | 15k coins | +27.7% |
-| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +27.7% |
-| Odilon Kossounou | 93 | CB | — | 12k coins | 0% |
-| Maximilian Beier | 93 | ST | — | 12k coins | +2.1% |
-| Alexis Saelemaekers | 93 | RM | — | 12k coins | +2.1% |
-| Hamdy Fathy | 93 | CDM | — | 13k coins | +8.5% |
-| Jesper Karlström | 93 | CDM | — | 13k coins | +8.5% |
-| Andrés Cubas | 93 | CM | — | 13k coins | +10.6% |
-| Çağlar Söyüncü | 93 | CB | — | 13k coins | +8.5% |
-| Kevin Danso | 93 | CB | — | 13k coins | +10.6% |
-| Ali Ahmed | 92 | LM | — | 12k coins | +4.3% |
-| Bilal El Khannouss | 92 | LW | — | 12k coins | +8.7% |
-| Garry Rodrigues | 92 | LM | — | 12k coins | +8.7% |
+| Jhon Arias | 93 | RM | — | 13k coins | +8.5% |
+| Maximilian Beier | 93 | ST | — | 13k coins | +8.5% |
+| Alexis Saelemaekers | 93 | RM | — | 13k coins | +8.5% |
+| Andrés Cubas | 93 | CM | — | 13k coins | +8.5% |
+| Çağlar Söyüncü | 93 | CB | — | 13k coins | +10.6% |
+| Roberto Alvarado | 93 | RM | — | 13k coins | +10.6% |
+| Hamdy Fathy | 93 | CDM | — | 13k coins | +10.6% |
+| Jesper Karlström | 93 | CDM | — | 13k coins | +10.6% |
+| Sergiño Dest | 93 | RW | — | 13k coins | +10.6% |
+| Kevin Danso | 93 | CB | — | 14k coins | +14.9% |
+| Jason Geria | 93 | RB | — | 15k coins | +12.3% |
+| Thomas Meunier | 92 | RB | — | 13k coins | +8.5% |
+| Hidetoshi Nakata | 92 | CAM | — | 13k coins | +5.9% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jovo Lukić (94, ST)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sander Berge (94, CDM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Jhon Arias (93, RM)** da —, a apenas **13k coins**
 
-- **Tsuyoshi Watanabe (94, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Maximilian Beier (93, ST)** da —, a apenas **13k coins**
 
-- **Odilon Kossounou (93, CB)** da —, a apenas **12k coins**
+- **Alexis Saelemaekers (93, RM)** da —, a apenas **13k coins**
 
 
 ## Por que estas cartas?
