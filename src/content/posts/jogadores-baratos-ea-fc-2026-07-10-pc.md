@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T13:00:10.000Z
+pubDatetime: 2026-07-10T16:00:10.000Z
 title: "Jogadores baratos e bons no EA FC (10/07/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | José María Giménez | 94 | CB | — | 14k coins | +12% |
-| Odilon Kossounou | 93 | CB | — | 12k coins | +6.4% |
-| Jhon Arias | 93 | RM | — | 13k coins | +6.2% |
-| Maximilian Beier | 93 | ST | — | 13k coins | +8.5% |
-| Alexis Saelemaekers | 93 | RM | — | 13k coins | +8.5% |
-| Andrés Cubas | 93 | CM | — | 13k coins | +12.8% |
-| Hamdy Fathy | 93 | CDM | — | 13k coins | +10.6% |
-| Sergiño Dest | 93 | RW | — | 13k coins | +12.5% |
-| Çağlar Söyüncü | 93 | CB | — | 14k coins | +8.5% |
+| Sander Berge | 94 | CDM | — | 14k coins | +27.1% |
+| Nico Paz | 94 | CAM | — | 15k coins | +23.1% |
+| Jhon Arias | 93 | RM | — | 13k coins | +10.6% |
+| Odilon Kossounou | 93 | CB | — | 13k coins | +10.6% |
+| Alexis Saelemaekers | 93 | RM | — | 13k coins | +10.6% |
+| Maximilian Beier | 93 | ST | — | 13k coins | +10.6% |
+| Hamdy Fathy | 93 | CDM | — | 14k coins | +19.1% |
+| Sergiño Dest | 93 | RW | — | 14k coins | +10.4% |
 | Jesper Karlström | 93 | CDM | — | 14k coins | +19.1% |
-| Kevin Danso | 93 | CB | — | 14k coins | +12.8% |
-| Roberto Alvarado | 93 | RM | — | 14k coins | +10.6% |
-| Ali Ahmed | 92 | LM | — | 12k coins | +4.3% |
-| Thomas Meunier | 92 | RB | — | 13k coins | +8.5% |
-| Pathé Ciss | 92 | CDM | — | 13k coins | +8.5% |
+| Andrés Cubas | 93 | CM | — | 14k coins | +17% |
+| Çağlar Söyüncü | 93 | CB | — | 14k coins | +19.1% |
+| Kevin Danso | 93 | CB | — | 14k coins | +21.3% |
+| Roberto Alvarado | 93 | RM | — | 14k coins | +14.9% |
+| Ali Ahmed | 92 | LM | — | 13k coins | +10.6% |
 
 
 ## 📈 Destaques
 
 - **José María Giménez (94, CB)** da —, a apenas **14k coins**
 
-- **Odilon Kossounou (93, CB)** da —, a apenas **12k coins**
+- **Sander Berge (94, CDM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Nico Paz (94, CAM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Jhon Arias (93, RM)** da —, a apenas **13k coins**
 
-- **Maximilian Beier (93, ST)** da —, a apenas **13k coins**
-
-- **Alexis Saelemaekers (93, RM)** da —, a apenas **13k coins**
+- **Odilon Kossounou (93, CB)** da —, a apenas **13k coins**
 
 
 ## Por que estas cartas?
