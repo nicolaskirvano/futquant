@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T19:00:10.000Z
+pubDatetime: 2026-07-10T22:00:11.000Z
 title: "Jogadores baratos e bons no EA FC (10/07/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | +7.9% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 12k coins | -53.7% |
-| Erling Haaland | 90 | ST | Premier League | 13k coins | +14.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 2k coins | -51.9% |
-| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 3k coins | -6.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -6.5% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +96% |
-| Vini Jr. | 89 | LW | LALIGA EA SPORTS | 7k coins | +28.6% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +8.9% |
-| Celia Šašić | 89 | ST | GPFBL | 13k coins | +10.6% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +24.4% |
-| Birgit Prinz | 89 | ST | — | 15k coins | +5.4% |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 15k coins | -30.9% |
-| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -17% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | +22.2% |
+| Erling Haaland | 90 | ST | Premier League | 13k coins | +15.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -4.8% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2k coins | -13.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -16% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -38.9% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -8.3% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -4.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -8.3% |
+| Alisson | 89 | GK | Premier League | 2k coins | -12.5% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 2k coins | -37.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -14.8% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -20% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -3.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +80% |
 
 
 ## 📈 Destaques
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins**
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Erling Haaland (90, ST)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **13k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
+- **Khadija Shaw (89, ST)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Thibaut Courtois (89, GK)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
