@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:00:06.000Z
+pubDatetime: 2026-07-11T13:00:07.000Z
 title: "Jogadores baratos e bons no EA FC (11/07/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nico Paz | 94 | CAM | — | 15k coins | +15.4% |
-| Sergiño Dest | 93 | RW | — | 15k coins | +25.5% |
-| Hidetoshi Nakata | 92 | CAM | — | 15k coins | +17.6% |
-| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -63.1% |
-| Alexia Putellas | 91 | CM | Liga F | 8k coins | -62.7% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -24% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 10k coins | -66.9% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -11.5% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -31.8% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -33.3% |
-| Alisson | 89 | GK | Premier League | 2k coins | -32% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -26.1% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -26.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -21.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 2k coins | -13.3% |
+| Nico Paz | 94 | CAM | — | 15k coins | +17.3% |
+| Alexia Putellas | 91 | CM | Liga F | 8k coins | -64.5% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -64% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -20% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 10k coins | -66.6% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -23.1% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -29.2% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -21.7% |
+| Achraf Hakimi | 89 | RB | Ligue 1 McDonald's | 2k coins | -26.5% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -6.7% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +79.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
+| Celia Šašić | 89 | ST | GPFBL | 12k coins | -2.1% |
+| Jørgen Strand Larsen | 89 | ST | Premier League | 12k coins | -10% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -2% |
 
 
 ## 📈 Destaques
 
 - **Nico Paz (94, CAM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sergiño Dest (93, RW)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Hidetoshi Nakata (92, CAM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:00:10.000Z
+pubDatetime: 2026-07-11T13:00:11.000Z
 title: "Jogadores baratos e bons no EA FC (11/07/2026) — joias 83+ por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Sander Berge (94, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
+    a: "Roberto Alvarado (93, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sander Berge (94) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Roberto Alvarado (93) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sander Berge | 94 | CDM | — | 15k coins | +24.5% |
-| José María Giménez | 94 | CB | — | 15k coins | +34% |
-| Jovo Lukić | 94 | ST | — | 15k coins | +15.4% |
-| Nico Paz | 94 | CAM | — | 15k coins | +15.4% |
-| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +17.3% |
-| Jhon Arias | 93 | RM | — | 15k coins | +29.8% |
-| Çağlar Söyüncü | 93 | CB | — | 15k coins | +36.2% |
-| Jesper Karlström | 93 | CDM | — | 15k coins | +27.7% |
-| Alexis Saelemaekers | 93 | RM | — | 15k coins | +27.7% |
-| Kevin Danso | 93 | CB | — | 15k coins | +27.7% |
-| Odilon Kossounou | 93 | CB | — | 15k coins | +27.7% |
-| Hamdy Fathy | 93 | CDM | — | 15k coins | +27.7% |
-| Sergiño Dest | 93 | RW | — | 15k coins | +27.7% |
-| Ali Ahmed | 92 | LM | — | 15k coins | +27.7% |
-| Thomas Meunier | 92 | RB | — | 15k coins | +27.7% |
+| Roberto Alvarado | 93 | RM | — | 15k coins | +27.7% |
+| Vincent Kompany | 92 | CB | — | 14k coins | +10.7% |
+| Aitana Bonmatí | 91 | CM | Liga F | 9k coins | -58.1% |
+| Virgil van Dijk | 90 | CB | Premier League | 5k coins | -43.2% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +14.1% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 10k coins | -60.2% |
+| Erling Haaland | 90 | ST | Premier League | 14k coins | +6.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -10% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +22.2% |
+| Birgit Prinz | 89 | ST | — | 15k coins | -1.7% |
+| Celia Šašić | 89 | ST | GPFBL | 15k coins | +15.2% |
+| Jari Litmanen | 88 | CAM | Eredivisie | 11k coins | +2.3% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.4% |
+| Iván Zamorano | 88 | ST | LALIGA EA SPORTS | 12k coins | +13.6% |
+| Mario Gomez | 88 | ST | Bundesliga | 14k coins | +31.8% |
 
 
 ## 📈 Destaques
 
-- **Sander Berge (94, CDM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Roberto Alvarado (93, RM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **José María Giménez (94, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Vincent Kompany (92, CB)** da —, a apenas **14k coins**
 
-- **Jovo Lukić (94, ST)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nico Paz (94, CAM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tsuyoshi Watanabe (94, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Sander Berge (94, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
+Roberto Alvarado (93, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
