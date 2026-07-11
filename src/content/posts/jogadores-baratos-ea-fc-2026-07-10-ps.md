@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T22:00:06.000Z
+pubDatetime: 2026-07-11T01:00:06.000Z
 title: "Jogadores baratos e bons no EA FC (10/07/2026) — joias 83+ por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +16% |
-| Sander Berge | 94 | CDM | — | 15k coins | +20% |
-| Nico Paz | 94 | CAM | — | 15k coins | +13.5% |
-| Jovo Lukić | 94 | ST | — | 15k coins | +20.4% |
-| Roberto Alvarado | 93 | RM | — | 15k coins | +27.7% |
-| Sami Al Jaber | 92 | ST | — | 15k coins | +11.1% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -27.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +82.6% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +8.5% |
+| Tsuyoshi Watanabe | 94 | CB | — | 15k coins | +17.6% |
+| Nico Paz | 94 | CAM | — | 15k coins | +15.4% |
+| Jovo Lukić | 94 | ST | — | 15k coins | +20% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -28% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +69.6% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +10.6% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +10.4% |
+| Thijs Dallinga | 89 | ST | — | 12k coins | -6.8% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | +4.2% |
+| Sebastian Nanasi | 89 | LM | — | 12k coins | +5.8% |
+| Peer Koopmeiners | 89 | CDM | — | 12k coins | +13.3% |
 | Celia Šašić | 89 | ST | GPFBL | 13k coins | +8.5% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +4.2% |
-| Alexis Mac Allister | 89 | CM | Premier League | 13k coins | -11.8% |
-| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +4% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +4.2% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | +2% |
+| Mariona | 89 | CAM | Barclays WSL | 13k coins | +9.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +8.3% |
 
 
 ## 📈 Destaques
 
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sander Berge (94, CDM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Nico Paz (94, CAM)** da —, a apenas **15k coins**
+- **Nico Paz (94, CAM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Jovo Lukić (94, ST)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Roberto Alvarado (93, RM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
