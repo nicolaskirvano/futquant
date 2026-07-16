@@ -124,6 +124,14 @@ const ogImage = ogImageUrl
 
     <div class="my-2 flex items-center gap-2">
       <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+      <span aria-hidden="true" class="text-muted-foreground">•</span>
+      <a
+        href="/about/"
+        rel="author"
+        class="text-muted-foreground hover:text-accent"
+      >
+        Por {author}
+      </a>
       <span
         aria-hidden="true"
         class:list={[

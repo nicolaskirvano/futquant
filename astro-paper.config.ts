@@ -2,16 +2,16 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://futquant.com/",
+    url: "https://futquant.pages.dev/",
     title: "FutQuant",
     description:
-      "Dados, preços e previsões do mercado do EA FC Ultimate Team. Análise quantitativa do FUT: valorização, tendências, sinais e melhores investimentos — atualizado todos os dias.",
+      "Análises de preços, tendências e risco no mercado do EA FC Ultimate Team, atualizadas com dados reais.",
     author: "FutQuant",
-    profile: "https://futquant.com/",
+    profile: "https://futquant.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "FutQuant",
-      url: "https://futquant.com/",
+      url: "https://futquant.pages.dev/",
       logo: "logo-fq-symbol.svg",
       sameAs: [
         "https://instagram.com/futquant",
