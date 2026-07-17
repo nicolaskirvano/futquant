@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sadio Mané</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ibañez</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aya Miyama</text>
-<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
-<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denzel Dumfries</text>
-<rect x="285" y="211" width="465" height="28" rx="7" fill="#22c55e"/>
-<text x="760" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sakina Karchaoui</text>
-<rect x="285" y="269" width="453" height="28" rx="7" fill="#22c55e"/>
-<text x="748" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohamed Salah</text>
-<rect x="285" y="327" width="446" height="28" rx="7" fill="#22c55e"/>
-<text x="741" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc Cucurella</text>
-<rect x="285" y="385" width="434" height="28" rx="7" fill="#22c55e"/>
-<text x="729" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
+<rect x="285" y="153" width="467" height="28" rx="7" fill="#22c55e"/>
+<text x="762" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sadio Mané</text>
+<rect x="285" y="211" width="459" height="28" rx="7" fill="#22c55e"/>
+<text x="754" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovane</text>
+<rect x="285" y="269" width="454" height="28" rx="7" fill="#22c55e"/>
+<text x="749" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
+<rect x="285" y="327" width="452" height="28" rx="7" fill="#22c55e"/>
+<text x="747" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dominik Szoboszlai</text>
+<rect x="285" y="385" width="452" height="28" rx="7" fill="#22c55e"/>
+<text x="747" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.6%</text>
 </svg>

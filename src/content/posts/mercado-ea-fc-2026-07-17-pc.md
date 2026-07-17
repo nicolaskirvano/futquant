@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:24:45.000Z
+pubDatetime: 2026-07-17T19:00:19.000Z
 title: "Mercado EA FC em 17/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
     a: "Al Hassan Touré (83, A-League), com +59.5% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Pavel Nedvěd (88), -49.7% em 24h, a 80k coins."
+    a: "Kevin Rodríguez (84), -49.7% em 24h, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 896 cartas em alta contra 984 em queda (média 1.76%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 762 cartas em alta contra 921 em queda (média 1.28%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**17/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **896 subiram**, **984 caíram** (80+ e 5k+ coins), média de **1.76%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**17/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **762 subiram**, **921 caíram** (80+ e 5k+ coins), média de **1.28%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Al Hassan Touré (83) **+59.5%** · 🔴 **Maior baixa:** Pavel Nedvěd (88) **-49.7%**
+> 🟢 **Maior alta:** Al Hassan Touré (83) **+59.5%** · 🔴 **Maior baixa:** Kevin Rodríguez (84) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -36,23 +36,23 @@ Hoje (**17/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 109.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 2364 cartas.
-- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
+- **Participação das altas:** 45.3% entre as cartas que se moveram; o universo observado reúne 2173 cartas.
+- **Concentração:** A-League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Al Hassan Touré | 83 | A-League | 48k coins | +59.5% | -3.5% |
-| Giovane | 89 | Serie A TIM | 35k coins | +58% | +58% |
-| Juan Mata | 88 | A-League | 94k coins | +57.5% | +97.9% |
-| Gianluca Mancini | 85 | Serie A TIM | 28k coins | +56.9% | +22.8% |
-| Deniz Undav | 84 | Bundesliga | 50k coins | +56.2% | +15.6% |
-| Keira Walsh | 89 | Barclays WSL | 29k coins | +55.6% | +45.8% |
-| Keven Schlotterbeck | 89 | Bundesliga | 29k coins | +55% | +55% |
-| Tara McKeown | 89 | NWSL | 25k coins | +54.1% | +70.1% |
-| Lúcio | 89 | Serie A TIM | 105k coins | +53.3% | +25% |
-| Ko Itakura | 88 | Eredivisie | 30k coins | +53.2% | +49.4% |
+| Mohamed Simakan | 93 | — | 34k coins | +59.3% | +77.4% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 84k coins | +58.9% | +57.4% |
+| Hayley Raso | 85 | GPFBL | 37k coins | +57.9% | -6.2% |
+| Juan Mata | 88 | A-League | 95k coins | +57.5% | +97.9% |
+| Hernán Crespo | 88 | Icons | 54k coins | +57.1% | +39.2% |
+| Arda Güler | 94 | — | 50k coins | +56.6% | -13.9% |
+| Deniz Undav | 84 | Bundesliga | 50k coins | +56.2% | +17.6% |
+| Croix Bethune | 87 | NWSL | 40k coins | +55.2% | +4.5% |
+| Khadija Shaw | 91 | Barclays WSL | 135k coins | +53.7% | +65.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**17/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Al Hassan Touré (83)** subiu **+59.5%** em 24h, a **48k coins** (faixa do dia: 30k–50k). Está em linha com a média de 7 dias (+5%).
+- **Al Hassan Touré (83)** subiu **+59.5%** em 24h, a **48k coins** (faixa do dia: 30k–50k). Está em linha com a média de 7 dias (+6%).
 
-- **Giovane (89)** subiu **+58%** em 24h, a **35k coins** (faixa do dia: 28k–35k). Está +57% acima da média de 7 dias (aquecida).
+- **Mohamed Simakan (93)** subiu **+59.3%** em 24h, a **34k coins** (faixa do dia: 24k–53k). Está em linha com a média de 7 dias (-4%).
 
-- **Juan Mata (88)** subiu **+57.5%** em 24h, a **94k coins** (faixa do dia: 60k–94k). Está +56% acima da média de 7 dias (aquecida).
+- **Ethan Nwaneri (91)** subiu **+58.9%** em 24h, a **84k coins** (faixa do dia: 50k–85k). Está +38% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pavel Nedvěd | 88 | Icons | 80k coins | -49.7% | +20.3% |
-| Junior Messias | 87 | Serie A TIM | 21k coins | -47.8% | -46.1% |
-| Jaden Philogene | 87 | EFL Championship | 20k coins | -45.9% | -26.6% |
-| Iván Zamorano | 91 | LALIGA EA SPORTS | 50k coins | -44.4% | -47.4% |
-| Ada Hegerberg | 88 | Frauen-Bundesliga | 39k coins | -44.3% | -8.2% |
-| Pape Gueye | 95 | — | 64k coins | -44.1% | -4.3% |
-| Antonio Di Natale | 88 | Serie A TIM | 47k coins | -44% | +39.3% |
-| Oskar Pietuszewski | 86 | Liga Portugal | 58k coins | -43.2% | +9.7% |
-| Sven Ulreich | 87 | Bundesliga | 48k coins | -43% | -46.9% |
-| Francesco Totti | 89 | Icons | 400k coins | -42.9% | -28.4% |
+| Kevin Rodríguez | 84 | 1A Pro League | 20k coins | -49.7% | -38.2% |
+| Pavel Nedvěd | 88 | Icons | 80k coins | -49.7% | +19.5% |
+| Agnes Beever-Jones | 90 | Barclays WSL | 50k coins | -49% | -31.1% |
+| Junior Messias | 87 | Serie A TIM | 21k coins | -47.1% | -46.1% |
+| Hervé Koffi | 94 | — | 31k coins | -46.5% | -12.1% |
+| Jaden Philogene | 87 | EFL Championship | 20k coins | -45.9% | -39.4% |
+| Lee Dong Kyeong | 94 | — | 29k coins | -45.9% | -35.8% |
+| Pape Gueye | 95 | — | 64k coins | -44.8% | -5.2% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 47k coins | -44.4% | -44.4% |
+| Glódís Perla Viggósdóttir | 85 | GPFBL | 22k coins | -43.6% | -50.6% |
 
 
 ### Análise das baixas
 
-- **Pavel Nedvěd (88)** caiu **-49.7%** em 24h, a **80k coins** (faixa do dia: 80k–158k). Está -23% abaixo da média de 7 dias (descontada).
+- **Kevin Rodríguez (84)** caiu **-49.7%** em 24h, a **20k coins** (faixa do dia: 20k–50k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Junior Messias (87)** caiu **-47.8%** em 24h, a **21k coins** (faixa do dia: 21k–40k). Está -37% abaixo da média de 7 dias (descontada).
+- **Pavel Nedvěd (88)** caiu **-49.7%** em 24h, a **80k coins** (faixa do dia: 80k–135k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Jaden Philogene (87)** caiu **-45.9%** em 24h, a **20k coins** (faixa do dia: 12.500–37k). Está -38% abaixo da média de 7 dias (descontada).
+- **Agnes Beever-Jones (90)** caiu **-49%** em 24h, a **50k coins** (faixa do dia: 50k–100k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Al Hassan Touré já avançou 59.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Pavel Nedvěd recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kevin Rodríguez recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Al Hassan Touré (83, A-League), com +59.5% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**
-Pavel Nedvěd (88), -49.7% em 24h, a 80k coins.
+Kevin Rodríguez (84), -49.7% em 24h, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 896 cartas em alta contra 984 em queda (média 1.76%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 762 cartas em alta contra 921 em queda (média 1.28%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

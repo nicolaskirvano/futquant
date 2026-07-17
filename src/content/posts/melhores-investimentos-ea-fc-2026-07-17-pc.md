@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:24:46.000Z
+pubDatetime: 2026-07-17T19:00:20.000Z
 title: "Investimentos EA FC em 17/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Thomas Meunier (92, sem liga) lidera, com +89.7% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gabriel Villamíl (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Thomas Meunier (92) acumula **+89.7% em 7 dias** a 26k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gabriel Villamíl (91) acumula **+89.9% em 7 dias** a 38k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 17/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.4% em 24h** e **+82.2% em 7 dias**.
+- A mediana é de **+10.4% em 24h** e **+82.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Thomas Meunier | 92 | — | 26k coins | +19.6% | +89.7% | Esticada |
+| Gabriel Villamíl | 91 | — | 38k coins | +1.4% | +89.9% | Esticada |
+| Raúl | 90 | Icons | 160k coins | +36.4% | +89.7% | Esticada |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 45k coins | +28.6% | +89.5% | Esticada |
-| Aleksandar Stanković | 87 | 1A Pro League | 129k coins | +23.8% | +87.2% | Esticada |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 31k coins | +4% | +87% | Esticada |
-| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 33k coins | +18.1% | +85.1% | Esticada |
-| Kerolin Nicoli | 89 | Barclays WSL | 105k coins | +6.8% | +84.9% | Esticada |
-| Reece James | 91 | — | 55k coins | +27.9% | +83.3% | Esticada |
-| Marc Cucurella | 93 | — | 38k coins | +5.8% | +82.2% | Esticada |
-| Christos Tzolis | 92 | — | 30k coins | +23.3% | +80.5% | Esticada |
-| Lindsey Heaps | 88 | D1 Arkema | 127k coins | +6.9% | +80.4% | Esticada |
+| Aleksandar Stanković | 87 | 1A Pro League | 109k coins | +25.8% | +87.2% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 67k coins | +17.6% | +86.7% | Esticada |
+| Mile Svilar | 91 | — | 45k coins | +1.1% | +85.6% | Esticada |
+| Abdul Fatawu | 88 | EFL Championship | 38k coins | +11.9% | +84.1% | Esticada |
+| Granit Xhaka | 91 | — | 42k coins | +6.2% | +82.8% | Esticada |
+| Jonathan David | 90 | Serie A TIM | 52k coins | +2.8% | +78.9% | Esticada |
 | Kim Seung Sub | 90 | — | 45k coins | +10.4% | +78.2% | Esticada |
-| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +17.6% | +77.2% | Esticada |
-| Oh Hyeon Gyu | 91 | — | 44k coins | +7.3% | +77% | Esticada |
-| Marc Cucurella | 95 | — | 76k coins | +8.1% | +76.8% | Esticada |
-| Frida Maanum | 90 | — | 39k coins | +4.2% | +76.8% | Esticada |
+| Oh Hyeon Gyu | 91 | — | 43k coins | +19.5% | +78% | Esticada |
+| Alessandro Nesta | 92 | — | 70k coins | +3.9% | +77.8% | Esticada |
+| Philipp Lahm | 89 | Icons | 110k coins | +30.1% | +76.3% | Esticada |
+| Vivianne Miedema | 89 | Barclays WSL | 49k coins | +8.7% | +75.4% | Esticada |
+| Lindsey Heaps | 88 | D1 Arkema | 97k coins | +5.4% | +73.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Thomas Meunier (92)** — 26k coins, **+89.7% em 7 dias** (+19.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Villamíl (91)** — 38k coins, **+89.9% em 7 dias** (+1.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 160k coins, **+89.7% em 7 dias** (+36.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Stanković (87)** — 129k coins, **+87.2% em 7 dias** (+23.8% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mamadou Sangaré (87)** — 31k coins, **+87% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Stanković (87)** — 109k coins, **+87.2% em 7 dias** (+25.8% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bryan Zaragoza (85)** — 33k coins, **+85.1% em 7 dias** (+18.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 67k coins, **+86.7% em 7 dias** (+17.6% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Thomas Meunier (92, sem liga) lidera, com +89.7% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gabriel Villamíl (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
