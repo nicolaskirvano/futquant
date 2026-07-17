@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:00:12.000Z
+pubDatetime: 2026-07-17T22:00:11.000Z
 title: "Jogadores baratos EA FC em 17/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Kerim Alajbegović (95, sem liga) aparece como melhor custo-benefício, a 13.750 coins no Console (PS)."
+    a: "Malik Tillman (95, sem liga) aparece como melhor custo-benefício, a 13.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Kerim Alajbegović (95) por apenas 13.750 coins.
+> 💰 **Melhor pechincha:** Malik Tillman (95) por apenas 13.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC em 17/07: abaixo de 15k — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-17-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.830 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 3.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.727 coins.
+- **Posição mais frequente:** CB, com 3 cartas.
+- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Kerim Alajbegović | 95 | LM | — | 13.750 coins | +14.6% |
-| Gilberto Mora | 95 | CAM | — | 13.750 coins | +14.6% |
-| Nilson Angulo | 95 | LM | — | 14.000 coins | +14.6% |
-| Malik Tillman | 95 | CAM | — | 14.000 coins | +12% |
-| Zion Suzuki | 95 | GK | — | 14.750 coins | +13.7% |
-| Guéla Doué | 94 | RB | — | 13.250 coins | +12.8% |
+| Malik Tillman | 95 | CAM | — | 13.000 coins | +14.3% |
+| Nilson Angulo | 95 | LM | — | 13.250 coins | +12.5% |
+| Zion Suzuki | 95 | GK | — | 14.000 coins | +12% |
+| Gilberto Mora | 95 | CAM | — | 14.500 coins | +18.8% |
+| Kerim Alajbegović | 95 | LM | — | 14.500 coins | +14.6% |
+| Renato Veiga | 94 | CB | — | 13.000 coins | +10.6% |
 | Caleb Yirenkyi | 94 | CM | — | 13.250 coins | +10.6% |
-| Aleksandar Pavlović | 94 | CDM | — | 13.500 coins | +14.9% |
-| Rodri | 90 | CDM | Premier League | 3.100 coins | +20% |
-| Virgil van Dijk | 90 | CB | Premier League | 8.600 coins | +30.8% |
-| Erling Haaland | 90 | ST | Premier League | 12.000 coins | +14.3% |
-| Harry Kane | 89 | ST | Bundesliga | 3.100 coins | +43.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.200 coins | +33.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.200 coins | +16.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.000 coins | -2.9% |
+| Luka Vušković | 94 | CB | — | 13.250 coins | +12.8% |
+| Aleksandar Pavlović | 94 | CDM | — | 13.250 coins | +10.6% |
+| Guéla Doué | 94 | RB | — | 13.750 coins | +17% |
+| Rodri | 90 | CDM | Premier League | 2.600 coins | +8% |
+| Virgil van Dijk | 90 | CB | Premier League | 6.300 coins | +3.1% |
+| Erling Haaland | 90 | ST | Premier League | 11.750 coins | +9.1% |
+| Harry Kane | 89 | ST | Bundesliga | 2.000 coins | +34.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.500 coins | +23.8% |
 
 
 ## 📈 Destaques
 
-- **Kerim Alajbegović (95, LM)** da —, a apenas **13.750 coins**
+- **Malik Tillman (95, CAM)** da —, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gilberto Mora (95, CAM)** da —, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nilson Angulo (95, LM)** da —, a apenas **13.250 coins**
 
-- **Nilson Angulo (95, LM)** da —, a apenas **14.000 coins**
+- **Zion Suzuki (95, GK)** da —, a apenas **14.000 coins**
 
-- **Malik Tillman (95, CAM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gilberto Mora (95, CAM)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Zion Suzuki (95, GK)** da —, a apenas **14.750 coins**
+- **Kerim Alajbegović (95, LM)** da —, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Zion Suzuki (95, GK) por 14.750 coins é a referência de rating deste recorte.
+- **Defesa:** Zion Suzuki (95, GK) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Kerim Alajbegović (95, LM) por 13.750 coins é a referência de rating deste recorte.
+- **Meio:** Malik Tillman (95, CAM) por 13.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
+- **Ataque:** Erling Haaland (90, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Kerim Alajbegović (95, sem liga) aparece como melhor custo-benefício, a 13.750 coins no Console (PS).
+Malik Tillman (95, sem liga) aparece como melhor custo-benefício, a 13.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
