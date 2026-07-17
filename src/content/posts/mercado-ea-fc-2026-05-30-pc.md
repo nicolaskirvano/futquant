@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-05-31T00:17:12.000Z
-title: "Mercado do EA FC hoje (30/05/2026): maiores altas e baixas — PC"
+title: "este segmento no EA FC em 30/05: altas e baixas — PC"
 draft: false
 featured: false
 tags:
@@ -9,8 +9,22 @@ tags:
   - precos
   - altas-e-baixas
   - pc
-description: "As maiores altas e baixas de preço do EA FC Ultimate Team em 30/05/2026 no PC: quem subiu, quem caiu e os melhores investimentos do dia, com dados reais."
+description: "Snapshot histórico de 30/05/2026 no PC: Kevin Stöger liderou as altas e Rodrygo as baixas em este segmento. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 30/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 28 cartas destacadas nas tabelas, **Kevin Stöger** registrou o maior movimento de 24h (+55,9%), enquanto **Rodrygo** marcou o menor (-45,0%). A distância entre os extremos foi de **100,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+17,0%**: 18 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de este segmento no EA FC em 30/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-30-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 O mercado do **EA FC Ultimate Team** não para — e o **FutQuant** lê os preços de mais de 18 mil cartas para mostrar, todos os dias, o que de fato se mexeu. Abaixo, o resumo de **30/05/2026** no **PC**, com dados curados (sem anomalias de preço).
 
@@ -67,16 +81,25 @@ Cartas com tendência consistente de alta em 24h **e** 7 dias — candidatas a v
 
 ## Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (30/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (30/05/2026)?**
 Kevin Stöger (86, Bundesliga), com +55.9% em 24h, cotado a 43k coins no PC.
 
-**E a maior queda?**  
+**E a maior queda?**
 Rodrygo (86), -45% em 24h, a 28k coins.
 
-**De onde vêm esses dados?**  
+**De onde vêm esses dados?**
 De centenas de milhões de pontos de preço coletados de múltiplas fontes do mercado do EA FC Ultimate Team, filtrados para remover anomalias. Atualizado diariamente pelo FutQuant.
 
 
 ---
 
 *Preços de PC, referência de 30/05/2026. Variações de mercado podem mudar a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de este segmento no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [este segmento baratos no EA FC em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

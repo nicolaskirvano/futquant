@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-06-20T01:00:52.000Z
-title: "Mercado do EA FC hoje (19/06/2026): análise de altas, baixas e previsões — Console (PS)"
+title: "este segmento no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Eduardo Quaresma (88, Liga Portugal), com +55.7% em 24h, a 58k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Nico O'Reilly (88), -49.6% em 24h, a 28k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Xavi Simons (88) — 95% de probabilidade de alta, a 27k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 258 cartas em alta contra 984 em queda (média -10.28%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Eduardo Quaresma liderou as altas e Nico O'Reilly as baixas em este segmento. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Eduardo Quaresma** registrou o maior movimento de 24h (+55,7%), enquanto **Nico O&#x27;Reilly** marcou o menor (-49,6%). A distância entre os extremos foi de **105,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-7,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de este segmento no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário do mercado em 19 de junho de 2026 é dominado por uma volatilidade extrema e um sentimento claramente bearish, evidenciado pela esmagadora predominância de quedas nos ativos digitais do EA FC Ultimate Team. Com uma média de variação negativa de -10,28% nas últimas 24 horas e um desequilíbrio gritante entre 984 quedas contra apenas 258 altas, o ambiente exige cautela redobrada de qualquer trader que busque rentabilidade sustentável neste momento. A liquidez parece estar concentrada em operações de venda forçada ou ajustes de portfólio em resposta a eventos não especificados, criando oportunidades de compra seletiva para aqueles com capital de risco disponível e paciência para esperar a correção de preços. O tom do dia é de incerteza controlada, onde os movimentos bruscos são a norma e não a exceção, exigindo que os analistas ignorem o ruído das flutuações menores e foquem apenas nos ativos com maior probabilidade estatística de reversão ou continuidade de tendência. Para o trader experiente, este é um dia para operar na contra-mão das emoções do mercado, identificando onde o pânico de venda foi exagerado e onde a compra especulativa está artificialmente inflacionando ativos de menor liquidez.
 
@@ -68,7 +71,7 @@ Entre os poucos ativos que conseguiram se destacar positivamente, Eduardo Quares
 As quedas, por outro lado, são severas e abrangem alguns dos ativos mais líquidos e populares do jogo, indicando um movimento estrutural de desvalorização ou final de ciclo de demanda. Nico O'Reilly (88, Premier League) sofreu uma queda brutal de 49,6% para 28k coins, mas com uma probabilidade de alta de 95%, configurando uma oportunidade de compra clássica de 'compre a notícia ruim' ou fundo de mercado. Aitana Bonmatí (96, s/liga), um ativo de luxo, despencou 48,5% para 417k coins, mantendo uma probabilidade de alta de 44%, o que sugere que sua recuperação será lenta e dependente da liquidez de grandes investidores retornando ao mercado. Dávid Hancko (89, LALIGA EA SPORTS) caiu 48,1% para 30k coins com 50% de probabilidade de alta, enquanto Zinedine Zidane (96, s/liga) perdeu 48,1% de seu valor, agora cotado a 790k coins, mas com apenas 27% de chance de alta, indicando que seu preço pode estar longe do fundo verdadeiro. Steffi Jones (91, Icons) também recuou 48% para 26k coins com 47% de probabilidade de alta, mostrando que até ícones não estão imunes a esta pressão vendedora generalizada. Marcos Senesi (88, Premier League) caiu 46,8% para 21k coins, mas com uma altíssima probabilidade de alta de 80%, tornando-o um dos alvos mais atraentes para rebote imediato. Kenan Yıldız (96, s/liga) e Kevin De Bruyne (96, s/liga) sofreram quedas de 46,6% e 46,4% respectivamente, caindo para 500k e 579k coins, mas com probabilidades de alta de apenas 5% e 0%, o que alerta fortemente contra qualquer tentativa de compra prematura nesses ativos de alto valor.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Eduardo Quaresma (88, Liga Portugal), com +55.7% em 24h, a 58k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Nico O'Reilly (88), -49.6% em 24h, a 28k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Xavi Simons (88) — 95% de probabilidade de alta, a 27k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Xavi Simons (88) — 95% de probabilidade de alta, a 27k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 258 cartas em alta contra 984 em queda (média -10.28%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 258 cartas em alta contra 984 em queda (média -10.28%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Momentum de este segmento no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

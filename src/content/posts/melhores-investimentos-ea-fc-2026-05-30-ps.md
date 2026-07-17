@@ -1,15 +1,29 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-05-31T00:15:34.000Z
-title: "Melhores investimentos no EA FC hoje (30/05/2026) — Console (PS)"
+title: "Momentum de este segmento no EA FC em 30/05 — PS"
 draft: false
 featured: false
 tags:
   - investimentos
   - trading
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 30/05/2026 (Console (PS)): candidatas a valorização com base em dados de 24h e 7 dias."
+description: "Ranking histórico de momentum em 30/05/2026 no PS: Nicolas Raskin liderou 7d com +69,3%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 30/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Nicolas Raskin** liderou o recorte com **+69,3% em 7d** e +6,4% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+51,0%**.
+
+Os preços destacados iam de **19.000 coins** a **120k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de este segmento no EA FC em 30/05 — PS](/charts/melhores-investimentos-ea-fc-2026-05-30-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 Investir bem no **EA FC Ultimate Team** é ler tendência, não palpite. O **FutQuant** cruza a variação de **24 horas e 7 dias** de mais de 18 mil cartas e destaca abaixo as **84+ que vêm subindo de forma consistente** — as melhores candidatas a valorização em **30/05/2026** no **Console (PS)**.
 
@@ -47,13 +61,22 @@ Subindo em **24h e 7 dias** — o sinal mais confiável de momentum de mercado:
 
 ## Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (30/05/2026) no EA FC?**  
+**Qual carta liderava o momentum em 30/05/2026 no EA FC?**
 Pelos dados do FutQuant, Nicolas Raskin (85, Scottish Premiership) lidera, com +69.3% em 7 dias a 74k coins no Console (PS).
 
-**Esses dados são atualizados?**  
+**Esses dados são atualizados?**
 Sim — recalculados várias vezes ao dia a partir do mercado real, sem anomalias de preço.
 
 
 ---
 
 *Preços de Console (PS), referência de 30/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento baratos no EA FC em 30/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-30-ps/)
+- [este segmento no EA FC em 30/05: altas e baixas — PS](/posts/mercado-ea-fc-2026-05-30-ps/)
+- [Momentum de este segmento no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

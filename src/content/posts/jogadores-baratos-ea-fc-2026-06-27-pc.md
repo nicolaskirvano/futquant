@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-06-27T13:00:10.000Z
-title: "Jogadores baratos e bons no EA FC (27/06/2026) — joias 83+ por menos de 15k — PC"
+title: "este segmento baratos no EA FC em 27/06 — PC"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - custo-beneficio
   - budget
   - pc
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
-faq:
-  - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
-  - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
-    a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
-  - q: "Esses preços são reais?"
-    a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
+description: "Em 27/06/2026 no PC, Luka Vušković liderou a seleção de este segmento por 14.000 coins. Compare 15 cartas, OVR, preço, 7d e gráfico."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 27/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Entre 15 opções, **Bixente Lizarazu** tinha o menor preço (13.000 coins). O maior OVR era de **Luka Vušković** (94), por 14.000 coins.
+
+O preço mediano do recorte foi **14.000 coins** e 5 cartas vinham de queda em 7d. 3 opções estavam exatamente no teto de 15.000 coins. OVR é só um filtro inicial; função, atributos, PlayStyles e química precisam ser conferidos antes de montar o time.
+
+![Gráfico de preço em coins para os destaques de este segmento baratos no EA FC em 27/06 — PC](/charts/jogadores-baratos-ea-fc-2026-06-27-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam até 15 mil coins** em **27/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Luka Vušković (94) por apenas 14k coins.
 
-## 💎 Joias baratas (83+, abaixo de 15k)
+## 💎 Joias baratas (83+, até 15k)
 
 Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
 
@@ -48,21 +55,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 ## 📈 Destaques
 
-- **Luka Vušković (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luka Vušković (94, CB)**, sem liga informada, a apenas **14k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
-- **Wesley Sneijder (94, CAM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (94, CAM)**, sem liga informada, a apenas **15k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
-- **Rudi Völler (94, ST)** da —, a apenas **15k coins**
+- **Rudi Völler (94, ST)**, sem liga informada, a apenas **15k coins**
 
-- **Jerdy Schouten (94, CB)** da —, a apenas **15k coins**
+- **Jerdy Schouten (94, CB)**, sem liga informada, a apenas **15k coins**
 
-- **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bixente Lizarazu (93, LB)**, sem liga informada, a apenas **13k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
-- **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
+- **OVR 83+** ajuda a filtrar, mas não garante desempenho: compare atributos, PlayStyles, função tática e química.
+- **Até 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
@@ -72,13 +79,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
+**Qual era o destaque barato do EA FC em 27/06/2026?**
 Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
-**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
-Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
+**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**
+Cartas com rating 83+ que custam até 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. Este arquivo preserva o recorte daquela data; consulte as análises recentes para preços atuais.
 
-**Esses preços são reais?**  
+**Esses preços são reais?**
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
@@ -87,3 +94,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 27/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento baratos no EA FC em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de este segmento no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

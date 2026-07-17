@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-05-31T00:17:12.000Z
-title: "Mercado do EA FC hoje (30/05/2026): maiores altas e baixas — Console (PS)"
+title: "este segmento no EA FC em 30/05: altas e baixas — PS"
 draft: false
 featured: false
 tags:
@@ -9,8 +9,22 @@ tags:
   - precos
   - altas-e-baixas
   - ps
-description: "As maiores altas e baixas de preço do EA FC Ultimate Team em 30/05/2026 no Console (PS): quem subiu, quem caiu e os melhores investimentos do dia, com dados reais."
+description: "Snapshot histórico de 30/05/2026 no PS: Václav Černý liderou as altas e Eli Junior Kroupi as baixas em este segmento. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 30/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 28 cartas destacadas nas tabelas, **Václav Černý** registrou o maior movimento de 24h (+56,6%), enquanto **Eli Junior Kroupi** marcou o menor (-48,2%). A distância entre os extremos foi de **104,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+15,1%**: 18 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de este segmento no EA FC em 30/05: altas e baixas — PS](/charts/mercado-ea-fc-2026-05-30-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 O mercado do **EA FC Ultimate Team** não para — e o **FutQuant** lê os preços de mais de 18 mil cartas para mostrar, todos os dias, o que de fato se mexeu. Abaixo, o resumo de **30/05/2026** no **Console (PS)**, com dados curados (sem anomalias de preço).
 
@@ -67,16 +81,25 @@ Cartas com tendência consistente de alta em 24h **e** 7 dias — candidatas a v
 
 ## Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (30/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (30/05/2026)?**
 Václav Černý (87, Trendyol Süper Lig), com +56.6% em 24h, cotado a 30k coins no Console (PS).
 
-**E a maior queda?**  
+**E a maior queda?**
 Eli Junior Kroupi (89), -48.2% em 24h, a 36k coins.
 
-**De onde vêm esses dados?**  
+**De onde vêm esses dados?**
 De centenas de milhões de pontos de preço coletados de múltiplas fontes do mercado do EA FC Ultimate Team, filtrados para remover anomalias. Atualizado diariamente pelo FutQuant.
 
 
 ---
 
 *Preços de Console (PS), referência de 30/05/2026. Variações de mercado podem mudar a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [este segmento baratos no EA FC em 30/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-30-ps/)
+- [Momentum de este segmento no EA FC em 30/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-30-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
