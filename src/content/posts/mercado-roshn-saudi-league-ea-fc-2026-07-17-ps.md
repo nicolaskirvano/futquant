@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:00:23.000Z
+pubDatetime: 2026-07-17T13:00:23.000Z
 title: "Mercado ROSHN Saudi League no EA FC em 17/07 — PS"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?"
     a: "Cristiano Ronaldo (90), a 8M coins no Console (PS) em 17/07/2026."
   - q: "Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?"
-    a: "N'Golo Kanté (85), +88.2% em 7 dias, a 3.300 coins."
+    a: "N'Golo Kanté (85), +70.6% em 7 dias, a 2.900 coins."
   - q: "Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -33,15 +33,15 @@ A **ROSHN Saudi League** é uma das ligas mais usadas no **EA FC Ultimate Team**
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Cristiano Ronaldo | 90 | ST | 8M coins | -34.4% |
-| Cristiano Ronaldo | 88 | ST | 1.90M coins | +11.8% |
-| Cristiano Ronaldo | 92 | ST | 1.87M coins | +2.5% |
-| Cristiano Ronaldo | 89 | ST | 1.73M coins | +16.2% |
-| Cristiano Ronaldo | 86 | ST | 470k coins | 0% |
-| João Félix | 93 | CAM | 450k coins | -5.2% |
-| Saeed Al Owairan | 91 | RW | 300k coins | +63.2% |
-| João Félix | 86 | LW | 210k coins | +16% |
-| João Félix | 84 | ST | 200k coins | +20% |
-| Sadio Mané | 88 | LM | 195k coins | -22% |
+| Cristiano Ronaldo | 88 | ST | 1.85M coins | -2.6% |
+| Cristiano Ronaldo | 92 | ST | 1.79M coins | -0.5% |
+| Cristiano Ronaldo | 89 | ST | 1.60M coins | +6.8% |
+| João Félix | 93 | CAM | 500k coins | 0% |
+| Cristiano Ronaldo | 86 | ST | 420k coins | -10.4% |
+| João Félix | 86 | LW | 215k coins | +15.6% |
+| João Félix | 84 | ST | 193k coins | +8.6% |
+| Sadio Mané | 88 | LM | 183k coins | -8.2% |
+| Riyad Mahrez | 87 | RM | 145k coins | -0.7% |
 
 
 ## 📈 Em alta na ROSHN Saudi League (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| N'Golo Kanté | 85 | CDM | 3.300 coins | +88.2% |
-| Theo Hernández | 88 | LB | 120k coins | +72.7% |
-| Musab Al Juwair | 87 | CM | 30k coins | +71% |
-| Malcom | 87 | RW | 94k coins | +65.5% |
-| Ibañez | 86 | CB | 58k coins | +62.5% |
-| Saeed Al Owairan | 86 | ST | 112k coins | +57.8% |
-| João Cancelo | 87 | RB | 51k coins | +38.2% |
-| Moussa Diaby | 90 | RM | 68k coins | +36% |
-| João Félix | 93 | CAM | 450k coins | +34% |
-| Chris Smalling | 87 | CB | 57k coins | +33.3% |
+| N'Golo Kanté | 85 | CDM | 2.900 coins | +70.6% |
+| Saeed Al Owairan | 86 | ST | 110k coins | +58.9% |
+| Malcom | 87 | RW | 90k coins | +58.5% |
+| Musab Al Juwair | 87 | CM | 26k coins | +56.5% |
+| Theo Hernández | 88 | LB | 109k coins | +55.2% |
+| Salem Al Dawsari | 91 | LM | 50k coins | +46.5% |
+| N'Golo Kanté | 89 | CDM | 105k coins | +44.7% |
+| Karim Benzema | 88 | ST | 130k coins | +37.8% |
+| João Félix | 93 | CAM | 500k coins | +32.4% |
+| Mohammed Noor | 88 | CAM | 20k coins | +32.3% |
 
 
 ## 📈 Análise da ROSHN Saudi League
 
 A carta mais valiosa da liga é **Cristiano Ronaldo (90)**, a 8M coins. 
-No movimento da semana, **N'Golo Kanté (85)** lidera as altas (+88.2% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **N'Golo Kanté (85)** lidera as altas (+70.6% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## ⚙️ A engine por trás deste post
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Cristiano Ronaldo (90), a 8M coins no Console (PS) em 17/07/2026.
 
 **Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?**  
-N'Golo Kanté (85), +88.2% em 7 dias, a 3.300 coins.
+N'Golo Kanté (85), +70.6% em 7 dias, a 2.900 coins.
 
 **Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
