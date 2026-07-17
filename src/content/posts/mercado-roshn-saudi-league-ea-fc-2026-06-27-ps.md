@@ -63,8 +63,8 @@ A carta mais valiosa da liga é **Cristiano Ronaldo (90)**, a 6.07M coins.
 No movimento da semana, **Chris Smalling (87)** lidera as altas (+49.3% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
