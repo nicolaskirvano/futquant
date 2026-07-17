@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
-<rect x="285" y="95" width="24" height="28" rx="7" fill="#f87171"/>
-<text x="319" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-1.6%</text>
+<rect x="285" y="95" width="19" height="28" rx="7" fill="#f87171"/>
+<text x="314" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-1.6%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Victor Osimhen</text>
-<rect x="285" y="153" width="300" height="28" rx="7" fill="#f87171"/>
-<text x="595" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-20.2%</text>
+<rect x="285" y="153" width="156" height="28" rx="7" fill="#f87171"/>
+<text x="451" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-13.1%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Victor Osimhen</text>
-<rect x="285" y="211" width="230" height="28" rx="7" fill="#22c55e"/>
-<text x="525" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Barış Alper Yılmaz</text>
-<rect x="285" y="269" width="465" height="28" rx="7" fill="#22c55e"/>
-<text x="760" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Barış Alper Yılmaz</text>
-<rect x="285" y="327" width="480" height="28" rx="7" fill="#f87171"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-32.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jayden Oosterwolde</text>
-<rect x="285" y="385" width="8" height="28" rx="7" fill="#22c55e"/>
-<text x="303" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
+<rect x="285" y="211" width="380" height="28" rx="7" fill="#22c55e"/>
+<text x="675" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">N&#x27;Golo Kanté</text>
+<rect x="285" y="269" width="36" height="28" rx="7" fill="#22c55e"/>
+<text x="331" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+3.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jayden Oosterwolde</text>
+<rect x="285" y="327" width="60" height="28" rx="7" fill="#22c55e"/>
+<text x="355" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Lemina</text>
+<rect x="285" y="385" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.2%</text>
 </svg>
