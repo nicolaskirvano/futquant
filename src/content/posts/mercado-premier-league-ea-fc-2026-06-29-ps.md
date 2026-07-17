@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-06-30T01:00:12.000Z
-title: "Mercado da Premier League no EA FC (29/06/2026): cartas mais valiosas e em alta — Console (PS)"
+title: "Premier League no EA FC em 29/06: altas e baixas — PS"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - premier-league
   - mercado
   - ps
-description: "Panorama de preços da Premier League no EA FC Ultimate Team em 29/06/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
-faq:
-  - q: "Qual o jogador mais caro da Premier League no EA FC hoje?"
-    a: "Alexander Isak (88), a 1.50M coins no Console (PS) em 29/06/2026."
-  - q: "Quem mais valorizou na Premier League esta semana no EA FC?"
-    a: "Erling Haaland (92), +82.7% em 7 dias, a 190k coins."
-  - q: "Onde ver os preços das cartas da Premier League no EA FC Ultimate Team?"
-    a: "O FutQuant acompanha os preços de todas as cartas da Premier League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
+description: "Snapshot histórico de 29/06/2026 no PS: Virgil van Dijk liderou as altas e Viktor Gyökeres as baixas em Premier League. Compare preços, variações, gráfico e riscos."
 ---
 
-A **Premier League** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **29/06/2026** no **Console (PS)**.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 29/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-> 👑 **Carta mais valiosa da Premier League:** Alexander Isak (88), a 1.50M coins.
+## Leitura do recorte
 
-## 👑 Mais valiosos da Premier League
+Nas 10 cartas destacadas nas tabelas, **Virgil van Dijk** registrou o maior movimento de 24h (+10,1%), enquanto **Viktor Gyökeres** marcou o menor (-30,3%). A distância entre os extremos foi de **40,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,0%**: 4 destaques subiam e 4 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de 24h para os destaques de Premier League no EA FC em 29/06: altas e baixas — PS](/charts/mercado-premier-league-ea-fc-2026-06-29-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## Dados preservados do snapshot
+
+As 2 tabelas abaixo preservam **20 registros** de **17 jogadores** observados em 29/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
+
+### Movimentos de 24h registrados
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
@@ -38,10 +45,7 @@ A **Premier League** é uma das ligas mais usadas no **EA FC Ultimate Team** —
 | Harry Kewell | 91 | LW | 638k coins | +7.4% |
 | Erling Haaland | 91 | ST | 633k coins | 0% |
 
-
-## 📈 Em alta na Premier League (7 dias)
-
-Cartas da liga que mais valorizaram na última semana:
+### Preços registrados
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
@@ -56,31 +60,24 @@ Cartas da liga que mais valorizaram na última semana:
 | Rayan Cherki | 87 | RW | 94k coins | +35% |
 | Martin Ødegaard | 87 | CM | 73k coins | +33.9% |
 
+## Como interpretar este arquivo
 
-## 📈 Análise da Premier League
+- Os preços registrados iam de **73k coins** a **1.50M coins**, com mediana de **486k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,0%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+62,5%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
-A carta mais valiosa da liga é **Alexander Isak (88)**, a 1.50M coins. 
-No movimento da semana, **Erling Haaland (92)** lidera as altas (+82.7% em 7 dias), sinal de procura crescente por cartas da Premier League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+<!-- content-links:v2 -->
+## Continue a análise
 
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Trendyol Süper Lig no EA FC em 16/07: altas e baixas — PS](/posts/mercado-trendyol-super-lig-ea-fc-2026-07-16-ps/)
+- [Momentum de este segmento no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
-## 🧪 De onde vêm estes números
-Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
+## Fonte e metodologia
 
-
-## ❓ Perguntas frequentes
-
-**Qual o jogador mais caro da Premier League no EA FC hoje?**  
-Alexander Isak (88), a 1.50M coins no Console (PS) em 29/06/2026.
-
-**Quem mais valorizou na Premier League esta semana no EA FC?**  
-Erling Haaland (92), +82.7% em 7 dias, a 190k coins.
-
-**Onde ver os preços das cartas da Premier League no EA FC Ultimate Team?**  
-O FutQuant acompanha os preços de todas as cartas da Premier League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
-
-
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
-
----
-
-*Preços de Console (PS), referência de 29/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

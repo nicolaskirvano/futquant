@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-07-17T01:00:22.000Z
-title: "Mercado da Trendyol Süper Lig no EA FC (16/07/2026): cartas mais valiosas e em alta — Console (PS)"
+title: "Mercado Trendyol Süper Lig no EA FC em 16/07 — PS"
 draft: false
 featured: false
 tags:

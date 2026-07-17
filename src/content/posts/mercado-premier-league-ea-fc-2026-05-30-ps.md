@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-05-31T00:15:42.000Z
-title: "Mercado da Premier League no EA FC (30/05/2026): cartas mais valiosas e em alta — Console (PS)"
+title: "Premier League no EA FC em 30/05: altas e baixas — PS"
 draft: false
 featured: false
 tags:
@@ -9,14 +9,28 @@ tags:
   - premier-league
   - mercado
   - ps
-description: "Panorama de preços da Premier League no EA FC Ultimate Team em 30/05/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
+description: "Snapshot histórico de 30/05/2026 no PS: Jaap Stam liderou as altas e Micky van de Ven as baixas em Premier League. Compare preços, variações, gráfico e riscos."
 ---
 
-A **Premier League** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **30/05/2026** no **Console (PS)**.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 30/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-> 👑 **Carta mais valiosa da Premier League:** Virgil van Dijk (95), a 3.30M coins.
+## Leitura do recorte
 
-## 👑 Mais valiosos da Premier League
+Nas 10 cartas destacadas nas tabelas, **Jaap Stam** registrou o maior movimento de 24h (+30,8%), enquanto **Micky van de Ven** marcou o menor (-35,6%). A distância entre os extremos foi de **66,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,0%**: 2 destaques subiam e 4 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de 24h para os destaques de Premier League no EA FC em 30/05: altas e baixas — PS](/charts/mercado-premier-league-ea-fc-2026-05-30-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## Dados preservados do snapshot
+
+As 2 tabelas abaixo preservam **20 registros** de **17 jogadores** observados em 30/05/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
+
+### Movimentos de 24h registrados
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
@@ -31,10 +45,7 @@ A **Premier League** é uma das ligas mais usadas no **EA FC Ultimate Team** —
 | Anthony Gordon | 90 | ST | 1.16M coins | -7.4% |
 | Yaya Touré | 88 | CM | 1.10M coins | -0.2% |
 
-
-## 📈 Em alta na Premier League (7 dias)
-
-Cartas da liga que mais valorizaram na última semana:
+### Preços registrados
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
@@ -49,16 +60,24 @@ Cartas da liga que mais valorizaram na última semana:
 | Vincent Kompany | 88 | CB | 68k coins | +50.3% |
 | Xavi Simons | 88 | CAM | 68k coins | +50% |
 
+## Como interpretar este arquivo
 
-## Perguntas frequentes
+- Os preços registrados iam de **3.000 coins** a **3.30M coins**, com mediana de **1.13M coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,0%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+57,7%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
-**Qual o jogador mais caro da Premier League no EA FC hoje?**  
-Virgil van Dijk (95), a 3.30M coins no Console (PS) em 30/05/2026.
+<!-- content-links:v2 -->
+## Continue a análise
 
-**Quem mais valorizou na Premier League esta semana?**  
-Kai Havertz (91), +62.5% em 7 dias, a 260k coins.
+- [este segmento baratos no EA FC em 30/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-30-ps/)
+- [Momentum de este segmento no EA FC em 30/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-30-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
+## Fonte e metodologia
 
----
-
-*Preços de Console (PS), referência de 30/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

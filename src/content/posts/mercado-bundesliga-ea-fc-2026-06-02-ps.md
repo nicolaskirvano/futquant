@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-06-02T16:00:03.000Z
-title: "Mercado da Bundesliga no EA FC (02/06/2026): cartas mais valiosas e em alta — Console (PS)"
+title: "Bundesliga no EA FC em 02/06: altas e baixas — PS"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - bundesliga
   - mercado
   - ps
-description: "Panorama de preços da Bundesliga no EA FC Ultimate Team em 02/06/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
-faq:
-  - q: "Qual o jogador mais caro da Bundesliga no EA FC hoje?"
-    a: "Luis Díaz (91), a 1.09M coins no Console (PS) em 02/06/2026."
-  - q: "Quem mais valorizou na Bundesliga esta semana no EA FC?"
-    a: "Jean-Mattéo Bahoya (89), +64.4% em 7 dias, a 549k coins."
-  - q: "Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?"
-    a: "O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
+description: "Snapshot histórico de 02/06/2026 no PS: Jean-Mattéo Bahoya liderou as altas e Felix Nmecha as baixas em Bundesliga. Compare preços, variações, gráfico e riscos."
 ---
 
-A **Bundesliga** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **02/06/2026** no **Console (PS)**.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-> 👑 **Carta mais valiosa da Bundesliga:** Luis Díaz (91), a 1.09M coins.
+## Leitura do recorte
 
-## 👑 Mais valiosos da Bundesliga
+Nas 10 cartas destacadas nas tabelas, **Jean-Mattéo Bahoya** registrou o maior movimento de 24h (+14,4%), enquanto **Felix Nmecha** marcou o menor (-37,5%). A distância entre os extremos foi de **51,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,0%**: 4 destaques subiam e 3 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de 24h para os destaques de Bundesliga no EA FC em 02/06: altas e baixas — PS](/charts/mercado-bundesliga-ea-fc-2026-06-02-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## Dados preservados do snapshot
+
+As 2 tabelas abaixo preservam **20 registros** de **18 jogadores** observados em 02/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
+
+### Movimentos de 24h registrados
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
@@ -38,10 +45,7 @@ A **Bundesliga** é uma das ligas mais usadas no **EA FC Ultimate Team** — e s
 | Michael Olise | 88 | RM | 397k coins | +13.8% |
 | Felix Nmecha | 86 | CDM | 333k coins | -37.5% |
 
-
-## 📈 Em alta na Bundesliga (7 dias)
-
-Cartas da liga que mais valorizaram na última semana:
+### Preços registrados
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
@@ -56,31 +60,24 @@ Cartas da liga que mais valorizaram na última semana:
 | Matthias Ginter | 88 | CB | 29k coins | +24.7% |
 | Antonio Nusa | 81 | LM | 37k coins | +23.3% |
 
+## Como interpretar este arquivo
 
-## 📈 Análise da Bundesliga
+- Os preços registrados iam de **22k coins** a **1.09M coins**, com mediana de **365k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,0%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+34,2%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
-A carta mais valiosa da liga é **Luis Díaz (91)**, a 1.09M coins. 
-No movimento da semana, **Jean-Mattéo Bahoya (89)** lidera as altas (+64.4% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+<!-- content-links:v2 -->
+## Continue a análise
 
+- [este segmento baratos no EA FC em 02/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-02-ps/)
+- [Momentum de este segmento no EA FC em 02/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-02-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## Fonte e metodologia
 
-
-## ❓ Perguntas frequentes
-
-**Qual o jogador mais caro da Bundesliga no EA FC hoje?**  
-Luis Díaz (91), a 1.09M coins no Console (PS) em 02/06/2026.
-
-**Quem mais valorizou na Bundesliga esta semana no EA FC?**  
-Jean-Mattéo Bahoya (89), +64.4% em 7 dias, a 549k coins.
-
-**Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?**  
-O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
-
-
-> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
-
----
-
-*Preços de Console (PS), referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

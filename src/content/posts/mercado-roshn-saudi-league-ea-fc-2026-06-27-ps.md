@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-06-28T01:00:13.000Z
-title: "Mercado da ROSHN Saudi League no EA FC (27/06/2026): cartas mais valiosas e em alta — Console (PS)"
+title: "ROSHN Saudi League no EA FC em 27/06: altas e baixas — PS"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - roshn-saudi-league
   - mercado
   - ps
-description: "Panorama de preços da ROSHN Saudi League no EA FC Ultimate Team em 27/06/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
-faq:
-  - q: "Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?"
-    a: "Cristiano Ronaldo (90), a 6.07M coins no Console (PS) em 27/06/2026."
-  - q: "Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?"
-    a: "Chris Smalling (87), +49.3% em 7 dias, a 30k coins."
-  - q: "Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?"
-    a: "O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
+description: "Snapshot histórico de 27/06/2026 no PS: Cristiano Ronaldo liderou as altas e Cristiano Ronaldo as baixas em ROSHN Saudi League. Compare preços, variações, gráfico e…"
 ---
 
-A **ROSHN Saudi League** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **27/06/2026** no **Console (PS)**.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 27/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-> 👑 **Carta mais valiosa da ROSHN Saudi League:** Cristiano Ronaldo (90), a 6.07M coins.
+## Leitura do recorte
 
-## 👑 Mais valiosos da ROSHN Saudi League
+Nas 10 cartas destacadas nas tabelas, **Cristiano Ronaldo** registrou o maior movimento de 24h (+41,7%), enquanto **Cristiano Ronaldo** marcou o menor (-18,1%). A distância entre os extremos foi de **59,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-6,5%**: 2 destaques subiam e 8 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de 24h para os destaques de ROSHN Saudi League no EA FC em 27/06: altas e baixas — PS](/charts/mercado-roshn-saudi-league-ea-fc-2026-06-27-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## Dados preservados do snapshot
+
+As 2 tabelas abaixo preservam **20 registros** de **8 jogadores** observados em 27/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
+
+### Movimentos de 24h registrados
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
@@ -38,10 +45,7 @@ A **ROSHN Saudi League** é uma das ligas mais usadas no **EA FC Ultimate Team**
 | João Félix | 86 | LW | 150k coins | -6.2% |
 | Saeed Al Owairan | 91 | RW | 144k coins | -7% |
 
-
-## 📈 Em alta na ROSHN Saudi League (7 dias)
-
-Cartas da liga que mais valorizaram na última semana:
+### Preços registrados
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
@@ -56,31 +60,24 @@ Cartas da liga que mais valorizaram na última semana:
 | Neymar Jr | 83 | CAM | 70k coins | +10.3% |
 | Cristiano Ronaldo | 89 | ST | 897k coins | +4.7% |
 
+## Como interpretar este arquivo
 
-## 📈 Análise da ROSHN Saudi League
+- Os preços registrados iam de **30k coins** a **6.07M coins**, com mediana de **260k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-6,5%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+33,0%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
-A carta mais valiosa da liga é **Cristiano Ronaldo (90)**, a 6.07M coins. 
-No movimento da semana, **Chris Smalling (87)** lidera as altas (+49.3% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+<!-- content-links:v2 -->
+## Continue a análise
 
+- [este segmento baratos no EA FC em 27/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-27-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Trendyol Süper Lig no EA FC em 16/07: altas e baixas — PS](/posts/mercado-trendyol-super-lig-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
-## ⚙️ A engine por trás deste post
-Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## Fonte e metodologia
 
-
-## ❓ Perguntas frequentes
-
-**Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?**  
-Cristiano Ronaldo (90), a 6.07M coins no Console (PS) em 27/06/2026.
-
-**Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?**  
-Chris Smalling (87), +49.3% em 7 dias, a 30k coins.
-
-**Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?**  
-O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
-
-
-> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
-
----
-
-*Preços de Console (PS), referência de 27/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

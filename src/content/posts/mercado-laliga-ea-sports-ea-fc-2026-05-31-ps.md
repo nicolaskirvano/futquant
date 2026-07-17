@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-06-01T01:00:03.000Z
-title: "Mercado da LALIGA EA SPORTS no EA FC (31/05/2026): cartas mais valiosas e em alta — Console (PS)"
+title: "LALIGA EA SPORTS no EA FC em 31/05: altas e baixas — PS"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - laliga-ea-sports
   - mercado
   - ps
-description: "Panorama de preços da LALIGA EA SPORTS no EA FC Ultimate Team em 31/05/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
-faq:
-  - q: "Qual o jogador mais caro da LALIGA EA SPORTS no EA FC hoje?"
-    a: "Lamine Yamal (92), a 6.70M coins no Console (PS) em 31/05/2026."
-  - q: "Quem mais valorizou na LALIGA EA SPORTS esta semana no EA FC?"
-    a: "Vini Jr. (90), +84.4% em 7 dias, a 1.06M coins."
-  - q: "Onde ver os preços das cartas da LALIGA EA SPORTS no EA FC Ultimate Team?"
-    a: "O FutQuant acompanha os preços de todas as cartas da LALIGA EA SPORTS, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
+description: "Snapshot histórico de 31/05/2026 no PS: Lamine Yamal liderou as altas e Kylian Mbappé as baixas em LALIGA EA SPORTS. Compare preços, variações, gráfico e riscos."
 ---
 
-A **LALIGA EA SPORTS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **31/05/2026** no **Console (PS)**.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-> 👑 **Carta mais valiosa da LALIGA EA SPORTS:** Lamine Yamal (92), a 6.70M coins.
+## Leitura do recorte
 
-## 👑 Mais valiosos da LALIGA EA SPORTS
+Nas 10 cartas destacadas nas tabelas, **Lamine Yamal** registrou o maior movimento de 24h (+110,0%), enquanto **Kylian Mbappé** marcou o menor (-30,9%). A distância entre os extremos foi de **140,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+0,0%**: 4 destaques subiam e 4 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de 24h para os destaques de LALIGA EA SPORTS no EA FC em 31/05: altas e baixas — PS](/charts/mercado-laliga-ea-sports-ea-fc-2026-05-31-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## Dados preservados do snapshot
+
+As 2 tabelas abaixo preservam **20 registros** de **14 jogadores** observados em 31/05/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
+
+### Movimentos de 24h registrados
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
@@ -38,10 +45,7 @@ A **LALIGA EA SPORTS** é uma das ligas mais usadas no **EA FC Ultimate Team** �
 | Iñaki Williams | 87 | RM | 1.30M coins | +8.3% |
 | Robert Lewandowski | 88 | ST | 1.13M coins | +8% |
 
-
-## 📈 Em alta na LALIGA EA SPORTS (7 dias)
-
-Cartas da liga que mais valorizaram na última semana:
+### Preços registrados
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
@@ -56,31 +60,24 @@ Cartas da liga que mais valorizaram na última semana:
 | Moleiro | 88 | LM | 22k coins | +46.7% |
 | Míchel Salgado | 89 | RB | 35k coins | +41.4% |
 
+## Como interpretar este arquivo
 
-## 📈 Análise da LALIGA EA SPORTS
+- Os preços registrados iam de **20k coins** a **6.70M coins**, com mediana de **1.22M coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+0,0%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+52,8%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
-A carta mais valiosa da liga é **Lamine Yamal (92)**, a 6.70M coins. 
-No movimento da semana, **Vini Jr. (90)** lidera as altas (+84.4% em 7 dias), sinal de procura crescente por cartas da LALIGA EA SPORTS. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+<!-- content-links:v2 -->
+## Continue a análise
 
+- [este segmento baratos no EA FC em 31/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-31-ps/)
+- [Momentum de este segmento no EA FC em 31/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-31-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## Fonte e metodologia
 
-
-## ❓ Perguntas frequentes
-
-**Qual o jogador mais caro da LALIGA EA SPORTS no EA FC hoje?**  
-Lamine Yamal (92), a 6.70M coins no Console (PS) em 31/05/2026.
-
-**Quem mais valorizou na LALIGA EA SPORTS esta semana no EA FC?**  
-Vini Jr. (90), +84.4% em 7 dias, a 1.06M coins.
-
-**Onde ver os preços das cartas da LALIGA EA SPORTS no EA FC Ultimate Team?**  
-O FutQuant acompanha os preços de todas as cartas da LALIGA EA SPORTS, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de Console (PS), referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

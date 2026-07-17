@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
 pubDatetime: 2026-07-15T01:00:12.000Z
-title: "Mercado da Eredivisie no EA FC (14/07/2026): cartas mais valiosas e em alta — Console (PS)"
+title: "Eredivisie no EA FC em 14/07: altas e baixas — PS"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - eredivisie
   - mercado
   - ps
-description: "Panorama de preços da Eredivisie no EA FC Ultimate Team em 14/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
-faq:
-  - q: "Qual o jogador mais caro da Eredivisie no EA FC hoje?"
-    a: "Jaap Stam (91), a 1M coins no Console (PS) em 14/07/2026."
-  - q: "Quem mais valorizou na Eredivisie esta semana no EA FC?"
-    a: "Lewis Holtby (86), +80% em 7 dias, a 27k coins."
-  - q: "Onde ver os preços das cartas da Eredivisie no EA FC Ultimate Team?"
-    a: "O FutQuant acompanha os preços de todas as cartas da Eredivisie, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
+description: "Snapshot histórico de 14/07/2026 no PS: Park Ji Sung liderou as altas e Jorthy Mokio as baixas em Eredivisie. Compare preços, variações, gráfico e riscos."
 ---
 
-A **Eredivisie** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **14/07/2026** no **Console (PS)**.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 14/07/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-> 👑 **Carta mais valiosa da Eredivisie:** Jaap Stam (91), a 1M coins.
+## Leitura do recorte
 
-## 👑 Mais valiosos da Eredivisie
+Nas 10 cartas destacadas nas tabelas, **Park Ji Sung** registrou o maior movimento de 24h (+41,2%), enquanto **Jorthy Mokio** marcou o menor (-5,8%). A distância entre os extremos foi de **47,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+15,5%**: 7 destaques subiam e 1 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de 24h para os destaques de Eredivisie no EA FC em 14/07: altas e baixas — PS](/charts/mercado-eredivisie-ea-fc-2026-07-14-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## Dados preservados do snapshot
+
+As 2 tabelas abaixo preservam **20 registros** de **17 jogadores** observados em 14/07/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
+
+### Movimentos de 24h registrados
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
@@ -38,10 +45,7 @@ A **Eredivisie** é uma das ligas mais usadas no **EA FC Ultimate Team** — e s
 | Ayase Ueda | 84 | ST | 45k coins | 0% |
 | Joël Drommel | 84 | GK | 44k coins | +18.3% |
 
-
-## 📈 Em alta na Eredivisie (7 dias)
-
-Cartas da liga que mais valorizaram na última semana:
+### Preços registrados
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
@@ -56,31 +60,24 @@ Cartas da liga que mais valorizaram na última semana:
 | Joël Drommel | 84 | GK | 44k coins | +26.6% |
 | Ko Itakura | 88 | CB | 22k coins | +26.1% |
 
+## Como interpretar este arquivo
 
-## 📈 Análise da Eredivisie
+- Os preços registrados iam de **20k coins** a **1M coins**, com mediana de **44k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+15,5%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+37,0%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
-A carta mais valiosa da liga é **Jaap Stam (91)**, a 1M coins. 
-No movimento da semana, **Lewis Holtby (86)** lidera as altas (+80% em 7 dias), sinal de procura crescente por cartas da Eredivisie. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+<!-- content-links:v2 -->
+## Continue a análise
 
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Trendyol Süper Lig no EA FC em 16/07: altas e baixas — PS](/posts/mercado-trendyol-super-lig-ea-fc-2026-07-16-ps/)
+- [Momentum de este segmento no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
-## 🧪 De onde vêm estes números
-Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
+## Fonte e metodologia
 
-
-## ❓ Perguntas frequentes
-
-**Qual o jogador mais caro da Eredivisie no EA FC hoje?**  
-Jaap Stam (91), a 1M coins no Console (PS) em 14/07/2026.
-
-**Quem mais valorizou na Eredivisie esta semana no EA FC?**  
-Lewis Holtby (86), +80% em 7 dias, a 27k coins.
-
-**Onde ver os preços das cartas da Eredivisie no EA FC Ultimate Team?**  
-O FutQuant acompanha os preços de todas as cartas da Eredivisie, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
-
-
-> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
-
----
-
-*Preços de Console (PS), referência de 14/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
