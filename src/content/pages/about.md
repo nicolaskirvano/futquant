@@ -5,6 +5,8 @@ description: "Quem produz o FutQuant, como os dados do EA FC são analisados e q
 
 ![FutQuant](/logo-fq-symbol.svg)
 
+Conheça a equipe editorial do FutQuant, a origem dos dados e os critérios aplicados às análises de EA FC.
+
 O **FutQuant** é um projeto editorial de análise quantitativa do mercado do EA FC Ultimate Team. Nosso objetivo é explicar o que mudou nos preços, quais riscos aparecem nos dados e como comparar cartas sem transformar variação passada em promessa de lucro.
 
 ## Quem assina
