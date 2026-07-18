@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:00:23.000Z
+pubDatetime: 2026-07-18T13:00:23.000Z
 title: "Mercado MLS no EA FC em 18/07 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da MLS no EA FC Ultimate Team em 18/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da MLS no EA FC hoje?"
-    a: "Lionel Messi (90), a 3.30M coins no Console (PS) em 18/07/2026."
+    a: "Lionel Messi (90), a 2.80M coins no Console (PS) em 18/07/2026."
   - q: "Quem mais valorizou na MLS esta semana no EA FC?"
-    a: "Lionel Messi (87), +51.4% em 7 dias, a 163k coins."
+    a: "Cristian Arango (78), +45% em 7 dias, a 3.000 coins."
   - q: "Onde ver os preços das cartas da MLS no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da MLS, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **MLS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **18/07/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da MLS:** Lionel Messi (90), a 3.30M coins.
+> 👑 **Carta mais valiosa da MLS:** Lionel Messi (90), a 2.80M coins.
 
 ![Gráfico de 24h para os destaques de Mercado MLS no EA FC em 18/07 — PS](/charts/mercado-mls-ea-fc-2026-07-18-ps.svg)
 
@@ -32,16 +32,16 @@ A **MLS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus pre
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Lionel Messi | 90 | ST | 3.30M coins | -11.5% |
-| Luis Suárez | 89 | ST | 1.45M coins | -3.8% |
-| Heung Min Son | 88 | LW | 645k coins | -3.4% |
-| Thomas Müller | 89 | RM | 574k coins | -0.7% |
-| Lionel Messi | 88 | RW | 336k coins | -19.2% |
-| Lionel Messi | 88 | ST | 300k coins | -27.3% |
-| Lionel Messi | 89 | CAM | 271k coins | -6.7% |
-| Lionel Messi | 87 | ST | 163k coins | -15.4% |
-| Jordi Alba | 84 | LB | 98k coins | -2% |
-| Thomas Müller | 86 | ST | 92k coins | -1.7% |
+| Lionel Messi | 90 | ST | 2.80M coins | -14.2% |
+| Luis Suárez | 89 | ST | 1.51M coins | -3% |
+| Heung Min Son | 88 | LW | 633k coins | -3.2% |
+| Thomas Müller | 89 | RM | 555k coins | -4.2% |
+| Marco Reus | 89 | LM | 420k coins | 0% |
+| Lionel Messi | 88 | RW | 357k coins | -10.8% |
+| Lionel Messi | 88 | ST | 320k coins | -23.1% |
+| Lionel Messi | 89 | CAM | 250k coins | +0.8% |
+| Lionel Messi | 87 | ST | 125k coins | -30% |
+| Jordi Alba | 84 | LB | 94k coins | -10.6% |
 
 
 ## 📈 Em alta na MLS (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Lionel Messi | 87 | ST | 163k coins | +51.4% |
-| Anders Dreyer | 84 | RW | 14.750 coins | +43.8% |
-| Lionel Messi | 89 | CAM | 271k coins | +43.6% |
-| Diego Luna | 89 | LM | 20k coins | +36.2% |
-| Thomas Müller | 89 | RM | 574k coins | +30.7% |
-| Jordi Alba | 84 | LB | 98k coins | +25% |
-| DeAndre Yedlin | 86 | RB | 31k coins | +22.1% |
-| Jorge Campos | 88 | ST | 17.500 coins | +18.6% |
-| Tadeo Allende | 83 | RW | 40k coins | +14.3% |
-| DaMarcus Beasley | 88 | LM | 19.750 coins | +11.3% |
+| Cristian Arango | 78 | ST | 3.000 coins | +45% |
+| Lionel Messi | 89 | CAM | 250k coins | +28.2% |
+| Thomas Müller | 89 | RM | 555k coins | +25.7% |
+| Lionel Messi | 87 | ST | 125k coins | +25% |
+| Jordi Alba | 84 | LB | 94k coins | +24.2% |
+| Jorge Campos | 87 | GK | 18.250 coins | +21.3% |
+| Diego Luna | 89 | LM | 20k coins | +19.4% |
+| Marco Reus | 89 | LM | 420k coins | +15.6% |
+| Lionel Messi | 88 | RW | 357k coins | +9.8% |
+| DaMarcus Beasley | 88 | LM | 19.750 coins | +9.7% |
 
 
 ## 📈 Análise da MLS
 
-A carta mais valiosa da liga é **Lionel Messi (90)**, a 3.30M coins. 
-No movimento da semana, **Lionel Messi (87)** lidera as altas (+51.4% em 7 dias), sinal de procura crescente por cartas da MLS. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Lionel Messi (90)**, a 2.80M coins. 
+No movimento da semana, **Cristian Arango (78)** lidera as altas (+45% em 7 dias), sinal de procura crescente por cartas da MLS. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -75,10 +75,10 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da MLS no EA FC hoje?**  
-Lionel Messi (90), a 3.30M coins no Console (PS) em 18/07/2026.
+Lionel Messi (90), a 2.80M coins no Console (PS) em 18/07/2026.
 
 **Quem mais valorizou na MLS esta semana no EA FC?**  
-Lionel Messi (87), +51.4% em 7 dias, a 163k coins.
+Cristian Arango (78), +45% em 7 dias, a 3.000 coins.
 
 **Onde ver os preços das cartas da MLS no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da MLS, atualizados todos os dias, com as mais valiosas e as que mais valorizam.

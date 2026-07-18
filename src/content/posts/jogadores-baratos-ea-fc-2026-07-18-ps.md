@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:00:11.000Z
+pubDatetime: 2026-07-18T13:00:11.000Z
 title: "Jogadores baratos EA FC em 18/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Gilberto Mora (95, sem liga) aparece como melhor custo-benefício, a 14.000 coins no Console (PS)."
+    a: "Gilberto Mora (95, sem liga) aparece como melhor custo-benefício, a 13.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gilberto Mora (95) por apenas 14.000 coins.
+> 💰 **Melhor pechincha:** Gilberto Mora (95) por apenas 13.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC em 18/07: abaixo de 15k — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-18-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.723 coins.
-- **Posição mais frequente:** CDM, com 3 cartas.
-- **Faixa real:** 1.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 7.990 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 2.600 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Gilberto Mora | 95 | CAM | — | 14.000 coins | +3.6% |
-| Nilson Angulo | 95 | LM | — | 14.500 coins | +5.7% |
-| Luka Vušković | 94 | CB | — | 13.250 coins | +3.9% |
-| Aleksandar Pavlović | 94 | CDM | — | 13.250 coins | +6% |
-| Paul Wanner | 94 | CM | — | 13.500 coins | +8.2% |
-| El Hadji Malick Diouf | 94 | LB | — | 13.750 coins | +6% |
-| Jhon Arias | 93 | RM | — | 14.500 coins | -11.8% |
-| Rodri | 90 | CDM | Premier League | 3.100 coins | -3.3% |
-| Virgil van Dijk | 90 | CB | Premier League | 6.500 coins | -11.5% |
-| Erling Haaland | 90 | ST | Premier League | 12.000 coins | +9.1% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 1.900 coins | -3.2% |
-| Mariona | 89 | CM | Barclays WSL | 2.500 coins | +16.7% |
-| Alessia Russo | 89 | ST | Barclays WSL | 2.500 coins | +18.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 2.800 coins | +12.5% |
-| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 2.800 coins | +3.6% |
+| Gilberto Mora | 95 | CAM | — | 13.500 coins | -3.6% |
+| Nilson Angulo | 95 | LM | — | 13.500 coins | +5.7% |
+| Kerim Alajbegović | 95 | LM | — | 13.750 coins | +7.5% |
+| Paul Wanner | 94 | CM | — | 12.750 coins | +6% |
+| El Hadji Malick Diouf | 94 | LB | — | 13.500 coins | +5.9% |
+| Aleksandar Pavlović | 94 | CDM | — | 13.750 coins | +5.9% |
+| Rodri | 90 | CDM | Premier League | 3.300 coins | +10% |
+| Virgil van Dijk | 90 | CB | Premier League | 6.500 coins | -12.2% |
+| Erling Haaland | 90 | ST | Premier League | 12.000 coins | +4.3% |
+| Khadija Shaw | 89 | ST | Barclays WSL | 2.600 coins | +19% |
+| Mapi León | 89 | CB | Liga F | 2.700 coins | +40% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2.900 coins | +24% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.000 coins | +30.4% |
+| Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.000 coins | +10.3% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3.100 coins | +34.8% |
 
 
 ## 📈 Destaques
 
-- **Gilberto Mora (95, CAM)** da —, a apenas **14.000 coins**
+- **Gilberto Mora (95, CAM)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nilson Angulo (95, LM)** da —, a apenas **14.500 coins**
+- **Nilson Angulo (95, LM)** da —, a apenas **13.500 coins**
 
-- **Luka Vušković (94, CB)** da —, a apenas **13.250 coins**
+- **Kerim Alajbegović (95, LM)** da —, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Aleksandar Pavlović (94, CDM)** da —, a apenas **13.250 coins**
+- **Paul Wanner (94, CM)** da —, a apenas **12.750 coins**
 
-- **Paul Wanner (94, CM)** da —, a apenas **13.500 coins**
+- **El Hadji Malick Diouf (94, LB)** da —, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Luka Vušković (94, CB) por 13.250 coins é a referência de rating deste recorte.
+- **Defesa:** El Hadji Malick Diouf (94, LB) por 13.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Gilberto Mora (95, CAM) por 14.000 coins é a referência de rating deste recorte.
+- **Meio:** Gilberto Mora (95, CAM) por 13.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
 
@@ -95,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Gilberto Mora (95, sem liga) aparece como melhor custo-benefício, a 14.000 coins no Console (PS).
+Gilberto Mora (95, sem liga) aparece como melhor custo-benefício, a 13.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
