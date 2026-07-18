@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luis Milla</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Olivia Holdt</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riley Tiernan</text>
 <rect x="285" y="153" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vladimír Coufal</text>
-<rect x="285" y="211" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khadija Shaw</text>
-<rect x="285" y="269" width="472" height="28" rx="7" fill="#22c55e"/>
-<text x="767" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fridolina Rolfö</text>
-<rect x="285" y="327" width="472" height="28" rx="7" fill="#22c55e"/>
-<text x="767" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riley Tiernan</text>
-<rect x="285" y="385" width="469" height="28" rx="7" fill="#22c55e"/>
-<text x="764" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.8%</text>
+<text x="768" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frida Maanum</text>
+<rect x="285" y="211" width="464" height="28" rx="7" fill="#22c55e"/>
+<text x="759" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Reece James</text>
+<rect x="285" y="269" width="454" height="28" rx="7" fill="#22c55e"/>
+<text x="749" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joan García</text>
+<rect x="285" y="327" width="453" height="28" rx="7" fill="#22c55e"/>
+<text x="748" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oumar Camara</text>
+<rect x="285" y="385" width="441" height="28" rx="7" fill="#22c55e"/>
+<text x="736" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.0%</text>
 </svg>

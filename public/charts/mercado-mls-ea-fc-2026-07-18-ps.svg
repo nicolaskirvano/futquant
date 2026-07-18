@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lionel Messi</text>
-<rect x="285" y="95" width="391" height="28" rx="7" fill="#f87171"/>
-<text x="686" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-20.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luis Suárez</text>
-<rect x="285" y="153" width="152" height="28" rx="7" fill="#f87171"/>
-<text x="447" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-8.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Heung Min Son</text>
-<rect x="285" y="211" width="27" height="28" rx="7" fill="#22c55e"/>
-<text x="322" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+1.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thomas Müller</text>
-<rect x="285" y="269" width="55" height="28" rx="7" fill="#f87171"/>
-<text x="350" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marco Reus</text>
-<rect x="285" y="327" width="8" height="28" rx="7" fill="#22c55e"/>
-<text x="303" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
+<rect x="285" y="95" width="480" height="28" rx="7" fill="#f87171"/>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-24.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Heung Min Son</text>
+<rect x="285" y="153" width="8" height="28" rx="7" fill="#22c55e"/>
+<text x="303" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thomas Müller</text>
+<rect x="285" y="211" width="212" height="28" rx="7" fill="#f87171"/>
+<text x="507" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-10.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marco Reus</text>
+<rect x="285" y="269" width="102" height="28" rx="7" fill="#f87171"/>
+<text x="397" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-5.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lionel Messi</text>
+<rect x="285" y="327" width="39" height="28" rx="7" fill="#f87171"/>
+<text x="334" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.0%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lionel Messi</text>
-<rect x="285" y="385" width="480" height="28" rx="7" fill="#f87171"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-25.3%</text>
+<rect x="285" y="385" width="27" height="28" rx="7" fill="#22c55e"/>
+<text x="322" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+1.4%</text>
 </svg>
