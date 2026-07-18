@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T09:45:57.000Z
+pubDatetime: 2026-07-18T10:00:23.000Z
 title: "Mercado MLS no EA FC em 18/07 — PS"
 draft: false
 featured: false
@@ -33,7 +33,7 @@ A **MLS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus pre
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Lionel Messi | 90 | ST | 3.30M coins | -11.5% |
-| Luis Suárez | 89 | ST | 1.50M coins | -6.8% |
+| Luis Suárez | 89 | ST | 1.45M coins | -3.8% |
 | Heung Min Son | 88 | LW | 645k coins | -3.4% |
 | Thomas Müller | 89 | RM | 574k coins | -0.7% |
 | Lionel Messi | 88 | RW | 336k coins | -19.2% |
@@ -41,7 +41,7 @@ A **MLS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus pre
 | Lionel Messi | 89 | CAM | 271k coins | -6.7% |
 | Lionel Messi | 87 | ST | 163k coins | -15.4% |
 | Jordi Alba | 84 | LB | 98k coins | -2% |
-| Thomas Müller | 86 | ST | 90k coins | -1.7% |
+| Thomas Müller | 86 | ST | 92k coins | -1.7% |
 
 
 ## 📈 Em alta na MLS (7 dias)
@@ -51,14 +51,14 @@ Cartas da liga que mais valorizaram na última semana:
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
 | Lionel Messi | 87 | ST | 163k coins | +51.4% |
+| Anders Dreyer | 84 | RW | 14.750 coins | +43.8% |
 | Lionel Messi | 89 | CAM | 271k coins | +43.6% |
+| Diego Luna | 89 | LM | 20k coins | +36.2% |
 | Thomas Müller | 89 | RM | 574k coins | +30.7% |
 | Jordi Alba | 84 | LB | 98k coins | +25% |
-| Mathías Laborda | 83 | LB | 35k coins | +24.8% |
-| DeAndre Yedlin | 86 | RB | 34k coins | +22.1% |
+| DeAndre Yedlin | 86 | RB | 31k coins | +22.1% |
 | Jorge Campos | 88 | ST | 17.500 coins | +18.6% |
 | Tadeo Allende | 83 | RW | 40k coins | +14.3% |
-| Wikelman Carmona | 85 | LM | 32k coins | +11.3% |
 | DaMarcus Beasley | 88 | LM | 19.750 coins | +11.3% |
 
 

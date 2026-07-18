@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T09:45:43.000Z
+pubDatetime: 2026-07-18T10:00:10.000Z
 title: "Investimentos EA FC em 18/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.8% em 24h** e **+85.5% em 7 dias**.
+- A mediana é de **+7.4% em 24h** e **+85.2% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Chibuike Nwaiwu | 90 | — | 42k coins | +4.3% | +88.9% | Esticada |
-| Oliver Baumann | 91 | — | 42k coins | +1.8% | +88.6% | Esticada |
-| Elliot Anderson | 89 | Premier League | 203k coins | +17.7% | +88.5% | Esticada |
-| João Neves | 88 | Ligue 1 McDonald's | 88k coins | +1.2% | +87.8% | Esticada |
+| Oliver Baumann | 91 | — | 45k coins | +3.8% | +88.6% | Esticada |
+| Granit Xhaka | 91 | — | 41k coins | +10.8% | +88.5% | Esticada |
+| Elliot Anderson | 89 | Premier League | 202k coins | +17.7% | +88.5% | Esticada |
 | Keinan Davis | 90 | — | 45k coins | +7.1% | +87.5% | Esticada |
-| Marcelo | 90 | — | 50k coins | +6.4% | +86.9% | Esticada |
 | Luís Figo | 90 | Icons | 60k coins | +26.6% | +85.9% | Esticada |
-| Sakina Karchaoui | 91 | D1 Arkema | 105k coins | +13.3% | +85.5% | Esticada |
-| Chloe Kelly | 88 | Barclays WSL | 110k coins | +18.9% | +84.9% | Esticada |
+| João Neves | 88 | Ligue 1 McDonald's | 85k coins | +1.2% | +85.8% | Esticada |
+| Marcelo | 90 | — | 50k coins | +6.4% | +85.2% | Esticada |
 | Pierre Kalulu | 91 | Serie A TIM | 92k coins | +7.4% | +83.6% | Esticada |
 | Unai Simón | 90 | LALIGA EA SPORTS | 55k coins | +10% | +83.3% | Esticada |
-| Homare Sawa | 91 | Icons | 143k coins | +36.4% | +82.5% | Esticada |
+| Jaedyn Shaw | 89 | NWSL | 29k coins | +6.4% | +82.8% | Esticada |
+| Sakina Karchaoui | 91 | D1 Arkema | 100k coins | +11.1% | +81.8% | Esticada |
+| Manuel Akanji | 91 | — | 39k coins | +1.3% | +81.4% | Esticada |
 | Moussa Diaby | 90 | ROSHN Saudi League | 68k coins | +8.8% | +81.3% | Esticada |
-| Khadija Shaw | 91 | Barclays WSL | 210k coins | +35% | +81.2% | Esticada |
-| Alessia Russo | 90 | — | 95k coins | +6.7% | +81.1% | Esticada |
+| Homare Sawa | 91 | Icons | 142k coins | +33% | +81.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Chibuike Nwaiwu (90)** — 42k coins, **+88.9% em 7 dias** (+4.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Baumann (91)** — 42k coins, **+88.6% em 7 dias** (+1.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Baumann (91)** — 45k coins, **+88.6% em 7 dias** (+3.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Elliot Anderson (89)** — 203k coins, **+88.5% em 7 dias** (+17.7% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (91)** — 41k coins, **+88.5% em 7 dias** (+10.8% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Neves (88)** — 88k coins, **+87.8% em 7 dias** (+1.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Elliot Anderson (89)** — 202k coins, **+88.5% em 7 dias** (+17.7% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Keinan Davis (90)** — 45k coins, **+87.5% em 7 dias** (+7.1% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

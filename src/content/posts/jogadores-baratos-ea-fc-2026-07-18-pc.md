@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T09:45:54.000Z
+pubDatetime: 2026-07-18T10:00:21.000Z
 title: "Jogadores baratos EA FC em 18/07: abaixo de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Malik Tillman (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no PC."
+    a: "Nilson Angulo (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Malik Tillman (95) por apenas 14.500 coins.
+> 💰 **Melhor pechincha:** Nilson Angulo (95) por apenas 14.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC em 18/07: abaixo de 15k — PC](/charts/jogadores-baratos-ea-fc-2026-07-18-pc.svg)
 
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.880 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
+- **Preço médio das 15 opções:** 9.740 coins.
+- **Posição mais frequente:** CDM, com 3 cartas.
 - **Faixa real:** 3.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -40,30 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Malik Tillman | 95 | CAM | — | 14.500 coins | +7.1% |
-| Nilson Angulo | 95 | LM | — | 14.750 coins | +11.3% |
-| Aleksandar Pavlović | 94 | CDM | — | 14.000 coins | +9.8% |
-| Paul Wanner | 94 | CM | — | 14.500 coins | +7.8% |
+| Nilson Angulo | 95 | LM | — | 14.500 coins | +11.3% |
+| Kerim Alajbegović | 95 | LM | — | 14.750 coins | +11.1% |
+| Gilberto Mora | 95 | CAM | — | 14.750 coins | +7.1% |
+| Paul Wanner | 94 | CM | — | 14.500 coins | +5.8% |
 | El Hadji Malick Diouf | 94 | LB | — | 14.500 coins | +7.8% |
-| Renato Veiga | 94 | CB | — | 14.500 coins | +9.8% |
-| Luka Vušković | 94 | CB | — | 14.750 coins | +7.8% |
-| Patrick Beach | 93 | GK | — | 14.250 coins | +12% |
-| Luc De Fougerolles | 93 | CB | — | 14.250 coins | +12% |
-| Lucas Herrington | 93 | CB | — | 14.500 coins | +14% |
-| Rodri | 90 | CDM | Premier League | 3.100 coins | +5.7% |
+| Aleksandar Pavlović | 94 | CDM | — | 14.500 coins | +9.8% |
+| Luc De Fougerolles | 93 | CB | — | 13.750 coins | +12% |
+| Patrick Beach | 93 | GK | — | 13.750 coins | +12% |
+| Rodri | 90 | CDM | Premier League | 3.600 coins | +5.9% |
 | Erling Haaland | 90 | ST | Premier League | 11.500 coins | +4.5% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 13.000 coins | +9.1% |
 | Thibaut Courtois | 89 | GK | LALIGA EA SPORTS | 3.000 coins | -3.1% |
 | Khadija Shaw | 89 | ST | Barclays WSL | 3.100 coins | +3.4% |
+| Mapi León | 89 | CB | Liga F | 3.200 coins | +14.3% |
+| Mariona | 89 | CM | Barclays WSL | 3.300 coins | +3.1% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.400 coins | +6.7% |
 
 
 ## 📈 Destaques
 
-- **Malik Tillman (95, CAM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Nilson Angulo (95, LM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Nilson Angulo (95, LM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Kerim Alajbegović (95, LM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Aleksandar Pavlović (94, CDM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Gilberto Mora (95, CAM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Paul Wanner (94, CM)** da —, a apenas **14.500 coins**
 
@@ -74,7 +74,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** El Hadji Malick Diouf (94, LB) por 14.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Malik Tillman (95, CAM) por 14.500 coins é a referência de rating deste recorte.
+- **Meio:** Nilson Angulo (95, LM) por 14.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Erling Haaland (90, ST) por 11.500 coins é a referência de rating deste recorte.
 
@@ -95,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Malik Tillman (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no PC.
+Nilson Angulo (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
