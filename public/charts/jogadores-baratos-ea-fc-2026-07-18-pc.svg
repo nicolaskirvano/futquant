@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Johan Manzambi</text>
-<rect x="285" y="95" width="399" height="28" rx="7" fill="#38bdf8"/>
-<text x="694" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.250</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephen Eustáquio</text>
-<rect x="285" y="153" width="423" height="28" rx="7" fill="#38bdf8"/>
-<text x="718" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephen Eustáquio</text>
+<rect x="285" y="95" width="364" height="28" rx="7" fill="#38bdf8"/>
+<text x="659" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Johan Manzambi</text>
+<rect x="285" y="153" width="439" height="28" rx="7" fill="#38bdf8"/>
+<text x="734" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gregor Kobel</text>
-<rect x="285" y="211" width="423" height="28" rx="7" fill="#38bdf8"/>
-<text x="718" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lisandro Martínez</text>
-<rect x="285" y="269" width="456" height="28" rx="7" fill="#38bdf8"/>
-<text x="751" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gilberto Mora</text>
-<rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.750</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
-<rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.750</text>
+<rect x="285" y="211" width="439" height="28" rx="7" fill="#38bdf8"/>
+<text x="734" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oscar Bobb</text>
+<rect x="285" y="269" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roberto Alvarado</text>
+<rect x="285" y="327" width="439" height="28" rx="7" fill="#38bdf8"/>
+<text x="734" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diney</text>
+<rect x="285" y="385" width="439" height="28" rx="7" fill="#38bdf8"/>
+<text x="734" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
 </svg>

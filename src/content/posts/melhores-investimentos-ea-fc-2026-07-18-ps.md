@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:00:09.000Z
+pubDatetime: 2026-07-18T19:00:10.000Z
 title: "Investimentos EA FC em 18/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Víctor Gómez (91, sem liga) lidera, com +89.9% em 7 dias a 36k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Noa Lang (91, Trendyol Süper Lig) lidera, com +86.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Víctor Gómez (91) acumula **+89.9% em 7 dias** a 36k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Noa Lang (91) acumula **+86.3% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 18/07: radar de alta — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.7% em 24h** e **+84.0% em 7 dias**.
+- A mediana é de **+10.6% em 24h** e **+81.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Víctor Gómez | 91 | — | 36k coins | +21.3% | +89.9% | Esticada |
-| Patri Guijarro | 91 | Liga F | 92k coins | +11.8% | +89% | Esticada |
-| Fridolina Rolfö | 90 | Barclays WSL | 55k coins | +24.2% | +88.7% | Esticada |
-| Enzo Fernández | 93 | — | 78k coins | +1.3% | +87.2% | Esticada |
-| Unai Simón | 90 | LALIGA EA SPORTS | 49k coins | +4.8% | +86.4% | Esticada |
-| Maghnes Akliouche | 91 | — | 40k coins | +6.7% | +86% | Esticada |
-| Jürgen Kohler | 91 | — | 50k coins | +2.6% | +84.3% | Esticada |
-| João Neves | 88 | Ligue 1 McDonald's | 90k coins | +37.3% | +84% | Esticada |
-| Granit Xhaka | 91 | — | 41k coins | +2.6% | +82.8% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 29k coins | +34.5% | +82.3% | Esticada |
-| Lewis Hall | 90 | — | 45k coins | +1.1% | +81.6% | Esticada |
-| Jade Le Guilly | 89 | D1 Arkema | 32k coins | +18.5% | +80.3% | Esticada |
-| Chloe Kelly | 88 | Barclays WSL | 91k coins | +3.3% | +79.8% | Esticada |
-| Vladimír Coufal | 91 | — | 40k coins | +9.7% | +78.7% | Esticada |
-| Sam Surridge | 91 | — | 26k coins | +2.6% | +77.3% | Esticada |
+| Noa Lang | 91 | Trendyol Süper Lig | 48k coins | +18% | +86.3% | Esticada |
+| Jürgen Kohler | 91 | — | 49k coins | +3.7% | +85.8% | Esticada |
+| Lewis Hall | 90 | — | 24k coins | +1.7% | +85.6% | Esticada |
+| Jari Litmanen | 90 | Eredivisie | 141k coins | +4.4% | +85.5% | Esticada |
+| Lindsey Heaps | 90 | D1 Arkema | 117k coins | +10.6% | +83.3% | Esticada |
+| Maghnes Akliouche | 91 | — | 34k coins | +6.1% | +82.6% | Esticada |
+| Alexis Mac Allister | 89 | Premier League | 37k coins | +29.2% | +82.4% | Esticada |
+| Sam Surridge | 91 | — | 40k coins | +33.3% | +81.8% | Esticada |
+| Igor Jesus | 87 | Premier League | 34k coins | +7.7% | +81.8% | Esticada |
+| Sofie Junge Pedersen | 86 | Liga F | 26k coins | +21.6% | +81.4% | Esticada |
+| Taylor Flint | 88 | NWSL | 120k coins | +5.5% | +81.2% | Esticada |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 135k coins | +29.8% | +80% | Esticada |
+| Craig Halkett | 91 | — | 42k coins | +12.6% | +78.9% | Esticada |
+| Raúl | 90 | Icons | 152k coins | +4.3% | +76.8% | Esticada |
+| Joško Gvardiol | 86 | Premier League | 62k coins | +35.8% | +75.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Víctor Gómez (91)** — 36k coins, **+89.9% em 7 dias** (+21.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 48k coins, **+86.3% em 7 dias** (+18% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (91)** — 92k coins, **+89% em 7 dias** (+11.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (91)** — 49k coins, **+85.8% em 7 dias** (+3.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fridolina Rolfö (90)** — 55k coins, **+88.7% em 7 dias** (+24.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Hall (90)** — 24k coins, **+85.6% em 7 dias** (+1.7% em 24h). Preço -29% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Fernández (93)** — 78k coins, **+87.2% em 7 dias** (+1.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jari Litmanen (90)** — 141k coins, **+85.5% em 7 dias** (+4.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Unai Simón (90)** — 49k coins, **+86.4% em 7 dias** (+4.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (90)** — 117k coins, **+83.3% em 7 dias** (+10.6% em 24h). Preço +79% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Víctor Gómez (91, sem liga) lidera, com +89.9% em 7 dias a 36k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Noa Lang (91, Trendyol Süper Lig) lidera, com +86.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

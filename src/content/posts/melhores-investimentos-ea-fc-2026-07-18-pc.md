@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:00:19.000Z
+pubDatetime: 2026-07-18T19:00:20.000Z
 title: "Investimentos EA FC em 18/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Olivia Holdt (90, sem liga) lidera, com +89.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Granit Xhaka (91, sem liga) lidera, com +88.8% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Olivia Holdt (90) acumula **+89.5% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Granit Xhaka (91) acumula **+88.8% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 18/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.2% em 24h** e **+82.7% em 7 dias**.
+- A mediana é de **+7.9% em 24h** e **+86.0% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Olivia Holdt | 90 | — | 45k coins | +6.5% | +89.5% | Esticada |
-| Florian Wirtz | 91 | — | 140k coins | +22.5% | +88.5% | Esticada |
-| Ona Batlle | 90 | Liga F | 50k coins | +18.3% | +86.9% | Esticada |
-| Declan Rice | 89 | Premier League | 96k coins | +5.5% | +84.6% | Esticada |
-| Frida Maanum | 90 | — | 50k coins | +10.6% | +84.3% | Esticada |
-| Mile Svilar | 91 | — | 45k coins | +2.9% | +83.5% | Esticada |
-| Vladimír Coufal | 91 | — | 45k coins | +29.4% | +83.3% | Esticada |
-| Tasos Douvikas | 90 | — | 48k coins | +6.1% | +82.7% | Esticada |
-| Aoba Fujino | 91 | — | 40k coins | +14.3% | +81.8% | Esticada |
-| Paulo Dybala | 88 | Serie A TIM | 199k coins | +5.3% | +80.9% | Esticada |
-| Andy Najar | 91 | — | 42k coins | +18.1% | +80.9% | Esticada |
-| Riley Tiernan | 91 | — | 40k coins | +6.5% | +80.2% | Esticada |
-| Elisabeth Terland | 90 | — | 54k coins | +35.8% | +80% | Esticada |
-| Wouter Burger | 90 | — | 45k coins | +22.4% | +80% | Esticada |
-| Mahamadou Doumbia | 91 | — | 45k coins | +13.2% | +80% | Esticada |
+| Granit Xhaka | 91 | — | 42k coins | +3.7% | +88.8% | Esticada |
+| Olivia Holdt | 90 | — | 45k coins | +5.9% | +87.5% | Esticada |
+| Vladimír Coufal | 91 | — | 45k coins | +28.6% | +87.5% | Esticada |
+| Khadija Shaw | 91 | Barclays WSL | 149k coins | +10.4% | +87.4% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 75k coins | +14.8% | +87.4% | Esticada |
+| Riley Tiernan | 91 | — | 42k coins | +5.6% | +86.8% | Esticada |
+| Manuel Akanji | 91 | — | 40k coins | +7.9% | +86.4% | Esticada |
+| Lilly Reale | 91 | — | 40k coins | +5.3% | +86% | Esticada |
+| Frida Maanum | 90 | — | 50k coins | +5.3% | +85.2% | Esticada |
+| Mile Svilar | 91 | — | 45k coins | +3.4% | +83.7% | Esticada |
+| Ona Batlle | 90 | Liga F | 50k coins | +18.3% | +83.5% | Esticada |
+| Paulo Dybala | 88 | Serie A TIM | 199k coins | +13% | +81.8% | Esticada |
+| Mahamadou Doumbia | 91 | — | 34k coins | +6.5% | +81.8% | Esticada |
+| Víctor Gómez | 91 | — | 50k coins | +18.3% | +81.8% | Esticada |
+| Christopher Bonsu Baah | 90 | — | 45k coins | +28.6% | +81.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Olivia Holdt (90)** — 45k coins, **+89.5% em 7 dias** (+6.5% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (91)** — 42k coins, **+88.8% em 7 dias** (+3.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Wirtz (91)** — 140k coins, **+88.5% em 7 dias** (+22.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Holdt (90)** — 45k coins, **+87.5% em 7 dias** (+5.9% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ona Batlle (90)** — 50k coins, **+86.9% em 7 dias** (+18.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vladimír Coufal (91)** — 45k coins, **+87.5% em 7 dias** (+28.6% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Declan Rice (89)** — 96k coins, **+84.6% em 7 dias** (+5.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khadija Shaw (91)** — 149k coins, **+87.4% em 7 dias** (+10.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frida Maanum (90)** — 50k coins, **+84.3% em 7 dias** (+10.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fridolina Rolfö (90)** — 75k coins, **+87.4% em 7 dias** (+14.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Olivia Holdt (90, sem liga) lidera, com +89.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Granit Xhaka (91, sem liga) lidera, com +88.8% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

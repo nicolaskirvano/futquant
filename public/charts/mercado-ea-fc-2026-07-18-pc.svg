@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robin van Persie</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riccardo Calafiori</text>
-<rect x="285" y="153" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dirk Kuyt</text>
-<rect x="285" y="211" width="465" height="28" rx="7" fill="#22c55e"/>
-<text x="760" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francesco Totti</text>
-<rect x="285" y="269" width="462" height="28" rx="7" fill="#22c55e"/>
-<text x="757" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Sotoca</text>
-<rect x="285" y="327" width="455" height="28" rx="7" fill="#22c55e"/>
-<text x="750" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Catarina Macario</text>
-<rect x="285" y="385" width="442" height="28" rx="7" fill="#22c55e"/>
-<text x="737" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quinten Timber</text>
+<rect x="285" y="153" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antoine Griezmann</text>
+<rect x="285" y="211" width="457" height="28" rx="7" fill="#22c55e"/>
+<text x="752" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ferenc Puskás</text>
+<rect x="285" y="269" width="445" height="28" rx="7" fill="#22c55e"/>
+<text x="740" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc Cucurella</text>
+<rect x="285" y="327" width="437" height="28" rx="7" fill="#22c55e"/>
+<text x="732" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fiamma Benítez</text>
+<rect x="285" y="385" width="436" height="28" rx="7" fill="#22c55e"/>
+<text x="731" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
 </svg>
