@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T09:43:19.000Z
+pubDatetime: 2026-07-19T10:00:09.000Z
 title: "Investimentos EA FC em 19/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.2% em 24h** e **+84.8% em 7 dias**.
+- A mediana é de **+7.1% em 24h** e **+85.2% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tsuyoshi Watanabe | 91 | — | 42k coins | +7.1% | +89.8% | Esticada |
-| Josip Šutalo | 90 | Eredivisie | 66k coins | +28.1% | +89.6% | Esticada |
-| Granit Xhaka | 91 | — | 42k coins | +1.2% | +88.6% | Esticada |
-| Malik Tillman | 85 | Bundesliga | 28k coins | +25.4% | +87.3% | Esticada |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 174k coins | +24.3% | +87.1% | Esticada |
+| Josip Šutalo | 90 | Eredivisie | 66k coins | +12.3% | +89.6% | Esticada |
+| Benjamin Nygren | 90 | — | 42k coins | +3.7% | +88.9% | Esticada |
+| Granit Xhaka | 91 | — | 41k coins | +1.8% | +88.6% | Esticada |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 174k coins | +24.3% | +86.1% | Esticada |
+| James Milner | 88 | Premier League | 125k coins | +6.6% | +85.7% | Esticada |
 | Maicon | 88 | Serie A TIM | 76k coins | +33.3% | +85.4% | Esticada |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 50k coins | +1.5% | +85.2% | Esticada |
-| Benjamin Nygren | 90 | — | 42k coins | +3.7% | +84.8% | Esticada |
-| Narcis Ilaș | 87 | SUPERLIGA | 27k coins | +1.9% | +84.7% | Esticada |
-| Pernille Harder | 89 | GPFBL | 36k coins | +39.1% | +83.9% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 52k coins | +29.4% | +83.3% | Esticada |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 55k coins | +12.2% | +83.3% | Esticada |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 48k coins | +2% | +85.2% | Esticada |
+| Narcis Ilaș | 87 | SUPERLIGA | 27k coins | +26.7% | +84.7% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 55k coins | +1.9% | +84.6% | Esticada |
+| Jonathan David | 90 | Serie A TIM | 60k coins | +1.7% | +84.6% | Esticada |
+| Pernille Harder | 89 | GPFBL | 40k coins | +39.1% | +83.9% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 45k coins | +29.4% | +83.3% | Esticada |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 48k coins | +11.7% | +83.3% | Esticada |
 | Emmanuel Fernandez | 90 | — | 42k coins | +5% | +80.6% | Esticada |
-| Nuno Tavares | 91 | Serie A TIM | 68k coins | +5.4% | +80.3% | Esticada |
-| Caroline Seger | 91 | Icons | 68k coins | +26.1% | +79.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Tsuyoshi Watanabe (91)** — 42k coins, **+89.8% em 7 dias** (+7.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Josip Šutalo (90)** — 66k coins, **+89.6% em 7 dias** (+28.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Josip Šutalo (90)** — 66k coins, **+89.6% em 7 dias** (+12.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (91)** — 42k coins, **+88.6% em 7 dias** (+1.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Nygren (90)** — 42k coins, **+88.9% em 7 dias** (+3.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (85)** — 28k coins, **+87.3% em 7 dias** (+25.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Granit Xhaka (91)** — 41k coins, **+88.6% em 7 dias** (+1.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julián Alvarez (88)** — 174k coins, **+87.1% em 7 dias** (+24.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 174k coins, **+86.1% em 7 dias** (+24.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

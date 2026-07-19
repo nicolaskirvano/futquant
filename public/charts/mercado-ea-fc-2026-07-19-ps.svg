@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Teze</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Liam Kelly</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Liam Kelly</text>
-<rect x="285" y="153" width="475" height="28" rx="7" fill="#22c55e"/>
-<text x="770" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Morgan Rogers</text>
-<rect x="285" y="211" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Piero Hincapié</text>
-<rect x="285" y="269" width="472" height="28" rx="7" fill="#22c55e"/>
-<text x="767" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kingsley Coman</text>
+<rect x="285" y="153" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Piero Hincapié</text>
+<rect x="285" y="211" width="477" height="28" rx="7" fill="#22c55e"/>
+<text x="772" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Morgan Rogers</text>
+<rect x="285" y="269" width="467" height="28" rx="7" fill="#22c55e"/>
+<text x="762" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.6%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aitor Ruibal</text>
-<rect x="285" y="327" width="459" height="28" rx="7" fill="#22c55e"/>
-<text x="754" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jay-Jay Okocha</text>
-<rect x="285" y="385" width="452" height="28" rx="7" fill="#22c55e"/>
-<text x="747" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
+<rect x="285" y="327" width="464" height="28" rx="7" fill="#22c55e"/>
+<text x="759" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jamal Musiala</text>
+<rect x="285" y="385" width="462" height="28" rx="7" fill="#22c55e"/>
+<text x="757" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.0%</text>
 </svg>
