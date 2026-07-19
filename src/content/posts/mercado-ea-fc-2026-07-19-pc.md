@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:00:18.000Z
+pubDatetime: 2026-07-19T22:00:18.000Z
 title: "Mercado EA FC em 19/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Mikael Ishak (87, PKO BP Ekstraklasa), com +58.8% em 24h, a 77k coins no PC."
+    a: "Mario Lemina (89, Trendyol Süper Lig), com +60% em 24h, a 128k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Stina Blackstenius (90), -50% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 739 cartas em alta contra 1045 em queda (média 1.29%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 818 cartas em alta contra 1008 em queda (média 2.41%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **19/07/2026** (PC): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **739 em alta** e **1045 em queda**, média de **1.29%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **19/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **818 em alta** e **1008 em queda**, média de **2.41%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mikael Ishak (87) **+58.8%** · 🔴 **Maior baixa:** Stina Blackstenius (90) **-50%**
+> 🟢 **Maior alta:** Mario Lemina (89) **+60%** · 🔴 **Maior baixa:** Stina Blackstenius (90) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **19/07/2026** (PC): mercado **lateral** — sem direção clara. En
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.4% entre as cartas que se moveram; o universo observado reúne 2253 cartas.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.8% entre as cartas que se moveram; o universo observado reúne 2304 cartas.
 - **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mikael Ishak | 87 | PKO BP Ekstraklasa | 77k coins | +58.8% | +0.6% |
-| Franck Honorat | 85 | Bundesliga | 26k coins | +58.5% | +7.3% |
-| Jack Harrison | 89 | — | 29k coins | +58.1% | +12.5% |
-| Marcelo | 89 | Icons | 120k coins | +57.9% | +20% |
-| Ingrid Syrstad Engen | 93 | — | 45k coins | +57.9% | +68.2% |
-| Wesley Sneijder | 88 | Serie A TIM | 30k coins | +57.6% | +36.8% |
-| Jaedyn Shaw | 89 | NWSL | 32k coins | +57.5% | -23.2% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 128k coins | +60% | -22.4% |
+| Andrea Barzagli | 87 | Serie A TIM | 24k coins | +59.7% | +67.8% |
+| Alyssa Thompson | 95 | — | 112k coins | +59.4% | +26.7% |
+| Cristian Roldan | 94 | — | 34k coins | +58.6% | +34% |
+| Timo Werner | 87 | Bundesliga | 62k coins | +58.5% | +23.8% |
+| Lewis Hall | 89 | Premier League | 57k coins | +58.3% | -6.6% |
 | Isco | 86 | LALIGA EA SPORTS | 110k coins | +57.1% | +10% |
-| Orri Óskarsson | 85 | LALIGA EA SPORTS | 63k coins | +56.6% | +3.2% |
-| Klara Bühl | 93 | — | 69k coins | +56.5% | +27.9% |
+| Haji Wright | 84 | EFL Championship | 44k coins | +57.1% | +39.2% |
+| Hidetoshi Nakata | 89 | Serie A TIM | 28k coins | +56.9% | +21.5% |
+| Fernando Muslera | 84 | LPF | 55k coins | +56% | +10% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Panorama de **19/07/2026** (PC): mercado **lateral** — sem direção clara. En
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mikael Ishak (87)** subiu **+58.8%** em 24h, a **77k coins** (faixa do dia: 45k–90k). Está +9% acima da média de 7 dias (aquecida).
+- **Mario Lemina (89)** subiu **+60%** em 24h, a **128k coins** (faixa do dia: 60k–190k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Franck Honorat (85)** subiu **+58.5%** em 24h, a **26k coins** (faixa do dia: 15.000–30k). Está +11% acima da média de 7 dias (aquecida).
+- **Andrea Barzagli (87)** subiu **+59.7%** em 24h, a **24k coins** (faixa do dia: 15.250–28k). Está +55% acima da média de 7 dias (aquecida).
 
-- **Jack Harrison (89)** subiu **+58.1%** em 24h, a **29k coins** (faixa do dia: 18.000–30k). Está +22% acima da média de 7 dias (aquecida).
+- **Alyssa Thompson (95)** subiu **+59.4%** em 24h, a **112k coins** (faixa do dia: 55k–119k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -75,27 +75,27 @@ Panorama de **19/07/2026** (PC): mercado **lateral** — sem direção clara. En
 | Stina Blackstenius | 90 | Barclays WSL | 30k coins | -50% | -20% |
 | Nahuel Molina | 91 | — | 70k coins | -50% | -22.7% |
 | Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.3% | -32.4% |
-| Rasmus Højlund | 87 | Serie A TIM | 39k coins | -44.6% | -33.8% |
-| Larissa Mühlhaus | 85 | GPFBL | 29k coins | -44.2% | +5.5% |
-| Rodrigo Mora | 88 | Liga Portugal | 33k coins | -43.3% | -5.6% |
-| Evander | 95 | — | 23k coins | -43.1% | -28.3% |
-| Alessandro Nesta | 92 | — | 38k coins | -42.2% | -16.1% |
-| Zion Suzuki | 84 | Serie A TIM | 190k coins | -42.2% | -27.7% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 59k coins | -41% | -33.3% |
+| Evander | 95 | — | 23k coins | -49.2% | -22.8% |
+| Senne Lammens | 88 | Premier League | 42k coins | -47.2% | -32.8% |
+| Rodrigo Mora | 88 | Liga Portugal | 32k coins | -46.7% | -14.1% |
+| Omar Marmoush | 87 | Premier League | 60k coins | -45% | -24.8% |
+| Michelle Agyemang | 89 | Barclays Women’s Super League | 22k coins | -44.9% | -39.7% |
+| Rasmus Højlund | 87 | Serie A TIM | 39k coins | -44.6% | -30.8% |
+| Rose Lavelle | 89 | NWSL | 38k coins | -43.7% | -15.6% |
 
 
 ### Análise das baixas
 
 - **Stina Blackstenius (90)** caiu **-50%** em 24h, a **30k coins** (faixa do dia: 30k–60k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Nahuel Molina (91)** caiu **-50%** em 24h, a **70k coins** (faixa do dia: 70k–140k). Está -42% abaixo da média de 7 dias (descontada).
+- **Nahuel Molina (91)** caiu **-50%** em 24h, a **70k coins** (faixa do dia: 70k–140k). Está -41% abaixo da média de 7 dias (descontada).
 
 - **Rafael Leão (93)** caiu **-49.3%** em 24h, a **1.01M coins** (faixa do dia: 1M–2M). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mikael Ishak já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mario Lemina já avançou 60% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Stina Blackstenius recuou -50%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Mikael Ishak (87, PKO BP Ekstraklasa), com +58.8% em 24h, a 77k coins no PC.
+Mario Lemina (89, Trendyol Süper Lig), com +60% em 24h, a 128k coins no PC.
 
 **E a maior queda do dia?**
 Stina Blackstenius (90), -50% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 739 cartas em alta contra 1045 em queda (média 1.29%).
+Hoje o mercado está em alta — predominam as valorizações, com 818 cartas em alta contra 1008 em queda (média 2.41%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

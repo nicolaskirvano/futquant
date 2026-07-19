@@ -8,18 +8,18 @@
 <rect x="285" y="95" width="8" height="28" rx="7" fill="#22c55e"/>
 <text x="303" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yaya Touré</text>
-<rect x="285" y="153" width="90" height="28" rx="7" fill="#f87171"/>
-<text x="385" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-3.8%</text>
+<rect x="285" y="153" width="86" height="28" rx="7" fill="#f87171"/>
+<text x="381" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.9%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaap Stam</text>
-<rect x="285" y="211" width="90" height="28" rx="7" fill="#f87171"/>
-<text x="385" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-3.8%</text>
+<rect x="285" y="211" width="480" height="28" rx="7" fill="#f87171"/>
+<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-16.1%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cole Palmer</text>
-<rect x="285" y="269" width="57" height="28" rx="7" fill="#f87171"/>
-<text x="352" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.4%</text>
+<rect x="285" y="269" width="8" height="28" rx="7" fill="#f87171"/>
+<text x="303" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-0.2%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="327" width="59" height="28" rx="7" fill="#f87171"/>
-<text x="354" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yaya Touré</text>
-<rect x="285" y="385" width="480" height="28" rx="7" fill="#f87171"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-20.3%</text>
+<rect x="285" y="327" width="18" height="28" rx="7" fill="#22c55e"/>
+<text x="313" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micky van de Ven</text>
+<rect x="285" y="385" width="253" height="28" rx="7" fill="#22c55e"/>
+<text x="548" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.5%</text>
 </svg>
