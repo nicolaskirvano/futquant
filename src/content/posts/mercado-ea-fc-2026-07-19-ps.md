@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:00:08.000Z
+pubDatetime: 2026-07-19T16:00:08.000Z
 title: "Mercado EA FC em 19/07: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Denzel Dumfries (86, Serie A TIM), com +59.8% em 24h, a 37k coins no Console (PS)."
+    a: "Ahmet Oğuz (86, EFL League One), com +60% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Sydney Leroux (88), -49.7% em 24h, a 37k coins."
+    a: "Jade Rose (85), -49.4% em 24h, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 896 cartas em alta contra 1081 em queda (média 0.66%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 813 cartas em alta contra 1166 em queda (média -0.77%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **19/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **896 em alta** e **1081 em queda**, média de **0.66%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **19/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **813 em alta** e **1166 em queda**, média de **-0.77%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Denzel Dumfries (86) **+59.8%** · 🔴 **Maior baixa:** Sydney Leroux (88) **-49.7%**
+> 🟢 **Maior alta:** Ahmet Oğuz (86) **+60%** · 🔴 **Maior baixa:** Jade Rose (85) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: altas e baixas — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **19/07/2026** (Console (PS)): mercado **lateral** — sem direção
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.3% entre as cartas que se moveram; o universo observado reúne 2298 cartas.
-- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.1% entre as cartas que se moveram; o universo observado reúne 2280 cartas.
+- **Concentração:** GPFBL aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Denzel Dumfries | 86 | Serie A TIM | 37k coins | +59.8% | +72.9% |
-| Camille Abily | 92 | Icons | 62k coins | +58.8% | +35.7% |
-| Noni Madueke | 86 | Premier League | 49k coins | +56.2% | +4.2% |
-| Sergiño Dest | 86 | Eredivisie | 25k coins | +55.6% | -56.9% |
-| Wendie Renard | 86 | D1 Arkema | 30k coins | +53.8% | +118.2% |
-| Edna Imade | 86 | Liga F | 26k coins | +53.6% | +112% |
-| Rubén García | 87 | LALIGA EA SPORTS | 26k coins | +52.9% | +50.7% |
-| Julian Brandt | 87 | Bundesliga | 22k coins | +52.7% | +68.7% |
-| Kenan Yıldız | 87 | Serie A TIM | 33k coins | +51.9% | +20% |
-| Thelo Aasgaard | 87 | Scottish Premiership | 22k coins | +51.7% | +33.8% |
+| Ahmet Oğuz | 86 | EFL League One | 28k coins | +60% | +97.5% |
+| Louis Mafouta | 84 | Ligue 2 BKT | 50k coins | +59.2% | +8% |
+| Simone Laudehr | 91 | GPFBL | 48k coins | +58.3% | +115.9% |
+| Ismaëlo Ganiou | 84 | Ligue 1 McDonald's | 54k coins | +57.8% | +46% |
+| Mallory Swanson | 88 | NWSL | 96k coins | +57.4% | +141.1% |
+| Roberto Carlos | 90 | Icons | 218k coins | +56.8% | +20.4% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 34k coins | +53.4% | -3.6% |
+| Václav Černý | 87 | Trendyol Süper Lig | 28k coins | +51.4% | -5.9% |
+| Kevin Stöger | 86 | Bundesliga | 27k coins | +50.7% | -13.7% |
+| Lewis Miley | 89 | Premier League | 50k coins | +50% | +45.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **19/07/2026** (Console (PS)): mercado **lateral** — sem direção
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Denzel Dumfries (86)** subiu **+59.8%** em 24h, a **37k coins** (faixa do dia: 15.000–60k). Está +36% acima da média de 7 dias (aquecida).
+- **Ahmet Oğuz (86)** subiu **+60%** em 24h, a **28k coins** (faixa do dia: 15.000–44k). Está em linha com a média de 7 dias (-4%).
 
-- **Camille Abily (92)** subiu **+58.8%** em 24h, a **62k coins** (faixa do dia: 33k–74k). Está +16% acima da média de 7 dias (aquecida).
+- **Louis Mafouta (84)** subiu **+59.2%** em 24h, a **50k coins** (faixa do dia: 38k–74k). Está em linha com a média de 7 dias (+8%).
 
-- **Noni Madueke (86)** subiu **+56.2%** em 24h, a **49k coins** (faixa do dia: 30k–62k). Está em linha com a média de 7 dias (-3%).
+- **Simone Laudehr (91)** subiu **+58.3%** em 24h, a **48k coins** (faixa do dia: 30k–48k). Está +30% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sydney Leroux | 88 | NWSL | 37k coins | -49.7% | -22.4% |
-| Enzo Fernández | 93 | — | 42k coins | -48.8% | +4.9% |
-| Athenea | 86 | Liga F | 25k coins | -48.7% | -37.5% |
-| Charlie Cresswell | 85 | Ligue 1 McDonald's | 24k coins | -47.8% | -30.7% |
-| Kenan Yıldız | 88 | Serie A TIM | 150k coins | -47.6% | -6.2% |
-| Riyad Mahrez | 87 | ROSHN Saudi League | 80k coins | -46.7% | -39.8% |
-| Yoane Wissa | 96 | — | 24k coins | -46% | — |
-| Billy Gilmour | 87 | Serie A TIM | 23k coins | -45% | -44.3% |
-| Sam Surridge | 91 | — | 39k coins | -44.7% | -2.2% |
-| Katie McCabe | 88 | Barclays Women’s Super League | 37k coins | -42.8% | +4.4% |
+| Jade Rose | 85 | Barclays WSL | 45k coins | -49.4% | +39.8% |
+| Pierre Kalulu | 91 | Serie A TIM | 60k coins | -40.3% | +21.7% |
+| Ismaïla Sarr | 95 | — | 21k coins | -39.5% | — |
+| Chloe Kelly | 88 | Barclays WSL | 64k coins | -38.9% | -5.2% |
+| Marcelo | 89 | Icons | 109k coins | -38.4% | 0% |
+| Harry Kane | 91 | Bundesliga | 335k coins | -38.3% | -34.2% |
+| Yoane Wissa | 96 | — | 25k coins | -38.2% | — |
+| Wesley Sneijder | 89 | Serie A TIM | 37k coins | -38.1% | -51.1% |
+| Erëleta Memeti | 85 | GPFBL | 44k coins | -37.8% | -36% |
+| Athenea | 86 | Liga F | 22k coins | -36.8% | -28.9% |
 
 
 ### Análise das baixas
 
-- **Sydney Leroux (88)** caiu **-49.7%** em 24h, a **37k coins** (faixa do dia: 37k–79k). Está -20% abaixo da média de 7 dias (descontada).
+- **Jade Rose (85)** caiu **-49.4%** em 24h, a **45k coins** (faixa do dia: 45k–100k). Está em linha com a média de 7 dias (+5%).
 
-- **Enzo Fernández (93)** caiu **-48.8%** em 24h, a **42k coins** (faixa do dia: 35k–84k). Está -32% abaixo da média de 7 dias (descontada).
+- **Pierre Kalulu (91)** caiu **-40.3%** em 24h, a **60k coins** (faixa do dia: 60k–108k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Athenea (86)** caiu **-48.7%** em 24h, a **25k coins** (faixa do dia: 20k–50k). Está -28% abaixo da média de 7 dias (descontada).
+- **Ismaïla Sarr (95)** caiu **-39.5%** em 24h, a **21k coins** (faixa do dia: 17.500–33k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Denzel Dumfries já avançou 59.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ahmet Oğuz já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sydney Leroux recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jade Rose recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Denzel Dumfries (86, Serie A TIM), com +59.8% em 24h, a 37k coins no Console (PS).
+Ahmet Oğuz (86, EFL League One), com +60% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
-Sydney Leroux (88), -49.7% em 24h, a 37k coins.
+Jade Rose (85), -49.4% em 24h, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 896 cartas em alta contra 1081 em queda (média 0.66%).
+Hoje o mercado está lateral — sem direção clara, com 813 cartas em alta contra 1166 em queda (média -0.77%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

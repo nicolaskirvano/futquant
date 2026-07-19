@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:00:11.000Z
+pubDatetime: 2026-07-19T16:00:11.000Z
 title: "Jogadores baratos EA FC em 19/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.550 coins.
+- **Preço médio das 15 opções:** 12.517 coins.
 - **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 10.750 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 10.750 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 11.750 coins | -11.3% |
-| Johan Manzambi | 95 | CAM | — | 12.000 coins | -9.4% |
+| Stephen Eustáquio | 95 | CM | — | 11.750 coins | -9.4% |
+| Johan Manzambi | 95 | CAM | — | 11.750 coins | -11.3% |
 | Gregor Kobel | 95 | GK | — | 12.500 coins | -12.7% |
-| Gilberto Mora | 95 | CAM | — | 13.000 coins | -3.6% |
-| Zion Suzuki | 95 | GK | — | 13.250 coins | -5.3% |
-| Nilson Angulo | 95 | LM | — | 13.500 coins | -5.4% |
+| Nilson Angulo | 95 | LM | — | 13.000 coins | -7.1% |
+| Zion Suzuki | 95 | GK | — | 13.250 coins | -6.9% |
+| Gilberto Mora | 95 | CAM | — | 13.500 coins | -10.2% |
 | Malik Tillman | 95 | CAM | — | 13.500 coins | -6.9% |
-| Kerim Alajbegović | 95 | LM | — | 13.500 coins | -7.1% |
-| Gustavo Puerta | 94 | CM | — | 10.750 coins | -11.8% |
-| Elijah Just | 94 | LW | — | 11.750 coins | -11.5% |
-| Roberto Alvarado | 94 | RW | — | 11.750 coins | -9.8% |
-| Diney | 94 | CB | — | 11.750 coins | -11.5% |
-| Ben Doak | 94 | RM | — | 13.000 coins | -3.7% |
-| Paul Wanner | 94 | CM | — | 13.000 coins | -3.7% |
-| Caleb Yirenkyi | 94 | CM | — | 13.250 coins | -3.7% |
+| Kerim Alajbegović | 95 | LM | — | 13.750 coins | -5.4% |
+| Elijah Just | 94 | LW | — | 10.750 coins | -7.8% |
+| Diney | 94 | CB | — | 11.750 coins | -9.8% |
+| Roberto Alvarado | 94 | RW | — | 12.000 coins | -7.8% |
+| Gustavo Puerta | 94 | CM | — | 12.000 coins | -7.8% |
+| Renato Veiga | 94 | CB | — | 12.750 coins | -5.6% |
+| Paul Wanner | 94 | CM | — | 12.750 coins | -7.3% |
+| Caleb Yirenkyi | 94 | CM | — | 12.750 coins | -5.6% |
 
 
 ## 📈 Destaques
 
 - **Stephen Eustáquio (95, CM)** da —, a apenas **11.750 coins**
 
-- **Johan Manzambi (95, CAM)** da —, a apenas **12.000 coins**
+- **Johan Manzambi (95, CAM)** da —, a apenas **11.750 coins**
 
 - **Gregor Kobel (95, GK)** da —, a apenas **12.500 coins**
 
-- **Gilberto Mora (95, CAM)** da —, a apenas **13.000 coins**
+- **Nilson Angulo (95, LM)** da —, a apenas **13.000 coins**
 
 - **Zion Suzuki (95, GK)** da —, a apenas **13.250 coins**
 
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Stephen Eustáquio (95, CM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Elijah Just (94, LW) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Elijah Just (94, LW) por 10.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
