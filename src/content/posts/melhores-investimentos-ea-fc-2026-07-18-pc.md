@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:00:19.000Z
+pubDatetime: 2026-07-19T01:00:19.000Z
 title: "Investimentos EA FC em 18/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Luis Milla (90, sem liga) lidera, com +88.1% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gabriel Sara (94, sem liga) lidera, com +89% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Luis Milla (90) acumula **+88.1% em 7 dias** a 22k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gabriel Sara (94) acumula **+89% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 18/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.4% em 24h** e **+79.8% em 7 dias**.
+- A mediana é de **+10.0% em 24h** e **+83.3% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luis Milla | 90 | — | 22k coins | +5.6% | +88.1% | Esticada |
-| Riley Tiernan | 91 | — | 42k coins | +10.4% | +86.8% | Esticada |
-| Frida Maanum | 90 | — | 50k coins | +10.5% | +85.2% | Esticada |
-| Reece James | 91 | — | 55k coins | +11.7% | +83.3% | Esticada |
-| Joan García | 94 | — | 54k coins | +22.7% | +83.1% | Esticada |
-| Oumar Camara | 90 | — | 47k coins | +9.8% | +81% | Esticada |
-| Mile Svilar | 91 | — | 41k coins | +4% | +80% | Esticada |
-| James Garner | 90 | — | 45k coins | +7.9% | +79.8% | Esticada |
-| Nikola Vlašić | 91 | — | 42k coins | +6.2% | +77.1% | Esticada |
-| Dante | 88 | Ligue 1 McDonald's | 32k coins | +9.6% | +75% | Esticada |
-| Vladimír Coufal | 91 | — | 45k coins | +5.3% | +73.1% | Esticada |
-| Enzo Francescoli | 90 | — | 40k coins | +14.3% | +72% | Esticada |
-| Louisa Necib | 90 | D1 Arkema | 46k coins | +11.1% | +71.9% | Esticada |
-| Issa Diop | 95 | — | 170k coins | +14.6% | +71.9% | Esticada |
-| Ane Azkona | 88 | Liga F | 55k coins | +13.9% | +71.6% | Esticada |
+| Gabriel Sara | 94 | — | 46k coins | +35% | +89% | Esticada |
+| Frida Maanum | 90 | — | 50k coins | +8.7% | +88.7% | Esticada |
+| Igor Thiago | 89 | Premier League | 95k coins | +23.3% | +88.5% | Esticada |
+| Oumar Camara | 90 | — | 48k coins | +6.8% | +88% | Esticada |
+| Eric Cantona | 92 | — | 159k coins | +6% | +87.1% | Esticada |
+| Patrik Mercado | 91 | — | 42k coins | +37.1% | +86.8% | Esticada |
+| Andy Najar | 91 | — | 42k coins | +2.5% | +84.3% | Esticada |
+| Dante | 88 | Ligue 1 McDonald's | 34k coins | +32% | +83.3% | Esticada |
+| Gianluca Vialli | 91 | — | 32k coins | +4% | +81.7% | Esticada |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 65k coins | +10.7% | +81.7% | Esticada |
+| Unai Simón | 90 | LALIGA EA SPORTS | 65k coins | +12.1% | +80.6% | Esticada |
+| Evander | 95 | — | 48k coins | +39.9% | +78.7% | Esticada |
+| Vladimír Coufal | 91 | — | 45k coins | +10% | +77.8% | Esticada |
+| Lisa Baum | 90 | — | 48k coins | +5.6% | +77.6% | Esticada |
+| Ricardo Carvalho | 88 | Liga Portugal | 24k coins | +2.1% | +74.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Luis Milla (90)** — 22k coins, **+88.1% em 7 dias** (+5.6% em 24h). Preço -38% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Sara (94)** — 46k coins, **+89% em 7 dias** (+35% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Riley Tiernan (91)** — 42k coins, **+86.8% em 7 dias** (+10.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frida Maanum (90)** — 50k coins, **+88.7% em 7 dias** (+8.7% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frida Maanum (90)** — 50k coins, **+85.2% em 7 dias** (+10.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Igor Thiago (89)** — 95k coins, **+88.5% em 7 dias** (+23.3% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reece James (91)** — 55k coins, **+83.3% em 7 dias** (+11.7% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oumar Camara (90)** — 48k coins, **+88% em 7 dias** (+6.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joan García (94)** — 54k coins, **+83.1% em 7 dias** (+22.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (92)** — 159k coins, **+87.1% em 7 dias** (+6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Luis Milla (90, sem liga) lidera, com +88.1% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gabriel Sara (94, sem liga) lidera, com +89% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

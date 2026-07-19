@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:00:09.000Z
+pubDatetime: 2026-07-19T01:00:09.000Z
 title: "Investimentos EA FC em 18/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Gheorghe Hagi (90, Icons) lidera, com +88.1% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Erling Haaland (92, sem liga) lidera, com +89.2% em 7 dias a 250k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gheorghe Hagi (90) acumula **+88.1% em 7 dias** a 95k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Erling Haaland (92) acumula **+89.2% em 7 dias** a 250k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 18/07: radar de alta — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.1% em 24h** e **+81.8% em 7 dias**.
+- A mediana é de **+11.4% em 24h** e **+81.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gheorghe Hagi | 90 | Icons | 95k coins | +13.1% | +88.1% | Esticada |
-| Unai Simón | 90 | LALIGA EA SPORTS | 55k coins | +6.8% | +86.4% | Esticada |
-| Raúl | 90 | Icons | 145k coins | +10.3% | +86.3% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 100k coins | +12.1% | +85.9% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 55k coins | +1.9% | +83.3% | Esticada |
-| Emilio Butragueño | 90 | — | 80k coins | +13.5% | +82.9% | Esticada |
-| Josip Šutalo | 90 | Eredivisie | 68k coins | +3.7% | +81.8% | Esticada |
-| Aarón | 85 | LALIGA EA SPORTS | 33k coins | +36.8% | +81.8% | Esticada |
-| Sofie Junge Pedersen | 86 | Liga F | 26k coins | +32.5% | +79.7% | Esticada |
-| Sveindís Jane Jónsdóttir | 88 | — | 64k coins | +31.5% | +78.6% | Esticada |
-| Selina Cerci | 90 | GPFBL | 75k coins | +7.1% | +75.4% | Esticada |
-| Chloe Kelly | 88 | Barclays WSL | 87k coins | +24.3% | +74.9% | Esticada |
-| Jonathan David | 90 | Serie A TIM | 60k coins | +7.1% | +72.7% | Esticada |
-| Alberto Costa | 91 | — | 30k coins | +3.4% | +71.4% | Esticada |
-| Danny da Costa | 84 | Bundesliga | 23k coins | +24.3% | +70.4% | Esticada |
+| Erling Haaland | 92 | — | 250k coins | +12.3% | +89.2% | Esticada |
+| Javier Zanetti | 91 | Icons | 174k coins | +9.4% | +89.1% | Esticada |
+| Gheorghe Hagi | 90 | Icons | 95k coins | +18.8% | +88.1% | Esticada |
+| Vangelis Pavlidis | 90 | Liga Portugal | 55k coins | +3.8% | +88% | Esticada |
+| Pierre Kalulu | 91 | Serie A TIM | 93k coins | +12.9% | +86.4% | Esticada |
+| Taylor Flint | 88 | NWSL | 150k coins | +29.4% | +85.5% | Esticada |
+| Unai Simón | 90 | LALIGA EA SPORTS | 55k coins | +6.8% | +83.3% | Esticada |
+| Sakina Karchaoui | 91 | D1 Arkema | 100k coins | +11.1% | +81.8% | Esticada |
+| Sol Campbell | 91 | — | 40k coins | +11.4% | +81.4% | Esticada |
+| Pedrinho | 88 | — | 39k coins | +5.1% | +80.9% | Esticada |
+| Vincent Kompany | 91 | Premier League | 45k coins | +2.9% | +80% | Esticada |
+| Sofie Junge Pedersen | 86 | Liga F | 27k coins | +21.8% | +79.7% | Esticada |
+| Carlos Tévez | 88 | Premier League | 34k coins | +17.5% | +76.3% | Esticada |
+| Jonathan David | 90 | Serie A TIM | 58k coins | +6.2% | +73.9% | Esticada |
+| Mingueza | 88 | LALIGA EA SPORTS | 22k coins | +31.4% | +70.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Gheorghe Hagi (90)** — 95k coins, **+88.1% em 7 dias** (+13.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Erling Haaland (92)** — 250k coins, **+89.2% em 7 dias** (+12.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Unai Simón (90)** — 55k coins, **+86.4% em 7 dias** (+6.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (91)** — 174k coins, **+89.1% em 7 dias** (+9.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Raúl (90)** — 145k coins, **+86.3% em 7 dias** (+10.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gheorghe Hagi (90)** — 95k coins, **+88.1% em 7 dias** (+18.8% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre Kalulu (91)** — 100k coins, **+85.9% em 7 dias** (+12.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vangelis Pavlidis (90)** — 55k coins, **+88% em 7 dias** (+3.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 55k coins, **+83.3% em 7 dias** (+1.9% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Kalulu (91)** — 93k coins, **+86.4% em 7 dias** (+12.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Gheorghe Hagi (90, Icons) lidera, com +88.1% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Erling Haaland (92, sem liga) lidera, com +89.2% em 7 dias a 250k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
