@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:00:11.000Z
+pubDatetime: 2026-07-20T19:00:09.000Z
 title: "Investimentos EA FC em 20/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Cláudio Braga (87, Scottish Premiership) lidera, com +82.8% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sol Campbell (91, sem liga) lidera, com +88.2% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Cláudio Braga (87) acumula **+82.8% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sol Campbell (91) acumula **+88.2% em 7 dias** a 39k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 20/07: radar de alta — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.0% em 24h** e **+73.0% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.5% em 24h** e **+75.0% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cláudio Braga | 87 | Scottish Premiership | 25k coins | +18.2% | +82.8% | Esticada |
-| João Moutinho | 88 | Liga Portugal | 151k coins | +32.4% | +79.4% | Esticada |
-| Joaquín Panichelli | 91 | — | 34k coins | +36.7% | +78.3% | Esticada |
-| Wesley | 91 | — | 39k coins | +2.4% | +77.1% | Esticada |
-| Ahmed Hegazi | 87 | Brasileirão | 80k coins | +24.8% | +76.6% | Esticada |
-| Momoko Tanikawa | 91 | — | 44k coins | +15% | +76.1% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 52k coins | +4% | +73.3% | Esticada |
-| Birgit Prinz | 93 | Icons | 80k coins | +22.1% | +73% | Esticada |
-| Mats Deijl | 88 | Eredivisie | 18.250 coins | +14.1% | +70.2% | Esticada |
-| Isco | 86 | LALIGA EA SPORTS | 84k coins | +27.3% | +68% | Esticada |
-| Marinette Pichon | 90 | Icons | 60k coins | +9.4% | +67.7% | Esticada |
-| Hidetoshi Nakata | 88 | Serie A TIM | 26k coins | +13.3% | +64.5% | Esticada |
-| Nwankwo Kanu | 87 | Premier League | 38k coins | +4.8% | +61.7% | Esticada |
-| Kenneth Taylor | 84 | Eredivisie | 35k coins | +31.1% | +60% | Esticada |
-| Cora Zicai | 88 | GPFBL | 106k coins | +14.1% | +59.1% | Momentum moderado |
+| Sol Campbell | 91 | — | 39k coins | +1.9% | +88.2% | Esticada |
+| Keinan Davis | 90 | — | 65k coins | +1.1% | +87.5% | Esticada |
+| Ashley Sanchez | 87 | NWSL | 69k coins | +7.4% | +87.1% | Esticada |
+| Oyarzabal | 91 | — | 49k coins | +7.5% | +87% | Esticada |
+| Unai Simón | 90 | LALIGA EA SPORTS | 58k coins | +10.9% | +82.1% | Esticada |
+| Fara Williams | 88 | Barclays WSL | 83k coins | +27.7% | +81.4% | Esticada |
+| Vladimír Coufal | 91 | — | 43k coins | +3.7% | +75.3% | Esticada |
+| Nahuel Molina | 91 | — | 150k coins | +7.7% | +75% | Esticada |
+| Couhaib Driouech | 86 | Eredivisie | 58k coins | +20% | +70.2% | Esticada |
+| Caleb Taylor | 84 | EFL Championship | 58k coins | +3.1% | +69.6% | Esticada |
+| Nick Woltemade | 90 | Premier League | 107k coins | +2.7% | +65.2% | Esticada |
+| Christian Günter | 88 | Bundesliga | 34k coins | +23.9% | +64.6% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 48k coins | +8.3% | +62.5% | Esticada |
+| Homare Sawa | 91 | Icons | 134k coins | +13.4% | +59.8% | Momentum moderado |
+| Nwankwo Kanu | 87 | Premier League | 35k coins | +6.5% | +57.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Cláudio Braga (87)** — 25k coins, **+82.8% em 7 dias** (+18.2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sol Campbell (91)** — 39k coins, **+88.2% em 7 dias** (+1.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 151k coins, **+79.4% em 7 dias** (+32.4% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Keinan Davis (90)** — 65k coins, **+87.5% em 7 dias** (+1.1% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joaquín Panichelli (91)** — 34k coins, **+78.3% em 7 dias** (+36.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (87)** — 69k coins, **+87.1% em 7 dias** (+7.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wesley (91)** — 39k coins, **+77.1% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oyarzabal (91)** — 49k coins, **+87% em 7 dias** (+7.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmed Hegazi (87)** — 80k coins, **+76.6% em 7 dias** (+24.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Unai Simón (90)** — 58k coins, **+82.1% em 7 dias** (+10.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -99,7 +99,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Cláudio Braga (87, Scottish Premiership) lidera, com +82.8% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sol Campbell (91, sem liga) lidera, com +88.2% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

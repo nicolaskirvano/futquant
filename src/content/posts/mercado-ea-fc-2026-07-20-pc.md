@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:00:19.000Z
+pubDatetime: 2026-07-20T19:00:17.000Z
 title: "Mercado EA FC em 20/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Rose Lavelle (89, NWSL), com +60% em 24h, a 70k coins no PC."
+    a: "Shelina Zadorsky (87, Barclays WSL), com +59.7% em 24h, a 95k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Marek Hamšík (88), -49.5% em 24h, a 50k coins."
+    a: "Julia Grosso (88), -50% em 24h, a 37k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 920 cartas em alta contra 922 em queda (média 2.6%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 876 cartas em alta contra 903 em queda (média 3.0%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **920 cartas subiram** e **922 caíram** (80+ acima de 5k coins), variação média de **2.6%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **876 cartas subiram** e **903 caíram** (80+ acima de 5k coins), variação média de **3.0%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rose Lavelle (89) **+60%** · 🔴 **Maior baixa:** Marek Hamšík (88) **-49.5%**
+> 🟢 **Maior alta:** Shelina Zadorsky (87) **+59.7%** · 🔴 **Maior baixa:** Julia Grosso (88) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.9% entre as cartas que se moveram; o universo observado reúne 2301 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.2% entre as cartas que se moveram; o universo observado reúne 2232 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rose Lavelle | 89 | NWSL | 70k coins | +60% | +56.4% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 77k coins | +59.8% | -8.8% |
-| Raphinha | 91 | LALIGA EA SPORTS | 134k coins | +59.8% | +5.5% |
-| Shelina Zadorsky | 87 | Barclays WSL | 95k coins | +59.7% | +40.7% |
-| Moisés Caicedo | 88 | Premier League | 68k coins | +59.3% | +18.5% |
-| Patri Guijarro | 90 | Liga F | 70k coins | +59.1% | +75.6% |
-| Peter Crouch | 87 | Premier League | 270k coins | +58.8% | — |
-| Senne Lammens | 88 | Premier League | 41k coins | +58.2% | +54% |
-| Ona Batlle | 90 | Liga F | 48k coins | +57.3% | +61.2% |
-| Homare Sawa | 91 | Icons | 199k coins | +57.1% | +47.8% |
+| Shelina Zadorsky | 87 | Barclays WSL | 95k coins | +59.7% | +59.7% |
+| Abdul Fatawu | 88 | EFL Championship | 36k coins | +58.7% | +1.4% |
+| Dennis Bergkamp | 90 | Icons | 160k coins | +58.4% | +135.3% |
+| Francisco Conceição | 84 | Serie A TIM | 50k coins | +57.5% | +25% |
+| Moisés Caicedo | 88 | Premier League | 64k coins | +57.4% | +20.9% |
+| Luis Díaz | 86 | Bundesliga | 55k coins | +57.1% | -11.3% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 76k coins | +56.7% | -10.6% |
+| Ferdi Kadıoğlu | 87 | — | 52k coins | +56.4% | +51.8% |
+| Raphinha | 91 | LALIGA EA SPORTS | 131k coins | +56.2% | +3.1% |
+| David Raya | 88 | Premier League | 50k coins | +55% | +112.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rose Lavelle (89)** subiu **+60%** em 24h, a **70k coins** (faixa do dia: 38k–70k). Está +34% acima da média de 7 dias (aquecida).
+- **Shelina Zadorsky (87)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 77k–95k). Está +68% acima da média de 7 dias (aquecida).
 
-- **Anthony Nwakaeme (87)** subiu **+59.8%** em 24h, a **77k coins** (faixa do dia: 48k–85k). Está +17% acima da média de 7 dias (aquecida).
+- **Abdul Fatawu (88)** subiu **+58.7%** em 24h, a **36k coins** (faixa do dia: 14.000–42k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Raphinha (91)** subiu **+59.8%** em 24h, a **134k coins** (faixa do dia: 84k–150k). Está em linha com a média de 7 dias (+3%).
+- **Dennis Bergkamp (90)** subiu **+58.4%** em 24h, a **160k coins** (faixa do dia: 96k–170k). Está +57% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 50k coins | -49.5% | -30.3% |
-| Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.1% | -30.1% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 40k coins | -48.4% | -19.4% |
-| Leela Egli | 86 | GPFBL | 26k coins | -47.7% | -45% |
-| Aarón | 85 | LALIGA EA SPORTS | 42k coins | -47.6% | -38.2% |
-| Kylian Mbappé | 97 | — | 4M coins | -46.5% | -60% |
-| Emilio Butragueño | 89 | Icons | 74k coins | -44.1% | -15.6% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 32k coins | -43% | -68.2% |
-| Williot Swedberg | 86 | LALIGA EA SPORTS | 28k coins | -42.1% | -42.1% |
-| Vitinha | 96 | — | 7.10M coins | -41.8% | +7.6% |
+| Julia Grosso | 88 | NWSL | 37k coins | -50% | -0.8% |
+| Daniel Muñoz | 96 | — | 910k coins | -49.4% | -29.5% |
+| Jens Petter Hauge | 91 | Eliteserien | 41k coins | -48.4% | -37.3% |
+| Kevin Schade | 88 | Premier League | 21k coins | -48.2% | -25.4% |
+| Jill Scott | 94 | — | 85k coins | -47.2% | -15% |
+| Leela Egli | 86 | GPFBL | 26k coins | -47.2% | -45% |
+| Mohamed Simakan | 93 | — | 24k coins | -46.4% | -47% |
+| Toni Kroos | 90 | Icons | 86k coins | -46.4% | -20.1% |
+| Klara Bühl | 88 | GPFBL | 48k coins | -46.2% | -11.9% |
+| Ellie Roebuck | 85 | Barclays WSL | 27k coins | -45.8% | -32.6% |
 
 
 ### Análise das baixas
 
-- **Marek Hamšík (88)** caiu **-49.5%** em 24h, a **50k coins** (faixa do dia: 50k–100k). Está -38% abaixo da média de 7 dias (descontada).
+- **Julia Grosso (88)** caiu **-50%** em 24h, a **37k coins** (faixa do dia: 30k–69k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Rafael Leão (93)** caiu **-49.1%** em 24h, a **1.01M coins** (faixa do dia: 1.01M–1.01M). Está -34% abaixo da média de 7 dias (descontada).
+- **Daniel Muñoz (96)** caiu **-49.4%** em 24h, a **910k coins** (faixa do dia: 500k–1.20M). Está em linha com a média de 7 dias (+3%).
 
-- **Nahuel Molina (87)** caiu **-48.4%** em 24h, a **40k coins** (faixa do dia: 40k–80k). Está -39% abaixo da média de 7 dias (descontada).
+- **Jens Petter Hauge (91)** caiu **-48.4%** em 24h, a **41k coins** (faixa do dia: 41k–81k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rose Lavelle já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Shelina Zadorsky já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marek Hamšík recuou -49.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julia Grosso recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Rose Lavelle (89, NWSL), com +60% em 24h, a 70k coins no PC.
+Shelina Zadorsky (87, Barclays WSL), com +59.7% em 24h, a 95k coins no PC.
 
 **E a maior queda do dia?**
-Marek Hamšík (88), -49.5% em 24h, a 50k coins.
+Julia Grosso (88), -50% em 24h, a 37k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 920 cartas em alta contra 922 em queda (média 2.6%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 876 cartas em alta contra 903 em queda (média 3.0%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

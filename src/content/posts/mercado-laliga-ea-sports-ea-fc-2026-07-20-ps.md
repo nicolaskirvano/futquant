@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:00:25.000Z
+pubDatetime: 2026-07-20T19:00:23.000Z
 title: "Mercado LALIGA EA SPORTS no EA FC em 20/07 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da LALIGA EA SPORTS no EA FC Ultimate Team em 20/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da LALIGA EA SPORTS no EA FC hoje?"
-    a: "Kylian Mbappé (92), a 1.99M coins no Console (PS) em 20/07/2026."
+    a: "Kylian Mbappé (92), a 1.98M coins no Console (PS) em 20/07/2026."
   - q: "Quem mais valorizou na LALIGA EA SPORTS esta semana no EA FC?"
-    a: "Jude Bellingham (92), +83.6% em 7 dias, a 1M coins."
+    a: "Unai Simón (90), +82.1% em 7 dias, a 58k coins."
   - q: "Onde ver os preços das cartas da LALIGA EA SPORTS no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da LALIGA EA SPORTS, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **LALIGA EA SPORTS** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **20/07/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da LALIGA EA SPORTS:** Kylian Mbappé (92), a 1.99M coins.
+> 👑 **Carta mais valiosa da LALIGA EA SPORTS:** Kylian Mbappé (92), a 1.98M coins.
 
 ![Gráfico de 24h para os destaques de Mercado LALIGA EA SPORTS no EA FC em 20/07 — PS](/charts/mercado-laliga-ea-sports-ea-fc-2026-07-20-ps.svg)
 
@@ -32,16 +32,16 @@ A **LALIGA EA SPORTS** é uma das ligas mais usadas no **EA FC Ultimate Team** �
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Kylian Mbappé | 92 | ST | 1.99M coins | -13.2% |
-| Kylian Mbappé | 96 | ST | 1.70M coins | -3.6% |
-| Kylian Mbappé | 92 | ST | 1.68M coins | -33.4% |
-| Jude Bellingham | 92 | CAM | 1M coins | +8% |
+| Kylian Mbappé | 92 | ST | 1.98M coins | -21.7% |
+| Kylian Mbappé | 96 | ST | 1.76M coins | -10.3% |
+| Jude Bellingham | 92 | CAM | 900k coins | +15.2% |
+| Dean Huijsen | 91 | CB | 800k coins | +11.1% |
+| Lamine Yamal | 92 | RW | 750k coins | -1.5% |
 | Jude Bellingham | 91 | RM | 750k coins | +15.4% |
-| Lamine Yamal | 92 | RW | 710k coins | +1.7% |
-| Lamine Yamal | 90 | RM | 700k coins | 0% |
-| Vini Jr. | 90 | ST | 626k coins | +3.9% |
-| Vini Jr. | 92 | LW | 617k coins | -5.9% |
-| Vini Jr. | 90 | LW | 494k coins | -4.2% |
+| Lamine Yamal | 90 | RM | 730k coins | +0.3% |
+| Lamine Yamal | 92 | RM | 638k coins | +22.9% |
+| Vini Jr. | 92 | LW | 606k coins | -13.5% |
+| Eduardo Camavinga | 87 | CM | 600k coins | +6.1% |
 
 
 ## 📈 Em alta na LALIGA EA SPORTS (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Jude Bellingham | 92 | CAM | 1M coins | +83.6% |
-| Raphinha | 90 | LM | 185k coins | +71.9% |
-| Pablo Aimar | 91 | CAM | 67k coins | +68.1% |
-| Isco | 86 | CAM | 84k coins | +68% |
-| Iván Zamorano | 91 | ST | 155k coins | +65.7% |
+| Unai Simón | 90 | GK | 58k coins | +82.1% |
+| Raphinha | 89 | LM | 3.300 coins | +72.2% |
+| Thibaut Courtois | 89 | GK | 3.100 coins | +70.6% |
+| Pablo Aimar | 91 | CAM | 58k coins | +67.5% |
+| Nico Williams | 87 | LM | 265k coins | +61% |
 | Jude Bellingham | 91 | RM | 750k coins | +59.6% |
-| Vitor Reis | 86 | CB | 14.250 coins | +51.9% |
-| Marcos Llorente | 86 | RB | 55k coins | +48.1% |
-| Roony Bardghji | 83 | RM | 50k coins | +46.8% |
-| Julián Alvarez | 88 | ST | 166k coins | +42% |
+| Nico Williams | 89 | ST | 220k coins | +58.3% |
+| Javier Mascherano | 89 | CDM | 55k coins | +53% |
+| Roony Bardghji | 90 | RM | 70k coins | +52.5% |
+| Iván Zamorano | 91 | ST | 149k coins | +48.6% |
 
 
 ## 📈 Análise da LALIGA EA SPORTS
 
-A carta mais valiosa da liga é **Kylian Mbappé (92)**, a 1.99M coins. 
-No movimento da semana, **Jude Bellingham (92)** lidera as altas (+83.6% em 7 dias), sinal de procura crescente por cartas da LALIGA EA SPORTS. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Kylian Mbappé (92)**, a 1.98M coins. 
+No movimento da semana, **Unai Simón (90)** lidera as altas (+82.1% em 7 dias), sinal de procura crescente por cartas da LALIGA EA SPORTS. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 
@@ -86,10 +86,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da LALIGA EA SPORTS no EA FC hoje?**  
-Kylian Mbappé (92), a 1.99M coins no Console (PS) em 20/07/2026.
+Kylian Mbappé (92), a 1.98M coins no Console (PS) em 20/07/2026.
 
 **Quem mais valorizou na LALIGA EA SPORTS esta semana no EA FC?**  
-Jude Bellingham (92), +83.6% em 7 dias, a 1M coins.
+Unai Simón (90), +82.1% em 7 dias, a 58k coins.
 
 **Onde ver os preços das cartas da LALIGA EA SPORTS no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da LALIGA EA SPORTS, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
