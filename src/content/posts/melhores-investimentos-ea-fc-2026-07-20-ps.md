@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T09:41:26.000Z
+pubDatetime: 2026-07-20T10:00:11.000Z
 title: "Investimentos EA FC em 20/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Ronald Koeman (91, Icons) lidera, com +89% em 7 dias a 138k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Oliver Baumann (91, sem liga) lidera, com +89.5% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ronald Koeman (91) acumula **+89% em 7 dias** a 138k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Oliver Baumann (91) acumula **+89.5% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 20/07: radar de alta — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+4.2% em 24h** e **+84.8% em 7 dias**.
+- A mediana é de **+4.2% em 24h** e **+82.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,24 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Oliver Baumann | 91 | — | 45k coins | +5.9% | +89.5% | Esticada |
 | Ronald Koeman | 91 | Icons | 138k coins | +29% | +89% | Esticada |
 | Robin Risser | 90 | — | 42k coins | +3.7% | +88.9% | Esticada |
 | Marta | 90 | NWSL | 50k coins | +2.2% | +88.1% | Esticada |
-| Pavel Šulc | 91 | — | 44k coins | +2.3% | +87.5% | Esticada |
-| Keinan Davis | 90 | — | 44k coins | +5.9% | +87.5% | Esticada |
-| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +6.5% | +85.5% | Esticada |
-| Oyarzabal | 91 | — | 42k coins | +3.7% | +84.8% | Esticada |
-| Chibuike Nwaiwu | 90 | — | 42k coins | +3% | +84.8% | Esticada |
-| Granit Xhaka | 91 | — | 42k coins | +2.4% | +84.8% | Esticada |
-| Cha Bum Kun | 88 | Icons | 166k coins | +11.8% | +82.8% | Esticada |
-| Emmanuel Fernandez | 90 | — | 41k coins | +17.2% | +82.8% | Esticada |
-| Sol Campbell | 91 | — | 22k coins | +1.9% | +81.8% | Esticada |
+| Pavel Šulc | 91 | — | 42k coins | +2.3% | +87.5% | Esticada |
+| Keinan Davis | 90 | — | 44k coins | +1.7% | +87.5% | Esticada |
+| Chibuike Nwaiwu | 90 | — | 40k coins | +3% | +84.8% | Esticada |
+| Emmanuel Fernandez | 90 | — | 41k coins | +30.8% | +82.8% | Esticada |
+| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +13% | +82.3% | Esticada |
+| Sol Campbell | 91 | — | 40k coins | +1.9% | +81.8% | Esticada |
 | Ashley Sanchez | 87 | NWSL | 60k coins | +4.2% | +80.9% | Esticada |
 | Camille Abily | 92 | Icons | 80k coins | +19.5% | +80.7% | Esticada |
-| Emilio Butragueño | 90 | — | 64k coins | +5.3% | +78.5% | Esticada |
+| Cha Bum Kun | 88 | Icons | 162k coins | +9.2% | +78.5% | Esticada |
+| Ronald Koeman Jr. | 91 | — | 35k coins | +2.2% | +77.6% | Esticada |
+| Luany | 88 | Liga F | 34k coins | +31% | +76.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
+
+- **Oliver Baumann (91)** — 45k coins, **+89.5% em 7 dias** (+5.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Ronald Koeman (91)** — 138k coins, **+89% em 7 dias** (+29% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -68,9 +70,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Marta (90)** — 50k coins, **+88.1% em 7 dias** (+2.2% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pavel Šulc (91)** — 44k coins, **+87.5% em 7 dias** (+2.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Keinan Davis (90)** — 44k coins, **+87.5% em 7 dias** (+5.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pavel Šulc (91)** — 42k coins, **+87.5% em 7 dias** (+2.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -99,7 +99,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Ronald Koeman (91, Icons) lidera, com +89% em 7 dias a 138k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Oliver Baumann (91, sem liga) lidera, com +89.5% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T09:41:34.000Z
+pubDatetime: 2026-07-20T10:00:19.000Z
 title: "Mercado EA FC em 20/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Marek Hamšík (88), -49.5% em 24h, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 929 cartas em alta contra 969 em queda (média 2.32%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 903 cartas em alta contra 975 em queda (média 2.21%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **929 cartas subiram** e **969 caíram** (80+ acima de 5k coins), variação média de **2.32%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **903 cartas subiram** e **975 caíram** (80+ acima de 5k coins), variação média de **2.21%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Eseosa Aigbogun (84) **+60%** · 🔴 **Maior baixa:** Marek Hamšík (88) **-49.5%**
 
@@ -36,8 +36,8 @@ O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a m
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.9% entre as cartas que se moveram; o universo observado reúne 2387 cartas.
-- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
+- **Participação das altas:** 48.1% entre as cartas que se moveram; o universo observado reúne 2372 cartas.
+- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -47,12 +47,12 @@ O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a m
 | Billy Gilmour | 87 | Serie A TIM | 48k coins | +59.7% | +29.3% |
 | Harry Kewell | 87 | Premier League | 26k coins | +59.4% | +21.4% |
 | Ederson | 87 | Trendyol Süper Lig | 84k coins | +59.3% | +22.9% |
-| Nicolás Otamendi | 86 | Liga Portugal | 96k coins | +58.7% | -4% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 38k coins | +58.7% | +25% |
+| Nicolás Otamendi | 86 | Liga Portugal | 89k coins | +58.7% | -4% |
+| Rayane Messi | 89 | Brasileirão | 28k coins | +58.6% | +46.1% |
 | Bia Zaneratto | 84 | NWSL | 54k coins | +58% | 0% |
-| Juan Mata | 88 | A-League | 73k coins | +57.1% | +25% |
-| Karim Benzema | 88 | ROSHN Saudi League | 157k coins | +57% | +69.7% |
-| Julian Quiñones | 94 | — | 49k coins | +56.2% | -30.6% |
-| Chloe Kelly | 88 | Barclays WSL | 110k coins | +56% | +29.4% |
+| Selma Bacha | 87 | D1 Arkema | 30k coins | +57.9% | +44.6% |
+| Karim Benzema | 88 | ROSHN Saudi League | 158k coins | +57% | +69.7% |
 
 
 ### Análise das altas
@@ -74,14 +74,14 @@ O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a m
 | --- | --- | --- | --- | --- | --- |
 | Marek Hamšík | 88 | Serie A TIM | 50k coins | -49.5% | -40.2% |
 | Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.1% | -30.1% |
+| Denis Bouanga | 95 | — | 21k coins | -48.1% | -58% |
 | Felix Nmecha | 86 | Bundesliga | 231k coins | -47.9% | -58% |
-| Géraldine Reuteler | 87 | GPFBL | 30k coins | -47.4% | -39.1% |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 34k coins | -46.4% | -35.7% |
-| Carlos Romero | 95 | — | 24k coins | -46.2% | -45.5% |
+| Kylian Mbappé | 97 | — | 3.70M coins | -47.6% | -62.2% |
+| Géraldine Reuteler | 87 | GPFBL | 54k coins | -47.4% | -39.1% |
 | Erling Haaland | 91 | Premier League | 176k coins | -45.8% | -20% |
-| Ibañez | 86 | ROSHN Saudi League | 48k coins | -45.7% | -21.5% |
+| Ibañez | 86 | ROSHN Saudi League | 46k coins | -45.7% | -18.1% |
 | Sofyan Amrabat | 91 | LALIGA EA SPORTS | 30k coins | -45.5% | -50% |
-| Vladimír Coufal | 91 | — | 25k coins | -44.4% | 0% |
+| Joe Gelhardt | 86 | EFL Championship | 24k coins | -45% | -32.2% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ O mercado do **EA FC** abre **20/07/2026** no PC com clima **comprador** — a m
 
 - **Rafael Leão (93)** caiu **-49.1%** em 24h, a **1.01M coins** (faixa do dia: 1.01M–1.99M). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Felix Nmecha (86)** caiu **-47.9%** em 24h, a **231k coins** (faixa do dia: 226k–550k). Está -47% abaixo da média de 7 dias (descontada).
+- **Denis Bouanga (95)** caiu **-48.1%** em 24h, a **21k coins** (faixa do dia: 21k–44k). Está -56% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -125,7 +125,7 @@ Eseosa Aigbogun (84, D1 Arkema), com +60% em 24h, a 24k coins no PC.
 Marek Hamšík (88), -49.5% em 24h, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 929 cartas em alta contra 969 em queda (média 2.32%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 903 cartas em alta contra 975 em queda (média 2.21%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

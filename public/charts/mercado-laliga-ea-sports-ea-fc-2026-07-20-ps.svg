@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kylian Mbappé</text>
-<rect x="285" y="95" width="480" height="28" rx="7" fill="#f87171"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-23.1%</text>
+<rect x="285" y="95" width="42" height="28" rx="7" fill="#f87171"/>
+<text x="337" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.0%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kylian Mbappé</text>
-<rect x="285" y="153" width="42" height="28" rx="7" fill="#f87171"/>
-<text x="337" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.0%</text>
+<rect x="285" y="153" width="480" height="28" rx="7" fill="#f87171"/>
+<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-23.1%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kylian Mbappé</text>
-<rect x="285" y="211" width="416" height="28" rx="7" fill="#f87171"/>
-<text x="711" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-20.0%</text>
+<rect x="285" y="211" width="362" height="28" rx="7" fill="#f87171"/>
+<text x="657" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-17.4%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jude Bellingham</text>
 <rect x="285" y="269" width="291" height="28" rx="7" fill="#f87171"/>
 <text x="586" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-14.0%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jude Bellingham</text>
 <rect x="285" y="327" width="8" height="28" rx="7" fill="#22c55e"/>
 <text x="303" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frenkie de Jong</text>
-<rect x="285" y="385" width="8" height="28" rx="7" fill="#22c55e"/>
-<text x="303" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafael Márquez</text>
+<rect x="285" y="385" width="54" height="28" rx="7" fill="#22c55e"/>
+<text x="349" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+2.6%</text>
 </svg>
