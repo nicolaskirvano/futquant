@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Williams</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pau Cubarsí</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eberechi Eze</text>
-<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
-<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lee Dong Kyeong</text>
-<rect x="285" y="211" width="467" height="28" rx="7" fill="#22c55e"/>
-<text x="762" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luis Díaz</text>
-<rect x="285" y="269" width="451" height="28" rx="7" fill="#22c55e"/>
-<text x="746" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juan Mata</text>
-<rect x="285" y="327" width="439" height="28" rx="7" fill="#22c55e"/>
-<text x="734" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nikola Katić</text>
-<rect x="285" y="385" width="426" height="28" rx="7" fill="#22c55e"/>
-<text x="721" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
+<rect x="285" y="153" width="465" height="28" rx="7" fill="#22c55e"/>
+<text x="760" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matías Soulé</text>
+<rect x="285" y="211" width="464" height="28" rx="7" fill="#22c55e"/>
+<text x="759" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronaldo</text>
+<rect x="285" y="269" width="437" height="28" rx="7" fill="#22c55e"/>
+<text x="732" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nahuel Molina</text>
+<rect x="285" y="327" width="432" height="28" rx="7" fill="#22c55e"/>
+<text x="727" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenan Yıldız</text>
+<rect x="285" y="385" width="423" height="28" rx="7" fill="#22c55e"/>
+<text x="718" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.7%</text>
 </svg>
