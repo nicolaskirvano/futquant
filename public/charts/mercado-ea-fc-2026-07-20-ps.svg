@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jade Le Guilly</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Charles De Ketelaere</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi</text>
-<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
-<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pau Cubarsí</text>
-<rect x="285" y="211" width="457" height="28" rx="7" fill="#22c55e"/>
-<text x="752" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Amar Dedić</text>
-<rect x="285" y="269" width="449" height="28" rx="7" fill="#22c55e"/>
-<text x="744" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Deniz Undav</text>
-<rect x="285" y="327" width="449" height="28" rx="7" fill="#22c55e"/>
-<text x="744" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Katie McCabe</text>
-<rect x="285" y="385" width="446" height="28" rx="7" fill="#22c55e"/>
-<text x="741" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anass Zaroury</text>
+<rect x="285" y="153" width="470" height="28" rx="7" fill="#22c55e"/>
+<text x="765" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lily Yohannes</text>
+<rect x="285" y="211" width="466" height="28" rx="7" fill="#22c55e"/>
+<text x="761" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fiamma Benítez</text>
+<rect x="285" y="269" width="466" height="28" rx="7" fill="#22c55e"/>
+<text x="761" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Orkun Kökçü</text>
+<rect x="285" y="327" width="434" height="28" rx="7" fill="#22c55e"/>
+<text x="729" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Samson Baidoo</text>
+<rect x="285" y="385" width="428" height="28" rx="7" fill="#22c55e"/>
+<text x="723" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.5%</text>
 </svg>
