@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:00:20.000Z
+pubDatetime: 2026-07-20T01:00:19.000Z
 title: "Investimentos EA FC em 19/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Rocío Gálvez (88, Liga F) lidera, com +88.4% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marta (90, NWSL) lidera, com +88% em 7 dias a 76k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rocío Gálvez (88) acumula **+88.4% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Marta (90) acumula **+88% em 7 dias** a 76k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 19/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.3% em 24h** e **+81.8% em 7 dias**.
+- A mediana é de **+8.9% em 24h** e **+82.4% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rocío Gálvez | 88 | Liga F | 32k coins | +32.7% | +88.4% | Esticada |
-| Larissa Mühlhaus | 87 | GPFBL | 55k coins | +12.1% | +86.6% | Esticada |
-| Lilly Reale | 91 | — | 38k coins | +10.3% | +86% | Esticada |
-| Henrik Larsson | 91 | — | 40k coins | +5.9% | +83% | Esticada |
-| Tasos Douvikas | 90 | — | 48k coins | +11.8% | +82.7% | Esticada |
-| Aoba Fujino | 91 | — | 40k coins | +1.3% | +81.8% | Esticada |
-| David Ayala | 91 | — | 40k coins | +1.3% | +81.8% | Esticada |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 65k coins | +3.2% | +81.8% | Esticada |
-| Manuel Akanji | 91 | — | 42k coins | +10.4% | +80.9% | Esticada |
-| Pablo Barrios | 90 | — | 45k coins | +1.1% | +80.8% | Esticada |
-| Roy Makaay | 91 | — | 41k coins | +12.5% | +80% | Esticada |
-| Mahamadou Doumbia | 91 | — | 45k coins | +11.9% | +79% | Esticada |
-| Lewis Miley | 89 | Premier League | 58k coins | +5.5% | +78.5% | Esticada |
-| Olivia Holdt | 90 | — | 45k coins | +6.5% | +78.2% | Esticada |
-| Oliver Kahn | 91 | Icons | 78k coins | +21.5% | +75.6% | Esticada |
+| Marta | 90 | NWSL | 76k coins | +25.8% | +88% | Esticada |
+| Khadija Shaw | 91 | Barclays WSL | 150k coins | +29.3% | +87.5% | Esticada |
+| Issa Diop | 95 | — | 170k coins | +3% | +86.8% | Esticada |
+| Ryan Gravenberch | 93 | Premier League | 241k coins | +1.3% | +85.4% | Esticada |
+| Eberechi Eze | 87 | Premier League | 98k coins | +34.7% | +83.6% | Esticada |
+| Paul Onuachu | 88 | Trendyol Süper Lig | 54k coins | +26.1% | +83.5% | Esticada |
+| Reece James | 91 | — | 55k coins | +8.9% | +83.3% | Esticada |
+| Thomas Strakosha | 91 | — | 42k coins | +9.9% | +82.4% | Esticada |
+| Kelechi Iheanacho | 87 | Scottish Premiership | 58k coins | +18% | +81.5% | Esticada |
+| Henrik Larsson | 91 | — | 42k coins | +5.9% | +80.9% | Esticada |
+| Manuel Akanji | 91 | — | 40k coins | +10.4% | +80.9% | Esticada |
+| Louisa Necib | 90 | D1 Arkema | 46k coins | +2.2% | +79.8% | Esticada |
+| Pablo Barrios | 90 | — | 45k coins | +1.7% | +78% | Esticada |
+| Rasmus Højlund | 91 | — | 42k coins | +7.6% | +77.1% | Esticada |
+| Roy Keane | 86 | Icons | 113k coins | +5.5% | +76.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Rocío Gálvez (88)** — 32k coins, **+88.4% em 7 dias** (+32.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marta (90)** — 76k coins, **+88% em 7 dias** (+25.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Larissa Mühlhaus (87)** — 55k coins, **+86.6% em 7 dias** (+12.1% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khadija Shaw (91)** — 150k coins, **+87.5% em 7 dias** (+29.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lilly Reale (91)** — 38k coins, **+86% em 7 dias** (+10.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Issa Diop (95)** — 170k coins, **+86.8% em 7 dias** (+3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Henrik Larsson (91)** — 40k coins, **+83% em 7 dias** (+5.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (93)** — 241k coins, **+85.4% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tasos Douvikas (90)** — 48k coins, **+82.7% em 7 dias** (+11.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eberechi Eze (87)** — 98k coins, **+83.6% em 7 dias** (+34.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Rocío Gálvez (88, Liga F) lidera, com +88.4% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marta (90, NWSL) lidera, com +88% em 7 dias a 76k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
