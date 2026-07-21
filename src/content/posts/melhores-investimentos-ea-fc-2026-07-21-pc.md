@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:00:20.000Z
+pubDatetime: 2026-07-21T16:00:19.000Z
 title: "Investimentos EA FC em 21/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Cha Bum Kun (88, Icons) lidera, com +88.5% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dodi Lukébakio (94, sem liga) lidera, com +88.7% em 7 dias a 146k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Cha Bum Kun (88) acumula **+88.5% em 7 dias** a 230k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Dodi Lukébakio (94) acumula **+88.7% em 7 dias** a 146k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 21/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.4% em 24h** e **+81.2% em 7 dias**.
+- A mediana é de **+16.2% em 24h** e **+80.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Cha Bum Kun | 88 | Icons | 230k coins | +24.3% | +88.5% | Esticada |
-| Christopher Bonsu Baah | 90 | — | 60k coins | +12.4% | +86.9% | Esticada |
-| Michael Boxall | 91 | — | 37k coins | +30.8% | +86.9% | Esticada |
-| Nikola Vlašić | 91 | — | 38k coins | +9.8% | +83.7% | Esticada |
-| Patrik Mercado | 91 | — | 43k coins | +10% | +83.3% | Esticada |
-| Rasmus Højlund | 91 | — | 40k coins | +9.2% | +82.7% | Esticada |
-| Riley Tiernan | 91 | — | 50k coins | +25% | +81.8% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +10.6% | +81.2% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 65k coins | +20.4% | +80.6% | Esticada |
-| Adalberto Carrasquilla | 91 | — | 37k coins | +10.4% | +80.5% | Esticada |
-| Scott McTominay | 87 | Serie A TIM | 119k coins | +32.2% | +80.3% | Esticada |
-| Robin Risser | 90 | — | 53k coins | +21.8% | +79.7% | Esticada |
-| Freya Godfrey | 91 | — | 43k coins | +2.3% | +79% | Esticada |
-| Lauren Hemp | 90 | Barclays WSL | 55k coins | +12.2% | +78.9% | Esticada |
-| Roony Bardghji | 90 | LALIGA EA SPORTS | 54k coins | +14.7% | +77.2% | Esticada |
+| Dodi Lukébakio | 94 | — | 146k coins | +7.9% | +88.7% | Esticada |
+| Aitana Bonmatí | 91 | Liga F | 19.750 coins | +16.2% | +88.1% | Esticada |
+| Adalberto Carrasquilla | 91 | — | 39k coins | +21.9% | +88% | Esticada |
+| Marek Hamšík | 88 | Serie A TIM | 120k coins | +26.3% | +86% | Esticada |
+| Rasmus Højlund | 87 | Serie A TIM | 65k coins | +12.3% | +82.5% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 88k coins | +38.5% | +81.8% | Esticada |
+| Ahmed Fathi | 91 | — | 42k coins | +6.7% | +80.7% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 65k coins | +9.2% | +80.6% | Esticada |
+| Georgia Stanway | 88 | Liga F | 65k coins | +22.6% | +80.6% | Esticada |
+| Scott McTominay | 87 | Serie A TIM | 119k coins | +9.2% | +80.3% | Esticada |
+| Amar Dedić | 88 | — | 44k coins | +25.9% | +80% | Esticada |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 58k coins | +7.7% | +79.5% | Esticada |
+| Diego Milito | 88 | Serie A TIM | 19.500 coins | +20% | +77.3% | Esticada |
+| Capdevila | 86 | LALIGA EA SPORTS | 22k coins | +15% | +76.9% | Esticada |
+| Sherida Spitse | 85 | Nederland Vrouwen Liga | 80k coins | +35.6% | +76.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Cha Bum Kun (88)** — 230k coins, **+88.5% em 7 dias** (+24.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dodi Lukébakio (94)** — 146k coins, **+88.7% em 7 dias** (+7.9% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christopher Bonsu Baah (90)** — 60k coins, **+86.9% em 7 dias** (+12.4% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aitana Bonmatí (91)** — 19.750 coins, **+88.1% em 7 dias** (+16.2% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Boxall (91)** — 37k coins, **+86.9% em 7 dias** (+30.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adalberto Carrasquilla (91)** — 39k coins, **+88% em 7 dias** (+21.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nikola Vlašić (91)** — 38k coins, **+83.7% em 7 dias** (+9.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marek Hamšík (88)** — 120k coins, **+86% em 7 dias** (+26.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrik Mercado (91)** — 43k coins, **+83.3% em 7 dias** (+10% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rasmus Højlund (87)** — 65k coins, **+82.5% em 7 dias** (+12.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Cha Bum Kun (88, Icons) lidera, com +88.5% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dodi Lukébakio (94, sem liga) lidera, com +88.7% em 7 dias a 146k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
