@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Declan Rice</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jerdy Schouten</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Seiwald</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eli Junior Kroupi</text>
 <rect x="285" y="153" width="477" height="28" rx="7" fill="#22c55e"/>
-<text x="772" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Éder Militão</text>
-<rect x="285" y="211" width="477" height="28" rx="7" fill="#22c55e"/>
-<text x="772" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Martín Cauteruccio</text>
-<rect x="285" y="269" width="475" height="28" rx="7" fill="#22c55e"/>
-<text x="770" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wouter Burger</text>
-<rect x="285" y="327" width="475" height="28" rx="7" fill="#22c55e"/>
-<text x="770" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juninho Bacuna</text>
-<rect x="285" y="385" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.5%</text>
+<text x="772" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manolis Saliakas</text>
+<rect x="285" y="211" width="475" height="28" rx="7" fill="#22c55e"/>
+<text x="770" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ingrid Syrstad Engen</text>
+<rect x="285" y="269" width="474" height="28" rx="7" fill="#22c55e"/>
+<text x="769" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juan Román Riquelme</text>
+<rect x="285" y="327" width="474" height="28" rx="7" fill="#22c55e"/>
+<text x="769" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolas Seiwald</text>
+<rect x="285" y="385" width="472" height="28" rx="7" fill="#22c55e"/>
+<text x="767" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
 </svg>

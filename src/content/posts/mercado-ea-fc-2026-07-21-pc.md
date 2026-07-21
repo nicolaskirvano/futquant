@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:00:17.000Z
+pubDatetime: 2026-07-21T22:00:17.000Z
 title: "Mercado EA FC em 21/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Declan Rice (89, Premier League), com +59.4% em 24h, a 106k coins no PC."
+    a: "Jerdy Schouten (94, sem liga), com +60% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Senne Lammens (88), -49.7% em 24h, a 52k coins."
+    a: "Marcel Desailly (93), -50% em 24h, a 99k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 828 cartas em alta contra 949 em queda (média 1.5%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 745 cartas em alta contra 1023 em queda (média 0.19%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **21/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **828 valorizações** contra **949 quedas** entre as cartas relevantes, com média de **1.5%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **21/07/2026** no PC: dia **indefinido** — sem tendência dominante. **745 valorizações** contra **1023 quedas** entre as cartas relevantes, com média de **0.19%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Declan Rice (89) **+59.4%** · 🔴 **Maior baixa:** Senne Lammens (88) **-49.7%**
+> 🟢 **Maior alta:** Jerdy Schouten (94) **+60%** · 🔴 **Maior baixa:** Marcel Desailly (93) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **21/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.6% entre as cartas que se moveram; o universo observado reúne 2213 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.1% entre as cartas que se moveram; o universo observado reúne 2218 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 89 | Premier League | 106k coins | +59.4% | +13.4% |
-| Nicolas Seiwald | 85 | Bundesliga | 33k coins | +59% | +5.6% |
-| Éder Militão | 86 | LALIGA EA SPORTS | 76k coins | +59% | -38.8% |
-| Martín Cauteruccio | 87 | Libertadores | 27k coins | +58.8% | -34.1% |
-| Wouter Burger | 90 | — | 58k coins | +58.8% | +141.9% |
-| Juninho Bacuna | 83 | EFL League One | 64k coins | +58.5% | +32.7% |
-| Exequiel Zeballos | 83 | LPF | 109k coins | +58.4% | +5.3% |
-| Manolis Saliakas | 84 | Bundesliga | 55k coins | +58.3% | +38.4% |
-| Igor Jesus | 87 | Premier League | 42k coins | +58.1% | +107.5% |
+| Jerdy Schouten | 94 | — | 40k coins | +60% | +46.8% |
+| Eli Junior Kroupi | 89 | Premier League | 46k coins | +59.6% | +16.7% |
+| Manolis Saliakas | 84 | Bundesliga | 55k coins | +59.4% | +38.4% |
+| Ingrid Syrstad Engen | 93 | — | 33k coins | +59.3% | +30.6% |
+| Juan Román Riquelme | 88 | Icons | 146k coins | +59.2% | +101.3% |
+| Nicolas Seiwald | 85 | Bundesliga | 32k coins | +59% | -7% |
+| Jens Petter Hauge | 88 | Eliteserien | 116k coins | +57.8% | +16% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 4.10M coins | +57.7% | 0% |
+| Juninho Bacuna | 83 | EFL League One | 64k coins | +57.3% | +33.7% |
+| Federico Dimarco | 87 | Serie A TIM | 50k coins | +56.7% | -11.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **21/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Declan Rice (89)** subiu **+59.4%** em 24h, a **106k coins** (faixa do dia: 65k–140k). Está +24% acima da média de 7 dias (aquecida).
+- **Jerdy Schouten (94)** subiu **+60%** em 24h, a **40k coins** (faixa do dia: 22k–42k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Nicolas Seiwald (85)** subiu **+59%** em 24h, a **33k coins** (faixa do dia: 21k–37k). Está +27% acima da média de 7 dias (aquecida).
+- **Eli Junior Kroupi (89)** subiu **+59.6%** em 24h, a **46k coins** (faixa do dia: 28k–70k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Éder Militão (86)** subiu **+59%** em 24h, a **76k coins** (faixa do dia: 50k–98k). Está -40% abaixo da média de 7 dias (descontada).
+- **Manolis Saliakas (84)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 40k–55k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Senne Lammens | 88 | Premier League | 52k coins | -49.7% | -33% |
-| Iván Córdoba | 88 | Serie A TIM | 37k coins | -49.3% | -55.3% |
-| Cristian Roldan | 94 | — | 22k coins | -48.8% | -20% |
-| Steven Gerrard | 88 | Icons | 88k coins | -48.6% | -35.5% |
-| Christiane Endler | 94 | D1 Arkema | 92k coins | -48.3% | -26.6% |
-| Zé Roberto | 87 | Bundesliga | 35k coins | -47.8% | -41.7% |
+| Marcel Desailly | 93 | — | 99k coins | -50% | -27.8% |
+| Irene Paredes | 88 | Liga F | 28k coins | -48.6% | -40.1% |
 | Mikel Gogorza | 86 | 3F Superliga | 44k coins | -47.3% | -49.7% |
-| Caroline Seger | 91 | Icons | 43k coins | -47% | -40.5% |
-| Lauren Hemp | 90 | Barclays WSL | 55k coins | -46.4% | -18.6% |
-| Sam Surridge | 91 | — | 26k coins | -45.3% | +14.3% |
+| Sydney Leroux | 88 | NWSL | 25k coins | -47.1% | -47.1% |
+| Steven Gerrard | 88 | Icons | 78k coins | -47% | -46.3% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 48k coins | -46.7% | -69.6% |
+| Momoko Tanikawa | 91 | — | 34k coins | -46.2% | +2.1% |
+| Patrick Berg | 95 | — | 35k coins | -45.7% | -50% |
+| Roony Bardghji | 83 | LALIGA EA SPORTS | 46k coins | -45% | -45% |
+| Igor Thiago | 89 | Premier League | 48k coins | -44.5% | -8.6% |
 
 
 ### Análise das baixas
 
-- **Senne Lammens (88)** caiu **-49.7%** em 24h, a **52k coins** (faixa do dia: 42k–90k). Está -15% abaixo da média de 7 dias (descontada).
+- **Marcel Desailly (93)** caiu **-50%** em 24h, a **99k coins** (faixa do dia: 65k–130k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Iván Córdoba (88)** caiu **-49.3%** em 24h, a **37k coins** (faixa do dia: 37k–120k). Está -51% abaixo da média de 7 dias (descontada).
+- **Irene Paredes (88)** caiu **-48.6%** em 24h, a **28k coins** (faixa do dia: 28k–54k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Cristian Roldan (94)** caiu **-48.8%** em 24h, a **22k coins** (faixa do dia: 19.750–41k). Está -26% abaixo da média de 7 dias (descontada).
+- **Mikel Gogorza (86)** caiu **-47.3%** em 24h, a **44k coins** (faixa do dia: 44k–84k). Está -49% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Declan Rice já avançou 59.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jerdy Schouten já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Senne Lammens recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marcel Desailly recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Declan Rice (89, Premier League), com +59.4% em 24h, a 106k coins no PC.
+Jerdy Schouten (94, sem liga), com +60% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**
-Senne Lammens (88), -49.7% em 24h, a 52k coins.
+Marcel Desailly (93), -50% em 24h, a 99k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 828 cartas em alta contra 949 em queda (média 1.5%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 745 cartas em alta contra 1023 em queda (média 0.19%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
