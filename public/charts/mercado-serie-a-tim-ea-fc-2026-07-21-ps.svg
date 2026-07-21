@@ -5,8 +5,8 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafael Leão</text>
-<rect x="285" y="95" width="232" height="28" rx="7" fill="#f87171"/>
-<text x="527" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-24.9%</text>
+<rect x="285" y="95" width="237" height="28" rx="7" fill="#f87171"/>
+<text x="532" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-25.4%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephan El Shaarawy</text>
 <rect x="285" y="153" width="97" height="28" rx="7" fill="#f87171"/>
 <text x="392" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-10.4%</text>

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:45:28.000Z
+pubDatetime: 2026-07-21T10:00:23.000Z
 title: "Mercado Serie A TIM no EA FC em 21/07 — PS"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Serie A TIM no EA FC hoje?"
     a: "Rafael Leão (93), a 773k coins no Console (PS) em 21/07/2026."
   - q: "Quem mais valorizou na Serie A TIM esta semana no EA FC?"
-    a: "Gervinho (87), +88.6% em 7 dias, a 130k coins."
+    a: "Gervinho (87), +88.6% em 7 dias, a 142k coins."
   - q: "Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -32,15 +32,15 @@ A **Serie A TIM** é uma das ligas mais usadas no **EA FC Ultimate Team** — e 
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Rafael Leão | 93 | ST | 773k coins | -24.9% |
+| Rafael Leão | 93 | ST | 773k coins | -25.4% |
 | Stephan El Shaarawy | 88 | CAM | 560k coins | -10.4% |
-| Antonio Di Natale | 92 | ST | 557k coins | +9% |
+| Antonio Di Natale | 92 | ST | 521k coins | +9% |
 | Maicon | 89 | RB | 317k coins | +51.5% |
 | Rafael Leão | 87 | LW | 295k coins | -14.1% |
 | Bremer | 88 | CB | 280k coins | 0% |
 | Claudio Marchisio | 88 | CDM | 264k coins | -11.4% |
 | Paulo Dybala | 91 | CAM | 239k coins | -0.8% |
-| Scott McTominay | 91 | CM | 231k coins | +14.6% |
+| Scott McTominay | 91 | CM | 231k coins | +0.7% |
 | Daniele De Rossi | 89 | CDM | 205k coins | -3.4% |
 
 
@@ -50,16 +50,16 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Gervinho | 87 | LW | 130k coins | +88.6% |
-| Wesley | 88 | RB | 85k coins | +76.7% |
+| Gervinho | 87 | LW | 142k coins | +88.6% |
 | Pierre Kalulu | 91 | CB | 79k coins | +74.5% |
-| Rasmus Højlund | 87 | ST | 44k coins | +63.6% |
+| Wesley | 88 | RB | 85k coins | +73.3% |
+| Denzel Dumfries | 89 | RB | 74k coins | +71.1% |
 | Weston McKennie | 92 | CM | 58k coins | +63.6% |
 | Idrissa Touré | 83 | RB | 74k coins | +62.6% |
+| Rasmus Højlund | 87 | ST | 44k coins | +61.8% |
 | Morata | 87 | ST | 68k coins | +58.8% |
-| Charles De Ketelaere | 88 | CAM | 115k coins | +52.9% |
+| Charles De Ketelaere | 88 | CAM | 114k coins | +52.9% |
 | Paulo Dybala | 88 | ST | 164k coins | +48.6% |
-| Francisco Conceição | 89 | RM | 74k coins | +47.8% |
 
 
 ## 📈 Análise da Serie A TIM
@@ -78,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 Rafael Leão (93), a 773k coins no Console (PS) em 21/07/2026.
 
 **Quem mais valorizou na Serie A TIM esta semana no EA FC?**  
-Gervinho (87), +88.6% em 7 dias, a 130k coins.
+Gervinho (87), +88.6% em 7 dias, a 142k coins.
 
 **Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:45:16.000Z
+pubDatetime: 2026-07-21T10:00:11.000Z
 title: "Jogadores baratos EA FC em 21/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.333 coins.
+- **Preço médio das 15 opções:** 13.317 coins.
 - **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 12.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 12.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,20 +40,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 12.500 coins | +2% |
+| Lisandro Martínez | 95 | CB | — | 12.500 coins | 0% |
 | Gregor Kobel | 95 | GK | — | 13.250 coins | +6.1% |
 | Johan Manzambi | 95 | CAM | — | 13.250 coins | +10.6% |
 | Stephen Eustáquio | 95 | CM | — | 13.250 coins | +10.4% |
-| Zion Suzuki | 95 | GK | — | 14.250 coins | +7.1% |
 | Kerim Alajbegović | 95 | LM | — | 14.500 coins | +11.3% |
+| Malik Tillman | 95 | CAM | — | 14.500 coins | +11.1% |
 | Nilson Angulo | 95 | LM | — | 14.750 coins | +5.6% |
-| Guéla Doué | 94 | RB | — | 12.500 coins | +10.4% |
+| Roberto Alvarado | 94 | RW | — | 12.250 coins | +6.5% |
 | Gustavo Puerta | 94 | CM | — | 12.500 coins | +6.5% |
-| Roberto Alvarado | 94 | RW | — | 12.500 coins | +8.7% |
+| Guéla Doué | 94 | RB | — | 12.500 coins | +5.7% |
+| Diney | 94 | CB | — | 12.500 coins | +6.4% |
 | Elijah Just | 94 | LW | — | 12.750 coins | +8.7% |
-| Diney | 94 | CB | — | 12.750 coins | +6.4% |
-| Caleb Yirenkyi | 94 | CM | — | 13.750 coins | +5.8% |
 | Ben Doak | 94 | RM | — | 13.750 coins | +7.7% |
+| Caleb Yirenkyi | 94 | CM | — | 13.750 coins | +3.8% |
 | Paul Wanner | 94 | CM | — | 13.750 coins | +7.7% |
 
 
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Stephen Eustáquio (95, CM)** da —, a apenas **13.250 coins**
 
-- **Zion Suzuki (95, GK)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Kerim Alajbegović (95, LM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Johan Manzambi (95, CAM) por 13.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Roberto Alvarado (94, RW) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Roberto Alvarado (94, RW) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:45:24.000Z
+pubDatetime: 2026-07-21T10:00:19.000Z
 title: "Investimentos EA FC em 21/07: radar de alta — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.3% em 24h** e **+84.1% em 7 dias**.
+- A mediana é de **+9.3% em 24h** e **+83.5% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -49,15 +49,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Christopher Bonsu Baah | 90 | — | 50k coins | +12.4% | +85.2% | Esticada |
 | Freya Godfrey | 91 | — | 46k coins | +4.6% | +84.8% | Esticada |
 | Maghnes Akliouche | 91 | — | 42k coins | +6.9% | +84.8% | Esticada |
-| Aoba Fujino | 91 | — | 44k coins | +9.4% | +84.2% | Esticada |
-| Diego Milito | 88 | Serie A TIM | 20k coins | +24.6% | +84.1% | Esticada |
+| Diego Milito | 88 | Serie A TIM | 25k coins | +24.6% | +84.1% | Esticada |
 | Roony Bardghji | 90 | LALIGA EA SPORTS | 55k coins | +16.8% | +83.5% | Esticada |
+| Aoba Fujino | 91 | — | 40k coins | +8.8% | +83.2% | Esticada |
 | Oliver Baumann | 91 | — | 46k coins | +3.9% | +81.6% | Esticada |
-| Olivia Holdt | 90 | — | 43k coins | +5.5% | +80.2% | Esticada |
+| Olivia Holdt | 90 | — | 38k coins | +5.5% | +80.2% | Esticada |
 | Lilly Reale | 91 | — | 40k coins | +4.5% | +78.9% | Esticada |
 | Mahamadou Doumbia | 91 | — | 65k coins | +18.4% | +78.2% | Esticada |
-| Luis Milla | 90 | — | 35k coins | +3.9% | +78.1% | Esticada |
-| Camille Abily | 91 | Icons | 75k coins | +27.5% | +76.9% | Esticada |
+| Camille Abily | 91 | Icons | 75k coins | +27.5% | +77.9% | Esticada |
+| Gianluca Vialli | 91 | — | 44k coins | +9.4% | +76.8% | Esticada |
 
 
 ## 📈 Análise dos destaques

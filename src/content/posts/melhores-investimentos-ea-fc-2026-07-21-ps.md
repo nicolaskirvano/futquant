@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:45:15.000Z
+pubDatetime: 2026-07-21T10:00:10.000Z
 title: "Investimentos EA FC em 21/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.5% em 24h** e **+82.6% em 7 dias**.
+- A mediana é de **+15.8% em 24h** e **+83.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Marcos Llorente | 86 | LALIGA EA SPORTS | 94k coins | +24.5% | +89.9% | Esticada |
 | Tarciane | 88 | D1 Arkema | 44k coins | +38% | +89.4% | Esticada |
+| Fermín | 91 | — | 35k coins | +5.4% | +88% | Esticada |
+| Ewa Pajor | 89 | Liga F | 230k coins | +18.7% | +86.5% | Esticada |
 | Vangelis Pavlidis | 90 | Liga Portugal | 55k coins | +10% | +86.4% | Esticada |
 | Matheus Cunha | 87 | Premier League | 132k coins | +15.8% | +85.3% | Esticada |
 | Selina Cerci | 87 | GPFBL | 36k coins | +22.5% | +83.8% | Esticada |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 60k coins | +12.8% | +83.6% | Esticada |
 | Agnes Beever-Jones | 90 | Barclays WSL | 70k coins | +9.2% | +83.3% | Esticada |
 | Tendayi Darikwa | 84 | EFL League One | 70k coins | +13.9% | +82.9% | Esticada |
 | Joelinton | 87 | Premier League | 118k coins | +38.8% | +82.6% | Esticada |
-| Ewa Pajor | 89 | Liga F | 235k coins | +18.7% | +82.2% | Esticada |
 | Joaquín Panichelli | 91 | — | 43k coins | +33.3% | +81.8% | Esticada |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 28k coins | +33.3% | +81.8% | Esticada |
 | Roy Makaay | 91 | — | 45k coins | +6.1% | +78.4% | Esticada |
 | Camille Abily | 91 | Icons | 62k coins | +38.9% | +77.3% | Esticada |
 | Homare Sawa | 91 | Icons | 146k coins | +7.3% | +77.1% | Esticada |
-| Wesley | 88 | Serie A TIM | 85k coins | +23.3% | +76.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Tarciane (88)** — 44k coins, **+89.4% em 7 dias** (+38% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Fermín (91)** — 35k coins, **+88% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Ewa Pajor (89)** — 230k coins, **+86.5% em 7 dias** (+18.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Vangelis Pavlidis (90)** — 55k coins, **+86.4% em 7 dias** (+10% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Matheus Cunha (87)** — 132k coins, **+85.3% em 7 dias** (+15.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Selina Cerci (87)** — 36k coins, **+83.8% em 7 dias** (+22.5% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

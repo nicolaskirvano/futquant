@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T09:45:25.000Z
+pubDatetime: 2026-07-21T10:00:21.000Z
 title: "Jogadores baratos EA FC em 21/07: abaixo de 15k — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.917 coins.
+- **Preço médio das 15 opções:** 11.963 coins.
 - **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 3.200 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Johan Manzambi | 95 | CAM | — | 13.000 coins | +7.7% |
 | Stephen Eustáquio | 95 | CM | — | 13.500 coins | +8% |
 | Lisandro Martínez | 95 | CB | — | 13.750 coins | +7.8% |
-| Gregor Kobel | 95 | GK | — | 14.000 coins | +14.3% |
+| Gregor Kobel | 95 | GK | — | 14.000 coins | +9.8% |
 | Noussair Mazraoui | 95 | LB | — | 14.500 coins | +9.4% |
 | Gustavo Puerta | 94 | CM | — | 13.000 coins | +6.1% |
 | Elijah Just | 94 | LW | — | 13.250 coins | +8.3% |
-| Roberto Alvarado | 94 | RW | — | 13.250 coins | +8.2% |
-| Diney | 94 | CB | — | 13.500 coins | +12.5% |
+| Roberto Alvarado | 94 | RW | — | 13.500 coins | +8.2% |
+| Diney | 94 | CB | — | 13.750 coins | +10.2% |
 | Ben Doak | 94 | RM | — | 14.750 coins | +5.3% |
 | Kojo Peprah Oppong | 93 | CB | — | 14.750 coins | +7.1% |
 | Alexia Putellas | 91 | CM | Liga F | 14.000 coins | +30.6% |
 | Virgil van Dijk | 90 | CB | Premier League | 7.000 coins | +33.3% |
-| Khadija Shaw | 89 | ST | Barclays WSL | 3.200 coins | +38.5% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.300 coins | +32.1% |
+| Alisson | 89 | GK | Premier League | 3.300 coins | +26.7% |
+| Alessia Russo | 89 | ST | Barclays WSL | 3.400 coins | +54.2% |
 
 
 ## 📈 Destaques
