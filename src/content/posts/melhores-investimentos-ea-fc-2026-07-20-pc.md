@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:00:19.000Z
+pubDatetime: 2026-07-21T01:00:19.000Z
 title: "Investimentos EA FC em 20/07: radar de alta — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.2% em 24h** e **+83.7% em 7 dias**.
+- A mediana é de **+10.2% em 24h** e **+87.1% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Steven Gerrard | 89 | Icons | 190k coins | +35.7% | +90% | Esticada |
-| Alexandre Lacazette | 89 | Brasileirão | 38k coins | +13.6% | +89.9% | Esticada |
-| Riley Tiernan | 91 | — | 54k coins | +30% | +89.1% | Esticada |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 62k coins | +1.6% | +88.3% | Esticada |
-| Lauren Hemp | 90 | Barclays WSL | 55k coins | +26.4% | +88% | Esticada |
-| Sammy Braybrooke | 91 | — | 40k coins | +11% | +87% | Esticada |
-| Sonia Bompastor | 86 | D1 Arkema | 19.750 coins | +1.3% | +83.7% | Esticada |
-| Henrik Larsson | 91 | — | 50k coins | +11.8% | +83.7% | Esticada |
-| Nikola Vlašić | 91 | — | 45k coins | +12.5% | +83.7% | Esticada |
-| Manuel Akanji | 91 | — | 43k coins | +1.2% | +83% | Esticada |
-| Patrik Mercado | 91 | — | 40k coins | +13.2% | +83% | Esticada |
-| Alexander Sørloth | 92 | — | 90k coins | +15.3% | +81.7% | Esticada |
-| Bruno Fernandes | 89 | Premier League | 110k coins | +30.2% | +80.3% | Esticada |
-| Johanna Kaneryd | 89 | — | 26k coins | +30.9% | +79.7% | Esticada |
-| Igor Thiago | 89 | Premier League | 86k coins | +5.8% | +75.7% | Esticada |
+| Nwankwo Kanu | 87 | Premier League | 44k coins | +2.9% | +89.5% | Esticada |
+| Dennis Bergkamp | 91 | Icons | 117k coins | +21% | +89.1% | Esticada |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 59k coins | +10.2% | +88.9% | Esticada |
+| Lauren Hemp | 90 | Barclays WSL | 55k coins | +37.5% | +88% | Esticada |
+| Ronald Koeman Jr. | 91 | — | 44k coins | +5.7% | +87.9% | Esticada |
+| Mohammed Noor | 90 | — | 40k coins | +10% | +87.2% | Esticada |
+| Caroline Seger | 90 | Icons | 65k coins | +30.7% | +87.1% | Esticada |
+| Gilberto Silva | 87 | Premier League | 32k coins | +3.2% | +85.7% | Esticada |
+| Claudio Pizarro | 86 | Bundesliga | 22k coins | +4.7% | +85.4% | Esticada |
+| Maicon | 88 | Serie A TIM | 110k coins | +10.6% | +84.9% | Esticada |
+| Nikola Vlašić | 91 | — | 55k coins | +7.7% | +84.7% | Esticada |
+| Włodzimierz Smolarek | 86 | Bundesliga | 31k coins | +38.7% | +84.3% | Esticada |
+| Steffi Jones | 91 | Icons | 80k coins | +31.1% | +83.9% | Esticada |
+| Ona Batlle | 90 | Liga F | 50k coins | +5.3% | +83.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexandre Lacazette (89)** — 38k coins, **+89.9% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nwankwo Kanu (87)** — 44k coins, **+89.5% em 7 dias** (+2.9% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Riley Tiernan (91)** — 54k coins, **+89.1% em 7 dias** (+30% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (91)** — 117k coins, **+89.1% em 7 dias** (+21% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovani Lo Celso (91)** — 62k coins, **+88.3% em 7 dias** (+1.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovani Lo Celso (91)** — 59k coins, **+88.9% em 7 dias** (+10.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lauren Hemp (90)** — 55k coins, **+88% em 7 dias** (+26.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 55k coins, **+88% em 7 dias** (+37.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
