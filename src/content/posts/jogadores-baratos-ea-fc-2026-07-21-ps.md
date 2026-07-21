@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:00:11.000Z
+pubDatetime: 2026-07-21T19:00:11.000Z
 title: "Jogadores baratos EA FC em 21/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.850 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 13.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 13.250 coins.
+- **Posição mais frequente:** CB, com 7 cartas.
+- **Faixa real:** 7.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,42 +41,42 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Gregor Kobel | 95 | GK | — | 13.500 coins | +3.8% |
-| Lisandro Martínez | 95 | CB | — | 13.500 coins | +3.8% |
-| Stephen Eustáquio | 95 | CM | — | 13.750 coins | +3.9% |
-| Johan Manzambi | 95 | CAM | — | 13.750 coins | +3.8% |
-| Kerim Alajbegović | 95 | LM | — | 14.500 coins | +3.6% |
-| Gilberto Mora | 95 | CAM | — | 14.750 coins | +7.3% |
-| Diney | 94 | CB | — | 13.000 coins | +4% |
-| Roberto Alvarado | 94 | RW | — | 13.000 coins | +4% |
-| Elijah Just | 94 | LW | — | 13.250 coins | +6% |
-| Gustavo Puerta | 94 | CM | — | 13.500 coins | +6% |
-| Aleksandar Pavlović | 94 | CDM | — | 14.000 coins | +7.5% |
-| Paul Wanner | 94 | CM | — | 14.000 coins | +7.5% |
-| El Hadji Malick Diouf | 94 | LB | — | 14.250 coins | +9.4% |
-| Caleb Yirenkyi | 94 | CM | — | 14.500 coins | +9.6% |
-| Renato Veiga | 94 | CB | — | 14.500 coins | +9.4% |
+| Johan Manzambi | 95 | CAM | — | 13.750 coins | +5.8% |
+| Noussair Mazraoui | 95 | LB | — | 14.000 coins | -5.1% |
+| Stephen Eustáquio | 95 | CM | — | 14.000 coins | +3.8% |
+| Lisandro Martínez | 95 | CB | — | 14.250 coins | +1.9% |
+| Diney | 94 | CB | — | 11.750 coins | +10% |
+| Elijah Just | 94 | LW | — | 13.500 coins | +4% |
+| Bixente Lizarazu | 93 | LB | — | 14.500 coins | +9% |
+| Vincent Kompany | 92 | CB | — | 13.000 coins | +6.1% |
+| Virgil van Dijk | 90 | CB | Premier League | 7.000 coins | +23.2% |
+| Sonia Bompastor | 89 | LB | — | 14.250 coins | +18.5% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.250 coins | +5.6% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.750 coins | +9.3% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13.000 coins | -9.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 13.250 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Gregor Kobel (95, GK)** da —, a apenas **13.500 coins**
 
-- **Lisandro Martínez (95, CB)** da —, a apenas **13.500 coins**
-
-- **Stephen Eustáquio (95, CM)** da —, a apenas **13.750 coins**
-
 - **Johan Manzambi (95, CAM)** da —, a apenas **13.750 coins**
 
-- **Kerim Alajbegović (95, LM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Noussair Mazraoui (95, LB)** da —, a apenas **14.000 coins**
+
+- **Stephen Eustáquio (95, CM)** da —, a apenas **14.000 coins**
+
+- **Lisandro Martínez (95, CB)** da —, a apenas **14.250 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Gregor Kobel (95, GK) por 13.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Stephen Eustáquio (95, CM) por 13.750 coins é a referência de rating deste recorte.
+- **Meio:** Johan Manzambi (95, CAM) por 13.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Roberto Alvarado (94, RW) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Elijah Just (94, LW) por 13.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
