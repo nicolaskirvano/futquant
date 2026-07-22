@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:00:21.000Z
+pubDatetime: 2026-07-22T13:00:19.000Z
 title: "Investimentos EA FC em 22/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Melle Meulensteen (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Victor Osimhen (88, Trendyol Süper Lig) lidera, com +89.3% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Melle Meulensteen (91) acumula **+89.7% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Victor Osimhen (88) acumula **+89.3% em 7 dias** a 160k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 22/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+87.5% em 7 dias**.
+- A mediana é de **+21.2% em 24h** e **+80.7% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Trendyol Süper Lig** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Melle Meulensteen | 91 | — | 55k coins | +14.6% | +89.7% | Esticada |
-| Louisa Necib | 90 | D1 Arkema | 55k coins | +10% | +89.7% | Esticada |
-| Denzel Dumfries | 86 | Serie A TIM | 77k coins | +35.3% | +89% | Esticada |
-| Darwin Núñez | 90 | ROSHN Saudi League | 160k coins | +9.7% | +88.9% | Esticada |
-| Ahmed Fathi | 91 | — | 50k coins | +12.2% | +88.8% | Esticada |
-| Nene Dorgeles | 91 | — | 49k coins | +20.5% | +88.7% | Esticada |
-| Victor Osimhen | 88 | Trendyol Süper Lig | 159k coins | +20.5% | +88.2% | Esticada |
-| Dodi Lukébakio | 94 | — | 150k coins | +5.6% | +87.5% | Esticada |
+| Victor Osimhen | 88 | Trendyol Süper Lig | 160k coins | +21.2% | +89.3% | Esticada |
+| Darwin Núñez | 90 | ROSHN Saudi League | 170k coins | +2.4% | +88.9% | Esticada |
 | Nwankwo Kanu | 87 | Premier League | 50k coins | +11.1% | +86.9% | Esticada |
+| Yui Hasegawa | 87 | Barclays WSL | 70k coins | +1.4% | +86.7% | Esticada |
 | Lilly Reale | 91 | — | 55k coins | +37.5% | +86.4% | Esticada |
-| Gianluca Vialli | 91 | — | 46k coins | +14.3% | +85.2% | Esticada |
-| Lucie Calba | 91 | — | 50k coins | +12.4% | +85.2% | Esticada |
-| Daniela Agote | 91 | — | 50k coins | +38.9% | +83.5% | Esticada |
-| Iván Córdoba | 87 | Serie A TIM | 32k coins | +35.4% | +83.1% | Esticada |
-| Trinity Rodman | 85 | NWSL | 23k coins | +2.2% | +80.4% | Esticada |
+| Michael Boxall | 91 | — | 48k coins | +28.4% | +82.7% | Esticada |
+| Sammy Braybrooke | 91 | — | 48k coins | +15.2% | +81% | Esticada |
+| Daniela Agote | 91 | — | 45k coins | +35.9% | +80.7% | Esticada |
+| Nathan Zézé | 91 | — | 50k coins | +10.4% | +79.7% | Esticada |
+| Maghnes Akliouche | 91 | — | 41k coins | +25.8% | +78.6% | Esticada |
+| Lucie Calba | 91 | — | 48k coins | +13% | +76.9% | Esticada |
+| Dara O'Shea | 91 | — | 38k coins | +33.6% | +76.4% | Esticada |
+| Said El Mala | 90 | — | 60k coins | +14.9% | +73.3% | Esticada |
+| Anaële Le Moguédec | 88 | D1 Arkema | 27k coins | +38.3% | +73.3% | Esticada |
+| Aoba Fujino | 91 | — | 49k coins | +30.7% | +71.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Melle Meulensteen (91)** — 55k coins, **+89.7% em 7 dias** (+14.6% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Victor Osimhen (88)** — 160k coins, **+89.3% em 7 dias** (+21.2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Louisa Necib (90)** — 55k coins, **+89.7% em 7 dias** (+10% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Darwin Núñez (90)** — 170k coins, **+88.9% em 7 dias** (+2.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denzel Dumfries (86)** — 77k coins, **+89% em 7 dias** (+35.3% em 24h). Preço +83% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nwankwo Kanu (87)** — 50k coins, **+86.9% em 7 dias** (+11.1% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Darwin Núñez (90)** — 160k coins, **+88.9% em 7 dias** (+9.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 70k coins, **+86.7% em 7 dias** (+1.4% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ahmed Fathi (91)** — 50k coins, **+88.8% em 7 dias** (+12.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lilly Reale (91)** — 55k coins, **+86.4% em 7 dias** (+37.5% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Melle Meulensteen (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Victor Osimhen (88, Trendyol Süper Lig) lidera, com +89.3% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

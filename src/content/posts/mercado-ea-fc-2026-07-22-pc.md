@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:00:19.000Z
+pubDatetime: 2026-07-22T13:00:18.000Z
 title: "Mercado EA FC em 22/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Emilio Butragueño (90, sem liga), com +59.8% em 24h, a 86k coins no PC."
+    a: "Kieffer Moore (88, EFL Championship), com +60% em 24h, a 70k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Enzo Fernández (91), -50% em 24h, a 60k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 802 cartas em alta contra 1067 em queda (média 1.29%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 761 cartas em alta contra 1130 em queda (média -0.03%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **802 subiram**, **1067 caíram** (80+ e 5k+ coins), média de **1.29%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **761 subiram**, **1130 caíram** (80+ e 5k+ coins), média de **-0.03%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Emilio Butragueño (90) **+59.8%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-50%**
+> 🟢 **Maior alta:** Kieffer Moore (88) **+60%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 2300 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.2% entre as cartas que se moveram; o universo observado reúne 2312 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emilio Butragueño | 90 | — | 86k coins | +59.8% | -3.9% |
-| Jay-Jay Okocha | 88 | Premier League | 48k coins | +59.4% | +2.4% |
-| Mohamed Simakan | 93 | — | 47k coins | +59.2% | +36.4% |
-| Bobby Moore | 93 | — | 38k coins | +58.9% | +24.4% |
-| Bixente Lizarazu | 90 | — | 65k coins | +58.5% | +85.7% |
+| Kieffer Moore | 88 | EFL Championship | 70k coins | +60% | +40% |
+| Karim Adeyemi | 85 | Bundesliga | 80k coins | +60% | 0% |
+| Aarón | 85 | LALIGA EA SPORTS | 36k coins | +60% | -57.4% |
+| Ryan Gravenberch | 87 | Premier League | 106k coins | +59.4% | +9.8% |
 | Tom Ince | 84 | EFL Championship | 55k coins | +58.3% | 0% |
-| Juan Iturbe | 85 | Libertadores | 28k coins | +58.1% | +2.6% |
-| Emmanuel Maviram | 84 | Liga Portugal | 50k coins | +57.9% | 0% |
-| Ramy Bensebaini | 87 | — | 55k coins | +57.2% | +15.7% |
+| Miguel Ángel Merentiel | 88 | LPF | 99k coins | +56.7% | +17.1% |
 | Khalid Al Ghannam | 80 | Brasileirão | 47k coins | +56.7% | -1.1% |
+| Zlatan Ibrahimović | 95 | Icons | 7.78M coins | +56.4% | +16.5% |
+| Marcus Thuram | 87 | — | 54k coins | +55.7% | +50.3% |
+| Pavel Nedvěd | 88 | Icons | 195k coins | +54.5% | +45.3% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Emilio Butragueño (90)** subiu **+59.8%** em 24h, a **86k coins** (faixa do dia: 40k–120k). Está em linha com a média de 7 dias (+5%).
+- **Kieffer Moore (88)** subiu **+60%** em 24h, a **70k coins** (faixa do dia: 30k–70k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Jay-Jay Okocha (88)** subiu **+59.4%** em 24h, a **48k coins** (faixa do dia: 25k–50k). Está +27% acima da média de 7 dias (aquecida).
+- **Karim Adeyemi (85)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 30k–80k). Está em linha com a média de 7 dias (+7%).
 
-- **Mohamed Simakan (93)** subiu **+59.2%** em 24h, a **47k coins** (faixa do dia: 22k–49k). Está +31% acima da média de 7 dias (aquecida).
+- **Aarón (85)** subiu **+60%** em 24h, a **36k coins** (faixa do dia: 14.250–38k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Fernández | 91 | Premier League | 60k coins | -50% | -44.4% |
-| Laurent Blanc | 88 | Icons | 125k coins | -50% | -36.5% |
-| Salma Paralluelo | 96 | — | 1.90M coins | -50% | -53.6% |
-| Patrick Dorgu | 84 | Premier League | 70k coins | -49.3% | -28.6% |
-| Mikel Merino | 95 | — | 58k coins | -48.9% | -53% |
-| Luis Díaz | 87 | Bundesliga | 42k coins | -47.5% | -52.8% |
-| Malang Sarr | 96 | — | 77k coins | -47.3% | -40.8% |
-| Stephen Eustáquio | 95 | — | 41k coins | -46.8% | -57.8% |
-| Geoff Hurst | 90 | Icons | 45k coins | -46.4% | -18.2% |
-| Paolo Maldini | 97 | — | 1.40M coins | -46.3% | -63.1% |
+| Enzo Fernández | 91 | Premier League | 60k coins | -50% | -44.9% |
+| Xavi Simons | 88 | Premier League | 30k coins | -49.6% | -47.8% |
+| Dan-Axel Zagadou | 85 | Bundesliga | 22k coins | -48% | -8.2% |
+| Fermín | 83 | LALIGA EA SPORTS | 38k coins | -47.6% | -39.6% |
+| Paolo Maldini | 95 | — | 959k coins | -46.7% | -36% |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 30k coins | -46.7% | -29.7% |
+| Denzel Dumfries | 89 | Serie A TIM | 70k coins | -46.7% | -34.4% |
+| Alex Morgan | 91 | Icons | 1.01M coins | -46.6% | -27.5% |
+| Patrick Dorgu | 84 | Premier League | 70k coins | -45.7% | -29.3% |
+| Florian Wirtz | 89 | Premier League | 218k coins | -45.5% | -29.9% |
 
 
 ### Análise das baixas
 
-- **Enzo Fernández (91)** caiu **-50%** em 24h, a **60k coins** (faixa do dia: 43k–120k). Está -38% abaixo da média de 7 dias (descontada).
+- **Enzo Fernández (91)** caiu **-50%** em 24h, a **60k coins** (faixa do dia: 43k–115k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Laurent Blanc (88)** caiu **-50%** em 24h, a **125k coins** (faixa do dia: 68k–161k). Está +15% acima da média de 7 dias (aquecida).
+- **Xavi Simons (88)** caiu **-49.6%** em 24h, a **30k coins** (faixa do dia: 15.000–70k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Salma Paralluelo (96)** caiu **-50%** em 24h, a **1.90M coins** (faixa do dia: 1.75M–3.80M). Está -48% abaixo da média de 7 dias (descontada).
+- **Dan-Axel Zagadou (85)** caiu **-48%** em 24h, a **22k coins** (faixa do dia: 10.750–37k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Emilio Butragueño já avançou 59.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kieffer Moore já avançou 60% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Enzo Fernández recuou -50%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Emilio Butragueño (90, sem liga), com +59.8% em 24h, a 86k coins no PC.
+Kieffer Moore (88, EFL Championship), com +60% em 24h, a 70k coins no PC.
 
 **E a maior queda do dia?**
 Enzo Fernández (91), -50% em 24h, a 60k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 802 cartas em alta contra 1067 em queda (média 1.29%).
+Hoje o mercado está lateral — sem direção clara, com 761 cartas em alta contra 1130 em queda (média -0.03%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
