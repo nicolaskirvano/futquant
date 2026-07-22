@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:00:18.000Z
+pubDatetime: 2026-07-22T16:00:18.000Z
 title: "Mercado EA FC em 22/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Kieffer Moore (88, EFL Championship), com +60% em 24h, a 70k coins no PC."
+    a: "Karim Adeyemi (85, Bundesliga), com +60% em 24h, a 80k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Enzo Fernández (91), -50% em 24h, a 60k coins."
+    a: "Trinity Rodman (88), -50% em 24h, a 100k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 761 cartas em alta contra 1130 em queda (média -0.03%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 821 cartas em alta contra 1082 em queda (média 0.49%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **761 subiram**, **1130 caíram** (80+ e 5k+ coins), média de **-0.03%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **821 subiram**, **1082 caíram** (80+ e 5k+ coins), média de **0.49%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Kieffer Moore (88) **+60%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-50%**
+> 🟢 **Maior alta:** Karim Adeyemi (85) **+60%** · 🔴 **Maior baixa:** Trinity Rodman (88) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -36,23 +36,23 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.2% entre as cartas que se moveram; o universo observado reúne 2312 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Participação das altas:** 43.1% entre as cartas que se moveram; o universo observado reúne 2315 cartas.
+- **Concentração:** Bundesliga aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kieffer Moore | 88 | EFL Championship | 70k coins | +60% | +40% |
 | Karim Adeyemi | 85 | Bundesliga | 80k coins | +60% | 0% |
-| Aarón | 85 | LALIGA EA SPORTS | 36k coins | +60% | -57.4% |
-| Ryan Gravenberch | 87 | Premier League | 106k coins | +59.4% | +9.8% |
-| Tom Ince | 84 | EFL Championship | 55k coins | +58.3% | 0% |
-| Miguel Ángel Merentiel | 88 | LPF | 99k coins | +56.7% | +17.1% |
-| Khalid Al Ghannam | 80 | Brasileirão | 47k coins | +56.7% | -1.1% |
-| Zlatan Ibrahimović | 95 | Icons | 7.78M coins | +56.4% | +16.5% |
-| Marcus Thuram | 87 | — | 54k coins | +55.7% | +50.3% |
-| Pavel Nedvěd | 88 | Icons | 195k coins | +54.5% | +45.3% |
+| Rúben Neves | 95 | — | 85k coins | +59.6% | +93.3% |
+| Tom Ince | 84 | EFL Championship | 55k coins | +59.4% | 0% |
+| Marek Hamšík | 89 | Serie A TIM | 55k coins | +58.9% | +87.5% |
+| Wilson Odobert | 87 | Premier League | 30k coins | +58.7% | -11.2% |
+| Danilho Doekhi | 84 | Bundesliga | 55k coins | +57.1% | +45.7% |
+| Annaïg Butel | 86 | D1 Arkema | 30k coins | +56.6% | +22.7% |
+| Yoan Bonny | 86 | Serie A TIM | 75k coins | +56.2% | +17.2% |
+| Jay-Jay Okocha | 90 | Premier League | 288k coins | +55.7% | -6.5% |
+| Josip Šutalo | 90 | Eredivisie | 70k coins | +55.6% | +81.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kieffer Moore (88)** subiu **+60%** em 24h, a **70k coins** (faixa do dia: 30k–70k). Está +37% acima da média de 7 dias (aquecida).
+- **Karim Adeyemi (85)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 48k–80k). Está em linha com a média de 7 dias (+7%).
 
-- **Karim Adeyemi (85)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 30k–80k). Está em linha com a média de 7 dias (+7%).
+- **Rúben Neves (95)** subiu **+59.6%** em 24h, a **85k coins** (faixa do dia: 40k–87k). Está +73% acima da média de 7 dias (aquecida).
 
-- **Aarón (85)** subiu **+60%** em 24h, a **36k coins** (faixa do dia: 14.250–38k). Está -31% abaixo da média de 7 dias (descontada).
+- **Tom Ince (84)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 34k–55k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Fernández | 91 | Premier League | 60k coins | -50% | -44.9% |
-| Xavi Simons | 88 | Premier League | 30k coins | -49.6% | -47.8% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 22k coins | -48% | -8.2% |
-| Fermín | 83 | LALIGA EA SPORTS | 38k coins | -47.6% | -39.6% |
-| Paolo Maldini | 95 | — | 959k coins | -46.7% | -36% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 30k coins | -46.7% | -29.7% |
-| Denzel Dumfries | 89 | Serie A TIM | 70k coins | -46.7% | -34.4% |
-| Alex Morgan | 91 | Icons | 1.01M coins | -46.6% | -27.5% |
-| Patrick Dorgu | 84 | Premier League | 70k coins | -45.7% | -29.3% |
-| Florian Wirtz | 89 | Premier League | 218k coins | -45.5% | -29.9% |
+| Trinity Rodman | 88 | NWSL | 100k coins | -50% | -43.8% |
+| Alessia Russo | 90 | — | 52k coins | -50% | -16.1% |
+| Nico Schlotterbeck | 96 | — | 102k coins | -50% | -66.7% |
+| Franz Beckenbauer | 97 | — | 701k coins | -49.9% | -63.5% |
+| Vitinha | 97 | — | 345k coins | -46.2% | -62.6% |
+| Vini Jr. | 97 | — | 1.30M coins | -45.8% | -74.5% |
+| Dennis Man | 86 | Eredivisie | 44k coins | -45.2% | -26.3% |
+| Zico | 91 | Icons | 190k coins | -45.1% | -5% |
+| Dávid Hancko | 89 | LALIGA EA SPORTS | 24k coins | -45% | -39% |
+| Florian Wirtz | 97 | — | 749k coins | -44.9% | -64.4% |
 
 
 ### Análise das baixas
 
-- **Enzo Fernández (91)** caiu **-50%** em 24h, a **60k coins** (faixa do dia: 43k–115k). Está -38% abaixo da média de 7 dias (descontada).
+- **Trinity Rodman (88)** caiu **-50%** em 24h, a **100k coins** (faixa do dia: 100k–200k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Xavi Simons (88)** caiu **-49.6%** em 24h, a **30k coins** (faixa do dia: 15.000–70k). Está -36% abaixo da média de 7 dias (descontada).
+- **Alessia Russo (90)** caiu **-50%** em 24h, a **52k coins** (faixa do dia: 44k–119k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Dan-Axel Zagadou (85)** caiu **-48%** em 24h, a **22k coins** (faixa do dia: 10.750–37k). Está -16% abaixo da média de 7 dias (descontada).
+- **Nico Schlotterbeck (96)** caiu **-50%** em 24h, a **102k coins** (faixa do dia: 89k–227k). Está -55% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kieffer Moore já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Karim Adeyemi já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Enzo Fernández recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Trinity Rodman recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Kieffer Moore (88, EFL Championship), com +60% em 24h, a 70k coins no PC.
+Karim Adeyemi (85, Bundesliga), com +60% em 24h, a 80k coins no PC.
 
 **E a maior queda do dia?**
-Enzo Fernández (91), -50% em 24h, a 60k coins.
+Trinity Rodman (88), -50% em 24h, a 100k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 761 cartas em alta contra 1130 em queda (média -0.03%).
+Hoje o mercado está lateral — sem direção clara, com 821 cartas em alta contra 1082 em queda (média 0.49%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

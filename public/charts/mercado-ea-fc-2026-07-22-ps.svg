@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Linda Caicedo</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenan Yıldız</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jürgen Kohler</text>
-<rect x="285" y="153" width="471" height="28" rx="7" fill="#22c55e"/>
-<text x="766" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tomas Brolin</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Verena Wieder</text>
+<rect x="285" y="153" width="462" height="28" rx="7" fill="#22c55e"/>
+<text x="757" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manaka Matsukubo</text>
 <rect x="285" y="211" width="456" height="28" rx="7" fill="#22c55e"/>
-<text x="751" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">DeAndre Yedlin</text>
-<rect x="285" y="269" width="433" height="28" rx="7" fill="#22c55e"/>
-<text x="728" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cristian Romero</text>
-<rect x="285" y="327" width="427" height="28" rx="7" fill="#22c55e"/>
-<text x="722" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Barış Alper Yılmaz</text>
-<rect x="285" y="385" width="418" height="28" rx="7" fill="#22c55e"/>
-<text x="713" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
+<text x="751" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jürgen Kohler</text>
+<rect x="285" y="269" width="450" height="28" rx="7" fill="#22c55e"/>
+<text x="745" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tarciane</text>
+<rect x="285" y="327" width="434" height="28" rx="7" fill="#22c55e"/>
+<text x="729" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dominik Szoboszlai</text>
+<rect x="285" y="385" width="426" height="28" rx="7" fill="#22c55e"/>
+<text x="721" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
 </svg>
