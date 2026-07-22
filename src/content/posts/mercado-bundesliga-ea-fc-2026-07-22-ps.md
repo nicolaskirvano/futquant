@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:00:24.000Z
+pubDatetime: 2026-07-22T22:00:24.000Z
 title: "Mercado Bundesliga no EA FC em 22/07 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da Bundesliga no EA FC Ultimate Team em 22/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da Bundesliga no EA FC hoje?"
-    a: "Lennart Karl (91), a 365k coins no Console (PS) em 22/07/2026."
+    a: "Lennart Karl (91), a 346k coins no Console (PS) em 22/07/2026."
   - q: "Quem mais valorizou na Bundesliga esta semana no EA FC?"
-    a: "Konrad Laimer (84), +87% em 7 dias, a 115k coins."
+    a: "Joshua Kimmich (89), +87% em 7 dias, a 4.500 coins."
   - q: "Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **Bundesliga** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **22/07/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da Bundesliga:** Lennart Karl (91), a 365k coins.
+> 👑 **Carta mais valiosa da Bundesliga:** Lennart Karl (91), a 346k coins.
 
 ![Gráfico de 24h para os destaques de Mercado Bundesliga no EA FC em 22/07 — PS](/charts/mercado-bundesliga-ea-fc-2026-07-22-ps.svg)
 
@@ -32,16 +32,16 @@ A **Bundesliga** é uma das ligas mais usadas no **EA FC Ultimate Team** — e s
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Lennart Karl | 91 | CAM | 365k coins | -13.7% |
-| Michael Olise | 88 | RM | 317k coins | -9.1% |
-| Serhou Guirassy | 89 | ST | 250k coins | +1.2% |
-| Serge Gnabry | 90 | CAM | 250k coins | -9.3% |
-| Lúcio | 91 | CB | 208k coins | -16.6% |
-| Harry Kane | 91 | ST | 201k coins | -22.1% |
-| Karim Adeyemi | 91 | RM | 200k coins | -19% |
-| Jamal Musiala | 89 | CAM | 184k coins | +4.1% |
-| Harry Kane | 92 | ST | 178k coins | -5.3% |
+| Lennart Karl | 91 | CAM | 346k coins | -19.3% |
+| Michael Olise | 88 | RM | 295k coins | -10.4% |
+| Serhou Guirassy | 89 | ST | 230k coins | +20% |
+| Karim Adeyemi | 91 | RM | 212k coins | -1.8% |
+| Harry Kane | 92 | ST | 210k coins | +13.3% |
+| Harry Kane | 91 | ST | 178k coins | -26.3% |
+| Lúcio | 91 | CB | 171k coins | -28.7% |
+| Jamal Musiala | 89 | CAM | 170k coins | -23.6% |
 | Loïs Openda | 83 | ST | 150k coins | 0% |
+| Jobe Bellingham | 89 | CM | 144k coins | -20.8% |
 
 
 ## 📈 Em alta na Bundesliga (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Konrad Laimer | 84 | LB | 115k coins | +87% |
-| Jürgen Kohler | 90 | CB | 66k coins | +79.5% |
-| Maximilian Beier | 85 | ST | 28k coins | +64.6% |
-| Malik Tillman | 85 | CAM | 27k coins | +31.7% |
-| Haris Tabaković | 85 | ST | 23k coins | +15.9% |
-| Mario Mandžukić | 86 | ST | 12.000 coins | +12.5% |
-| Angelo Stiller | 91 | CDM | 45k coins | +12.5% |
-| Jürgen Kohler | 89 | CB | 13.500 coins | +10% |
-| Timo Werner | 87 | LW | 42k coins | +9.8% |
-| Donyell Malen | 79 | RM | 2.700 coins | +8.3% |
+| Joshua Kimmich | 89 | CDM | 4.500 coins | +87% |
+| Konrad Laimer | 84 | LB | 112k coins | +76% |
+| Willi Orban | 86 | CB | 34k coins | +67.5% |
+| Jürgen Kohler | 90 | CB | 75k coins | +64.8% |
+| Angelo Stiller | 91 | CDM | 60k coins | +39.5% |
+| Joshua Kimmich | 90 | CDM | 65k coins | +28.3% |
+| Włodzimierz Smolarek | 86 | ST | 15.500 coins | +12.5% |
+| Danny da Costa | 84 | RB | 22k coins | +12.5% |
+| Haris Tabaković | 85 | ST | 24k coins | +10.2% |
+| Oliver Burke | 80 | RW | 35k coins | +6.7% |
 
 
 ## 📈 Análise da Bundesliga
 
-A carta mais valiosa da liga é **Lennart Karl (91)**, a 365k coins. 
-No movimento da semana, **Konrad Laimer (84)** lidera as altas (+87% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Lennart Karl (91)**, a 346k coins. 
+No movimento da semana, **Joshua Kimmich (89)** lidera as altas (+87% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## ⚙️ A engine por trás deste post
@@ -75,10 +75,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da Bundesliga no EA FC hoje?**  
-Lennart Karl (91), a 365k coins no Console (PS) em 22/07/2026.
+Lennart Karl (91), a 346k coins no Console (PS) em 22/07/2026.
 
 **Quem mais valorizou na Bundesliga esta semana no EA FC?**  
-Konrad Laimer (84), +87% em 7 dias, a 115k coins.
+Joshua Kimmich (89), +87% em 7 dias, a 4.500 coins.
 
 **Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam.

@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Luna</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riley Tiernan</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matias Fernandez-Pardo</text>
-<rect x="285" y="153" width="469" height="28" rx="7" fill="#22c55e"/>
-<text x="764" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Seger</text>
-<rect x="285" y="211" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dodi Lukébakio</text>
-<rect x="285" y="269" width="459" height="28" rx="7" fill="#22c55e"/>
-<text x="754" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniela Agote</text>
-<rect x="285" y="327" width="459" height="28" rx="7" fill="#22c55e"/>
-<text x="754" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mohammed Noor</text>
-<rect x="285" y="385" width="455" height="28" rx="7" fill="#22c55e"/>
-<text x="750" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Blaise Matuidi</text>
+<rect x="285" y="153" width="477" height="28" rx="7" fill="#22c55e"/>
+<text x="772" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roony Bardghji</text>
+<rect x="285" y="211" width="468" height="28" rx="7" fill="#22c55e"/>
+<text x="763" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Keisuke Goto</text>
+<rect x="285" y="269" width="468" height="28" rx="7" fill="#22c55e"/>
+<text x="763" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marinette Pichon</text>
+<rect x="285" y="327" width="468" height="28" rx="7" fill="#22c55e"/>
+<text x="763" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Guéla Doué</text>
+<rect x="285" y="385" width="467" height="28" rx="7" fill="#22c55e"/>
+<text x="762" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.2%</text>
 </svg>

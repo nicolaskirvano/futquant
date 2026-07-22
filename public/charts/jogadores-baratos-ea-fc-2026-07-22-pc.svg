@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vózinha</text>
-<rect x="285" y="95" width="443" height="28" rx="7" fill="#38bdf8"/>
-<text x="738" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Orlando Gill</text>
+<rect x="285" y="95" width="462" height="28" rx="7" fill="#38bdf8"/>
+<text x="757" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Quiñones</text>
 <rect x="285" y="153" width="471" height="28" rx="7" fill="#38bdf8"/>
-<text x="766" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Quiñones</text>
+<text x="766" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Orlando Gill</text>
 <rect x="285" y="211" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Noussair Mazraoui</text>
-<rect x="285" y="269" width="406" height="28" rx="7" fill="#38bdf8"/>
-<text x="701" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gregor Kobel</text>
-<rect x="285" y="327" width="434" height="28" rx="7" fill="#38bdf8"/>
-<text x="729" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
+<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lisandro Martínez</text>
+<rect x="285" y="269" width="435" height="28" rx="7" fill="#38bdf8"/>
+<text x="730" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Johan Manzambi</text>
+<rect x="285" y="327" width="435" height="28" rx="7" fill="#38bdf8"/>
+<text x="730" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephen Eustáquio</text>
-<rect x="285" y="385" width="443" height="28" rx="7" fill="#38bdf8"/>
-<text x="738" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
+<rect x="285" y="385" width="435" height="28" rx="7" fill="#38bdf8"/>
+<text x="730" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
 </svg>
