@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Valery</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lucie Calba</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lucie Calba</text>
-<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
-<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Camille Abily</text>
-<rect x="285" y="211" width="467" height="28" rx="7" fill="#22c55e"/>
-<text x="762" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kim Seung Sub</text>
-<rect x="285" y="269" width="465" height="28" rx="7" fill="#22c55e"/>
-<text x="760" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mateo Kovačić</text>
-<rect x="285" y="327" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roy Makaay</text>
-<rect x="285" y="385" width="458" height="28" rx="7" fill="#22c55e"/>
-<text x="753" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fermín</text>
+<rect x="285" y="153" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kim Seung Sub</text>
+<rect x="285" y="211" width="477" height="28" rx="7" fill="#22c55e"/>
+<text x="772" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Swierot</text>
+<rect x="285" y="269" width="474" height="28" rx="7" fill="#22c55e"/>
+<text x="769" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Camille Abily</text>
+<rect x="285" y="327" width="471" height="28" rx="7" fill="#22c55e"/>
+<text x="766" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nathan Zézé</text>
+<rect x="285" y="385" width="465" height="28" rx="7" fill="#22c55e"/>
+<text x="760" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.3%</text>
 </svg>
