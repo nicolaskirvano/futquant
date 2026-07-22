@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:00:23.000Z
+pubDatetime: 2026-07-22T01:00:22.000Z
 title: "Mercado Serie A TIM no EA FC em 21/07 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da Serie A TIM no EA FC Ultimate Team em 21/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da Serie A TIM no EA FC hoje?"
-    a: "Stephan El Shaarawy (88), a 520k coins no Console (PS) em 21/07/2026."
+    a: "Rafael Leão (93), a 952k coins no Console (PS) em 21/07/2026."
   - q: "Quem mais valorizou na Serie A TIM esta semana no EA FC?"
-    a: "Maicon (88), +65.5% em 7 dias, a 92k coins."
+    a: "Jonathan David (90), +77.6% em 7 dias, a 49k coins."
   - q: "Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **Serie A TIM** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **21/07/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da Serie A TIM:** Stephan El Shaarawy (88), a 520k coins.
+> 👑 **Carta mais valiosa da Serie A TIM:** Rafael Leão (93), a 952k coins.
 
 ![Gráfico de 24h para os destaques de Mercado Serie A TIM no EA FC em 21/07 — PS](/charts/mercado-serie-a-tim-ea-fc-2026-07-21-ps.svg)
 
@@ -32,16 +32,16 @@ A **Serie A TIM** é uma das ligas mais usadas no **EA FC Ultimate Team** — e 
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Stephan El Shaarawy | 88 | CAM | 520k coins | -5.3% |
-| Antonio Di Natale | 92 | ST | 509k coins | -4.2% |
-| Jamie Vardy | 89 | ST | 445k coins | +6.2% |
-| Bremer | 88 | CB | 370k coins | +32.1% |
-| Rafael Leão | 87 | LW | 257k coins | -19.2% |
-| Rafael Leão | 86 | ST | 252k coins | -21.5% |
-| Claudio Marchisio | 88 | CDM | 247k coins | -22.1% |
-| Maicon | 89 | RB | 192k coins | -32.6% |
-| Daniele De Rossi | 89 | CDM | 192k coins | +15% |
-| Jamie Vardy | 90 | ST | 189k coins | +1.1% |
+| Rafael Leão | 93 | ST | 952k coins | -7% |
+| Stephan El Shaarawy | 88 | CAM | 576k coins | +9.7% |
+| Jamie Vardy | 89 | ST | 535k coins | +27.7% |
+| Scott McTominay | 91 | CM | 490k coins | +0.7% |
+| Antonio Di Natale | 92 | ST | 460k coins | -14.5% |
+| Bremer | 88 | CB | 368k coins | +31.4% |
+| Rafael Leão | 87 | LW | 250k coins | -23.1% |
+| Paulo Dybala | 91 | CAM | 245k coins | +25% |
+| Rafael Leão | 86 | ST | 235k coins | -23.4% |
+| Maicon | 89 | RB | 187k coins | -41.6% |
 
 
 ## 📈 Em alta na Serie A TIM (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Maicon | 88 | RB | 92k coins | +65.5% |
-| Jonathan David | 90 | ST | 52k coins | +65% |
-| Víctor Ibarbo | 85 | RW | 35k coins | +59.1% |
-| Riccardo Orsolini | 85 | RM | 30k coins | +57.1% |
-| Alessandro Bastoni | 91 | CB | 54k coins | +56.2% |
-| Charles De Ketelaere | 88 | CAM | 107k coins | +52.9% |
-| Nico Paz | 90 | CAM | 70k coins | +48.5% |
-| Andrea Barzagli | 88 | CB | 28k coins | +37.2% |
-| Gianluca Mancini | 85 | CB | 26k coins | +36.8% |
-| Iván Córdoba | 87 | CB | 15.000 coins | +36.4% |
+| Jonathan David | 90 | ST | 49k coins | +77.6% |
+| Charles De Ketelaere | 88 | CAM | 108k coins | +61.5% |
+| Denzel Dumfries | 89 | RB | 74k coins | +61.1% |
+| Nico Paz | 90 | CAM | 80k coins | +55.3% |
+| Riccardo Orsolini | 85 | RM | 28k coins | +54.5% |
+| Antonio Di Natale | 88 | ST | 98k coins | +50% |
+| Gianluca Mancini | 85 | CB | 29k coins | +47.5% |
+| Kenan Yıldız | 87 | CAM | 97k coins | +45.1% |
+| Andrea Barzagli | 88 | CB | 21k coins | +38.4% |
+| Maicon | 88 | RB | 75k coins | +34.5% |
 
 
 ## 📈 Análise da Serie A TIM
 
-A carta mais valiosa da liga é **Stephan El Shaarawy (88)**, a 520k coins. 
-No movimento da semana, **Maicon (88)** lidera as altas (+65.5% em 7 dias), sinal de procura crescente por cartas da Serie A TIM. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Rafael Leão (93)**, a 952k coins. 
+No movimento da semana, **Jonathan David (90)** lidera as altas (+77.6% em 7 dias), sinal de procura crescente por cartas da Serie A TIM. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 🔍 Como apuramos os preços
@@ -75,10 +75,10 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da Serie A TIM no EA FC hoje?**  
-Stephan El Shaarawy (88), a 520k coins no Console (PS) em 21/07/2026.
+Rafael Leão (93), a 952k coins no Console (PS) em 21/07/2026.
 
 **Quem mais valorizou na Serie A TIM esta semana no EA FC?**  
-Maicon (88), +65.5% em 7 dias, a 92k coins.
+Jonathan David (90), +77.6% em 7 dias, a 49k coins.
 
 **Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
