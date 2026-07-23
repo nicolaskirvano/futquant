@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:00:18.000Z
+pubDatetime: 2026-07-23T01:00:18.000Z
 title: "Mercado EA FC em 22/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Julia Grosso (88, NWSL), com +60% em 24h, a 48k coins no PC."
+    a: "Mërgim Vojvoda (87, sem liga), com +60% em 24h, a 64k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "İsmail Yüksek (83), -50% em 24h, a 47k coins."
+    a: "Jamie Leweling (83), -50% em 24h, a 32k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 795 cartas em alta contra 1041 em queda (média 1.12%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 853 cartas em alta contra 1027 em queda (média 1.64%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **795 subiram**, **1041 caíram** (80+ e 5k+ coins), média de **1.12%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**22/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **853 subiram**, **1027 caíram** (80+ e 5k+ coins), média de **1.64%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Julia Grosso (88) **+60%** · 🔴 **Maior baixa:** İsmail Yüksek (83) **-50%**
+> 🟢 **Maior alta:** Mërgim Vojvoda (87) **+60%** · 🔴 **Maior baixa:** Jamie Leweling (83) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -36,23 +36,23 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.3% entre as cartas que se moveram; o universo observado reúne 2223 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Participação das altas:** 45.4% entre as cartas que se moveram; o universo observado reúne 2290 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julia Grosso | 88 | NWSL | 48k coins | +60% | +68.4% |
-| Lucas Paquetá | 84 | Premier League | 40k coins | +60% | +47.4% |
-| Rivaldo | 90 | Icons | 150k coins | +59.6% | +17.2% |
-| Georginio Wijnaldum | 87 | Brasileirão | 44k coins | +58.2% | +28.9% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 67k coins | +57.3% | +100% |
-| Louisa Necib | 90 | D1 Arkema | 55k coins | +57.1% | +89.7% |
-| Michael Olise | 88 | Bundesliga | 1.10M coins | +56.9% | +37.1% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 22k coins | +56.7% | -21.7% |
-| Barış Alper Yılmaz | 88 | Trendyol Süper Lig | 390k coins | +56% | +34% |
-| Jay-Jay Okocha | 90 | Premier League | 288k coins | +55.7% | +2.9% |
+| Mërgim Vojvoda | 87 | — | 64k coins | +60% | +34.7% |
+| Geovany Quenda | 85 | Liga Portugal | 75k coins | +59.6% | 0% |
+| Rivaldo | 90 | Icons | 149k coins | +59.4% | +9.6% |
+| Olivia Smith | 86 | Barclays WSL | 65k coins | +58.5% | -18.8% |
+| Catarina Macario | 87 | Barclays WSL | 26k coins | +58.5% | -10.4% |
+| Khadija Shaw | 91 | — | 95k coins | +58.3% | +99% |
+| Evan Weir | 80 | EFL League Two | 48k coins | +57% | +9.2% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 32k coins | +56.6% | 0% |
+| Ilias Akhomach | 88 | LALIGA EA SPORTS | 54k coins | +55.3% | +74.8% |
+| Marta | 90 | NWSL | 90k coins | +55.2% | +16.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**22/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Julia Grosso (88)** subiu **+60%** em 24h, a **48k coins** (faixa do dia: 28k–69k). Está +11% acima da média de 7 dias (aquecida).
+- **Mërgim Vojvoda (87)** subiu **+60%** em 24h, a **64k coins** (faixa do dia: 32k–65k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Lucas Paquetá (84)** subiu **+60%** em 24h, a **40k coins** (faixa do dia: 35k–100k). Está -43% abaixo da média de 7 dias (descontada).
+- **Geovany Quenda (85)** subiu **+59.6%** em 24h, a **75k coins** (faixa do dia: 47k–75k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Rivaldo (90)** subiu **+59.6%** em 24h, a **150k coins** (faixa do dia: 92k–189k). Está +22% acima da média de 7 dias (aquecida).
+- **Rivaldo (90)** subiu **+59.4%** em 24h, a **149k coins** (faixa do dia: 92k–189k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| İsmail Yüksek | 83 | Trendyol Süper Lig | 47k coins | -50% | -38.3% |
-| Victor Lindelöf | 96 | — | 90k coins | -48.3% | -64.8% |
-| Steffi Jones | 91 | Icons | 42k coins | -47.5% | -1.8% |
-| Thierry Henry | 86 | Icons | 739k coins | -46.8% | -59.4% |
-| Tajon Buchanan | 85 | LALIGA EA SPORTS | 22k coins | -45.1% | -59.1% |
-| Jean-Philippe Mateta | 96 | — | 393k coins | -43.8% | -40.2% |
-| Lotta Schelin | 90 | Icons | 84k coins | -43.6% | -30.4% |
-| Ahmed Hegazi | 87 | Brasileirão | 45k coins | -43.4% | -51.3% |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 680k coins | -43.3% | -31.2% |
-| Dani Olmo | 99 | — | 1.83M coins | -43.3% | — |
+| Jamie Leweling | 83 | Bundesliga | 32k coins | -50% | -20.6% |
+| Julian Quiñones | 94 | — | 42k coins | -48.5% | -52.8% |
+| Youri Tielemans | 96 | — | 132k coins | -47.9% | -57.1% |
+| Steffi Jones | 91 | Icons | 42k coins | -47.2% | 0% |
+| Max Aarons | 85 | Scottish Premiership | 24k coins | -45.4% | -40.3% |
+| Igor Paixão | 87 | Ligue 1 McDonald's | 37k coins | -45.3% | +0.7% |
+| Micah Richards | 92 | — | 81k coins | -45.3% | -37.7% |
+| Juan Román Riquelme | 88 | Icons | 66k coins | -44.6% | -53.8% |
+| Jean-Philippe Mateta | 96 | — | 393k coins | -43.8% | -37.5% |
+| Exequiel Zeballos | 83 | LPF | 92k coins | -43.7% | -44.7% |
 
 
 ### Análise das baixas
 
-- **İsmail Yüksek (83)** caiu **-50%** em 24h, a **47k coins** (faixa do dia: 47k–95k). Está -44% abaixo da média de 7 dias (descontada).
+- **Jamie Leweling (83)** caiu **-50%** em 24h, a **32k coins** (faixa do dia: 32k–65k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Victor Lindelöf (96)** caiu **-48.3%** em 24h, a **90k coins** (faixa do dia: 90k–173k). Está -52% abaixo da média de 7 dias (descontada).
+- **Julian Quiñones (94)** caiu **-48.5%** em 24h, a **42k coins** (faixa do dia: 42k–88k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Steffi Jones (91)** caiu **-47.5%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -35% abaixo da média de 7 dias (descontada).
+- **Youri Tielemans (96)** caiu **-47.9%** em 24h, a **132k coins** (faixa do dia: 132k–550k). Está -64% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Julia Grosso já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mërgim Vojvoda já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** İsmail Yüksek recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jamie Leweling recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Julia Grosso (88, NWSL), com +60% em 24h, a 48k coins no PC.
+Mërgim Vojvoda (87, sem liga), com +60% em 24h, a 64k coins no PC.
 
 **E a maior queda do dia?**
-İsmail Yüksek (83), -50% em 24h, a 47k coins.
+Jamie Leweling (83), -50% em 24h, a 32k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 795 cartas em alta contra 1041 em queda (média 1.12%).
+Hoje o mercado está em alta — predominam as valorizações, com 853 cartas em alta contra 1027 em queda (média 1.64%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

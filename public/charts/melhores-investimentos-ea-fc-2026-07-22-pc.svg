@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oumar Camara</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+90.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Melle Meulensteen</text>
-<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
-<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thomas Meunier</text>
-<rect x="285" y="211" width="474" height="28" rx="7" fill="#22c55e"/>
-<text x="769" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rayan Aït-Nouri</text>
-<rect x="285" y="269" width="467" height="28" rx="7" fill="#22c55e"/>
-<text x="762" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leela Egli</text>
-<rect x="285" y="327" width="453" height="28" rx="7" fill="#22c55e"/>
-<text x="748" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mark McKenzie</text>
-<rect x="285" y="385" width="447" height="28" rx="7" fill="#22c55e"/>
-<text x="742" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nikola Vlašić</text>
+<rect x="285" y="153" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Aimar</text>
+<rect x="285" y="211" width="471" height="28" rx="7" fill="#22c55e"/>
+<text x="766" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
+<rect x="285" y="269" width="470" height="28" rx="7" fill="#22c55e"/>
+<text x="765" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aoba Fujino</text>
+<rect x="285" y="327" width="463" height="28" rx="7" fill="#22c55e"/>
+<text x="758" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrik Mercado</text>
+<rect x="285" y="385" width="463" height="28" rx="7" fill="#22c55e"/>
+<text x="758" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.3%</text>
 </svg>
