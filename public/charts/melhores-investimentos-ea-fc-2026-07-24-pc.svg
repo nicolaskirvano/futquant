@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Amaiur Sarriegi</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dennis Man</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hakan Çalhanoğlu</text>
-<rect x="285" y="153" width="454" height="28" rx="7" fill="#22c55e"/>
-<text x="749" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nene Dorgeles</text>
-<rect x="285" y="211" width="441" height="28" rx="7" fill="#22c55e"/>
-<text x="736" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edson Álvarez</text>
-<rect x="285" y="269" width="433" height="28" rx="7" fill="#22c55e"/>
-<text x="728" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
-<rect x="285" y="327" width="430" height="28" rx="7" fill="#22c55e"/>
-<text x="725" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Václav Černý</text>
-<rect x="285" y="385" width="387" height="28" rx="7" fill="#22c55e"/>
-<text x="682" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kristin Kögel</text>
+<rect x="285" y="153" width="475" height="28" rx="7" fill="#22c55e"/>
+<text x="770" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hidetoshi Nakata</text>
+<rect x="285" y="211" width="473" height="28" rx="7" fill="#22c55e"/>
+<text x="768" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nerea Nevado</text>
+<rect x="285" y="269" width="466" height="28" rx="7" fill="#22c55e"/>
+<text x="761" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
+<rect x="285" y="327" width="452" height="28" rx="7" fill="#22c55e"/>
+<text x="747" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edson Álvarez</text>
+<rect x="285" y="385" width="401" height="28" rx="7" fill="#22c55e"/>
+<text x="696" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.5%</text>
 </svg>

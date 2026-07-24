@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaap Stam</text>
-<rect x="285" y="95" width="54" height="28" rx="7" fill="#f87171"/>
-<text x="349" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-2.8%</text>
+<rect x="285" y="95" width="20" height="28" rx="7" fill="#f87171"/>
+<text x="315" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-5.9%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Park Ji Sung</text>
-<rect x="285" y="153" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wout Weghorst</text>
-<rect x="285" y="211" width="392" height="28" rx="7" fill="#22c55e"/>
-<text x="687" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Šutalo</text>
-<rect x="285" y="269" width="8" height="28" rx="7" fill="#22c55e"/>
-<text x="303" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ivan Perišić</text>
-<rect x="285" y="327" width="8" height="28" rx="7" fill="#22c55e"/>
-<text x="303" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Youri Baas</text>
-<rect x="285" y="385" width="77" height="28" rx="7" fill="#22c55e"/>
-<text x="372" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.0%</text>
+<rect x="285" y="153" width="102" height="28" rx="7" fill="#22c55e"/>
+<text x="397" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Couhaib Driouech</text>
+<rect x="285" y="211" width="313" height="28" rx="7" fill="#22c55e"/>
+<text x="608" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+92.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anis Hadj-Moussa</text>
+<rect x="285" y="269" width="8" height="28" rx="7" fill="#f87171"/>
+<text x="303" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-1.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Holtby</text>
+<rect x="285" y="327" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+141.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mauro Júnior</text>
+<rect x="285" y="385" width="74" height="28" rx="7" fill="#22c55e"/>
+<text x="369" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.0%</text>
 </svg>

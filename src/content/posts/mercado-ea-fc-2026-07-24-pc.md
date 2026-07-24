@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:00:18.000Z
+pubDatetime: 2026-07-24T16:00:18.000Z
 title: "Mercado EA FC em 24/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
     a: "Bixente Lizarazu (90, sem liga), com +60% em 24h, a 60k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Diego Armando Maradona (95), -50% em 24h, a 1.15M coins."
+    a: "João Félix (86), -49.2% em 24h, a 126k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 938 cartas em alta contra 903 em queda (média 3.79%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 949 cartas em alta contra 883 em queda (média 4.36%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **24/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **938 em alta** e **903 em queda**, média de **3.79%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **24/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **949 em alta** e **883 em queda**, média de **4.36%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bixente Lizarazu (90) **+60%** · 🔴 **Maior baixa:** Diego Armando Maradona (95) **-50%**
+> 🟢 **Maior alta:** Bixente Lizarazu (90) **+60%** · 🔴 **Maior baixa:** João Félix (86) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **24/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.0% entre as cartas que se moveram; o universo observado reúne 2293 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.8% entre as cartas que se moveram; o universo observado reúne 2292 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Bixente Lizarazu | 90 | — | 60k coins | +60% | +37.1% |
-| Janina Minge | 88 | — | 32k coins | +58.7% | +56.6% |
-| Fabián Ruiz | 95 | — | 40k coins | +58.4% | +34.5% |
-| Jorthy Mokio | 86 | Eredivisie | 40k coins | +58.4% | +10.3% |
-| Balde | 86 | LALIGA EA SPORTS | 66k coins | +58.3% | -0.7% |
-| Kenan Kodro | 84 | LALIGA HYPERMOTION | 48k coins | +58.3% | +12.4% |
-| Benedict Hollerbach | 87 | Bundesliga | 30k coins | +57.9% | +79.1% |
-| Ole Gunnar Solskjær | 88 | Premier League | 30k coins | +57.9% | +53.8% |
-| Casillas | 90 | Icons | 139k coins | +57.4% | -20.9% |
-| Rubén García | 87 | LALIGA EA SPORTS | 26k coins | +57.4% | -26.2% |
+| David Raum | 92 | — | 38k coins | +58.2% | +30.2% |
+| Evan Weir | 80 | EFL League Two | 47k coins | +58% | +16% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 1.55M coins | +55.7% | -46.4% |
+| Estêvão | 91 | Premier League | 1.20M coins | +55.4% | -0.8% |
+| Yazan Al Arab | 95 | — | 38k coins | +55.3% | -10.6% |
+| Didier Drogba | 89 | Icons | 123k coins | +55% | +34.8% |
+| Federico Bernardeschi | 91 | — | 60k coins | +55% | +21.6% |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 42k coins | +54.6% | +56.1% |
+| Rubén García | 87 | LALIGA EA SPORTS | 26k coins | +54.4% | -38.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **24/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bixente Lizarazu (90)** subiu **+60%** em 24h, a **60k coins** (faixa do dia: 30k–65k). Está +23% acima da média de 7 dias (aquecida).
+- **Bixente Lizarazu (90)** subiu **+60%** em 24h, a **60k coins** (faixa do dia: 30k–65k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Janina Minge (88)** subiu **+58.7%** em 24h, a **32k coins** (faixa do dia: 14.750–32k). Está +79% acima da média de 7 dias (aquecida).
+- **David Raum (92)** subiu **+58.2%** em 24h, a **38k coins** (faixa do dia: 19.750–42k). Está +63% acima da média de 7 dias (aquecida).
 
-- **Fabián Ruiz (95)** subiu **+58.4%** em 24h, a **40k coins** (faixa do dia: 20k–40k). Está +24% acima da média de 7 dias (aquecida).
+- **Evan Weir (80)** subiu **+58%** em 24h, a **47k coins** (faixa do dia: 40k–48k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Armando Maradona | 95 | Icons | 1.15M coins | -50% | -38.5% |
-| João Félix | 86 | ROSHN Saudi League | 126k coins | -49.2% | -52.8% |
-| Richard Ríos | 88 | Liga Portugal | 88k coins | -49.2% | -56.5% |
-| Lionel Messi | 87 | MLS | 133k coins | -48.8% | -27.3% |
-| Larissa Mühlhaus | 85 | GPFBL | 23k coins | -48.4% | +8% |
-| Gheorghe Hagi | 88 | Icons | 75k coins | -47.6% | +13.5% |
-| Camille Abily | 90 | Icons | 68k coins | -46.5% | 0% |
-| Ché Adams | 89 | Serie A TIM | 35k coins | -46.2% | -55.3% |
-| Jaedyn Shaw | 89 | NWSL | 29k coins | -45.8% | -42.5% |
-| Hayley Lauder | 85 | Scottish Women's League | 23k coins | -44.7% | -26% |
+| João Félix | 86 | ROSHN Saudi League | 126k coins | -49.2% | -53.3% |
+| Mateus Mané | 88 | Premier League | 21k coins | -48.8% | -45.1% |
+| Gheorghe Hagi | 88 | Icons | 73k coins | -48.6% | +10.5% |
+| Ahmed Hegazi | 87 | Brasileirão | 50k coins | -48.1% | -42% |
+| Lionel Messi | 87 | MLS | 133k coins | -47.6% | -27.3% |
+| Bobby Moore | 93 | — | 33k coins | -47.6% | -34% |
+| Ché Adams | 89 | Serie A TIM | 32k coins | -47.6% | -57.2% |
+| Chris Smalling | 87 | ROSHN Saudi League | 34k coins | -47.3% | -25.8% |
+| Louisa Necib | 90 | D1 Arkema | 29k coins | -47.3% | -41.4% |
+| Alexandre Lacazette | 89 | Brasileirão | 27k coins | -47.1% | -25.9% |
 
 
 ### Análise das baixas
 
-- **Diego Armando Maradona (95)** caiu **-50%** em 24h, a **1.15M coins** (faixa do dia: 1.15M–2.60M). Está -58% abaixo da média de 7 dias (descontada).
+- **João Félix (86)** caiu **-49.2%** em 24h, a **126k coins** (faixa do dia: 126k–248k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **João Félix (86)** caiu **-49.2%** em 24h, a **126k coins** (faixa do dia: 126k–248k). Está -47% abaixo da média de 7 dias (descontada).
+- **Mateus Mané (88)** caiu **-48.8%** em 24h, a **21k coins** (faixa do dia: 21k–44k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Richard Ríos (88)** caiu **-49.2%** em 24h, a **88k coins** (faixa do dia: 88k–178k). Está -50% abaixo da média de 7 dias (descontada).
+- **Gheorghe Hagi (88)** caiu **-48.6%** em 24h, a **73k coins** (faixa do dia: 73k–130k). Está -14% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Bixente Lizarazu já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Diego Armando Maradona recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** João Félix recuou -49.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Bixente Lizarazu (90, sem liga), com +60% em 24h, a 60k coins no PC.
 
 **E a maior queda do dia?**
-Diego Armando Maradona (95), -50% em 24h, a 1.15M coins.
+João Félix (86), -49.2% em 24h, a 126k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 938 cartas em alta contra 903 em queda (média 3.79%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 949 cartas em alta contra 883 em queda (média 4.36%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
