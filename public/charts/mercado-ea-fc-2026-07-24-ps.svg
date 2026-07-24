@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lewis Hall</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dejan Lovren</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabián Ruiz</text>
-<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
-<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
-<rect x="285" y="211" width="466" height="28" rx="7" fill="#22c55e"/>
-<text x="761" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Rodríguez</text>
-<rect x="285" y="269" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Naeher</text>
-<rect x="285" y="327" width="455" height="28" rx="7" fill="#22c55e"/>
-<text x="750" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raphinha</text>
-<rect x="285" y="385" width="454" height="28" rx="7" fill="#22c55e"/>
-<text x="749" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Günter</text>
+<rect x="285" y="153" width="460" height="28" rx="7" fill="#22c55e"/>
+<text x="755" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anthony Gordon</text>
+<rect x="285" y="211" width="453" height="28" rx="7" fill="#22c55e"/>
+<text x="748" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anthony Gordon</text>
+<rect x="285" y="269" width="443" height="28" rx="7" fill="#22c55e"/>
+<text x="738" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bailey Brandtman</text>
+<rect x="285" y="327" width="443" height="28" rx="7" fill="#22c55e"/>
+<text x="738" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fábio Vieira</text>
+<rect x="285" y="385" width="438" height="28" rx="7" fill="#22c55e"/>
+<text x="733" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
 </svg>
