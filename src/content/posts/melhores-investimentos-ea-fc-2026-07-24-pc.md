@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:00:19.000Z
+pubDatetime: 2026-07-24T13:00:19.000Z
 title: "Investimentos EA FC em 24/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Edson Álvarez (86, Trendyol Süper Lig) lidera, com +89.1% em 7 dias a 154k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Amaiur Sarriegi (88, Liga F) lidera, com +88.1% em 7 dias a 95k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Edson Álvarez (86) acumula **+89.1% em 7 dias** a 154k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Amaiur Sarriegi (88) acumula **+88.1% em 7 dias** a 95k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 24/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.4% em 24h** e **+72.0% em 7 dias**.
+- A mediana é de **+11.5% em 24h** e **+68.5% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Trendyol Süper Lig** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 154k coins | +9.9% | +89.1% | Esticada |
-| Diego Milito | 91 | — | 90k coins | +32.4% | +81.8% | Esticada |
-| Nene Dorgeles | 91 | — | 50k coins | +11.1% | +81.8% | Esticada |
-| Jaelin Howell | 89 | NWSL | 45k coins | +28.6% | +80% | Esticada |
-| Barbara Bonansea | 87 | Calcio A Femminile | 52k coins | +2.9% | +79.8% | Esticada |
-| Steven Berghuis | 86 | Eredivisie | 65k coins | +27.5% | +76.9% | Esticada |
-| Guéla Doué | 94 | — | 22k coins | +15.4% | +73.1% | Esticada |
-| Jean-Philippe Mateta | 92 | Premier League | 84k coins | +32.3% | +72% | Esticada |
-| Mapi León | 90 | Liga F | 80k coins | +5.3% | +69.3% | Esticada |
-| Esteban Cambiasso | 91 | — | 60k coins | +38.2% | +68.9% | Esticada |
-| Dodi Lukébakio | 94 | — | 210k coins | +7.1% | +66.7% | Esticada |
-| Ollie Watkins | 90 | Premier League | 80k coins | +33.3% | +66.7% | Esticada |
-| Uli Hoeneß | 88 | Bundesliga | 35k coins | +16.7% | +66.7% | Esticada |
-| Melchie Dumornay | 87 | D1 Arkema | 165k coins | +11.5% | +65% | Esticada |
-| Alberto Costa | 91 | — | 48k coins | +5.6% | +63.8% | Esticada |
+| Amaiur Sarriegi | 88 | Liga F | 95k coins | +31.9% | +88.1% | Esticada |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 64k coins | +26.9% | +83.3% | Esticada |
+| Nene Dorgeles | 91 | — | 50k coins | +4.7% | +80.9% | Esticada |
+| Edson Álvarez | 86 | Trendyol Süper Lig | 147k coins | +5% | +79.4% | Esticada |
+| Karim Benzema | 87 | ROSHN Saudi League | 145k coins | +11.5% | +79% | Esticada |
+| Václav Černý | 87 | Trendyol Süper Lig | 59k coins | +14.8% | +71% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 60k coins | +9.1% | +69% | Esticada |
+| Jade Le Guilly | 89 | D1 Arkema | 46k coins | +26.4% | +68.5% | Esticada |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 58k coins | +27.3% | +67.7% | Esticada |
+| Ollie Watkins | 90 | Premier League | 80k coins | +28% | +66.7% | Esticada |
+| Isina Corte | 90 | — | 65k coins | +4.8% | +65.6% | Esticada |
+| Sissi | 88 | Icons | 89k coins | +7.7% | +65.5% | Esticada |
+| Matias Fernandez-Pardo | 90 | — | 63k coins | +27% | +64.9% | Esticada |
+| Alberto Costa | 91 | — | 45k coins | +5.6% | +63.8% | Esticada |
+| Keisuke Goto | 90 | — | 65k coins | +3.2% | +62.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Edson Álvarez (86)** — 154k coins, **+89.1% em 7 dias** (+9.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Amaiur Sarriegi (88)** — 95k coins, **+88.1% em 7 dias** (+31.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Milito (91)** — 90k coins, **+81.8% em 7 dias** (+32.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hakan Çalhanoğlu (88)** — 64k coins, **+83.3% em 7 dias** (+26.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nene Dorgeles (91)** — 50k coins, **+81.8% em 7 dias** (+11.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nene Dorgeles (91)** — 50k coins, **+80.9% em 7 dias** (+4.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaelin Howell (89)** — 45k coins, **+80% em 7 dias** (+28.6% em 24h). Preço +67% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Edson Álvarez (86)** — 147k coins, **+79.4% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Barbara Bonansea (87)** — 52k coins, **+79.8% em 7 dias** (+2.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (87)** — 145k coins, **+79% em 7 dias** (+11.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Edson Álvarez (86, Trendyol Süper Lig) lidera, com +89.1% em 7 dias a 154k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Amaiur Sarriegi (88, Liga F) lidera, com +88.1% em 7 dias a 95k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
