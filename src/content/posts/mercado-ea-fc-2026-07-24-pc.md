@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:00:19.000Z
+pubDatetime: 2026-07-25T01:00:20.000Z
 title: "Mercado EA FC em 24/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Declan Rice (88, Premier League), com +58.1% em 24h, a 64k coins no PC."
+    a: "Giovanni Di Lorenzo (85, Serie A TIM), com +60% em 24h, a 54k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Paul Onuachu (95), -50% em 24h, a 60k coins."
+    a: "Harry Kane (97), -49.8% em 24h, a 116k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 609 cartas em alta contra 947 em queda (média -2.39%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 499 cartas em alta contra 1155 em queda (média -6.75%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **24/07/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **609 em alta** e **947 em queda**, média de **-2.39%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **24/07/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **499 em alta** e **1155 em queda**, média de **-6.75%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Declan Rice (88) **+58.1%** · 🔴 **Maior baixa:** Paul Onuachu (95) **-50%**
+> 🟢 **Maior alta:** Giovanni Di Lorenzo (85) **+60%** · 🔴 **Maior baixa:** Harry Kane (97) **-49.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **24/07/2026** (PC): mercado **pressionado** — as quedas dominam o
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.1% entre as cartas que se moveram; o universo observado reúne 1964 cartas.
+- **Amplitude do dia:** 109.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 30.2% entre as cartas que se moveram; o universo observado reúne 2048 cartas.
 - **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 88 | Premier League | 64k coins | +58.1% | +9.1% |
-| Koke | 88 | LALIGA EA SPORTS | 115k coins | +57.5% | +38.6% |
-| Oskar Pietuszewski | 86 | Liga Portugal | 95k coins | +57.1% | +63% |
-| Melle Meulensteen | 91 | — | 47k coins | +56.7% | +17.5% |
-| Antoine Semenyo | 91 | Premier League | 291k coins | +56.1% | +7.1% |
-| Benjamin Nygren | 90 | — | 70k coins | +55.6% | +64.7% |
-| Luany | 88 | Liga F | 39k coins | +54% | +5.5% |
-| Yan Diomande | 84 | Bundesliga | 60k coins | +52.6% | +48.8% |
-| Alex Scott | 89 | Barclays WSL | 80k coins | +51.6% | -3.5% |
-| Aral Şimşir | 80 | 3F Superliga | 45k coins | +51.3% | -5.3% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 54k coins | +60% | +3.8% |
+| Khadija Shaw | 90 | Barclays WSL | 95k coins | +58.3% | +31.9% |
+| Andrej Kramarić | 89 | Bundesliga | 24k coins | +57.4% | +35.2% |
+| Tijjani Reijnders | 87 | Premier League | 114k coins | +57.3% | +67.4% |
+| Dominik Szoboszlai | 90 | Premier League | 173k coins | +57.3% | +4.8% |
+| Oliver Bierhoff | 88 | Serie A TIM | 23k coins | +57.1% | +47.8% |
+| Diogo Dalot | 87 | Premier League | 109k coins | +56.8% | +9% |
+| Lisa Karl | 84 | GPFBL | 31k coins | +56.2% | +78.6% |
+| Roy Keane | 86 | Icons | 109k coins | +55.9% | -12.4% |
+| Exequiel Zeballos | 83 | LPF | 179k coins | +55.7% | +19.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **24/07/2026** (PC): mercado **pressionado** — as quedas dominam o
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Declan Rice (88)** subiu **+58.1%** em 24h, a **64k coins** (faixa do dia: 42k–93k). Está em linha com a média de 7 dias (-3%).
+- **Giovanni Di Lorenzo (85)** subiu **+60%** em 24h, a **54k coins** (faixa do dia: 21k–54k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Koke (88)** subiu **+57.5%** em 24h, a **115k coins** (faixa do dia: 58k–170k). Está +16% acima da média de 7 dias (aquecida).
+- **Khadija Shaw (90)** subiu **+58.3%** em 24h, a **95k coins** (faixa do dia: 49k–95k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Oskar Pietuszewski (86)** subiu **+57.1%** em 24h, a **95k coins** (faixa do dia: 67k–120k). Está +29% acima da média de 7 dias (aquecida).
+- **Andrej Kramarić (89)** subiu **+57.4%** em 24h, a **24k coins** (faixa do dia: 12.000–24k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paul Onuachu | 95 | — | 60k coins | -50% | -42.4% |
-| Arda Güler | 94 | — | 26k coins | -49.2% | -32.2% |
-| Lucas Beraldo | 96 | — | 45k coins | -48.3% | -69% |
-| Bruno Fernandes | 97 | — | 250k coins | -48.2% | -57.8% |
-| Irene Paredes | 96 | — | 60k coins | -47.8% | -69.2% |
-| Gabriel Sara | 83 | Trendyol Süper Lig | 36k coins | -47.5% | -47.5% |
-| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 92k coins | -46.7% | -66.5% |
-| Eden Hazard | 88 | Premier League | 300k coins | -46.6% | -27.1% |
-| Toni Kroos | 90 | Icons | 105k coins | -46.2% | -15.5% |
-| Luis Díaz | 87 | Bundesliga | 140k coins | -46.2% | -46.2% |
+| Harry Kane | 97 | — | 116k coins | -49.8% | -71.9% |
+| Kevin De Bruyne | 97 | — | 330k coins | -49.7% | -75.9% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 38k coins | -49.7% | -31.4% |
+| Romée Leuchter | 96 | — | 62k coins | -49.6% | -49.6% |
+| Jonathan David | 95 | — | 93k coins | -49.5% | -60.8% |
+| Gerd Müller | 92 | Icons | 70k coins | -49.3% | -16.6% |
+| Vanessa Fudalla | 96 | — | 100k coins | -48.9% | -30.5% |
+| Fermín | 91 | — | 30k coins | -48.6% | -29.6% |
+| Bremer | 95 | — | 98k coins | -48.5% | -53.2% |
+| Orkun Kökçü | 95 | — | 70k coins | -48% | -37.6% |
 
 
 ### Análise das baixas
 
-- **Paul Onuachu (95)** caiu **-50%** em 24h, a **60k coins** (faixa do dia: 48k–91k). Está -30% abaixo da média de 7 dias (descontada).
+- **Harry Kane (97)** caiu **-49.8%** em 24h, a **116k coins** (faixa do dia: 97k–272k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Arda Güler (94)** caiu **-49.2%** em 24h, a **26k coins** (faixa do dia: 19.000–64k). Está -43% abaixo da média de 7 dias (descontada).
+- **Kevin De Bruyne (97)** caiu **-49.7%** em 24h, a **330k coins** (faixa do dia: 271k–615k). Está -64% abaixo da média de 7 dias (descontada).
 
-- **Lucas Beraldo (96)** caiu **-48.3%** em 24h, a **45k coins** (faixa do dia: 30k–74k). Está -38% abaixo da média de 7 dias (descontada).
+- **Moussa Diaby (90)** caiu **-49.7%** em 24h, a **38k coins** (faixa do dia: 38k–75k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Declan Rice já avançou 58.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Giovanni Di Lorenzo já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Paul Onuachu recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Harry Kane recuou -49.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Declan Rice (88, Premier League), com +58.1% em 24h, a 64k coins no PC.
+Giovanni Di Lorenzo (85, Serie A TIM), com +60% em 24h, a 54k coins no PC.
 
 **E a maior queda do dia?**
-Paul Onuachu (95), -50% em 24h, a 60k coins.
+Harry Kane (97), -49.8% em 24h, a 116k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 609 cartas em alta contra 947 em queda (média -2.39%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 499 cartas em alta contra 1155 em queda (média -6.75%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

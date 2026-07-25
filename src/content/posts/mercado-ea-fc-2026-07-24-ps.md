@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:00:09.000Z
+pubDatetime: 2026-07-25T01:00:10.000Z
 title: "Mercado EA FC em 24/07: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Georginio Wijnaldum (84, Brasileirão), com +58.9% em 24h, a 60k coins no Console (PS)."
+    a: "Orbelín Pineda (89, sem liga), com +58.6% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Murillo (87), -50% em 24h, a 80k coins."
+    a: "Désiré Doué (87), -50% em 24h, a 48k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 631 cartas em alta contra 844 em queda (média -4.52%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 464 cartas em alta contra 1061 em queda (média -9.95%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **631 em alta** e **844 em queda**, média de **-4.52%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **464 em alta** e **1061 em queda**, média de **-9.95%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Georginio Wijnaldum (84) **+58.9%** · 🔴 **Maior baixa:** Murillo (87) **-50%**
+> 🟢 **Maior alta:** Orbelín Pineda (89) **+58.6%** · 🔴 **Maior baixa:** Désiré Doué (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: altas e baixas — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.8% entre as cartas que se moveram; o universo observado reúne 1691 cartas.
+- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 30.4% entre as cartas que se moveram; o universo observado reúne 1781 cartas.
 - **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Georginio Wijnaldum | 84 | Brasileirão | 60k coins | +58.9% | +9.1% |
-| Katie McCabe | 88 | Barclays Women’s Super League | 61k coins | +58.2% | +43.7% |
-| Igor Jesus | 87 | Premier League | 36k coins | +58% | -7.3% |
-| Stephan El Shaarawy | 88 | Serie A TIM | 850k coins | +57.4% | +27.4% |
-| Kerolin Nicoli | 87 | Barclays WSL | 88k coins | +56.2% | +35.7% |
-| Álex Moreno | 84 | LALIGA EA SPORTS | 42k coins | +55.8% | +65.5% |
-| Jay-Jay Okocha | 88 | Premier League | 36k coins | +55.8% | +18.4% |
-| Sebastian Szymański | 87 | — | 37k coins | +55.7% | +38% |
-| Nahuel Molina | 91 | — | 84k coins | +50.4% | -27.7% |
-| Rodrygo | 86 | LALIGA EA SPORTS | 47k coins | +50% | +13.2% |
+| Orbelín Pineda | 89 | — | 28k coins | +58.6% | +56.3% |
+| Denis Zakaria | 85 | Ligue 1 McDonald's | 27k coins | +56.5% | -38.6% |
+| Ben Davies | 84 | Premier League | 47k coins | +54.1% | +7.4% |
+| Anatoliy Trubin | 88 | Liga Portugal | 251k coins | +51.2% | +0.8% |
+| Maxence Lacroix | 87 | Premier League | 160k coins | +49.5% | +131.9% |
+| Benedict Hollerbach | 87 | Bundesliga | 25k coins | +49.3% | +61.3% |
+| Matías Vargas | 84 | Brasileirão | 59k coins | +47.5% | +60.5% |
+| Achraf Hakimi | 96 | — | 2.20M coins | +47.4% | -15.6% |
+| Eberechi Eze | 87 | Premier League | 55k coins | +47.2% | +47.2% |
+| Ingrid Syrstad Engen | 93 | — | 33k coins | +46.7% | +17.4% |
 
 
 ### Análise das altas
@@ -61,52 +61,43 @@ Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Georginio Wijnaldum (84)** subiu **+58.9%** em 24h, a **60k coins** (faixa do dia: 45k–60k). Está +25% acima da média de 7 dias (aquecida).
+- **Orbelín Pineda (89)** subiu **+58.6%** em 24h, a **28k coins** (faixa do dia: 12.500–32k). Está +49% acima da média de 7 dias (aquecida).
 
-- **Katie McCabe (88)** subiu **+58.2%** em 24h, a **61k coins** (faixa do dia: 34k–90k). Está +10% acima da média de 7 dias (aquecida).
+- **Denis Zakaria (85)** subiu **+56.5%** em 24h, a **27k coins** (faixa do dia: 16.000–27k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Igor Jesus (87)** subiu **+58%** em 24h, a **36k coins** (faixa do dia: 22k–48k). Está +9% acima da média de 7 dias (aquecida).
+- **Ben Davies (84)** subiu **+54.1%** em 24h, a **47k coins** (faixa do dia: 23k–47k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Murillo | 87 | Premier League | 80k coins | -50% | -51.9% |
-| Liam Kelly | 90 | — | 60k coins | -49.7% | -44.4% |
-| Ayyoub Bouaddi | 95 | — | 20k coins | -49.3% | -38.9% |
-| Mikel Merino | 95 | — | 30k coins | -48.7% | -72.5% |
-| William Saliba | 94 | Premier League | 158k coins | -48.7% | -55.1% |
-| Roony Bardghji | 90 | LALIGA EA SPORTS | 46k coins | -48.3% | -30.6% |
-| Patri Guijarro | 96 | — | 44k coins | -47.5% | -69.5% |
-| Aya Miyama | 90 | Icons | 68k coins | -47.3% | -21.8% |
-| Blaise Matuidi | 95 | — | 20k coins | -47.1% | -43.9% |
-| Caroline Graham Hansen | 92 | Liga F | 133k coins | -47.1% | -67.2% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 48k coins | -50% | -66.2% |
+| Keinan Davis | 90 | — | 50k coins | -50% | -33.3% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 70k coins | -50% | -63% |
+| João Félix | 93 | ROSHN Saudi League | 209k coins | -50% | -57.4% |
+| Paolo Maldini | 95 | — | 551k coins | -49.5% | -55.3% |
+| Madeline Dahlien | 90 | — | 30k coins | -48.7% | -31.4% |
+| Elliot Anderson | 89 | Premier League | 56k coins | -48.6% | -70.5% |
+| Jens Petter Hauge | 88 | Eliteserien | 36k coins | -48.6% | -35.4% |
+| Ahmed Fathi | 91 | — | 30k coins | -48.5% | -37.1% |
+| Fermín | 90 | LALIGA EA SPORTS | 50k coins | -48.4% | -39.3% |
 
 
 ### Análise das baixas
 
-- **Murillo (87)** caiu **-50%** em 24h, a **80k coins** (faixa do dia: 63k–162k). Está -35% abaixo da média de 7 dias (descontada).
+- **Désiré Doué (87)** caiu **-50%** em 24h, a **48k coins** (faixa do dia: 40k–133k). Está -58% abaixo da média de 7 dias (descontada).
 
-- **Liam Kelly (90)** caiu **-49.7%** em 24h, a **60k coins** (faixa do dia: 38k–130k). Está -26% abaixo da média de 7 dias (descontada).
+- **Keinan Davis (90)** caiu **-50%** em 24h, a **50k coins** (faixa do dia: 24k–65k). Está em linha com a média de 7 dias (-1%).
 
-- **Ayyoub Bouaddi (95)** caiu **-49.3%** em 24h, a **20k coins** (faixa do dia: 17.500–45k). Está -35% abaixo da média de 7 dias (descontada).
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
-
-| Jogador | OVR | Preço atual | Variação prevista |
-| --- | --- | --- | --- |
-| John Barnes | 89 | 31k coins | -2.3% |
+- **Julián Alvarez (88)** caiu **-50%** em 24h, a **70k coins** (faixa do dia: 57k–105k). Está -46% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Georginio Wijnaldum já avançou 58.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Orbelín Pineda já avançou 58.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Murillo recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Désiré Doué recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Georginio Wijnaldum (84, Brasileirão), com +58.9% em 24h, a 60k coins no Console (PS).
+Orbelín Pineda (89, sem liga), com +58.6% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
-Murillo (87), -50% em 24h, a 80k coins.
+Désiré Doué (87), -50% em 24h, a 48k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 631 cartas em alta contra 844 em queda (média -4.52%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 464 cartas em alta contra 1061 em queda (média -9.95%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
