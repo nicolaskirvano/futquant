@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:00:19.000Z
+pubDatetime: 2026-07-25T19:00:20.000Z
 title: "Investimentos EA FC em 25/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Ilyas Chaira (84, LALIGA EA SPORTS) lidera, com +89.5% em 7 dias a 63k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ilyas Chaira (84, LALIGA EA SPORTS) lidera, com +86.5% em 7 dias a 62k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ilyas Chaira (84) acumula **+89.5% em 7 dias** a 63k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ilyas Chaira (84) acumula **+86.5% em 7 dias** a 62k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 25/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+72.7% em 7 dias**.
-- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.9% em 24h** e **+65.1% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ilyas Chaira | 84 | LALIGA EA SPORTS | 63k coins | +9.6% | +89.5% | Esticada |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 120k coins | +9.1% | +87.5% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 130k coins | +14.6% | +84.9% | Esticada |
-| Granit Xhaka | 89 | Premier League | 85k coins | +27.8% | +78.9% | Esticada |
-| Sandro Tonali | 87 | Premier League | 59k coins | +2.5% | +74.3% | Esticada |
-| Alessia Russo | 90 | Barclays WSL | 70k coins | +9.6% | +73.9% | Esticada |
-| Erling Haaland | 90 | Premier League | 21k coins | +3.8% | +72.9% | Esticada |
-| Khadija Shaw | 90 | Barclays WSL | 95k coins | +26.7% | +72.7% | Esticada |
-| Nadine Keßler | 89 | GPFBL | 34k coins | +9.4% | +66.7% | Esticada |
-| Ragnar Ache | 84 | Bundesliga | 60k coins | +33.3% | +62.2% | Esticada |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 43k coins | +20.5% | +60% | Esticada |
-| Jürgen Kohler | 90 | Bundesliga | 70k coins | +16.7% | +55.6% | Momentum moderado |
-| Sadio Mané | 87 | — | 72k coins | +24.4% | +53.4% | Esticada |
-| Finn Azaz | 88 | EFL Championship | 54k coins | +20.2% | +52.9% | Esticada |
-| David Raya | 88 | Premier League | 46k coins | +17.7% | +51.2% | Momentum moderado |
+| Ilyas Chaira | 84 | LALIGA EA SPORTS | 62k coins | +24% | +86.5% | Esticada |
+| Sydney Leroux | 88 | NWSL | 65k coins | +14% | +80.6% | Esticada |
+| Jovana Damnjanović | 84 | GPFBL | 30k coins | +33.7% | +80.3% | Esticada |
+| Louisa Necib | 88 | D1 Arkema | 86k coins | +13.1% | +80.2% | Esticada |
+| Nicolò Zaniolo | 86 | Serie A TIM | 30k coins | +24% | +79.7% | Esticada |
+| Jaden Philogene | 87 | EFL Championship | 40k coins | +24.2% | +73.5% | Esticada |
+| Kasper Høgh | 87 | Eliteserien | 130k coins | +1.7% | +66.2% | Esticada |
+| Verena Wieder | 85 | GPFBL | 24k coins | +16.9% | +65.1% | Esticada |
+| Nadine Keßler | 89 | GPFBL | 35k coins | +15% | +64.3% | Esticada |
+| Oleksandr Zubkov | 84 | Trendyol Süper Lig | 65k coins | +16.1% | +63.5% | Esticada |
+| Khadija Shaw | 90 | Barclays WSL | 87k coins | +18.7% | +61.8% | Esticada |
+| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 34k coins | +3.2% | +60% | Esticada |
+| Nico O'Reilly | 87 | — | 80k coins | +16.8% | +60% | Esticada |
+| Martin Baturina | 84 | Serie A TIM | 47k coins | +21.2% | +58.8% | Esticada |
+| Granit Xhaka | 89 | Premier League | 77k coins | +18.8% | +58.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ilyas Chaira (84)** — 63k coins, **+89.5% em 7 dias** (+9.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ilyas Chaira (84)** — 62k coins, **+86.5% em 7 dias** (+24% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anthony Nwakaeme (87)** — 120k coins, **+87.5% em 7 dias** (+9.1% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sydney Leroux (88)** — 65k coins, **+80.6% em 7 dias** (+14% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 130k coins, **+84.9% em 7 dias** (+14.6% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jovana Damnjanović (84)** — 30k coins, **+80.3% em 7 dias** (+33.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (89)** — 85k coins, **+78.9% em 7 dias** (+27.8% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Louisa Necib (88)** — 86k coins, **+80.2% em 7 dias** (+13.1% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 59k coins, **+74.3% em 7 dias** (+2.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolò Zaniolo (86)** — 30k coins, **+79.7% em 7 dias** (+24% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Ilyas Chaira (84, LALIGA EA SPORTS) lidera, com +89.5% em 7 dias a 63k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ilyas Chaira (84, LALIGA EA SPORTS) lidera, com +86.5% em 7 dias a 62k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Amaiur Sarriegi</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marina Hegering</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.3%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Günter</text>
-<rect x="285" y="153" width="430" height="28" rx="7" fill="#22c55e"/>
-<text x="725" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jay-Jay Okocha</text>
-<rect x="285" y="211" width="386" height="28" rx="7" fill="#22c55e"/>
-<text x="681" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Graham Hansen</text>
-<rect x="285" y="269" width="332" height="28" rx="7" fill="#22c55e"/>
-<text x="627" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
-<rect x="285" y="327" width="328" height="28" rx="7" fill="#22c55e"/>
-<text x="623" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Josip Stanišić</text>
-<rect x="285" y="385" width="313" height="28" rx="7" fill="#22c55e"/>
-<text x="608" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.9%</text>
+<rect x="285" y="153" width="326" height="28" rx="7" fill="#22c55e"/>
+<text x="621" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mari José</text>
+<rect x="285" y="211" width="318" height="28" rx="7" fill="#22c55e"/>
+<text x="613" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
+<rect x="285" y="269" width="267" height="28" rx="7" fill="#22c55e"/>
+<text x="562" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
+<rect x="285" y="327" width="249" height="28" rx="7" fill="#22c55e"/>
+<text x="544" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
+<rect x="285" y="385" width="242" height="28" rx="7" fill="#22c55e"/>
+<text x="537" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
 </svg>
