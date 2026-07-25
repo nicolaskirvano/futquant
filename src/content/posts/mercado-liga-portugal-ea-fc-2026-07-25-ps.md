@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:00:24.000Z
+pubDatetime: 2026-07-25T16:00:23.000Z
 title: "Mercado Liga Portugal no EA FC em 25/07 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da Liga Portugal no EA FC Ultimate Team em 25/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da Liga Portugal no EA FC hoje?"
-    a: "Anatoliy Trubin (88), a 279k coins no Console (PS) em 25/07/2026."
+    a: "Richard Ríos (87), a 240k coins no Console (PS) em 25/07/2026."
   - q: "Quem mais valorizou na Liga Portugal esta semana no EA FC?"
-    a: "Nicolás Otamendi (86), +60% em 7 dias, a 72k coins."
+    a: "Rodrigo Mora (88), +55.4% em 7 dias, a 44k coins."
   - q: "Onde ver os preços das cartas da Liga Portugal no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Liga Portugal, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **Liga Portugal** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **25/07/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da Liga Portugal:** Anatoliy Trubin (88), a 279k coins.
+> 👑 **Carta mais valiosa da Liga Portugal:** Richard Ríos (87), a 240k coins.
 
 ![Gráfico de 24h para os destaques de Mercado Liga Portugal no EA FC em 25/07 — PS](/charts/mercado-liga-portugal-ea-fc-2026-07-25-ps.svg)
 
@@ -32,16 +32,16 @@ A **Liga Portugal** é uma das ligas mais usadas no **EA FC Ultimate Team** — 
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Anatoliy Trubin | 88 | GK | 279k coins | +60.5% |
-| Richard Ríos | 87 | CDM | 212k coins | -38.6% |
-| Richard Ríos | 88 | CM | 131k coins | -18.6% |
-| Alexander Bah | 86 | RB | 97k coins | +145.3% |
-| Oskar Pietuszewski | 86 | LM | 75k coins | -1.2% |
-| Nicolás Otamendi | 86 | CB | 72k coins | +67.8% |
-| Quaresma | 85 | RW | 68k coins | -18% |
-| João Moutinho | 88 | CM | 64k coins | -9.2% |
-| Ivan Cavaleiro | 85 | LM | 61k coins | +56.2% |
-| Emmanuel Maviram | 84 | LB | 52k coins | +13.5% |
+| Richard Ríos | 87 | CDM | 240k coins | -39.9% |
+| Anatoliy Trubin | 88 | GK | 233k coins | +56.2% |
+| Quaresma | 89 | RW | 181k coins | -20.6% |
+| Alexander Bah | 86 | RB | 89k coins | +128% |
+| Oskar Pietuszewski | 86 | LM | 72k coins | -11.9% |
+| Quaresma | 85 | RW | 66k coins | 0% |
+| João Moutinho | 88 | CM | 57k coins | -16.8% |
+| Emmanuel Maviram | 84 | LB | 51k coins | +10.9% |
+| Pedro Gonçalves | 86 | CAM | 47k coins | +20.1% |
+| Dailon Livramento | 80 | ST | 47k coins | +13.9% |
 
 
 ## 📈 Em alta na Liga Portugal (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Nicolás Otamendi | 86 | CB | 72k coins | +60% |
-| Ousmane Diomande | 85 | CB | 30k coins | +55.4% |
-| Alexander Bah | 86 | RB | 97k coins | +41.3% |
-| Rodrigo Zalazar | 84 | LW | 48k coins | +27.5% |
-| João Carvalho | 84 | LM | 40k coins | +23.3% |
-| Santi García | 84 | CAM | 42k coins | +16.5% |
-| Pizzi | 85 | RM | 26k coins | +15% |
-| Pedro Gonçalves | 86 | CAM | 42k coins | +14% |
-| Emmanuel Maviram | 84 | LB | 52k coins | +12.9% |
-| Jesús Ramírez | 84 | ST | 42k coins | +12.7% |
+| Rodrigo Mora | 88 | CAM | 44k coins | +55.4% |
+| Ousmane Diomande | 85 | CB | 28k coins | +40.4% |
+| Pedro Gonçalves | 86 | CAM | 47k coins | +26.5% |
+| Alexander Bah | 86 | RB | 89k coins | +26.1% |
+| Vangelis Pavlidis | 86 | ST | 40k coins | +10% |
+| Emmanuel Maviram | 84 | LB | 51k coins | +9.7% |
+| Nélson Oliveira | 86 | ST | 17.500 coins | +9.1% |
+| Florian Grillitsch | 84 | CM | 44k coins | +8.8% |
+| João Carvalho | 84 | LM | 37k coins | +3.9% |
+| Anatoliy Trubin | 88 | GK | 233k coins | +3.7% |
 
 
 ## 📈 Análise da Liga Portugal
 
-A carta mais valiosa da liga é **Anatoliy Trubin (88)**, a 279k coins. 
-No movimento da semana, **Nicolás Otamendi (86)** lidera as altas (+60% em 7 dias), sinal de procura crescente por cartas da Liga Portugal. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Richard Ríos (87)**, a 240k coins. 
+No movimento da semana, **Rodrigo Mora (88)** lidera as altas (+55.4% em 7 dias), sinal de procura crescente por cartas da Liga Portugal. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 
@@ -86,10 +86,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da Liga Portugal no EA FC hoje?**  
-Anatoliy Trubin (88), a 279k coins no Console (PS) em 25/07/2026.
+Richard Ríos (87), a 240k coins no Console (PS) em 25/07/2026.
 
 **Quem mais valorizou na Liga Portugal esta semana no EA FC?**  
-Nicolás Otamendi (86), +60% em 7 dias, a 72k coins.
+Rodrigo Mora (88), +55.4% em 7 dias, a 44k coins.
 
 **Onde ver os preços das cartas da Liga Portugal no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Liga Portugal, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
