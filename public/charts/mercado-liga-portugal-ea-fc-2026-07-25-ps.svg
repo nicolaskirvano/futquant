@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anatoliy Trubin</text>
-<rect x="285" y="95" width="96" height="28" rx="7" fill="#22c55e"/>
-<text x="391" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
-<rect x="285" y="153" width="66" height="28" rx="7" fill="#f87171"/>
-<text x="361" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-28.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
-<rect x="285" y="211" width="87" height="28" rx="7" fill="#f87171"/>
-<text x="382" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-37.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Bah</text>
-<rect x="285" y="269" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+208.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
-<rect x="285" y="327" width="43" height="28" rx="7" fill="#22c55e"/>
-<text x="338" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
-<rect x="285" y="385" width="40" height="28" rx="7" fill="#22c55e"/>
-<text x="335" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.6%</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
+<rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+176.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anatoliy Trubin</text>
+<rect x="285" y="153" width="43" height="28" rx="7" fill="#f87171"/>
+<text x="338" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-15.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
+<rect x="285" y="211" width="61" height="28" rx="7" fill="#f87171"/>
+<text x="356" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-22.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gonçalo Inácio</text>
+<rect x="285" y="269" width="385" height="28" rx="7" fill="#22c55e"/>
+<text x="680" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+141.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
+<rect x="285" y="327" width="48" height="28" rx="7" fill="#22c55e"/>
+<text x="343" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Grillitsch</text>
+<rect x="285" y="385" width="8" height="28" rx="7" fill="#22c55e"/>
+<text x="303" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.6%</text>
 </svg>
