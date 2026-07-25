@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T09:32:31.000Z
+pubDatetime: 2026-07-25T10:00:21.000Z
 title: "Investimentos EA FC em 25/07: radar de alta — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+61.3% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.5% em 24h** e **+61.3% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Anthony Nwakaeme | 87 | Trendyol Süper Lig | 120k coins | +9.1% | +87.5% | Esticada |
+| Sidney Govou | 86 | Ligue 1 McDonald's | 24k coins | +6.8% | +84.3% | Esticada |
 | Nadine Keßler | 90 | GPFBL | 65k coins | +18.2% | +83.1% | Esticada |
+| Koke | 88 | LALIGA EA SPORTS | 132k coins | +34.7% | +74.8% | Esticada |
 | Jorge Campos | 88 | MLS | 30k coins | +15.4% | +73.9% | Esticada |
-| Lewis Holtby | 86 | Eredivisie | 35k coins | +13.8% | +72.8% | Esticada |
-| Seko Fofana | 87 | — | 60k coins | +5.8% | +69.5% | Esticada |
-| Nadine Keßler | 88 | GPFBL | 26k coins | +14.4% | +67.6% | Esticada |
-| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 29k coins | +11.5% | +63.4% | Esticada |
-| Gustav Isaksen | 87 | Serie A TIM | 60k coins | +21.6% | +61.3% | Esticada |
-| Loreen Bender | 86 | GPFBL | 27k coins | +17.2% | +58% | Momentum moderado |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 74k coins | +3.5% | +56% | Momentum moderado |
+| Lewis Holtby | 86 | Eredivisie | 35k coins | +4.5% | +72.8% | Esticada |
+| Kyle Walker | 89 | Premier League | 235k coins | +22.9% | +62.3% | Esticada |
+| Gustav Isaksen | 87 | Serie A TIM | 58k coins | +24.1% | +61.3% | Esticada |
+| Loreen Bender | 86 | GPFBL | 27k coins | +17.2% | +60.3% | Esticada |
+| Pierre-Emerick Aubameyang | 87 | Ligue 1 McDonald's | 29k coins | +11.5% | +58.9% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 75k coins | +6.4% | +56% | Momentum moderado |
 | Lily Yohannes | 91 | — | 47k coins | +19.9% | +55.8% | Momentum moderado |
-| Omar Marmoush | 87 | Premier League | 94k coins | +9.3% | +53.8% | Momentum moderado |
-| Steve McManaman | 87 | Premier League | 25k coins | +17.6% | +53.8% | Momentum moderado |
-| Pablo Aimar | 87 | LALIGA EA SPORTS | 21k coins | +8.9% | +53.6% | Momentum moderado |
 | Raúl Jiménez | 86 | Premier League | 90k coins | +12.5% | +52.5% | Momentum moderado |
+| Steve McManaman | 87 | Premier League | 25k coins | +16.5% | +52.3% | Momentum moderado |
+| Jack Payne | 84 | EFL League Two | 55k coins | +22.2% | +51.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Anthony Nwakaeme (87)** — 120k coins, **+87.5% em 7 dias** (+9.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Sidney Govou (86)** — 24k coins, **+84.3% em 7 dias** (+6.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Nadine Keßler (90)** — 65k coins, **+83.1% em 7 dias** (+18.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Koke (88)** — 132k coins, **+74.8% em 7 dias** (+34.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Jorge Campos (88)** — 30k coins, **+73.9% em 7 dias** (+15.4% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Lewis Holtby (86)** — 35k coins, **+72.8% em 7 dias** (+13.8% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Seko Fofana (87)** — 60k coins, **+69.5% em 7 dias** (+5.8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
