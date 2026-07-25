@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Anatoliy Trubin</text>
-<rect x="285" y="95" width="127" height="28" rx="7" fill="#22c55e"/>
-<text x="422" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.3%</text>
+<rect x="285" y="95" width="200" height="28" rx="7" fill="#22c55e"/>
+<text x="495" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.5%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
-<rect x="285" y="153" width="102" height="28" rx="7" fill="#f87171"/>
-<text x="397" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-36.3%</text>
+<rect x="285" y="153" width="128" height="28" rx="7" fill="#f87171"/>
+<text x="423" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-38.6%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
-<rect x="285" y="211" width="98" height="28" rx="7" fill="#f87171"/>
-<text x="393" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-34.7%</text>
+<rect x="285" y="211" width="61" height="28" rx="7" fill="#f87171"/>
+<text x="356" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-18.6%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Bah</text>
 <rect x="285" y="269" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+170.8%</text>
+<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+145.3%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oskar Pietuszewski</text>
-<rect x="285" y="327" width="16" height="28" rx="7" fill="#f87171"/>
-<text x="311" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-5.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Maviram</text>
-<rect x="285" y="385" width="27" height="28" rx="7" fill="#22c55e"/>
-<text x="322" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.7%</text>
+<rect x="285" y="327" width="8" height="28" rx="7" fill="#f87171"/>
+<text x="303" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-1.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolás Otamendi</text>
+<rect x="285" y="385" width="224" height="28" rx="7" fill="#22c55e"/>
+<text x="519" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.8%</text>
 </svg>
