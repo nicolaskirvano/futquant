@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:00:20.000Z
+pubDatetime: 2026-07-26T13:00:19.000Z
 title: "Investimentos EA FC em 26/07: radar de alta — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+60.0% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.6% em 24h** e **+54.3% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mikael Ishak | 87 | PKO BP Ekstraklasa | 150k coins | +24% | +89.9% | Esticada |
-| Ramy Bensebaini | 87 | — | 71k coins | +1.4% | +88.1% | Esticada |
-| Croix Bethune | 89 | NWSL | 38k coins | +26.1% | +78.6% | Esticada |
-| Alexia Putellas | 91 | Liga F | 24k coins | +12.6% | +69% | Esticada |
-| Estefanía Banini | 89 | Liga F | 33k coins | +12.8% | +65% | Esticada |
-| Senne Lammens | 88 | Premier League | 95k coins | +35.7% | +61% | Esticada |
-| Jonathan Tah | 95 | — | 191k coins | +9.1% | +60.5% | Esticada |
-| Darwin Núñez | 90 | ROSHN Saudi League | 200k coins | +8.1% | +60% | Esticada |
-| Alberto Costa | 91 | — | 48k coins | +38.7% | +58.3% | Esticada |
-| Yui Hasegawa | 87 | Barclays WSL | 70k coins | +13.8% | +58.2% | Momentum moderado |
-| Marco van Basten | 94 | — | 150k coins | +11.9% | +57.9% | Momentum moderado |
-| Enzo Millot | 89 | ROSHN Saudi League | 29k coins | +29.2% | +57.5% | Esticada |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 32k coins | +26% | +57.5% | Esticada |
-| Pedro Gonçalves | 86 | Liga Portugal | 55k coins | +3.8% | +57.1% | Momentum moderado |
-| Nicolás Otamendi | 86 | Liga Portugal | 78k coins | +18.2% | +56% | Momentum moderado |
+| Alexia Putellas | 91 | Liga F | 23k coins | +11.4% | +81.5% | Esticada |
+| Erling Haaland | 90 | Premier League | 21k coins | +1.2% | +75% | Esticada |
+| Yui Hasegawa | 87 | Barclays WSL | 67k coins | +17.6% | +69.7% | Esticada |
+| Mylène Chavas | 93 | — | 44k coins | +31.9% | +65.2% | Esticada |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 29k coins | +31.2% | +57.5% | Esticada |
+| Jonathan Tah | 95 | — | 186k coins | +6.3% | +55% | Momentum moderado |
+| Rubén García | 87 | LALIGA EA SPORTS | 27k coins | +17.4% | +54.3% | Momentum moderado |
+| Ricardo Pepi | 87 | Eredivisie | 38k coins | +12% | +52.7% | Momentum moderado |
+| Olivia Smith | 86 | Barclays WSL | 63k coins | +32.1% | +49.5% | Esticada |
+| Gabriel Martinelli | 87 | Premier League | 99k coins | +7% | +49.1% | Momentum moderado |
+| Filip Kostić | 88 | Serie A TIM | 40k coins | +36.7% | +47.7% | Esticada |
+| Dominic Solanke | 87 | Premier League | 63k coins | +9.5% | +47.6% | Momentum moderado |
+| Andrea Pirlo | 90 | Icons | 180k coins | +40% | +46.9% | Esticada |
+| Tom Bischof | 87 | — | 50k coins | +20.7% | +45.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mikael Ishak (87)** — 150k coins, **+89.9% em 7 dias** (+24% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mikael Ishak (87)** — 150k coins, **+89.9% em 7 dias** (+24% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ramy Bensebaini (87)** — 71k coins, **+88.1% em 7 dias** (+1.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 23k coins, **+81.5% em 7 dias** (+11.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (89)** — 38k coins, **+78.6% em 7 dias** (+26.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Erling Haaland (90)** — 21k coins, **+75% em 7 dias** (+1.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexia Putellas (91)** — 24k coins, **+69% em 7 dias** (+12.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yui Hasegawa (87)** — 67k coins, **+69.7% em 7 dias** (+17.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 33k coins, **+65% em 7 dias** (+12.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mylène Chavas (93)** — 44k coins, **+65.2% em 7 dias** (+31.9% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

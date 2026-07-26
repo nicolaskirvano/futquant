@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:00:21.000Z
+pubDatetime: 2026-07-26T13:00:21.000Z
 title: "Jogadores baratos EA FC em 26/07: abaixo de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Ayoze (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
+    a: "Ivan Perišić (96, sem liga) aparece como melhor custo-benefício, a 11.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ayoze (96) por apenas 11.750 coins.
+> 💰 **Melhor pechincha:** Ivan Perišić (96) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC em 26/07: abaixo de 15k — PC](/charts/jogadores-baratos-ea-fc-2026-07-26-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.967 coins.
+- **Preço médio das 15 opções:** 11.917 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.750 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ayoze | 96 | ST | — | 11.750 coins | -2.1% |
-| Mayra Ramírez | 96 | ST | — | 11.750 coins | -2.1% |
-| Lorenzo Insigne | 96 | CAM | — | 11.750 coins | 0% |
-| Ciro Immobile | 96 | ST | — | 11.750 coins | 0% |
+| Ivan Perišić | 96 | RW | — | 11.500 coins | 0% |
 | Arnaut Danjuma | 96 | LM | — | 11.750 coins | -2.1% |
-| Héctor Bellerín | 96 | RB | — | 11.750 coins | -4.1% |
-| Ethan Mbappé | 96 | CM | — | 11.750 coins | -4.1% |
+| Lorenzo Insigne | 96 | CAM | — | 11.750 coins | -2.1% |
+| Gelson Martins | 96 | RM | — | 11.750 coins | -11.1% |
+| Ayoze | 96 | ST | — | 11.750 coins | -2.1% |
+| Ciro Immobile | 96 | ST | — | 11.750 coins | -2.1% |
+| Manuel Lanzini | 96 | CAM | — | 11.750 coins | -2.1% |
 | Randal Kolo Muani | 96 | ST | — | 11.750 coins | 0% |
-| Ivan Perišić | 96 | RW | — | 11.750 coins | 0% |
-| Manuel Lanzini | 96 | CAM | — | 11.750 coins | 0% |
+| Ethan Mbappé | 96 | CM | — | 11.750 coins | -4.1% |
 | Tyrhys Dolan | 96 | RM | — | 12.000 coins | -2% |
-| Gelson Martins | 96 | RM | — | 12.000 coins | -12.7% |
-| Joey Veerman | 96 | CM | — | 12.250 coins | -3.9% |
-| Xherdan Shaqiri | 96 | CAM | — | 12.750 coins | -3.8% |
-| Fiamma Benítez | 96 | CAM | — | 13.000 coins | -1.9% |
+| Mayra Ramírez | 96 | ST | — | 12.000 coins | 0% |
+| Héctor Bellerín | 96 | RB | — | 12.000 coins | -7.8% |
+| Julian Quiñones | 96 | LW | — | 12.000 coins | +12.2% |
+| Xherdan Shaqiri | 96 | CAM | — | 12.500 coins | -1.9% |
+| Joey Veerman | 96 | CM | — | 12.750 coins | -10.9% |
 
 
 ## 📈 Destaques
 
-- **Ayoze (96, ST)** da —, a apenas **11.750 coins**
+- **Ivan Perišić (96, RW)** da —, a apenas **11.500 coins**
 
-- **Mayra Ramírez (96, ST)** da —, a apenas **11.750 coins**
+- **Arnaut Danjuma (96, LM)** da —, a apenas **11.750 coins**
 
 - **Lorenzo Insigne (96, CAM)** da —, a apenas **11.750 coins**
 
-- **Ciro Immobile (96, ST)** da —, a apenas **11.750 coins**
+- **Gelson Martins (96, RM)** da —, a apenas **11.750 coins**
 
-- **Arnaut Danjuma (96, LM)** da —, a apenas **11.750 coins**
+- **Ayoze (96, ST)** da —, a apenas **11.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Héctor Bellerín (96, RB) por 11.750 coins é a referência de rating deste recorte.
+- **Defesa:** Héctor Bellerín (96, RB) por 12.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Lorenzo Insigne (96, CAM) por 11.750 coins é a referência de rating deste recorte.
+- **Meio:** Arnaut Danjuma (96, LM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Ayoze (96, ST) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Ivan Perišić (96, RW) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Ayoze (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
+Ivan Perišić (96, sem liga) aparece como melhor custo-benefício, a 11.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
