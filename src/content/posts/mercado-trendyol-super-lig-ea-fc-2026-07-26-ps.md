@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:35:42.000Z
+pubDatetime: 2026-07-26T10:00:24.000Z
 title: "Mercado Trendyol Süper Lig no EA FC em 26/07 — PS"
 draft: false
 featured: false
@@ -32,15 +32,15 @@ A **Trendyol Süper Lig** é uma das ligas mais usadas no **EA FC Ultimate Team*
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Victor Osimhen | 88 | ST | 398k coins | +18.1% |
-| Quaresma | 88 | RW | 256k coins | +2.8% |
-| Barış Alper Yılmaz | 89 | LM | 220k coins | -4.3% |
+| Victor Osimhen | 88 | ST | 398k coins | +26.3% |
+| Quaresma | 88 | RW | 256k coins | +2.4% |
+| Barış Alper Yılmaz | 89 | LM | 220k coins | -7.2% |
 | Mario Lemina | 89 | CDM | 180k coins | — |
 | Barış Alper Yılmaz | 88 | LM | 178k coins | -7.3% |
 | N'Golo Kanté | 93 | CDM | 125k coins | -7.4% |
-| Edson Álvarez | 86 | CDM | 88k coins | +161.2% |
-| Ederson | 87 | GK | 72k coins | +81.2% |
-| Barış Alper Yılmaz | 86 | LM | 60k coins | -11.7% |
+| Edson Álvarez | 86 | CDM | 88k coins | +165.2% |
+| Ederson | 87 | GK | 72k coins | +85.9% |
+| Barış Alper Yılmaz | 86 | LM | 60k coins | -12.9% |
 | Gabriel Sara | 83 | CM | 60k coins | +8.1% |
 
 
@@ -51,9 +51,9 @@ Cartas da liga que mais valorizaram na última semana:
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
 | Ciro Immobile | 78 | ST | 5.600 coins | +86.7% |
-| Mario Lemina | 89 | CDM | 180k coins | +55.2% |
 | Gabriel Sara | 83 | CM | 60k coins | +53.8% |
 | Edson Álvarez | 86 | CDM | 88k coins | +53.5% |
+| Mario Lemina | 89 | CDM | 180k coins | +50% |
 | Leroy Sané | 84 | RM | 55k coins | +37.5% |
 | Ederson | 87 | GK | 72k coins | +35.5% |
 | Mario Lemina | 88 | CM | 40k coins | +32.5% |

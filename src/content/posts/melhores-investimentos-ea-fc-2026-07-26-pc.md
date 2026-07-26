@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:35:38.000Z
+pubDatetime: 2026-07-26T10:00:20.000Z
 title: "Investimentos EA FC em 26/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Ramy Bensebaini (87, sem liga) lidera, com +88.1% em 7 dias a 71k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mikael Ishak (87, PKO BP Ekstraklasa) lidera, com +89.9% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ramy Bensebaini (87) acumula **+88.1% em 7 dias** a 71k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mikael Ishak (87) acumula **+89.9% em 7 dias** a 150k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 26/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+58.3% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.8% em 24h** e **+60.0% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **ROSHN Saudi League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Mikael Ishak | 87 | PKO BP Ekstraklasa | 150k coins | +24% | +89.9% | Esticada |
 | Ramy Bensebaini | 87 | — | 71k coins | +1.4% | +88.1% | Esticada |
-| Croix Bethune | 89 | NWSL | 38k coins | +26.1% | +76.5% | Esticada |
-| Alexia Putellas | 91 | Liga F | 24k coins | +8.9% | +69% | Esticada |
-| Estefanía Banini | 89 | Liga F | 33k coins | +12.8% | +63% | Esticada |
-| Senne Lammens | 88 | Premier League | 95k coins | +20.3% | +61% | Esticada |
+| Croix Bethune | 89 | NWSL | 38k coins | +26.1% | +78.6% | Esticada |
+| Alexia Putellas | 91 | Liga F | 24k coins | +12.6% | +69% | Esticada |
+| Estefanía Banini | 89 | Liga F | 33k coins | +12.8% | +65% | Esticada |
+| Senne Lammens | 88 | Premier League | 95k coins | +35.7% | +61% | Esticada |
 | Jonathan Tah | 95 | — | 191k coins | +9.1% | +60.5% | Esticada |
 | Darwin Núñez | 90 | ROSHN Saudi League | 200k coins | +8.1% | +60% | Esticada |
-| Alberto Costa | 91 | — | 48k coins | +37.7% | +58.3% | Esticada |
+| Alberto Costa | 91 | — | 48k coins | +38.7% | +58.3% | Esticada |
+| Yui Hasegawa | 87 | Barclays WSL | 70k coins | +13.8% | +58.2% | Momentum moderado |
 | Marco van Basten | 94 | — | 150k coins | +11.9% | +57.9% | Momentum moderado |
 | Enzo Millot | 89 | ROSHN Saudi League | 29k coins | +29.2% | +57.5% | Esticada |
-| Rasmus Højlund | 87 | Serie A TIM | 38k coins | +16.2% | +57.3% | Momentum moderado |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 32k coins | +26% | +57.5% | Esticada |
 | Pedro Gonçalves | 86 | Liga Portugal | 55k coins | +3.8% | +57.1% | Momentum moderado |
 | Nicolás Otamendi | 86 | Liga Portugal | 78k coins | +18.2% | +56% | Momentum moderado |
-| Yui Hasegawa | 87 | Barclays WSL | 70k coins | +13.8% | +55.6% | Momentum moderado |
-| Gabriel Martinelli | 87 | Premier League | 123k coins | +26.2% | +52.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
+- **Mikael Ishak (87)** — 150k coins, **+89.9% em 7 dias** (+24% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Ramy Bensebaini (87)** — 71k coins, **+88.1% em 7 dias** (+1.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (89)** — 38k coins, **+76.5% em 7 dias** (+26.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Croix Bethune (89)** — 38k coins, **+78.6% em 7 dias** (+26.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexia Putellas (91)** — 24k coins, **+69% em 7 dias** (+8.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 24k coins, **+69% em 7 dias** (+12.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 33k coins, **+63% em 7 dias** (+12.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Senne Lammens (88)** — 95k coins, **+61% em 7 dias** (+20.3% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 33k coins, **+65% em 7 dias** (+12.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Ramy Bensebaini (87, sem liga) lidera, com +88.1% em 7 dias a 71k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mikael Ishak (87, PKO BP Ekstraklasa) lidera, com +89.9% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

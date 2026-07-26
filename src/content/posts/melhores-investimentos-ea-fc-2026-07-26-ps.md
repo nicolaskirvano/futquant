@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:35:29.000Z
+pubDatetime: 2026-07-26T10:00:10.000Z
 title: "Investimentos EA FC em 26/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.7% em 24h** e **+60.9% em 7 dias**.
+- A mediana é de **+21.1% em 24h** e **+58.5% em 7 dias**.
 - **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Croix Bethune | 87 | NWSL | 25k coins | +26.9% | +83.3% | Esticada |
 | Eric Maxim Choupo-Moting | 86 | MLS | 40k coins | +32.5% | +82.8% | Esticada |
+| Oliver Kahn | 91 | Icons | 159k coins | +22.3% | +74.7% | Esticada |
 | Ramy Bensebaini | 87 | — | 75k coins | +15.4% | +74.4% | Esticada |
 | Christian Pulisic | 86 | Serie A TIM | 68k coins | +31.7% | +73.4% | Esticada |
-| Oliver Kahn | 91 | Icons | 159k coins | +22.3% | +69.1% | Esticada |
-| Ashley Sanchez | 88 | NWSL | 92k coins | +2.2% | +64.3% | Esticada |
-| Lily Yohannes | 84 | D1 Arkema | 65k coins | +36.8% | +63.5% | Esticada |
+| Lily Yohannes | 84 | D1 Arkema | 65k coins | +26.2% | +63.5% | Esticada |
 | Nikola Katić | 90 | — | 140k coins | +20.7% | +60.9% | Esticada |
-| Jess Fishlock | 88 | NWSL | 29k coins | +8.4% | +58.9% | Momentum moderado |
 | Elba Vergés | 84 | Liga F | 65k coins | +10.2% | +58.5% | Momentum moderado |
-| António Silva | 87 | Liga Portugal | 25k coins | +33.3% | +53.8% | Esticada |
-| Yassine Bounou | 86 | — | 55k coins | +18.3% | +53.8% | Momentum moderado |
+| Yassine Bounou | 86 | — | 55k coins | +26.4% | +53.8% | Esticada |
 | Ada Hegerberg | 88 | Frauen-Bundesliga | 126k coins | +4.1% | +53.7% | Momentum moderado |
-| Kevin Stöger | 86 | Bundesliga | 39k coins | +21.1% | +53.5% | Esticada |
-| Mari José | 86 | Liga F | 32k coins | +19.4% | +50% | Momentum moderado |
+| Kevin Stöger | 86 | Bundesliga | 39k coins | +21.1% | +52% | Esticada |
+| Eileen Campbell | 86 | GPFBL | 59k coins | +35.6% | +49.4% | Esticada |
+| Francisco Conceição | 84 | Serie A TIM | 57k coins | +16.9% | +48.1% | Momentum moderado |
+| Jess Fishlock | 88 | NWSL | 29k coins | +8.4% | +46.8% | Momentum moderado |
+| Senne Lammens | 88 | Premier League | 80k coins | +15.9% | +46.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Eric Maxim Choupo-Moting (86)** — 40k coins, **+82.8% em 7 dias** (+32.5% em 24h). Preço +78% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Oliver Kahn (91)** — 159k coins, **+74.7% em 7 dias** (+22.3% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Ramy Bensebaini (87)** — 75k coins, **+74.4% em 7 dias** (+15.4% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Christian Pulisic (86)** — 68k coins, **+73.4% em 7 dias** (+31.7% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Oliver Kahn (91)** — 159k coins, **+69.1% em 7 dias** (+22.3% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

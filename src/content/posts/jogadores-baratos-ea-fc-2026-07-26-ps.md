@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T09:35:30.000Z
+pubDatetime: 2026-07-26T10:00:12.000Z
 title: "Jogadores baratos EA FC em 26/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Héctor Bellerín (96, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS)."
+    a: "Randal Kolo Muani (96, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Héctor Bellerín (96) por apenas 11.000 coins.
+> 💰 **Melhor pechincha:** Randal Kolo Muani (96) por apenas 11.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC em 26/07: abaixo de 15k — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-26-ps.svg)
 
@@ -40,16 +40,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Héctor Bellerín | 96 | RB | — | 11.000 coins | -10.2% |
 | Randal Kolo Muani | 96 | ST | — | 11.000 coins | -8.3% |
-| Ivan Perišić | 96 | RW | — | 11.500 coins | -4.2% |
+| Héctor Bellerín | 96 | RB | — | 11.000 coins | -10.2% |
 | Lorenzo Insigne | 96 | CAM | — | 11.500 coins | -2.1% |
 | Tyrhys Dolan | 96 | RM | — | 11.500 coins | -6.1% |
 | Arnaut Danjuma | 96 | LM | — | 11.500 coins | -2.1% |
+| Ivan Perišić | 96 | RW | — | 11.500 coins | -4.2% |
 | Ayoze | 96 | ST | — | 11.500 coins | -4.2% |
 | Manuel Lanzini | 96 | CAM | — | 11.750 coins | 0% |
-| Mayra Ramírez | 96 | ST | — | 11.750 coins | -2.1% |
 | Ciro Immobile | 96 | ST | — | 11.750 coins | 0% |
+| Mayra Ramírez | 96 | ST | — | 11.750 coins | -2.1% |
 | Xherdan Shaqiri | 96 | CAM | — | 12.000 coins | -11.1% |
 | Ethan Mbappé | 96 | CM | — | 12.750 coins | -7.3% |
 | Fiamma Benítez | 96 | CAM | — | 12.750 coins | -5.6% |
@@ -59,15 +59,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## 📈 Destaques
 
-- **Héctor Bellerín (96, RB)** da —, a apenas **11.000 coins**
-
 - **Randal Kolo Muani (96, ST)** da —, a apenas **11.000 coins**
 
-- **Ivan Perišić (96, RW)** da —, a apenas **11.500 coins**
+- **Héctor Bellerín (96, RB)** da —, a apenas **11.000 coins**
 
 - **Lorenzo Insigne (96, CAM)** da —, a apenas **11.500 coins**
 
 - **Tyrhys Dolan (96, RM)** da —, a apenas **11.500 coins**
+
+- **Arnaut Danjuma (96, LM)** da —, a apenas **11.500 coins**
 
 
 ## Como distribuir a banca
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Héctor Bellerín (96, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS).
+Randal Kolo Muani (96, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
