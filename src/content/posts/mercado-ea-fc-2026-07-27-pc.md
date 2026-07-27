@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:00:18.000Z
+pubDatetime: 2026-07-27T19:00:18.000Z
 title: "Mercado EA FC em 27/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Maxence Lacroix (96, sem liga), com +60% em 24h, a 1.75M coins no PC."
+    a: "Lindsey Heaps (90, D1 Arkema), com +60% em 24h, a 92k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Aya Miyama (92), -50% em 24h, a 20k coins."
+    a: "Désiré Doué (87), -48.9% em 24h, a 137k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Fara Williams (88) — 77% de probabilidade de alta, a 26k coins."
+    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 977 cartas em alta contra 759 em queda (média 7.3%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 834 cartas em alta contra 757 em queda (média 5.16%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**27/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **977 subiram**, **759 caíram** (80+ e 5k+ coins), média de **7.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**27/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **834 subiram**, **757 caíram** (80+ e 5k+ coins), média de **5.16%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Maxence Lacroix (96) **+60%** · 🔴 **Maior baixa:** Aya Miyama (92) **-50%**
+> 🟢 **Maior alta:** Lindsey Heaps (90) **+60%** · 🔴 **Maior baixa:** Désiré Doué (87) **-48.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -37,24 +37,24 @@ Hoje (**27/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.3% entre as cartas que se moveram; o universo observado reúne 2256 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.4% entre as cartas que se moveram; o universo observado reúne 2122 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Maxence Lacroix | 96 | — | 1.75M coins | +60% | +16% |
-| Vincent Kompany | 91 | Premier League | 24k coins | +60% | -56% |
-| Gabriel Martinelli | 87 | Premier League | 127k coins | +59.7% | +15.5% |
-| Emiliano Buendía | 83 | Premier League | 58k coins | +59.7% | -22.8% |
-| Lamine Yamal | 92 | LALIGA EA SPORTS | 780k coins | +59.5% | -44.3% |
-| Khvicha Kvaratskhelia | 96 | — | 995k coins | +58.7% | -33.6% |
-| Tim Cahill | 85 | Premier League | 26k coins | +58.6% | +48% |
+| Lindsey Heaps | 90 | D1 Arkema | 92k coins | +60% | +80.4% |
+| Emiliano Buendía | 83 | Premier League | 58k coins | +59.7% | -22.3% |
+| Vanessa Gilles | 94 | — | 30k coins | +58.8% | +28.6% |
+| Said El Mala | 90 | — | 44k coins | +58.8% | +6.5% |
+| Samuel Eto'o | 90 | Icons | 950k coins | +58.3% | +54.2% |
 | Maksim Paskotši | 84 | 1A Pro League | 48k coins | +58.3% | 0% |
-| Marco Asensio | 85 | Trendyol Süper Lig | 28k coins | +58.1% | +11.4% |
-| Kieran Tierney | 96 | — | 80k coins | +58% | -37.3% |
+| Theo Hernández | 95 | — | 65k coins | +58.2% | -39.6% |
+| Nadine Angerer | 93 | — | 22k coins | +58.1% | +4.3% |
+| Natalia Ramos | 87 | — | 63k coins | +57.5% | +75% |
+| Adam Wharton | 96 | — | 445k coins | +56.2% | -49% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Hoje (**27/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Maxence Lacroix (96)** subiu **+60%** em 24h, a **1.75M coins** (faixa do dia: 1M–2M). Está em linha com a média de 7 dias (+1%).
+- **Lindsey Heaps (90)** subiu **+60%** em 24h, a **92k coins** (faixa do dia: 57k–94k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Vincent Kompany (91)** subiu **+60%** em 24h, a **24k coins** (faixa do dia: 12.500–35k). Está -56% abaixo da média de 7 dias (descontada).
+- **Emiliano Buendía (83)** subiu **+59.7%** em 24h, a **58k coins** (faixa do dia: 36k–74k). Está em linha com a média de 7 dias (+3%).
 
-- **Gabriel Martinelli (87)** subiu **+59.7%** em 24h, a **127k coins** (faixa do dia: 80k–160k). Está em linha com a média de 7 dias (-3%).
+- **Vanessa Gilles (94)** subiu **+58.8%** em 24h, a **30k coins** (faixa do dia: 16.750–50k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aya Miyama | 92 | Icons | 20k coins | -50% | -67.5% |
-| Kylian Mbappé | 93 | — | 2.90M coins | -50% | -52.6% |
-| Vivianne Miedema | 89 | Barclays WSL | 20k coins | -49.6% | -60.6% |
-| Antonio Di Natale | 89 | Serie A TIM | 172k coins | -49.1% | -53.3% |
-| Moussa Sissoko | 88 | EFL Championship | 299k coins | -48.9% | -52.8% |
-| Thierry Henry | 91 | Icons | 1.50M coins | -48.3% | -46.5% |
-| Lauren James | 89 | Barclays WSL | 26k coins | -47.7% | -54.8% |
-| Pavel Nedvěd | 89 | Icons | 137k coins | -46.9% | -34.8% |
-| Eden Hazard | 90 | Premier League | 689k coins | -46.9% | -35.4% |
-| Harry Kane | 97 | — | 750k coins | -46% | -15.3% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 137k coins | -48.9% | -54.3% |
+| Thierry Henry | 91 | Icons | 1.50M coins | -48.4% | -46.6% |
+| Francisco Moura | 90 | Liga Portugal | 31k coins | -47.9% | -47.5% |
+| Vitinha | 96 | — | 2.10M coins | -47.9% | -70.7% |
+| Lilian Thuram | 94 | — | 364k coins | -47.2% | -51.5% |
+| Antonio Di Natale | 89 | Serie A TIM | 160k coins | -47.1% | -43.3% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 500k coins | -47.1% | -52.3% |
+| Momoko Tanikawa | 91 | — | 26k coins | -46.5% | -11.7% |
+| Rodrigo Mora | 87 | Liga Portugal | 24k coins | -45% | -12.4% |
+| Jay-Jay Okocha | 88 | Premier League | 27k coins | -44.9% | -19.4% |
 
 
 ### Análise das baixas
 
-- **Aya Miyama (92)** caiu **-50%** em 24h, a **20k coins** (faixa do dia: 15.000–54k). Está -60% abaixo da média de 7 dias (descontada).
+- **Désiré Doué (87)** caiu **-48.9%** em 24h, a **137k coins** (faixa do dia: 113k–300k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Kylian Mbappé (93)** caiu **-50%** em 24h, a **2.90M coins** (faixa do dia: 2.88M–7.40M). Está -28% abaixo da média de 7 dias (descontada).
+- **Thierry Henry (91)** caiu **-48.4%** em 24h, a **1.50M coins** (faixa do dia: 1.50M–2.90M). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Vivianne Miedema (89)** caiu **-49.6%** em 24h, a **20k coins** (faixa do dia: 16.500–44k). Está -40% abaixo da média de 7 dias (descontada).
+- **Francisco Moura (90)** caiu **-47.9%** em 24h, a **31k coins** (faixa do dia: 28k–60k). Está -49% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Radar de valorização (24h)
@@ -101,14 +101,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Fara Williams | 88 | 26k coins | 26k coins | 77% |
+| Fara Williams | 88 | 22k coins | 25k coins | 78% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Maxence Lacroix já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lindsey Heaps já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aya Miyama recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Désiré Doué recuou -48.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Maxence Lacroix (96, sem liga), com +60% em 24h, a 1.75M coins no PC.
+Lindsey Heaps (90, D1 Arkema), com +60% em 24h, a 92k coins no PC.
 
 **E a maior queda do dia?**
-Aya Miyama (92), -50% em 24h, a 20k coins.
+Désiré Doué (87), -48.9% em 24h, a 137k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Fara Williams (88) — 77% de probabilidade de alta, a 26k coins.
+Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 977 cartas em alta contra 759 em queda (média 7.3%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 834 cartas em alta contra 757 em queda (média 5.16%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
