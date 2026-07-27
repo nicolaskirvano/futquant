@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T09:42:47.000Z
+pubDatetime: 2026-07-27T10:00:20.000Z
 title: "Investimentos EA FC em 27/07: radar de alta — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+26.8% em 24h** e **+65.8% em 7 dias**.
-- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+26.8% em 24h** e **+62.5% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,27 +44,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Matías Soulé | 84 | Serie A TIM | 50k coins | +11.1% | +83.5% | Esticada |
-| Alex Scott | 89 | Barclays WSL | 100k coins | +38.9% | +81.8% | Esticada |
+| Alex Scott | 89 | Barclays WSL | 100k coins | +38.9% | +80.2% | Esticada |
 | Lindsey Heaps | 90 | D1 Arkema | 94k coins | +29.7% | +75.7% | Esticada |
 | Patrick Berg | 95 | — | 80k coins | +22.3% | +74.7% | Esticada |
 | Adam Wharton | 88 | Premier League | 30k coins | +38.5% | +70.3% | Esticada |
-| Giorgio Chiellini | 89 | Icons | 101k coins | +30.1% | +67.4% | Esticada |
 | Gheorghe Hagi | 90 | Icons | 150k coins | +37.6% | +66.7% | Esticada |
 | Simone Laudehr | 90 | GPFBL | 50k coins | +3.6% | +65.8% | Esticada |
 | Semih Kılıçsoy | 84 | Serie A TIM | 65k coins | +21.5% | +62.5% | Esticada |
 | Mary Fowler | 87 | Barclays Women’s Super League | 68k coins | +26.8% | +62.3% | Esticada |
 | Rubén García | 87 | LALIGA EA SPORTS | 27k coins | +12.5% | +61.2% | Esticada |
-| Leah Williamson | 95 | Barclays WSL | 184k coins | +21.2% | +60.2% | Esticada |
 | Jaden Philogene | 87 | EFL Championship | 60k coins | +34.1% | +60% | Esticada |
 | Wendie Renard | 86 | D1 Arkema | 24k coins | +12.6% | +58.1% | Momentum moderado |
-| Orlando Gill | 95 | — | 72k coins | +27.1% | +57.9% | Esticada |
+| Orlando Gill | 95 | — | 70k coins | +27.1% | +57.9% | Esticada |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 74k coins | +40% | +57.1% | Esticada |
+| Patrick Dorgu | 84 | Premier League | 129k coins | +9.2% | +56.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Matías Soulé (84)** — 50k coins, **+83.5% em 7 dias** (+11.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alex Scott (89)** — 100k coins, **+81.8% em 7 dias** (+38.9% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alex Scott (89)** — 100k coins, **+80.2% em 7 dias** (+38.9% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Lindsey Heaps (90)** — 94k coins, **+75.7% em 7 dias** (+29.7% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

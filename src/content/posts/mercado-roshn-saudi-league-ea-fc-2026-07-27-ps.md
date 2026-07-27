@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T09:42:51.000Z
+pubDatetime: 2026-07-27T10:00:24.000Z
 title: "Mercado ROSHN Saudi League no EA FC em 27/07 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da ROSHN Saudi League no EA FC Ultimate Team em 27/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?"
-    a: "Cristiano Ronaldo (90), a 11M coins no Console (PS) em 27/07/2026."
+    a: "Cristiano Ronaldo (90), a 9.98M coins no Console (PS) em 27/07/2026."
   - q: "Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?"
-    a: "Chris Smalling (87), +62.2% em 7 dias, a 60k coins."
+    a: "Chris Smalling (87), +63.3% em 7 dias, a 60k coins."
   - q: "Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **ROSHN Saudi League** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **27/07/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da ROSHN Saudi League:** Cristiano Ronaldo (90), a 11M coins.
+> 👑 **Carta mais valiosa da ROSHN Saudi League:** Cristiano Ronaldo (90), a 9.98M coins.
 
 ![Gráfico de 24h para os destaques de Mercado ROSHN Saudi League no EA FC em 27/07 — PS](/charts/mercado-roshn-saudi-league-ea-fc-2026-07-27-ps.svg)
 
@@ -32,16 +32,16 @@ A **ROSHN Saudi League** é uma das ligas mais usadas no **EA FC Ultimate Team**
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Cristiano Ronaldo | 90 | ST | 11M coins | -24.5% |
-| Cristiano Ronaldo | 92 | ST | 1.32M coins | +19.5% |
-| Cristiano Ronaldo | 89 | ST | 651k coins | -2.8% |
+| Cristiano Ronaldo | 90 | ST | 9.98M coins | -24.5% |
+| Cristiano Ronaldo | 92 | ST | 1.32M coins | +10.9% |
+| Cristiano Ronaldo | 89 | ST | 649k coins | -2.8% |
 | João Félix | 93 | CAM | 345k coins | +12.5% |
 | Cristiano Ronaldo | 86 | ST | 245k coins | +36.1% |
+| João Félix | 84 | ST | 152k coins | -9.5% |
 | Sadio Mané | 88 | LM | 152k coins | +8.5% |
-| João Félix | 84 | ST | 143k coins | -9.5% |
 | Cristiano Ronaldo | 88 | ST | 135k coins | 0% |
-| João Félix | 86 | LW | 126k coins | +4.1% |
-| Karim Benzema | 88 | ST | 105k coins | -23.7% |
+| João Félix | 86 | LW | 115k coins | +3.3% |
+| Karim Benzema | 88 | ST | 105k coins | -19.8% |
 
 
 ## 📈 Em alta na ROSHN Saudi League (7 dias)
@@ -50,21 +50,21 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Chris Smalling | 87 | CB | 60k coins | +62.2% |
+| Chris Smalling | 87 | CB | 60k coins | +63.3% |
 | Malcom | 87 | RW | 64k coins | +51.1% |
-| Julian Quiñones | 87 | ST | 66k coins | +47.3% |
+| Julian Quiñones | 87 | ST | 66k coins | +44% |
 | Carlos Júnior | 84 | ST | 54k coins | +35.8% |
-| Iñigo Martínez | 86 | CB | 52k coins | +32.5% |
-| João Cancelo | 87 | RB | 38k coins | +31% |
-| Sergej Milinković-Savić | 86 | CM | 55k coins | +14.9% |
-| João Félix | 87 | CAM | 42k coins | +9.6% |
+| João Cancelo | 87 | RB | 28k coins | +29.3% |
+| Iñigo Martínez | 86 | CB | 50k coins | +28.8% |
+| Sergej Milinković-Savić | 86 | CM | 50k coins | +11.9% |
+| Karim Benzema | 88 | ST | 105k coins | +7.1% |
 | Rúben Neves | 87 | CM | 50k coins | +4.2% |
 
 
 ## 📈 Análise da ROSHN Saudi League
 
-A carta mais valiosa da liga é **Cristiano Ronaldo (90)**, a 11M coins. 
-No movimento da semana, **Chris Smalling (87)** lidera as altas (+62.2% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Cristiano Ronaldo (90)**, a 9.98M coins. 
+No movimento da semana, **Chris Smalling (87)** lidera as altas (+63.3% em 7 dias), sinal de procura crescente por cartas da ROSHN Saudi League. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## ⚙️ A engine por trás deste post
@@ -74,10 +74,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da ROSHN Saudi League no EA FC hoje?**  
-Cristiano Ronaldo (90), a 11M coins no Console (PS) em 27/07/2026.
+Cristiano Ronaldo (90), a 9.98M coins no Console (PS) em 27/07/2026.
 
 **Quem mais valorizou na ROSHN Saudi League esta semana no EA FC?**  
-Chris Smalling (87), +62.2% em 7 dias, a 60k coins.
+Chris Smalling (87), +63.3% em 7 dias, a 60k coins.
 
 **Onde ver os preços das cartas da ROSHN Saudi League no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da ROSHN Saudi League, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
