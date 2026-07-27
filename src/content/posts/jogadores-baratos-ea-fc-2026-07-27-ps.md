@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:00:11.000Z
+pubDatetime: 2026-07-27T16:00:11.000Z
 title: "Jogadores baratos EA FC em 27/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Arnaut Danjuma (96, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
+    a: "Johan Manzambi (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Arnaut Danjuma (96) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Johan Manzambi (95) por apenas 14.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC em 27/07: abaixo de 15k — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-27-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.983 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 12.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 13.450 coins.
+- **Posição mais frequente:** CM, com 5 cartas.
+- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Arnaut Danjuma | 96 | LM | — | 12.500 coins | +4.3% |
-| Manuel Lanzini | 96 | CAM | — | 12.500 coins | +2.1% |
-| Ciro Immobile | 96 | ST | — | 12.750 coins | +2.1% |
-| Ivan Perišić | 96 | RW | — | 13.000 coins | +2.1% |
-| Mayra Ramírez | 96 | ST | — | 13.000 coins | +4.3% |
-| Randal Kolo Muani | 96 | ST | — | 13.000 coins | +11.4% |
-| Lorenzo Insigne | 96 | CAM | — | 13.250 coins | +4.3% |
-| Gabriel Silva | 95 | LW | — | 12.500 coins | +4.3% |
-| Miles Robinson | 95 | CB | — | 12.500 coins | +4.3% |
-| Claire Lavogez | 95 | CAM | — | 12.500 coins | +4.3% |
-| Nnamdi Collins | 95 | CB | — | 12.750 coins | +4.3% |
-| Milan van Ewijk | 95 | RB | — | 13.000 coins | +4.3% |
-| Karamoko Dembélé | 95 | RM | — | 13.000 coins | +2.1% |
-| Johan Manzambi | 95 | CAM | — | 13.750 coins | +7.8% |
-| Stephen Eustáquio | 95 | CM | — | 14.750 coins | +14% |
+| Johan Manzambi | 95 | CAM | — | 14.500 coins | +15.7% |
+| Stephen Eustáquio | 95 | CM | — | 14.750 coins | +18% |
+| Gustavo Puerta | 94 | CM | — | 14.000 coins | +18% |
+| Nico Paz | 94 | CAM | — | 14.250 coins | +18.2% |
+| Elijah Just | 94 | LW | — | 14.750 coins | +18% |
+| Diney | 94 | CB | — | 14.750 coins | +20.4% |
+| Gerd Müller | 93 | ST | Icons | 11.750 coins | -14.5% |
+| Aleksandar Pavlović | 93 | CDM | — | 14.500 coins | +21.4% |
+| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Andrei Rațiu | 92 | RB | — | 13.000 coins | -8.3% |
+| Esperanza Pizarro | 92 | CM | — | 13.250 coins | +17.4% |
+| Alan Shearer | 92 | ST | — | 13.750 coins | -1.7% |
+| Jamie Carragher | 92 | CB | — | 14.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Arnaut Danjuma (96, LM)** da —, a apenas **12.500 coins**
+- **Johan Manzambi (95, CAM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Manuel Lanzini (96, CAM)** da —, a apenas **12.500 coins**
+- **Stephen Eustáquio (95, CM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ciro Immobile (96, ST)** da —, a apenas **12.750 coins**
+- **Gustavo Puerta (94, CM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ivan Perišić (96, RW)** da —, a apenas **13.000 coins**
+- **Nico Paz (94, CAM)** da —, a apenas **14.250 coins**
 
-- **Mayra Ramírez (96, ST)** da —, a apenas **13.000 coins**
+- **Elijah Just (94, LW)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Miles Robinson (95, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Diney (94, CB) por 14.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Arnaut Danjuma (96, LM) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Johan Manzambi (95, CAM) por 14.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Ciro Immobile (96, ST) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Elijah Just (94, LW) por 14.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Arnaut Danjuma (96, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
+Johan Manzambi (95, sem liga) aparece como melhor custo-benefício, a 14.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
