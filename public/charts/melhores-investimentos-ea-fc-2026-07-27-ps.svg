@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Chiellini</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Diomande</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marc-André ter Stegen</text>
-<rect x="285" y="153" width="454" height="28" rx="7" fill="#22c55e"/>
-<text x="749" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sveindís Jane Jónsdóttir</text>
-<rect x="285" y="211" width="445" height="28" rx="7" fill="#22c55e"/>
-<text x="740" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+82.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Stöger</text>
-<rect x="285" y="269" width="431" height="28" rx="7" fill="#22c55e"/>
-<text x="726" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matías Soulé</text>
-<rect x="285" y="327" width="405" height="28" rx="7" fill="#22c55e"/>
-<text x="700" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pascal Groß</text>
-<rect x="285" y="385" width="382" height="28" rx="7" fill="#22c55e"/>
-<text x="677" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dejan Lovren</text>
+<rect x="285" y="153" width="440" height="28" rx="7" fill="#22c55e"/>
+<text x="735" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Orlando Gill</text>
+<rect x="285" y="211" width="436" height="28" rx="7" fill="#22c55e"/>
+<text x="731" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hervé Koffi</text>
+<rect x="285" y="269" width="435" height="28" rx="7" fill="#22c55e"/>
+<text x="730" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Michelle Cooper</text>
+<rect x="285" y="327" width="432" height="28" rx="7" fill="#22c55e"/>
+<text x="727" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+73.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riyad Mahrez</text>
+<rect x="285" y="385" width="405" height="28" rx="7" fill="#22c55e"/>
+<text x="700" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.0%</text>
 </svg>
