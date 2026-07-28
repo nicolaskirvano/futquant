@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:00:20.000Z
+pubDatetime: 2026-07-28T19:00:20.000Z
 title: "Investimentos EA FC em 28/07: radar de alta — PC"
 draft: false
 featured: true
