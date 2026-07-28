@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T13:00:23.000Z
+pubDatetime: 2026-07-28T16:00:21.000Z
 title: "Jogadores baratos EA FC em 28/07: abaixo de 15k — PC"
 draft: false
 featured: false
