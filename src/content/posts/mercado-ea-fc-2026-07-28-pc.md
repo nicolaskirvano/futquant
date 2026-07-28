@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T10:00:19.000Z
+pubDatetime: 2026-07-28T13:00:20.000Z
 title: "Mercado EA FC em 28/07: altas e baixas — PC"
 draft: false
 featured: true
