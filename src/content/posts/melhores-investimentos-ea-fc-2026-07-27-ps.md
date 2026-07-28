@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:00:11.000Z
+pubDatetime: 2026-07-28T01:00:10.000Z
 title: "Investimentos EA FC em 27/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Roy Keane (86, Icons) lidera, com +79.2% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mario Lemina (88, Trendyol Süper Lig) lidera, com +85.6% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Roy Keane (86) acumula **+79.2% em 7 dias** a 128k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mario Lemina (88) acumula **+85.6% em 7 dias** a 38k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 27/07: radar de alta — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+54.8% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.8% em 24h** e **+61.3% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Trendyol Süper Lig** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Roy Keane | 86 | Icons | 128k coins | +2.4% | +79.2% | Esticada |
-| Hervé Koffi | 94 | — | 44k coins | +34.5% | +73.3% | Esticada |
-| Richard Ríos | 87 | Liga Portugal | 250k coins | +5.1% | +67.7% | Esticada |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 50k coins | +16.7% | +64.7% | Esticada |
-| Sveindís Jane Jónsdóttir | 88 | — | 42k coins | +17.5% | +63.4% | Esticada |
-| Ousmane Diomande | 85 | Liga Portugal | 41k coins | +7.9% | +58.3% | Momentum moderado |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 19.750 coins | +8.1% | +56.9% | Momentum moderado |
-| Pascal Groß | 87 | Premier League | 20k coins | +6.6% | +54.8% | Momentum moderado |
-| Eberechi Eze | 87 | Premier League | 69k coins | +1.3% | +53.8% | Momentum moderado |
-| Nicolas Madsen | 84 | EFL Championship | 60k coins | +26.3% | +50.9% | Esticada |
-| Éderson | 87 | Serie A TIM | 55k coins | +29% | +50% | Esticada |
-| Jaedyn Shaw | 89 | NWSL | 39k coins | +3.1% | +49.1% | Momentum moderado |
-| Álex Moreno | 84 | LALIGA EA SPORTS | 62k coins | +15.7% | +48.8% | Momentum moderado |
-| José Fonte | 85 | Liga Portugal | 31k coins | +10.7% | +45.2% | Momentum moderado |
-| Terry Devlin | 86 | EFL Championship | 60k coins | +36.4% | +44.6% | Esticada |
+| Mario Lemina | 88 | Trendyol Süper Lig | 38k coins | +10.3% | +85.6% | Esticada |
+| Abdoulaye Doucouré | 87 | ROSHN Saudi League | 48k coins | +6.7% | +82.9% | Esticada |
+| Roy Keane | 86 | Icons | 125k coins | +5.9% | +73.6% | Esticada |
+| Maëlle Garbino | 86 | D1 Arkema | 28k coins | +6.6% | +71.2% | Esticada |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 38k coins | +28.1% | +68.5% | Esticada |
+| Luciano Valente | 87 | Eredivisie | 25k coins | +34.7% | +68.3% | Esticada |
+| Lewis Holtby | 86 | Eredivisie | 40k coins | +16.8% | +63.3% | Esticada |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 64k coins | +35.8% | +61.3% | Esticada |
+| Ömer Ali Şahiner | 84 | Trendyol Süper Lig | 52k coins | +24.6% | +60.8% | Esticada |
+| Hannah Hampton | 92 | — | 29k coins | +17.2% | +58.1% | Momentum moderado |
+| Josip Stanišić | 86 | Bundesliga | 50k coins | +17.8% | +55.9% | Momentum moderado |
+| Eileen Campbell | 86 | GPFBL | 60k coins | +20% | +53.8% | Esticada |
+| Aurélien Tchouaméni | 95 | — | 44k coins | +32.1% | +52.6% | Esticada |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 66k coins | +10.8% | +51.1% | Momentum moderado |
+| Christian Pulisic | 86 | Serie A TIM | 68k coins | +36% | +49.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Roy Keane (86)** — 128k coins, **+79.2% em 7 dias** (+2.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mario Lemina (88)** — 38k coins, **+85.6% em 7 dias** (+10.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hervé Koffi (94)** — 44k coins, **+73.3% em 7 dias** (+34.5% em 24h). Preço +69% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Abdoulaye Doucouré (87)** — 48k coins, **+82.9% em 7 dias** (+6.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Richard Ríos (87)** — 250k coins, **+67.7% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roy Keane (86)** — 125k coins, **+73.6% em 7 dias** (+5.9% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oyarzabal (87)** — 50k coins, **+64.7% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maëlle Garbino (86)** — 28k coins, **+71.2% em 7 dias** (+6.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sveindís Jane Jónsdóttir (88)** — 42k coins, **+63.4% em 7 dias** (+17.5% em 24h). Preço -39% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Bartra (87)** — 38k coins, **+68.5% em 7 dias** (+28.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Roy Keane (86, Icons) lidera, com +79.2% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mario Lemina (88, Trendyol Süper Lig) lidera, com +85.6% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louisa Necib</text>
-<rect x="285" y="95" width="463" height="28" rx="7" fill="#38bdf8"/>
-<text x="758" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi Simons</text>
-<rect x="285" y="153" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodri</text>
-<rect x="285" y="211" width="99" height="28" rx="7" fill="#38bdf8"/>
-<text x="394" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.000</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oumar Camara</text>
-<rect x="285" y="269" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Kane</text>
-<rect x="285" y="327" width="93" height="28" rx="7" fill="#38bdf8"/>
-<text x="388" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.800</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessia Russo</text>
-<rect x="285" y="385" width="103" height="28" rx="7" fill="#38bdf8"/>
-<text x="398" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.100</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerd Müller</text>
+<rect x="285" y="95" width="403" height="28" rx="7" fill="#38bdf8"/>
+<text x="698" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lev Yashin</text>
+<rect x="285" y="153" width="403" height="28" rx="7" fill="#38bdf8"/>
+<text x="698" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Camille Abily</text>
+<rect x="285" y="211" width="394" height="28" rx="7" fill="#38bdf8"/>
+<text x="689" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.500</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Allan Saint-Maximin</text>
+<rect x="285" y="269" width="394" height="28" rx="7" fill="#38bdf8"/>
+<text x="689" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.500</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
+<rect x="285" y="327" width="394" height="28" rx="7" fill="#38bdf8"/>
+<text x="689" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.500</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esperanza Pizarro</text>
+<rect x="285" y="385" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
 </svg>

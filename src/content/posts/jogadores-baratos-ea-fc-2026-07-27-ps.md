@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:00:13.000Z
+pubDatetime: 2026-07-28T01:00:11.000Z
 title: "Jogadores baratos EA FC em 27/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.700 coins.
-- **Posição mais frequente:** CM, com 6 cartas.
-- **Faixa real:** 11.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.517 coins.
+- **Posição mais frequente:** CM, com 5 cartas.
+- **Faixa real:** 11.500 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,40 +41,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | -14.5% |
-| Cesc Fàbregas | 93 | CM | — | 14.250 coins | +6.1% |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
+| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | -2.1% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | -11.5% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Morgan Gibbs-White | 91 | CAM | — | 11.500 coins | 0% |
 | Iván Zamorano | 91 | ST | LALIGA EA SPORTS | 11.500 coins | -14.8% |
-| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | -11.5% |
-| Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (93, CM)** da —, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Wendie Renard (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Cesc Fàbregas (93, CM) por 14.250 coins é a referência de rating deste recorte.
+- **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Gerd Müller (93, ST) por 11.750 coins é a referência de rating deste recorte.
 
