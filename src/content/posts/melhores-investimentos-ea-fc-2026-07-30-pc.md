@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:00:20.000Z
+pubDatetime: 2026-07-30T16:00:23.000Z
 title: "Investimentos EA FC em 30/07: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Ricardo Rodríguez (88, sem liga) lidera, com +88.4% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mario Götze (88, Bundesliga) lidera, com +83.5% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ricardo Rodríguez (88) acumula **+88.4% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mario Götze (88) acumula **+83.5% em 7 dias** a 42k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 30/07: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.2% em 24h** e **+76.1% em 7 dias**.
+- A mediana é de **+22.0% em 24h** e **+72.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ricardo Rodríguez | 88 | — | 32k coins | +30% | +88.4% | Esticada |
-| Deniz Undav | 92 | — | 45k coins | +2.2% | +86.9% | Esticada |
-| Rose Lavelle | 89 | NWSL | 70k coins | +6.9% | +86.7% | Esticada |
-| Moisés Caicedo | 88 | Premier League | 68k coins | +5.3% | +82.9% | Esticada |
+| Mario Götze | 88 | Bundesliga | 42k coins | +5% | +83.5% | Esticada |
+| Alexia Putellas | 91 | — | 23k coins | +38.9% | +81.8% | Esticada |
 | Michelle Cooper | 87 | NWSL | 32k coins | +22.6% | +80.6% | Esticada |
-| Didier Drogba | 89 | Icons | 136k coins | +4.3% | +80.1% | Esticada |
-| Mario Gomez | 92 | — | 50k coins | +2% | +78.6% | Esticada |
-| Viktor Gyökeres | 88 | — | 118k coins | +12.4% | +76.1% | Esticada |
-| Noussair Mazraoui | 95 | — | 20k coins | +10.8% | +74.5% | Esticada |
-| Nemanja Vidić | 87 | Icons | 249k coins | +12.2% | +74.1% | Esticada |
-| Abdukodir Khusanov | 93 | — | 35k coins | +39.3% | +71.4% | Esticada |
-| Jess Fishlock | 88 | NWSL | 35k coins | +3.7% | +68.7% | Esticada |
-| Janina Minge | 88 | — | 29k coins | +8.2% | +67.6% | Esticada |
-| Aitana Bonmatí | 91 | Liga F | 26k coins | +37% | +66.7% | Esticada |
-| Julian Quiñones | 96 | — | 18.500 coins | +6.7% | +66.7% | Esticada |
+| Noussair Mazraoui | 95 | — | 19.500 coins | +3.8% | +76.6% | Esticada |
+| Rose Lavelle | 89 | NWSL | 70k coins | +7.3% | +76% | Esticada |
+| Viktor Gyökeres | 88 | — | 117k coins | +23.8% | +74.6% | Esticada |
+| Nemanja Vidić | 87 | Icons | 247k coins | +11.2% | +73.4% | Esticada |
+| Xabi Alonso | 87 | Icons | 179k coins | +39.4% | +72.6% | Esticada |
+| Moisés Caicedo | 88 | Premier League | 74k coins | +1.6% | +71.6% | Esticada |
+| Naomie Feller | 88 | — | 38k coins | +2.6% | +71.4% | Esticada |
+| Thibaut Courtois | 95 | — | 237k coins | +22% | +71.2% | Esticada |
+| Rocío Gálvez | 88 | Liga F | 38k coins | +24.6% | +67% | Esticada |
+| Freddie Ljungberg | 87 | Premier League | 25k coins | +23.5% | +66.7% | Esticada |
+| John Arne Riise | 88 | Premier League | 40k coins | +10.4% | +65.6% | Esticada |
+| Salem Al Dawsari | 92 | — | 64k coins | +36.2% | +65.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Ricardo Rodríguez (88)** — 32k coins, **+88.4% em 7 dias** (+30% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mario Götze (88)** — 42k coins, **+83.5% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Deniz Undav (92)** — 45k coins, **+86.9% em 7 dias** (+2.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 23k coins, **+81.8% em 7 dias** (+38.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 70k coins, **+86.7% em 7 dias** (+6.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 32k coins, **+80.6% em 7 dias** (+22.6% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moisés Caicedo (88)** — 68k coins, **+82.9% em 7 dias** (+5.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noussair Mazraoui (95)** — 19.500 coins, **+76.6% em 7 dias** (+3.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michelle Cooper (87)** — 32k coins, **+80.6% em 7 dias** (+22.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (89)** — 70k coins, **+76% em 7 dias** (+7.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Ricardo Rodríguez (88, sem liga) lidera, com +88.4% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mario Götze (88, Bundesliga) lidera, com +83.5% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

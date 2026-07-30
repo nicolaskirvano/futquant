@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:00:19.000Z
+pubDatetime: 2026-07-30T16:00:22.000Z
 title: "Mercado EA FC em 30/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Alexia Putellas (92, Liga F), com +60% em 24h, a 72k coins no PC."
+    a: "Wout Weghorst (85, Eredivisie), com +59.6% em 24h, a 82k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ko Itakura (88), -49.5% em 24h, a 22k coins."
+    a: "Lothar Matthäus (91), -50% em 24h, a 500k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 42k coins."
+    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 811 cartas em alta contra 873 em queda (média 3.4%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 788 cartas em alta contra 903 em queda (média 2.24%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **811 cartas subiram** e **873 caíram** (80+ acima de 5k coins), variação média de **3.4%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **788 cartas subiram** e **903 caíram** (80+ acima de 5k coins), variação média de **2.24%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Alexia Putellas (92) **+60%** · 🔴 **Maior baixa:** Ko Itakura (88) **-49.5%**
+> 🟢 **Maior alta:** Wout Weghorst (85) **+59.6%** · 🔴 **Maior baixa:** Lothar Matthäus (91) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -37,24 +37,24 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 2354 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.6% entre as cartas que se moveram; o universo observado reúne 2282 cartas.
+- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 92 | Liga F | 72k coins | +60% | +35.8% |
-| Amir Murillo | 92 | — | 38k coins | +60% | +52% |
-| Ona Batlle | 90 | Liga F | 34k coins | +59.8% | -30.5% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 939k coins | +59.5% | +110.9% |
+| Wout Weghorst | 85 | Eredivisie | 82k coins | +59.6% | +1.9% |
+| Gianluigi Buffon | 91 | Icons | 139k coins | +59.5% | +120.3% |
+| Iniesta | 92 | Icons | 216k coins | +59.4% | +10% |
 | Paolo Maldini | 92 | Icons | 300k coins | +58.7% | -21.3% |
-| Sergiño Dest | 86 | Eredivisie | 150k coins | +58.4% | +57.5% |
-| Eduardo Quaresma | 88 | Liga Portugal | 42k coins | +57.9% | +42% |
-| Louisa Necib | 92 | — | 25k coins | +57.9% | +37.9% |
-| Andrea Pirlo | 90 | Icons | 142k coins | +57.8% | -5.3% |
-| Pape Gueye | 95 | — | 52k coins | +57.6% | -13.3% |
+| Chibuike Nwaiwu | 90 | — | 25k coins | +58.7% | -50.4% |
+| Emilie Haavi | 87 | Calcio A Femminile | 28k coins | +58.6% | +5.7% |
+| Lotta Schelin | 90 | Icons | 141k coins | +58.5% | +49.5% |
+| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 899k coins | +57.8% | +118.4% |
+| Karim Benzema | 88 | ROSHN Saudi League | 208k coins | +57.6% | +34.2% |
+| Ian Wright | 89 | — | 30k coins | +57.3% | +34.1% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Alexia Putellas (92)** subiu **+60%** em 24h, a **72k coins** (faixa do dia: 38k–85k). Está +34% acima da média de 7 dias (aquecida).
+- **Wout Weghorst (85)** subiu **+59.6%** em 24h, a **82k coins** (faixa do dia: 40k–85k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Amir Murillo (92)** subiu **+60%** em 24h, a **38k coins** (faixa do dia: 21k–39k). Está +61% acima da média de 7 dias (aquecida).
+- **Gianluigi Buffon (91)** subiu **+59.5%** em 24h, a **139k coins** (faixa do dia: 138k–260k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Ona Batlle (90)** subiu **+59.8%** em 24h, a **34k coins** (faixa do dia: 18.750–55k). Está +14% acima da média de 7 dias (aquecida).
+- **Iniesta (92)** subiu **+59.4%** em 24h, a **216k coins** (faixa do dia: 132k–300k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ko Itakura | 88 | Eredivisie | 22k coins | -49.5% | -29.4% |
-| Julian Quiñones | 94 | — | 35k coins | -48.5% | -39.7% |
-| Edmond Tapsoba | 86 | Bundesliga | 20k coins | -48.1% | +15.7% |
-| Fran Kirby | 88 | — | 52k coins | -47.7% | -10.3% |
-| Caroline Graham Hansen | 90 | Liga F | 22k coins | -47.6% | -28.1% |
-| Dominik Szoboszlai | 87 | Premier League | 100k coins | -47.4% | -9.1% |
-| Nemanja Vidić | 89 | Icons | 603k coins | -47% | -21.7% |
-| Georgia Stanway | 97 | — | 24k coins | -46.6% | — |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 28k coins | -46.4% | +3.5% |
-| Paul Scholes | 88 | Icons | 115k coins | -45.9% | +40.8% |
+| Lothar Matthäus | 91 | Icons | 500k coins | -50% | -67.3% |
+| Pelé | 96 | Icons | 24k coins | -49.7% | -98.7% |
+| Noah Ohio | 87 | LaLiga Hypermotion | 40k coins | -49.7% | -10.1% |
+| Thomas Strakosha | 91 | — | 36k coins | -48% | -21.2% |
+| Juan Román Riquelme | 88 | Icons | 96k coins | -46.9% | -46.5% |
+| Maicon | 90 | Serie A TIM | 105k coins | -45.8% | -35.8% |
+| Nemanja Vidić | 89 | Icons | 650k coins | -45.8% | -7.1% |
+| Ezri Konsa | 96 | — | 82k coins | -45.5% | -57.8% |
+| Gonçalo Ramos | 96 | — | 71k coins | -45% | -73.6% |
+| Larissa Mühlhaus | 85 | GPFBL | 26k coins | -44.7% | -32.3% |
 
 
 ### Análise das baixas
 
-- **Ko Itakura (88)** caiu **-49.5%** em 24h, a **22k coins** (faixa do dia: 16.000–48k). Está em linha com a média de 7 dias (-5%).
+- **Lothar Matthäus (91)** caiu **-50%** em 24h, a **500k coins** (faixa do dia: 500k–1M). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Julian Quiñones (94)** caiu **-48.5%** em 24h, a **35k coins** (faixa do dia: 35k–76k). Está -37% abaixo da média de 7 dias (descontada).
+- **Pelé (96)** caiu **-49.7%** em 24h, a **24k coins** (faixa do dia: 20k–40k). Está -91% abaixo da média de 7 dias (descontada).
 
-- **Edmond Tapsoba (86)** caiu **-48.1%** em 24h, a **20k coins** (faixa do dia: 20k–39k). Está -20% abaixo da média de 7 dias (descontada).
+- **Noah Ohio (87)** caiu **-49.7%** em 24h, a **40k coins** (faixa do dia: 12.500–40k). Está +96% acima da média de 7 dias (aquecida).
 
 
 ## 🔮 Radar de valorização (24h)
@@ -101,15 +101,16 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Fara Williams | 88 | 42k coins | 46k coins | 78% |
+| Fara Williams | 88 | 38k coins | 41k coins | 78% |
 | Lukáš Haraslín | 89 | 20k coins | 20k coins | 63% |
+| Mohamed Salah | 91 | 58k coins | 59k coins | 61% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alexia Putellas já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Wout Weghorst já avançou 59.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ko Itakura recuou -49.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lothar Matthäus recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -131,16 +132,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Alexia Putellas (92, Liga F), com +60% em 24h, a 72k coins no PC.
+Wout Weghorst (85, Eredivisie), com +59.6% em 24h, a 82k coins no PC.
 
 **E a maior queda do dia?**
-Ko Itakura (88), -49.5% em 24h, a 22k coins.
+Lothar Matthäus (91), -50% em 24h, a 500k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 42k coins.
+Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 38k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 811 cartas em alta contra 873 em queda (média 3.4%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 788 cartas em alta contra 903 em queda (média 2.24%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

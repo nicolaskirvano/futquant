@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:00:09.000Z
+pubDatetime: 2026-07-30T16:00:12.000Z
 title: "Mercado EA FC em 30/07: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Thomas Strakosha (91, sem liga), com +59.2% em 24h, a 39k coins no Console (PS)."
+    a: "Filip Kostić (88, Serie A TIM), com +60% em 24h, a 42k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Edson Álvarez (86), -50% em 24h, a 32k coins."
+    a: "Endrick (86), -47.1% em 24h, a 50k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 16.500 coins."
+    a: "Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 15.500 coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 878 cartas em alta contra 897 em queda (média 3.07%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 909 cartas em alta contra 897 em queda (média 2.82%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **878 cartas subiram** e **897 caíram** (80+ acima de 5k coins), variação média de **3.07%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **909 cartas subiram** e **897 caíram** (80+ acima de 5k coins), variação média de **2.82%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Thomas Strakosha (91) **+59.2%** · 🔴 **Maior baixa:** Edson Álvarez (86) **-50%**
+> 🟢 **Maior alta:** Filip Kostić (88) **+60%** · 🔴 **Maior baixa:** Endrick (86) **-47.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: altas e baixas — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -37,24 +37,24 @@ O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecid
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 2217 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.3% entre as cartas que se moveram; o universo observado reúne 2235 cartas.
+- **Concentração:** Barclays WSL aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thomas Strakosha | 91 | — | 39k coins | +59.2% | -35% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 148k coins | +59.1% | -10.3% |
-| Trent Alexander-Arnold | 87 | LALIGA EA SPORTS | 309k coins | +58.5% | -21.2% |
-| Nico O'Reilly | 88 | Premier League | 25k coins | +57.9% | +80.5% |
-| Kerolin Nicoli | 87 | Barclays WSL | 100k coins | +57.5% | +27.4% |
-| Caroline Graham Hansen | 90 | Liga F | 34k coins | +57.5% | -2.1% |
-| Joško Gvardiol | 96 | — | 115k coins | +57.4% | -40% |
-| Patrick Vieira | 90 | Icons | 549k coins | +57.3% | +28.5% |
-| Gianluca Vialli | 91 | — | 20k coins | +57.1% | -63.3% |
-| Antonio Di Natale | 88 | Serie A TIM | 63k coins | +57.1% | +40.7% |
+| Filip Kostić | 88 | Serie A TIM | 42k coins | +60% | +77.8% |
+| Marek Hamšík | 88 | Serie A TIM | 45k coins | +58.1% | +28.5% |
+| Jessie Fleming | 86 | NWSL | 83k coins | +56.6% | +35% |
+| Gilberto Silva | 87 | Premier League | 36k coins | +56.5% | +20% |
+| Arda Güler | 93 | LALIGA EA SPORTS | 56k coins | +56.4% | -10.9% |
+| Antonio Di Natale | 88 | Serie A TIM | 60k coins | +56.2% | +30.2% |
+| Martin Ødegaard | 88 | Premier League | 142k coins | +56.1% | +241.9% |
+| Esteban Cambiasso | 86 | Serie A TIM | 21k coins | +55.4% | +35.9% |
+| Nathan Tella | 86 | Bundesliga | 21k coins | +54.8% | +77.8% |
+| Nicolò Savona | 83 | Premier League | 85k coins | +54.4% | +10% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecid
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Thomas Strakosha (91)** subiu **+59.2%** em 24h, a **39k coins** (faixa do dia: 23k–63k). Está -13% abaixo da média de 7 dias (descontada).
+- **Filip Kostić (88)** subiu **+60%** em 24h, a **42k coins** (faixa do dia: 22k–42k). Está +47% acima da média de 7 dias (aquecida).
 
-- **Nico Williams (89)** subiu **+59.1%** em 24h, a **148k coins** (faixa do dia: 88k–149k). Está +22% acima da média de 7 dias (aquecida).
+- **Marek Hamšík (88)** subiu **+58.1%** em 24h, a **45k coins** (faixa do dia: 19.250–72k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Trent Alexander-Arnold (87)** subiu **+58.5%** em 24h, a **309k coins** (faixa do dia: 140k–320k). Está +14% acima da média de 7 dias (aquecida).
+- **Jessie Fleming (86)** subiu **+56.6%** em 24h, a **83k coins** (faixa do dia: 37k–93k). Está em linha com a média de 7 dias (+7%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edson Álvarez | 86 | Trendyol Süper Lig | 32k coins | -50% | -18.1% |
-| Naomi Girma | 87 | Barclays WSL | 46k coins | -50% | -4.1% |
-| Unai Simón | 90 | LALIGA EA SPORTS | 37k coins | -47.4% | -47% |
-| Tijjani Reijnders | 87 | Premier League | 28k coins | -45.7% | -43% |
-| Jennifer Echegini | 86 | D1 Arkema | 30k coins | -44.8% | 0% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 47k coins | -44.5% | +9.8% |
-| Hamari Traoré | 87 | Ligue 1 McDonald's | 21k coins | -44.2% | +8.8% |
-| Matheus Cunha | 87 | Premier League | 110k coins | -43.9% | +6.8% |
-| Luis Díaz | 86 | Bundesliga | 43k coins | -41.3% | -14.6% |
-| Debinha | 89 | NWSL | 104k coins | -40.6% | +2.9% |
+| Endrick | 86 | Ligue 1 McDonald's | 50k coins | -47.1% | -32.8% |
+| Naomi Girma | 87 | Barclays WSL | 42k coins | -46.2% | -20% |
+| Leah Williamson | 88 | Barclays WSL | 72k coins | -45.7% | +38.5% |
+| Murillo | 87 | Premier League | 44k coins | -43.4% | -64.6% |
+| Khadija Shaw | 91 | — | 53k coins | -43% | -43.6% |
+| Selma Bacha | 86 | D1 Arkema | 114k coins | -42.1% | -55.7% |
+| Jade Rose | 85 | Barclays WSL | 22k coins | -41.9% | -6.2% |
+| Olivia Smith | 91 | Barclays WSL | 232k coins | -41.4% | -41.3% |
+| Shelina Zadorsky | 87 | Barclays WSL | 22k coins | -40.4% | -4.3% |
+| Luis Díaz | 91 | Bundesliga | 143k coins | -40% | -30.4% |
 
 
 ### Análise das baixas
 
-- **Edson Álvarez (86)** caiu **-50%** em 24h, a **32k coins** (faixa do dia: 32k–64k). Está -42% abaixo da média de 7 dias (descontada).
+- **Endrick (86)** caiu **-47.1%** em 24h, a **50k coins** (faixa do dia: 50k–105k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Naomi Girma (87)** caiu **-50%** em 24h, a **46k coins** (faixa do dia: 30k–99k). Está -34% abaixo da média de 7 dias (descontada).
+- **Naomi Girma (87)** caiu **-46.2%** em 24h, a **42k coins** (faixa do dia: 30k–80k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Unai Simón (90)** caiu **-47.4%** em 24h, a **37k coins** (faixa do dia: 25k–76k). Está -27% abaixo da média de 7 dias (descontada).
+- **Leah Williamson (88)** caiu **-45.7%** em 24h, a **72k coins** (faixa do dia: 39k–130k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔮 Radar de valorização (24h)
@@ -101,15 +101,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Keira Walsh | 89 | 16.500 coins | 17.949 coins | 94% |
-| Ryan Gravenberch | 93 | 110k coins | 117k coins | 82% |
+| Keira Walsh | 89 | 15.500 coins | 16.861 coins | 94% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Thomas Strakosha já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Filip Kostić já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Edson Álvarez recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Endrick recuou -47.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -132,16 +131,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Thomas Strakosha (91, sem liga), com +59.2% em 24h, a 39k coins no Console (PS).
+Filip Kostić (88, Serie A TIM), com +60% em 24h, a 42k coins no Console (PS).
 
 **E a maior queda do dia?**
-Edson Álvarez (86), -50% em 24h, a 32k coins.
+Endrick (86), -47.1% em 24h, a 50k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 16.500 coins.
+Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 15.500 coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 878 cartas em alta contra 897 em queda (média 3.07%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 909 cartas em alta contra 897 em queda (média 2.82%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
