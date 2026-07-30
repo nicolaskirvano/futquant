@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:00:19.000Z
+pubDatetime: 2026-07-30T01:00:18.000Z
 title: "Mercado EA FC em 29/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -15,20 +15,20 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
     a: "Mason Greenwood (84, Ligue 1 McDonald's), com +60% em 24h, a 80k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ilias Akhomach (88), -50% em 24h, a 30k coins."
+    a: "Louisa Necib (90), -50% em 24h, a 24k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 40k coins."
+    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 37k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 955 cartas em alta contra 739 em queda (média 6.4%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 996 cartas em alta contra 723 em queda (média 8.2%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **29/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **955 em alta** e **739 em queda**, média de **6.4%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **29/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **996 em alta** e **723 em queda**, média de **8.2%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mason Greenwood (84) **+60%** · 🔴 **Maior baixa:** Ilias Akhomach (88) **-50%**
+> 🟢 **Maior alta:** Mason Greenwood (84) **+60%** · 🔴 **Maior baixa:** Louisa Necib (90) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: altas e baixas — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -38,23 +38,23 @@ Panorama de **29/07/2026** (PC): clima **comprador** — a maioria das cartas su
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.4% entre as cartas que se moveram; o universo observado reúne 2221 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Participação das altas:** 57.9% entre as cartas que se moveram; o universo observado reúne 2267 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Mason Greenwood | 84 | Ligue 1 McDonald's | 80k coins | +60% | -36% |
-| Matias Fernandez-Pardo | 90 | — | 26k coins | +60% | -55.6% |
-| Johan Mojica | 85 | LALIGA EA SPORTS | 31k coins | +59.8% | +18.8% |
-| Kevin Lenini | 95 | — | 27k coins | +59.6% | -16.2% |
-| Khéphren Thuram | 87 | Serie A TIM | 63k coins | +59.5% | -7.1% |
-| João Pedro | 87 | Premier League | 42k coins | +59% | +15.8% |
-| Virgil van Dijk | 95 | Premier League | 1.02M coins | +58.9% | -7.9% |
-| Ann-Katrin Berger | 87 | NWSL | 65k coins | +58.5% | +37.6% |
-| Olivia Moultrie | 93 | — | 35k coins | +58.4% | +54.9% |
-| Ane Azkona | 86 | Liga F | 48k coins | +58.3% | +23.4% |
+| Julian Brandt | 87 | Bundesliga | 31k coins | +60% | +3.4% |
+| Amar Dedić | 93 | — | 31k coins | +59.7% | -12.1% |
+| Tomáš Rosický | 89 | Bundesliga | 30k coins | +59.2% | +37.5% |
+| Bradley Barcola | 92 | — | 72k coins | +59.2% | -2.5% |
+| Dunga | 87 | Icons | 105k coins | +59.1% | -21.1% |
+| Luca Marseiler | 90 | Bundesliga 2 | 74k coins | +58.9% | +37.3% |
+| Virgil van Dijk | 95 | Premier League | 1.02M coins | +58.9% | -9.3% |
+| Lisa Baum | 90 | — | 25k coins | +58.7% | -61.2% |
+| Morata | 87 | Serie A TIM | 157k coins | +58.6% | +4.7% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Panorama de **29/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mason Greenwood (84)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 50k–100k). Está -15% abaixo da média de 7 dias (descontada).
+- **Mason Greenwood (84)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 50k–100k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Matias Fernandez-Pardo (90)** subiu **+60%** em 24h, a **26k coins** (faixa do dia: 19.500–28k). Está -28% abaixo da média de 7 dias (descontada).
+- **Julian Brandt (87)** subiu **+60%** em 24h, a **31k coins** (faixa do dia: 18.750–42k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Johan Mojica (85)** subiu **+59.8%** em 24h, a **31k coins** (faixa do dia: 22k–37k). Está +26% acima da média de 7 dias (aquecida).
+- **Amar Dedić (93)** subiu **+59.7%** em 24h, a **31k coins** (faixa do dia: 19.250–31k). Está +25% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ilias Akhomach | 88 | LALIGA EA SPORTS | 30k coins | -50% | -20.1% |
-| Evann Guessand | 96 | — | 185k coins | -49.9% | -49.3% |
-| Raphinha | 95 | LALIGA EA SPORTS | 500k coins | -49.5% | -23.1% |
+| Louisa Necib | 90 | D1 Arkema | 24k coins | -50% | -52.7% |
+| Jennifer Echegini | 86 | D1 Arkema | 29k coins | -50% | +13.1% |
+| Tim Cahill | 89 | Premier League | 100k coins | -50% | +12.2% |
+| Arda Güler | 94 | — | 28k coins | -49.5% | -33.7% |
 | Dara O'Shea | 91 | — | 24k coins | -49.5% | -42.9% |
-| Filip Kostić | 88 | Serie A TIM | 24k coins | -48.2% | -14% |
-| João Cancelo | 87 | ROSHN Saudi League | 47k coins | -48.1% | -19.7% |
-| Andriy Shevchenko | 93 | — | 44k coins | -47.9% | -41% |
-| Malcom | 87 | ROSHN Saudi League | 47k coins | -47.8% | -48.9% |
+| Alexia Putellas | 96 | — | 221k coins | -48.9% | -53.8% |
+| Orri Óskarsson | 85 | LALIGA EA SPORTS | 33k coins | -48.8% | -30.7% |
 | Dominik Szoboszlai | 87 | Premier League | 100k coins | -47.4% | -9.1% |
-| Julian Quiñones | 94 | — | 40k coins | -47% | -31.6% |
+| Julian Quiñones | 94 | — | 40k coins | -47% | -27.9% |
+| Christian Pulisic | 96 | — | 74k coins | -46.8% | -42.2% |
 
 
 ### Análise das baixas
 
-- **Ilias Akhomach (88)** caiu **-50%** em 24h, a **30k coins** (faixa do dia: 30k–60k). Está -40% abaixo da média de 7 dias (descontada).
+- **Louisa Necib (90)** caiu **-50%** em 24h, a **24k coins** (faixa do dia: 16.000–54k). Está -50% abaixo da média de 7 dias (descontada).
 
-- **Evann Guessand (96)** caiu **-49.9%** em 24h, a **185k coins** (faixa do dia: 100k–369k). Está -37% abaixo da média de 7 dias (descontada).
+- **Jennifer Echegini (86)** caiu **-50%** em 24h, a **29k coins** (faixa do dia: 23k–48k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Raphinha (95)** caiu **-49.5%** em 24h, a **500k coins** (faixa do dia: 480k–705k). Está -24% abaixo da média de 7 dias (descontada).
+- **Tim Cahill (89)** caiu **-50%** em 24h, a **100k coins** (faixa do dia: 20k–110k). Está +35% acima da média de 7 dias (aquecida).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -101,14 +101,15 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Fara Williams | 88 | 40k coins | 44k coins | 78% |
+| Fara Williams | 88 | 37k coins | 40k coins | 78% |
+| Mohamed Salah | 91 | 44k coins | 45k coins | 61% |
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Mason Greenwood já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ilias Akhomach recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Louisa Necib recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -123,13 +124,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Mason Greenwood (84, Ligue 1 McDonald's), com +60% em 24h, a 80k coins no PC.
 
 **E a maior queda do dia?**
-Ilias Akhomach (88), -50% em 24h, a 30k coins.
+Louisa Necib (90), -50% em 24h, a 24k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 40k coins.
+Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 37k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 955 cartas em alta contra 739 em queda (média 6.4%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 996 cartas em alta contra 723 em queda (média 8.2%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

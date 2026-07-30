@@ -7,19 +7,19 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Isak</text>
 <rect x="285" y="95" width="8" height="28" rx="7" fill="#22c55e"/>
 <text x="303" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+0.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="153" width="57" height="28" rx="7" fill="#22c55e"/>
-<text x="352" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micky van de Ven</text>
-<rect x="285" y="211" width="63" height="28" rx="7" fill="#f87171"/>
-<text x="358" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-5.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yaya Touré</text>
-<rect x="285" y="269" width="11" height="28" rx="7" fill="#f87171"/>
-<text x="306" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-0.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="327" width="480" height="28" rx="7" fill="#f87171"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-38.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
-<rect x="285" y="385" width="298" height="28" rx="7" fill="#f87171"/>
-<text x="593" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-23.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yaya Touré</text>
+<rect x="285" y="153" width="450" height="28" rx="7" fill="#22c55e"/>
+<text x="745" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Virgil van Dijk</text>
+<rect x="285" y="211" width="215" height="28" rx="7" fill="#f87171"/>
+<text x="510" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-6.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micky van de Ven</text>
+<rect x="285" y="269" width="403" height="28" rx="7" fill="#f87171"/>
+<text x="698" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-12.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yaya Touré</text>
+<rect x="285" y="327" width="222" height="28" rx="7" fill="#f87171"/>
+<text x="517" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-6.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bukayo Saka</text>
+<rect x="285" y="385" width="480" height="28" rx="7" fill="#f87171"/>
+<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-14.3%</text>
 </svg>
