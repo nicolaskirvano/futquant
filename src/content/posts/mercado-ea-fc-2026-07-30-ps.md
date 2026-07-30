@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T09:43:19.000Z
+pubDatetime: 2026-07-30T10:00:09.000Z
 title: "Mercado EA FC em 30/07: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Ricardo Horta (90), -48.9% em 24h, a 23k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 28k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 118k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 1100 cartas em alta contra 766 em queda (média 9.06%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 1088 cartas em alta contra 754 em queda (média 9.01%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **1100 cartas subiram** e **766 caíram** (80+ acima de 5k coins), variação média de **9.06%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **1088 cartas subiram** e **754 caíram** (80+ acima de 5k coins), variação média de **9.01%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Ann-Katrin Berger (87) **+59.8%** · 🔴 **Maior baixa:** Ricardo Horta (90) **-48.9%**
 
@@ -38,7 +38,7 @@ O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecid
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.9% entre as cartas que se moveram; o universo observado reúne 2266 cartas.
+- **Participação das altas:** 59.1% entre as cartas que se moveram; o universo observado reúne 2238 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -46,15 +46,15 @@ O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecid
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Ann-Katrin Berger | 87 | NWSL | 64k coins | +59.8% | +77.1% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 43k coins | +59.6% | -35% |
 | Khadija Shaw | 90 | Barclays WSL | 66k coins | +59.3% | -23.9% |
 | Wilson Odobert | 87 | Premier League | 34k coins | +59.1% | +22.8% |
-| Gabriel Martinelli | 87 | Premier League | 85k coins | +58.6% | +27.5% |
+| Gabriel Martinelli | 87 | Premier League | 84k coins | +58.6% | +27.5% |
 | Abdelhamid Ait Boudlal | 86 | Ligue 1 McDonald's | 65k coins | +58.5% | +33.3% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 38k coins | +57.9% | -35.7% |
 | Nico Williams | 87 | LALIGA EA SPORTS | 156k coins | +57.6% | +7.6% |
 | Malik Tillman | 85 | Bundesliga | 25k coins | +57.6% | +5.1% |
 | Khadija Shaw | 90 | Barclays WSL | 283k coins | +57.2% | -5.7% |
-| Jaap Stam | 91 | Eredivisie | 685k coins | +56.5% | +29.5% |
+| Dan-Axel Zagadou | 85 | Bundesliga | 29k coins | +56.8% | +73.1% |
 
 
 ### Análise das altas
@@ -65,9 +65,9 @@ O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecid
 
 - **Ann-Katrin Berger (87)** subiu **+59.8%** em 24h, a **64k coins** (faixa do dia: 43k–75k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Ousmane Dembélé (90)** subiu **+59.6%** em 24h, a **43k coins** (faixa do dia: 27k–55k). Está em linha com a média de 7 dias (-2%).
-
 - **Khadija Shaw (90)** subiu **+59.3%** em 24h, a **66k coins** (faixa do dia: 43k–92k). Está em linha com a média de 7 dias (-5%).
+
+- **Wilson Odobert (87)** subiu **+59.1%** em 24h, a **34k coins** (faixa do dia: 15.250–36k). Está +24% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -79,10 +79,10 @@ O mercado do **EA FC** abre **30/07/2026** no Console (PS) com mercado **aquecid
 | Jürgen Kohler | 91 | — | 27k coins | -45.7% | -61.4% |
 | Ashley Sanchez | 88 | NWSL | 45k coins | -45.6% | -12.1% |
 | Eusébio | 92 | Icons | 379k coins | -45.5% | -38.3% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 70k coins | -44.5% | +38.8% |
+| Granit Xhaka | 89 | Premier League | 29k coins | -44.8% | -27% |
 | Marquinhos | 88 | Ligue 1 McDonald's | 29k coins | -44.4% | +7.1% |
-| Ian Maatsen | 96 | — | 80k coins | -44.4% | -40.7% |
-| Granit Xhaka | 89 | Premier League | 29k coins | -44.3% | -26.4% |
+| Ian Maatsen | 96 | — | 86k coins | -44.4% | -40.7% |
+| Jorge Campos | 87 | MLS | 22k coins | -44.2% | +55.4% |
 | Charles De Ketelaere | 88 | Serie A TIM | 28k coins | -44% | -73.1% |
 
 
@@ -101,7 +101,6 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Keira Walsh | 89 | 28k coins | 30k coins | 94% |
 | Ryan Gravenberch | 93 | 118k coins | 126k coins | 82% |
 | Maicon | 88 | 28k coins | 30k coins | 54% |
 
@@ -139,10 +138,10 @@ Ann-Katrin Berger (87, NWSL), com +59.8% em 24h, a 64k coins no Console (PS).
 Ricardo Horta (90), -48.9% em 24h, a 23k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Keira Walsh (89) — 94% de probabilidade de alta, a 28k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 118k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 1100 cartas em alta contra 766 em queda (média 9.06%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 1088 cartas em alta contra 754 em queda (média 9.01%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

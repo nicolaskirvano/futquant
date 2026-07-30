@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T09:43:31.000Z
+pubDatetime: 2026-07-30T10:00:21.000Z
 title: "Jogadores baratos EA FC em 30/07: abaixo de 15k — PC"
 draft: false
 featured: false
@@ -46,15 +46,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
-| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
-| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
-| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
+| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 12.250 coins | 0% |
-| Bilal El Khannouss | 92 | LW | — | 14.500 coins | +20% |
+| Esperanza Pizarro | 92 | CM | — | 14.500 coins | +9.1% |
 
 
 ## 📈 Destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T09:43:20.000Z
+pubDatetime: 2026-07-30T10:00:10.000Z
 title: "Investimentos EA FC em 30/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.7% em 24h** e **+75.3% em 7 dias**.
+- A mediana é de **+17.5% em 24h** e **+73.9% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Sakina Karchaoui | 88 | D1 Arkema | 72k coins | +20.8% | +89.5% | Esticada |
 | Éder Militão | 88 | LALIGA EA SPORTS | 85k coins | +17.5% | +87.4% | Esticada |
-| Patrik Schick | 88 | Bundesliga | 38k coins | +36.3% | +83.3% | Esticada |
 | Dan Burn | 86 | Premier League | 249k coins | +11.6% | +81.8% | Esticada |
-| Yan Diomande | 92 | — | 44k coins | +4.9% | +79.2% | Esticada |
-| João Pedro | 87 | Premier League | 66k coins | +39% | +77.1% | Esticada |
-| Lee Dong Kyeong | 94 | — | 55k coins | +20.7% | +76.8% | Esticada |
+| Yan Diomande | 92 | — | 44k coins | +6.1% | +81.2% | Esticada |
+| Patrik Schick | 88 | Bundesliga | 38k coins | +34.5% | +81% | Esticada |
+| Lee Dong Kyeong | 94 | — | 48k coins | +20.7% | +76.8% | Esticada |
 | Kevin Stöger | 86 | Bundesliga | 40k coins | +13.2% | +75.3% | Esticada |
-| Noussair Mazraoui | 95 | — | 24k coins | +12.7% | +73.9% | Esticada |
+| Noussair Mazraoui | 95 | — | 18.250 coins | +12.7% | +73.9% | Esticada |
+| João Pedro | 87 | Premier League | 65k coins | +36% | +73.2% | Esticada |
 | Klara Bühl | 88 | GPFBL | 66k coins | +24.1% | +71.8% | Esticada |
-| Mattia Zaccagni | 87 | Serie A TIM | 28k coins | +32.2% | +70% | Esticada |
-| Gregor Kobel | 95 | — | 18.000 coins | +23.8% | +69.6% | Esticada |
+| Julian Quiñones | 96 | — | 20k coins | +17.1% | +70.8% | Esticada |
+| Gregor Kobel | 95 | — | 17.250 coins | +23.8% | +69.6% | Esticada |
 | Bobby Moore | 93 | — | 54k coins | +12.8% | +69.2% | Esticada |
+| Thibaut Courtois | 95 | — | 182k coins | +32.4% | +69% | Esticada |
 | Dom Ballard | 84 | EFL League One | 50k coins | +7.5% | +67.5% | Esticada |
-| Josip Stanišić | 86 | Bundesliga | 64k coins | +22.6% | +66.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Éder Militão (88)** — 85k coins, **+87.4% em 7 dias** (+17.5% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrik Schick (88)** — 38k coins, **+83.3% em 7 dias** (+36.3% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Dan Burn (86)** — 249k coins, **+81.8% em 7 dias** (+11.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yan Diomande (92)** — 44k coins, **+79.2% em 7 dias** (+4.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yan Diomande (92)** — 44k coins, **+81.2% em 7 dias** (+6.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Patrik Schick (88)** — 38k coins, **+81% em 7 dias** (+34.5% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

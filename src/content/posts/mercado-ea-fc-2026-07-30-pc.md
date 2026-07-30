@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T09:43:28.000Z
+pubDatetime: 2026-07-30T10:00:18.000Z
 title: "Mercado EA FC em 30/07: altas e baixas — PC"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 45k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 1064 cartas em alta contra 750 em queda (média 10.55%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 1060 cartas em alta contra 745 em queda (média 10.28%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **1064 cartas subiram** e **750 caíram** (80+ acima de 5k coins), variação média de **10.55%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **1060 cartas subiram** e **745 caíram** (80+ acima de 5k coins), variação média de **10.28%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Matvey Safonov (96) **+60%** · 🔴 **Maior baixa:** Iván Zamorano (89) **-50%**
 
@@ -38,23 +38,23 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.7% entre as cartas que se moveram; o universo observado reúne 2342 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Participação das altas:** 58.7% entre as cartas que se moveram; o universo observado reúne 2345 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Matvey Safonov | 96 | — | 400k coins | +60% | -41.9% |
-| Julian Brandt | 87 | Bundesliga | 29k coins | +60% | -7.7% |
-| Jan Oblak | 89 | LALIGA EA SPORTS | 28k coins | +60% | +19.4% |
-| Fabián Ruiz | 95 | — | 29k coins | +59.7% | +1.8% |
+| Fabián Ruiz | 95 | — | 29k coins | +59.7% | +2.7% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 95k coins | +59.7% | -10.4% |
+| Patrik Schick | 88 | Bundesliga | 48k coins | +59.7% | +47.3% |
 | Virgil van Dijk | 95 | Premier League | 1.02M coins | +58.9% | -9.3% |
 | Vitinha | 90 | Ligue 1 McDonald's | 216k coins | +58.8% | +160.2% |
 | Georgia Stanway | 88 | Liga F | 78k coins | +58.3% | +27.7% |
 | Ane Azkona | 86 | Liga F | 48k coins | +58.3% | +23.4% |
-| Kosovare Asllani | 86 | Barclays WSL | 46k coins | +58.3% | +54.5% |
-| Edna Imade | 86 | Liga F | 40k coins | +58% | +29.5% |
+| Edna Imade | 86 | Liga F | 40k coins | +58% | +33.9% |
+| Julio César Enciso | 95 | — | 27k coins | +57.9% | +48.1% |
 
 
 ### Análise das altas
@@ -65,9 +65,9 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 
 - **Matvey Safonov (96)** subiu **+60%** em 24h, a **400k coins** (faixa do dia: 250k–590k). Está em linha com a média de 7 dias (+2%).
 
-- **Julian Brandt (87)** subiu **+60%** em 24h, a **29k coins** (faixa do dia: 18.750–42k). Está em linha com a média de 7 dias (+2%).
+- **Fabián Ruiz (95)** subiu **+59.7%** em 24h, a **29k coins** (faixa do dia: 18.000–29k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Jan Oblak (89)** subiu **+60%** em 24h, a **28k coins** (faixa do dia: 16.250–40k). Está em linha com a média de 7 dias (-1%).
+- **Bradley Barcola (90)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 59k–140k). Está +28% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -75,24 +75,24 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Iván Zamorano | 89 | LALIGA EA SPORTS | 20k coins | -50% | -62% |
-| Christian Pulisic | 96 | — | 76k coins | -48.9% | -46.6% |
-| Jurriën Timber | 93 | — | 43k coins | -48.7% | -60.9% |
+| Harry Maguire | 83 | Premier League | 110k coins | -50% | -34.5% |
+| Christian Pulisic | 96 | — | 76k coins | -48.9% | -45.4% |
+| Jairzinho | 94 | Icons | 405k coins | -48.9% | -42.9% |
 | Roony Bardghji | 90 | LALIGA EA SPORTS | 32k coins | -48% | -49.2% |
 | Lindsey Heaps | 90 | D1 Arkema | 98k coins | -47.9% | -20.9% |
 | Patrik Mercado | 91 | — | 29k coins | -47.7% | -42.5% |
 | Lionel Messi | 89 | MLS | 182k coins | -47.7% | -53.1% |
-| Max Arfsten | 90 | — | 28k coins | -47.7% | -57.9% |
+| Max Arfsten | 90 | — | 24k coins | -47.7% | -56.5% |
 | Dominik Szoboszlai | 87 | Premier League | 100k coins | -47.4% | -9.1% |
-| Jairzinho | 94 | Icons | 405k coins | -47.3% | -41.2% |
 
 
 ### Análise das baixas
 
 - **Iván Zamorano (89)** caiu **-50%** em 24h, a **20k coins** (faixa do dia: 19.500–41k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Christian Pulisic (96)** caiu **-48.9%** em 24h, a **76k coins** (faixa do dia: 55k–140k). Está -24% abaixo da média de 7 dias (descontada).
+- **Harry Maguire (83)** caiu **-50%** em 24h, a **110k coins** (faixa do dia: 56k–190k). Está em linha com a média de 7 dias (+8%).
 
-- **Jurriën Timber (93)** caiu **-48.7%** em 24h, a **43k coins** (faixa do dia: 25k–55k). Está em linha com a média de 7 dias (-6%).
+- **Christian Pulisic (96)** caiu **-48.9%** em 24h, a **76k coins** (faixa do dia: 55k–140k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Radar de valorização (24h)
@@ -140,7 +140,7 @@ Iván Zamorano (89), -50% em 24h, a 20k coins.
 Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 45k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 1064 cartas em alta contra 750 em queda (média 10.55%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 1060 cartas em alta contra 745 em queda (média 10.28%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
