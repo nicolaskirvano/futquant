@@ -7,19 +7,19 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Zinedine Zidane</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#38bdf8"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerd Müller</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eusébio</text>
 <rect x="285" y="153" width="418" height="28" rx="7" fill="#38bdf8"/>
 <text x="713" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robert Lewandowski</text>
 <rect x="285" y="211" width="418" height="28" rx="7" fill="#38bdf8"/>
 <text x="713" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bobby Charlton</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lev Yashin</text>
 <rect x="285" y="269" width="418" height="28" rx="7" fill="#38bdf8"/>
 <text x="713" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lev Yashin</text>
-<rect x="285" y="327" width="471" height="28" rx="7" fill="#38bdf8"/>
-<text x="766" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Wirtz</text>
-<rect x="285" y="385" width="409" height="28" rx="7" fill="#38bdf8"/>
-<text x="704" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.500</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bobby Charlton</text>
+<rect x="285" y="327" width="418" height="28" rx="7" fill="#38bdf8"/>
+<text x="713" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerd Müller</text>
+<rect x="285" y="385" width="418" height="28" rx="7" fill="#38bdf8"/>
+<text x="713" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
 </svg>
