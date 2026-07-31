@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:00:11.000Z
+pubDatetime: 2026-07-31T13:00:12.000Z
 title: "Jogadores baratos EA FC em 31/07: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.717 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
+- **Preço médio das 15 opções:** 11.783 coins.
+- **Posição mais frequente:** ST, com 6 cartas.
 - **Faixa real:** 11.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ethan Mbappé | 96 | CM | — | 12.000 coins | +47.9% |
-| Zinedine Zidane | 95 | CAM | Icons | 13.250 coins | +6.2% |
-| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | 0% |
-| Ramires | 93 | CDM | — | 11.750 coins | 0% |
-| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Ethan Mbappé | 96 | CM | — | 12.000 coins | +4.1% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | 0% |
+| Eusébio | 94 | ST | Icons | 13.250 coins | -15% |
+| Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
-| Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
-| Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | -13.2% |
-| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
+| Ramires | 93 | CDM | — | 11.750 coins | 0% |
+| Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | 0% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | -13.2% |
-| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
-| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
+| Sami Al Jaber | 92 | ST | — | 11.500 coins | -9.1% |
+| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
+| Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Ethan Mbappé (96, CM)** da —, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Ethan Mbappé (96, CM)** da —, a apenas **12.000 coins**
 
-- **Zinedine Zidane (95, CAM)** da Icons, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Zinedine Zidane (95, CAM)** da Icons, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Robert Lewandowski (93, ST)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eusébio (94, ST)** da Icons, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ramires (93, CDM)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bobby Charlton (93, CAM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Ethan Mbappé (96, CM) por 12.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Robert Lewandowski (93, ST) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Eusébio (94, ST) por 13.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

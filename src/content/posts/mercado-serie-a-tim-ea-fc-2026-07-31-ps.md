@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:00:23.000Z
+pubDatetime: 2026-07-31T13:00:24.000Z
 title: "Mercado Serie A TIM no EA FC em 31/07 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da Serie A TIM no EA FC Ultimate Team em 31/07/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da Serie A TIM no EA FC hoje?"
-    a: "Scott McTominay (91), a 455k coins no Console (PS) em 31/07/2026."
+    a: "Jamie Vardy (89), a 449k coins no Console (PS) em 31/07/2026."
   - q: "Quem mais valorizou na Serie A TIM esta semana no EA FC?"
-    a: "Kevin De Bruyne (88), +81.2% em 7 dias, a 188k coins."
+    a: "Zion Suzuki (84), +70.5% em 7 dias, a 37k coins."
   - q: "Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **Serie A TIM** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **31/07/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da Serie A TIM:** Scott McTominay (91), a 455k coins.
+> 👑 **Carta mais valiosa da Serie A TIM:** Jamie Vardy (89), a 449k coins.
 
 ![Gráfico de 24h para os destaques de Mercado Serie A TIM no EA FC em 31/07 — PS](/charts/mercado-serie-a-tim-ea-fc-2026-07-31-ps.svg)
 
@@ -32,16 +32,16 @@ A **Serie A TIM** é uma das ligas mais usadas no **EA FC Ultimate Team** — e 
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Scott McTominay | 91 | CM | 455k coins | +13.5% |
-| Jamie Vardy | 89 | ST | 449k coins | +7.9% |
-| Stephan El Shaarawy | 88 | CAM | 429k coins | -4% |
-| Bremer | 88 | CB | 359k coins | +0.3% |
-| Daniele De Rossi | 91 | CDM | 274k coins | +5.4% |
-| Maicon | 89 | RB | 273k coins | +79.4% |
-| Rafael Leão | 86 | ST | 240k coins | -12.3% |
-| Kenan Yıldız | 88 | CAM | 218k coins | +88.5% |
-| Antonio Di Natale | 92 | ST | 203k coins | -10.6% |
-| Paulo Dybala | 91 | CAM | 200k coins | +12% |
+| Jamie Vardy | 89 | ST | 449k coins | +12.5% |
+| Stephan El Shaarawy | 88 | CAM | 425k coins | -3.6% |
+| Bremer | 88 | CB | 359k coins | +1.4% |
+| Rafael Leão | 87 | LW | 339k coins | -18.6% |
+| Maicon | 89 | RB | 287k coins | +81.3% |
+| Kenan Yıldız | 88 | CAM | 230k coins | +130% |
+| Paulo Dybala | 91 | CAM | 224k coins | +7.6% |
+| Kenan Yıldız | 91 | CAM | 190k coins | +90% |
+| Jamie Vardy | 90 | ST | 183k coins | -7.9% |
+| Antonio Di Natale | 89 | LW | 154k coins | +4.3% |
 
 
 ## 📈 Em alta na Serie A TIM (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Kevin De Bruyne | 88 | CM | 188k coins | +81.2% |
-| Federico Dimarco | 87 | LB | 78k coins | +80.2% |
-| Mattia Zaccagni | 87 | LM | 28k coins | +67.6% |
-| Antonio Di Natale | 88 | ST | 56k coins | +65.5% |
-| Arthur Atta | 85 | CM | 55k coins | +65.4% |
-| Pervis Estupiñán | 87 | LB | 61k coins | +61.5% |
-| Marcus Pedersen | 89 | RB | 45k coins | +61.3% |
-| Scott McTominay | 91 | CM | 455k coins | +48.3% |
-| Kenan Yıldız | 82 | CAM | 110k coins | +47.7% |
-| Hakan Çalhanoğlu | 87 | CDM | 60k coins | +47.6% |
+| Zion Suzuki | 84 | GK | 37k coins | +70.5% |
+| Mattia Zaccagni | 87 | LM | 19.500 coins | +63.6% |
+| Federico Dimarco | 87 | LB | 72k coins | +59.4% |
+| Pervis Estupiñán | 87 | LB | 63k coins | +54.4% |
+| Kenan Yıldız | 82 | CAM | 110k coins | +48.6% |
+| Giovanni Di Lorenzo | 86 | RB | 56k coins | +42% |
+| Weston McKennie | 84 | RM | 64k coins | +41.1% |
+| Christian Pulisic | 86 | ST | 60k coins | +38.9% |
+| Tomas Brolin | 87 | ST | 18.250 coins | +37.7% |
+| Hakan Çalhanoğlu | 87 | CDM | 60k coins | +37.5% |
 
 
 ## 📈 Análise da Serie A TIM
 
-A carta mais valiosa da liga é **Scott McTominay (91)**, a 455k coins. 
-No movimento da semana, **Kevin De Bruyne (88)** lidera as altas (+81.2% em 7 dias), sinal de procura crescente por cartas da Serie A TIM. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Jamie Vardy (89)**, a 449k coins. 
+No movimento da semana, **Zion Suzuki (84)** lidera as altas (+70.5% em 7 dias), sinal de procura crescente por cartas da Serie A TIM. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 🔍 Como apuramos os preços
@@ -75,10 +75,10 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da Serie A TIM no EA FC hoje?**  
-Scott McTominay (91), a 455k coins no Console (PS) em 31/07/2026.
+Jamie Vardy (89), a 449k coins no Console (PS) em 31/07/2026.
 
 **Quem mais valorizou na Serie A TIM esta semana no EA FC?**  
-Kevin De Bruyne (88), +81.2% em 7 dias, a 188k coins.
+Zion Suzuki (84), +70.5% em 7 dias, a 37k coins.
 
 **Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam.

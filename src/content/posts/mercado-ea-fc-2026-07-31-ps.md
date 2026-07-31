@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:00:09.000Z
+pubDatetime: 2026-07-31T13:00:09.000Z
 title: "Mercado EA FC em 31/07: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Marcus Rashford (90, LALIGA EA SPORTS), com +60% em 24h, a 176k coins no Console (PS)."
+    a: "Anaële Le Moguédec (88, D1 Arkema), com +60% em 24h, a 30k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Kelechi Iheanacho (87), -50% em 24h, a 30k coins."
+    a: "Anders Dreyer (84), -49.4% em 24h, a 22k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 141k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 109k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 836 cartas em alta contra 942 em queda (média 0.9%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 797 cartas em alta contra 996 em queda (média -0.09%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **836 valorizações** contra **942 quedas** entre as cartas relevantes, com média de **0.9%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **797 valorizações** contra **996 quedas** entre as cartas relevantes, com média de **-0.09%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Marcus Rashford (90) **+60%** · 🔴 **Maior baixa:** Kelechi Iheanacho (87) **-50%**
+> 🟢 **Maior alta:** Anaële Le Moguédec (88) **+60%** · 🔴 **Maior baixa:** Anders Dreyer (84) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: altas e baixas — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -37,24 +37,24 @@ Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.0% entre as cartas que se moveram; o universo observado reúne 2184 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.5% entre as cartas que se moveram; o universo observado reúne 2220 cartas.
+- **Concentração:** ROSHN Saudi League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marcus Rashford | 90 | LALIGA EA SPORTS | 176k coins | +60% | -1.1% |
-| Pablo Aimar | 91 | LALIGA EA SPORTS | 60k coins | +60% | -7% |
-| Craig Halkett | 91 | — | 40k coins | +60% | -14% |
-| Mario Gomez | 92 | — | 30k coins | +58.7% | +35.2% |
-| Patri Guijarro | 91 | Liga F | 40k coins | +57.9% | -69.5% |
-| Mohamed Ihattaren | 91 | — | 34k coins | +57% | -28.9% |
-| Endrick | 93 | — | 48k coins | +56.9% | -20.3% |
-| Lauren James | 92 | Barclays WSL | 387k coins | +56.7% | +27.3% |
-| Aarón | 85 | LALIGA EA SPORTS | 50k coins | +56.2% | +163.2% |
-| Anaële Le Moguédec | 88 | D1 Arkema | 30k coins | +55.8% | +81.8% |
+| Anaële Le Moguédec | 88 | D1 Arkema | 30k coins | +60% | +81.8% |
+| João Félix | 84 | ROSHN Saudi League | 170k coins | +59.6% | +7.1% |
+| Julian Ryerson | 93 | — | 118k coins | +59.5% | +22.9% |
+| Roberto Carlos | 90 | Icons | 155k coins | +59.1% | +2.9% |
+| George Best | 91 | Icons | 259k coins | +59.1% | +8.8% |
+| Oskar Pietuszewski | 86 | Liga Portugal | 56k coins | +57.7% | -30% |
+| Millie Bright | 88 | Barclays WSL | 58k coins | +57% | +67.1% |
+| Luis Díaz | 86 | Bundesliga | 75k coins | +55.4% | +51.5% |
+| Jürgen Kohler | 91 | — | 30k coins | +55.2% | -32.3% |
+| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 400k coins | +55.2% | +131.6% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marcus Rashford (90)** subiu **+60%** em 24h, a **176k coins** (faixa do dia: 105k–200k). Está +35% acima da média de 7 dias (aquecida).
+- **Anaële Le Moguédec (88)** subiu **+60%** em 24h, a **30k coins** (faixa do dia: 11.000–30k). Está +86% acima da média de 7 dias (aquecida).
 
-- **Pablo Aimar (91)** subiu **+60%** em 24h, a **60k coins** (faixa do dia: 16.750–68k). Está +27% acima da média de 7 dias (aquecida).
+- **João Félix (84)** subiu **+59.6%** em 24h, a **170k coins** (faixa do dia: 105k–182k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Craig Halkett (91)** subiu **+60%** em 24h, a **40k coins** (faixa do dia: 24k–49k). Está +22% acima da média de 7 dias (aquecida).
+- **Julian Ryerson (93)** subiu **+59.5%** em 24h, a **118k coins** (faixa do dia: 63k–129k). Está +43% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kelechi Iheanacho | 87 | Scottish Premiership | 30k coins | -50% | +4.4% |
-| Gisele Thompson | 90 | NWSL | 36k coins | -49.7% | -39.6% |
-| Jaden Philogene | 87 | EFL Championship | 40k coins | -49.5% | -39.2% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 25k coins | -49.2% | -41.9% |
-| Giuliano Simeone | 96 | — | 23k coins | -49.2% | -74.9% |
-| Chloe Kelly | 88 | Barclays WSL | 35k coins | -49% | -55.4% |
-| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 41k coins | -48.8% | +2.5% |
-| Cole Palmer | 92 | Premier League | 26k coins | -48.5% | -95.9% |
-| Marek Hamšík | 88 | Serie A TIM | 29k coins | -47.8% | -25.3% |
-| Jaydee Canvot | 96 | — | 55k coins | -47.6% | -65.4% |
+| Anders Dreyer | 84 | MLS | 22k coins | -49.4% | +3.4% |
+| Pedro Neto | 88 | Premier League | 25k coins | -49.1% | -31.1% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 41k coins | -48.8% | +5.1% |
+| Anis Hadj-Moussa | 86 | Eredivisie | 96k coins | -48.4% | +1% |
+| Gisele Thompson | 90 | NWSL | 36k coins | -48.2% | -38% |
+| Ezri Konsa | 96 | — | 39k coins | -48% | -58.2% |
+| Jaydee Canvot | 96 | — | 50k coins | -46.7% | -64.8% |
+| Nadine Keßler | 90 | GPFBL | 25k coins | -46.7% | -52.7% |
+| Marek Hamšík | 88 | Serie A TIM | 28k coins | -46.6% | -29.7% |
+| Kingsley Coman | 87 | ROSHN Saudi League | 22k coins | -46.2% | -37.2% |
 
 
 ### Análise das baixas
 
-- **Kelechi Iheanacho (87)** caiu **-50%** em 24h, a **30k coins** (faixa do dia: 30k–76k). Está -33% abaixo da média de 7 dias (descontada).
+- **Anders Dreyer (84)** caiu **-49.4%** em 24h, a **22k coins** (faixa do dia: 16.000–50k). Está em linha com a média de 7 dias (-8%).
 
-- **Gisele Thompson (90)** caiu **-49.7%** em 24h, a **36k coins** (faixa do dia: 16.750–72k). Está em linha com a média de 7 dias (-5%).
+- **Pedro Neto (88)** caiu **-49.1%** em 24h, a **25k coins** (faixa do dia: 15.500–56k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Jaden Philogene (87)** caiu **-49.5%** em 24h, a **40k coins** (faixa do dia: 24k–44k). Está em linha com a média de 7 dias (-2%).
+- **Anthony Nwakaeme (87)** caiu **-48.8%** em 24h, a **41k coins** (faixa do dia: 41k–80k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -101,15 +101,15 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 141k coins | 150k coins | 82% |
-| Maicon | 88 | 33k coins | 34k coins | 54% |
+| Ryan Gravenberch | 93 | 109k coins | 116k coins | 82% |
+| Maicon | 88 | 31k coins | 32k coins | 54% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marcus Rashford já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Anaële Le Moguédec já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Kelechi Iheanacho recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Anders Dreyer recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -121,16 +121,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Marcus Rashford (90, LALIGA EA SPORTS), com +60% em 24h, a 176k coins no Console (PS).
+Anaële Le Moguédec (88, D1 Arkema), com +60% em 24h, a 30k coins no Console (PS).
 
 **E a maior queda do dia?**
-Kelechi Iheanacho (87), -50% em 24h, a 30k coins.
+Anders Dreyer (84), -49.4% em 24h, a 22k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 141k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 109k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 836 cartas em alta contra 942 em queda (média 0.9%).
+Hoje o mercado está lateral — sem direção clara, com 797 cartas em alta contra 996 em queda (média -0.09%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
