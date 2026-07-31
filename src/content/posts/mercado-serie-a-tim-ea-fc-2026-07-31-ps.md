@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:00:24.000Z
+pubDatetime: 2026-07-31T16:00:23.000Z
 title: "Mercado Serie A TIM no EA FC em 31/07 — PS"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Serie A TIM no EA FC hoje?"
     a: "Jamie Vardy (89), a 449k coins no Console (PS) em 31/07/2026."
   - q: "Quem mais valorizou na Serie A TIM esta semana no EA FC?"
-    a: "Zion Suzuki (84), +70.5% em 7 dias, a 37k coins."
+    a: "Zion Suzuki (84), +82.7% em 7 dias, a 36k coins."
   - q: "Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -32,16 +32,16 @@ A **Serie A TIM** é uma das ligas mais usadas no **EA FC Ultimate Team** — e 
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Jamie Vardy | 89 | ST | 449k coins | +12.5% |
-| Stephan El Shaarawy | 88 | CAM | 425k coins | -3.6% |
-| Bremer | 88 | CB | 359k coins | +1.4% |
-| Rafael Leão | 87 | LW | 339k coins | -18.6% |
-| Maicon | 89 | RB | 287k coins | +81.3% |
-| Kenan Yıldız | 88 | CAM | 230k coins | +130% |
-| Paulo Dybala | 91 | CAM | 224k coins | +7.6% |
-| Kenan Yıldız | 91 | CAM | 190k coins | +90% |
-| Jamie Vardy | 90 | ST | 183k coins | -7.9% |
-| Antonio Di Natale | 89 | LW | 154k coins | +4.3% |
+| Jamie Vardy | 89 | ST | 449k coins | +18.2% |
+| Stephan El Shaarawy | 88 | CAM | 400k coins | -3.4% |
+| Rafael Leão | 87 | LW | 397k coins | +17% |
+| Bremer | 88 | CB | 359k coins | +2.3% |
+| Rafael Leão | 86 | ST | 284k coins | +17.6% |
+| Antonio Di Natale | 92 | ST | 260k coins | +13% |
+| Scott McTominay | 91 | CM | 255k coins | -14.4% |
+| Daniele De Rossi | 91 | CDM | 239k coins | -15.1% |
+| Kenan Yıldız | 88 | CAM | 229k coins | +129% |
+| Paulo Dybala | 91 | CAM | 214k coins | +8.6% |
 
 
 ## 📈 Em alta na Serie A TIM (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Zion Suzuki | 84 | GK | 37k coins | +70.5% |
-| Mattia Zaccagni | 87 | LM | 19.500 coins | +63.6% |
-| Federico Dimarco | 87 | LB | 72k coins | +59.4% |
-| Pervis Estupiñán | 87 | LB | 63k coins | +54.4% |
-| Kenan Yıldız | 82 | CAM | 110k coins | +48.6% |
-| Giovanni Di Lorenzo | 86 | RB | 56k coins | +42% |
-| Weston McKennie | 84 | RM | 64k coins | +41.1% |
-| Christian Pulisic | 86 | ST | 60k coins | +38.9% |
-| Tomas Brolin | 87 | ST | 18.250 coins | +37.7% |
-| Hakan Çalhanoğlu | 87 | CDM | 60k coins | +37.5% |
+| Zion Suzuki | 84 | GK | 36k coins | +82.7% |
+| Pervis Estupiñán | 87 | LB | 50k coins | +62.8% |
+| De Gea | 89 | GK | 174k coins | +60.6% |
+| Giovanni Di Lorenzo | 86 | RB | 64k coins | +58.6% |
+| Lautaro Martínez | 89 | ST | 94k coins | +51.6% |
+| Rafael Leão | 87 | LW | 397k coins | +47.8% |
+| Gervinho | 85 | LW | 26k coins | +44.9% |
+| Kenan Yıldız | 82 | CAM | 107k coins | +44.6% |
+| Federico Dimarco | 87 | LB | 70k coins | +44.3% |
+| Wesley Sneijder | 88 | CAM | 22k coins | +39.3% |
 
 
 ## 📈 Análise da Serie A TIM
 
 A carta mais valiosa da liga é **Jamie Vardy (89)**, a 449k coins. 
-No movimento da semana, **Zion Suzuki (84)** lidera as altas (+70.5% em 7 dias), sinal de procura crescente por cartas da Serie A TIM. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Zion Suzuki (84)** lidera as altas (+82.7% em 7 dias), sinal de procura crescente por cartas da Serie A TIM. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 🔍 Como apuramos os preços
@@ -78,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 Jamie Vardy (89), a 449k coins no Console (PS) em 31/07/2026.
 
 **Quem mais valorizou na Serie A TIM esta semana no EA FC?**  
-Zion Suzuki (84), +70.5% em 7 dias, a 37k coins.
+Zion Suzuki (84), +82.7% em 7 dias, a 36k coins.
 
 **Onde ver os preços das cartas da Serie A TIM no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Serie A TIM, atualizados todos os dias, com as mais valiosas e as que mais valorizam.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:00:11.000Z
+pubDatetime: 2026-07-31T16:00:10.000Z
 title: "Investimentos EA FC em 31/07: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Aitana Bonmatí (91, Liga F) lidera, com +88.6% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pau Cubarsí (97, sem liga) lidera, com +88.6% em 7 dias a 80k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aitana Bonmatí (91) acumula **+88.6% em 7 dias** a 35k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Pau Cubarsí (97) acumula **+88.6% em 7 dias** a 80k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 31/07: radar de alta — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.0% em 24h** e **+70.5% em 7 dias**.
+- A mediana é de **+11.9% em 24h** e **+77.4% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | Liga F | 35k coins | +10% | +88.6% | Esticada |
-| Harry Kane | 92 | Bundesliga | 200k coins | +24.2% | +88.3% | Esticada |
-| Éder Militão | 88 | LALIGA EA SPORTS | 85k coins | +15% | +84% | Esticada |
-| Julia Zigiotti | 84 | Barclays WSL | 40k coins | +12% | +82.8% | Esticada |
-| Dayne St. Clair | 92 | — | 33k coins | +4% | +75.3% | Esticada |
-| Max Aarons | 85 | Scottish Premiership | 40k coins | +1.1% | +73.8% | Esticada |
-| Gabriel | 89 | Premier League | 50k coins | +22.2% | +73% | Esticada |
-| Trincão | 86 | Liga Portugal | 25k coins | +3% | +70.5% | Esticada |
-| Tomáš Rosický | 89 | Bundesliga | 33k coins | +5.6% | +70.1% | Esticada |
-| Ramires | 86 | Premier League | 86k coins | +17.5% | +66.1% | Esticada |
-| Alexandra Popp | 89 | GPFBL | 41k coins | +34.7% | +65.3% | Esticada |
-| Gianluigi Donnarumma | 95 | Premier League | 230k coins | +30.2% | +64.7% | Esticada |
-| Pubill | 92 | — | 40k coins | +17% | +64.6% | Esticada |
-| Mattia Zaccagni | 87 | Serie A TIM | 19.500 coins | +1.9% | +63.6% | Esticada |
-| Ismael Saibari | 97 | — | 36k coins | +3.9% | +63.3% | Esticada |
+| Pau Cubarsí | 97 | — | 80k coins | +3.1% | +88.6% | Esticada |
+| Roberto Carlos | 95 | — | 110k coins | +11.9% | +88.3% | Esticada |
+| Harry Kane | 92 | Bundesliga | 171k coins | +5.6% | +88.1% | Esticada |
+| Ashley Cole | 92 | — | 130k coins | +23.8% | +85.7% | Esticada |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 195k coins | +25.8% | +80.6% | Esticada |
+| Arda Güler | 94 | — | 50k coins | +5.8% | +80.4% | Esticada |
+| Sakina Karchaoui | 89 | — | 99k coins | +8.2% | +80% | Esticada |
+| Jerzy Dudek | 87 | Premier League | 41k coins | +1.9% | +77.4% | Esticada |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 30k coins | +7.9% | +73.5% | Esticada |
+| Éder Militão | 88 | LALIGA EA SPORTS | 80k coins | +12.7% | +72.4% | Esticada |
+| Pau Cubarsí | 93 | — | 44k coins | +13.2% | +72% | Esticada |
+| Julian Quiñones | 94 | — | 52k coins | +24.8% | +71.7% | Esticada |
+| Can Uzun | 89 | Bundesliga | 110k coins | +19.6% | +69.2% | Esticada |
+| Joe Gelhardt | 86 | EFL Championship | 24k coins | +22.1% | +66.7% | Esticada |
+| Javier Zanetti | 91 | Icons | 144k coins | +10.4% | +66.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Aitana Bonmatí (91)** — 35k coins, **+88.6% em 7 dias** (+10% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pau Cubarsí (97)** — 80k coins, **+88.6% em 7 dias** (+3.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (92)** — 200k coins, **+88.3% em 7 dias** (+24.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Carlos (95)** — 110k coins, **+88.3% em 7 dias** (+11.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Éder Militão (88)** — 85k coins, **+84% em 7 dias** (+15% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Kane (92)** — 171k coins, **+88.1% em 7 dias** (+5.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julia Zigiotti (84)** — 40k coins, **+82.8% em 7 dias** (+12% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Cole (92)** — 130k coins, **+85.7% em 7 dias** (+23.8% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dayne St. Clair (92)** — 33k coins, **+75.3% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Federico Valverde (90)** — 195k coins, **+80.6% em 7 dias** (+25.8% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Aitana Bonmatí (91, Liga F) lidera, com +88.6% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pau Cubarsí (97, sem liga) lidera, com +88.6% em 7 dias a 80k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

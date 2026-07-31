@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jamie Vardy</text>
-<rect x="285" y="95" width="46" height="28" rx="7" fill="#22c55e"/>
-<text x="341" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.5%</text>
+<rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.2%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephan El Shaarawy</text>
-<rect x="285" y="153" width="13" height="28" rx="7" fill="#f87171"/>
-<text x="308" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-3.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bremer</text>
-<rect x="285" y="211" width="8" height="28" rx="7" fill="#22c55e"/>
-<text x="303" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+1.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafael Leão</text>
-<rect x="285" y="269" width="69" height="28" rx="7" fill="#f87171"/>
-<text x="364" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-18.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maicon</text>
-<rect x="285" y="327" width="300" height="28" rx="7" fill="#22c55e"/>
-<text x="595" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenan Yıldız</text>
-<rect x="285" y="385" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+130.0%</text>
+<rect x="285" y="153" width="90" height="28" rx="7" fill="#f87171"/>
+<text x="385" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">-3.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafael Leão</text>
+<rect x="285" y="211" width="448" height="28" rx="7" fill="#22c55e"/>
+<text x="743" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bremer</text>
+<rect x="285" y="269" width="61" height="28" rx="7" fill="#22c55e"/>
+<text x="356" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+2.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rafael Leão</text>
+<rect x="285" y="327" width="464" height="28" rx="7" fill="#22c55e"/>
+<text x="759" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Di Natale</text>
+<rect x="285" y="385" width="343" height="28" rx="7" fill="#22c55e"/>
+<text x="638" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.0%</text>
 </svg>
