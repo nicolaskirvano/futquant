@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T09:34:58.000Z
+pubDatetime: 2026-07-31T10:00:09.000Z
 title: "Mercado EA FC em 31/07: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Ricardo Rodríguez (88, sem liga), com +60% em 24h, a 24k coins no Console (PS)."
+    a: "Marcus Rashford (90, LALIGA EA SPORTS), com +60% em 24h, a 176k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Kelechi Iheanacho (87), -50% em 24h, a 30k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 142k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 141k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 854 cartas em alta contra 951 em queda (média 1.3%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 836 cartas em alta contra 942 em queda (média 0.9%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **854 valorizações** contra **951 quedas** entre as cartas relevantes, com média de **1.3%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção clara. **836 valorizações** contra **942 quedas** entre as cartas relevantes, com média de **0.9%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ricardo Rodríguez (88) **+60%** · 🔴 **Maior baixa:** Kelechi Iheanacho (87) **-50%**
+> 🟢 **Maior alta:** Marcus Rashford (90) **+60%** · 🔴 **Maior baixa:** Kelechi Iheanacho (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: altas e baixas — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -38,23 +38,23 @@ Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção 
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 2223 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
+- **Participação das altas:** 47.0% entre as cartas que se moveram; o universo observado reúne 2184 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Rodríguez | 88 | — | 24k coins | +60% | +60% |
+| Marcus Rashford | 90 | LALIGA EA SPORTS | 176k coins | +60% | -1.1% |
 | Pablo Aimar | 91 | LALIGA EA SPORTS | 60k coins | +60% | -7% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 459k coins | +58.8% | +141.6% |
+| Craig Halkett | 91 | — | 40k coins | +60% | -14% |
 | Mario Gomez | 92 | — | 30k coins | +58.7% | +35.2% |
-| Patrick Dorgu | 84 | Premier League | 86k coins | +58.2% | +55.4% |
-| Ramires | 86 | Premier League | 100k coins | +58% | +96.4% |
+| Patri Guijarro | 91 | Liga F | 40k coins | +57.9% | -69.5% |
+| Mohamed Ihattaren | 91 | — | 34k coins | +57% | -28.9% |
+| Endrick | 93 | — | 48k coins | +56.9% | -20.3% |
+| Lauren James | 92 | Barclays WSL | 387k coins | +56.7% | +27.3% |
+| Aarón | 85 | LALIGA EA SPORTS | 50k coins | +56.2% | +163.2% |
 | Anaële Le Moguédec | 88 | D1 Arkema | 30k coins | +55.8% | +81.8% |
-| Maicon | 89 | Serie A TIM | 253k coins | +55.3% | +8.4% |
-| Debinha | 89 | NWSL | 160k coins | +55.2% | +81.8% |
-| Çağlar Söyüncü | 93 | — | 32k coins | +54.8% | +120.3% |
 
 
 ### Análise das altas
@@ -63,11 +63,11 @@ Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ricardo Rodríguez (88)** subiu **+60%** em 24h, a **24k coins** (faixa do dia: 16.500–35k). Está +8% acima da média de 7 dias (aquecida).
+- **Marcus Rashford (90)** subiu **+60%** em 24h, a **176k coins** (faixa do dia: 105k–200k). Está +35% acima da média de 7 dias (aquecida).
 
 - **Pablo Aimar (91)** subiu **+60%** em 24h, a **60k coins** (faixa do dia: 16.750–68k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Eduardo Camavinga (87)** subiu **+58.8%** em 24h, a **459k coins** (faixa do dia: 256k–459k). Está +46% acima da média de 7 dias (aquecida).
+- **Craig Halkett (91)** subiu **+60%** em 24h, a **40k coins** (faixa do dia: 24k–49k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -75,24 +75,24 @@ Resumo de **31/07/2026** no Console (PS): mercado **lateral** — sem direção 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Kelechi Iheanacho | 87 | Scottish Premiership | 30k coins | -50% | +4.4% |
-| Iñaki Williams | 87 | LALIGA EA SPORTS | 117k coins | -50% | -17.1% |
-| Jaden Philogene | 87 | EFL Championship | 24k coins | -49.5% | -39.2% |
-| Vitinha | 90 | Ligue 1 McDonald's | 90k coins | -49.5% | +26.4% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 25k coins | -49.2% | -44.4% |
-| Warren Zaïre-Emery | 96 | — | 160k coins | -49.1% | -64% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 40k coins | -48.7% | -46.7% |
-| Cole Palmer | 92 | Premier League | 26k coins | -48.5% | -96% |
-| Julián Alvarez | 89 | LALIGA EA SPORTS | 68k coins | -48.5% | -42.4% |
-| Davor Šuker | 87 | Icons | 66k coins | -48.4% | -34% |
+| Gisele Thompson | 90 | NWSL | 36k coins | -49.7% | -39.6% |
+| Jaden Philogene | 87 | EFL Championship | 40k coins | -49.5% | -39.2% |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 25k coins | -49.2% | -41.9% |
+| Giuliano Simeone | 96 | — | 23k coins | -49.2% | -74.9% |
+| Chloe Kelly | 88 | Barclays WSL | 35k coins | -49% | -55.4% |
+| Anthony Nwakaeme | 87 | Trendyol Süper Lig | 41k coins | -48.8% | +2.5% |
+| Cole Palmer | 92 | Premier League | 26k coins | -48.5% | -95.9% |
+| Marek Hamšík | 88 | Serie A TIM | 29k coins | -47.8% | -25.3% |
+| Jaydee Canvot | 96 | — | 55k coins | -47.6% | -65.4% |
 
 
 ### Análise das baixas
 
 - **Kelechi Iheanacho (87)** caiu **-50%** em 24h, a **30k coins** (faixa do dia: 30k–76k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Iñaki Williams (87)** caiu **-50%** em 24h, a **117k coins** (faixa do dia: 117k–290k). Está -41% abaixo da média de 7 dias (descontada).
+- **Gisele Thompson (90)** caiu **-49.7%** em 24h, a **36k coins** (faixa do dia: 16.750–72k). Está em linha com a média de 7 dias (-5%).
 
-- **Jaden Philogene (87)** caiu **-49.5%** em 24h, a **24k coins** (faixa do dia: 24k–44k). Está -41% abaixo da média de 7 dias (descontada).
+- **Jaden Philogene (87)** caiu **-49.5%** em 24h, a **40k coins** (faixa do dia: 24k–44k). Está em linha com a média de 7 dias (-2%).
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -101,13 +101,13 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 142k coins | 151k coins | 82% |
-| Maicon | 88 | 34k coins | 35k coins | 54% |
+| Ryan Gravenberch | 93 | 141k coins | 150k coins | 82% |
+| Maicon | 88 | 33k coins | 34k coins | 54% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ricardo Rodríguez já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marcus Rashford já avançou 60% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Kelechi Iheanacho recuou -50%; confirme estabilização e liquidez.
 
@@ -121,16 +121,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Ricardo Rodríguez (88, sem liga), com +60% em 24h, a 24k coins no Console (PS).
+Marcus Rashford (90, LALIGA EA SPORTS), com +60% em 24h, a 176k coins no Console (PS).
 
 **E a maior queda do dia?**
 Kelechi Iheanacho (87), -50% em 24h, a 30k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 142k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 141k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 854 cartas em alta contra 951 em queda (média 1.3%).
+Hoje o mercado está lateral — sem direção clara, com 836 cartas em alta contra 942 em queda (média 0.9%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
