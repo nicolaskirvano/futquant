@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:00:22.000Z
+pubDatetime: 2026-07-31T01:00:21.000Z
 title: "Jogadores baratos EA FC em 30/07: abaixo de 15k — PC"
 draft: false
 featured: false
@@ -31,7 +31,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 ## Retrato do recorte de hoje
 
 - **Preço médio das 15 opções:** 11.600 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
+- **Posição mais frequente:** ST, com 5 cartas.
 - **Faixa real:** 11.500 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | -9.4% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | -14.3% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
-| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | -2.1% |
-| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
-| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
-| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
-| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | -2.1% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
+| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
+| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
+| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | -6.1% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Khvicha Kvaratskhelia | 91 | LW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
+| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Bobby Charlton (93, CAM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Robert Lewandowski (93, ST)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Robert Lewandowski (93, ST)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Zinedine Zidane (95, CAM) por 12.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Robert Lewandowski (93, ST) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Gerd Müller (93, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
