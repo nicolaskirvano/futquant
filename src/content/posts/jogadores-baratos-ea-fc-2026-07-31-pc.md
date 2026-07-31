@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:00:20.000Z
+pubDatetime: 2026-07-31T19:00:20.000Z
 title: "Jogadores baratos EA FC em 31/07: abaixo de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 31/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/07/2026)?"
-    a: "Zinedine Zidane (95, Icons) aparece como melhor custo-benefício, a 12.250 coins no PC."
+    a: "Chloe Kelly (97, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Zinedine Zidane (95) por apenas 12.250 coins.
+> 💰 **Melhor pechincha:** Chloe Kelly (97) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC em 31/07: abaixo de 15k — PC](/charts/jogadores-baratos-ea-fc-2026-07-31-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.783 coins.
+- **Preço médio das 15 opções:** 11.800 coins.
 - **Posição mais frequente:** CAM, com 5 cartas.
-- **Faixa real:** 11.500 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 12.250 coins | 0% |
-| Eusébio | 94 | ST | Icons | 13.250 coins | -3.8% |
-| Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
-| Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
+| Chloe Kelly | 97 | RM | — | 14.000 coins | -9.9% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | 0% |
+| Eusébio | 94 | ST | Icons | 11.750 coins | 0% |
+| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | 0% |
 | Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
+| Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
-| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | +8.5% |
-| Ramires | 93 | CDM | — | 12.000 coins | -7.7% |
 | Cole Palmer | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Zinedine Zidane (95, CAM)** da Icons, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Chloe Kelly (97, RM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Eusébio (94, ST)** da Icons, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Zinedine Zidane (95, CAM)** da Icons, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins**
+- **Eusébio (94, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bobby Charlton (93, CAM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Robert Lewandowski (93, ST)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -74,9 +74,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** Lev Yashin (93, GK) por 11.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Zinedine Zidane (95, CAM) por 12.250 coins é a referência de rating deste recorte.
+- **Meio:** Chloe Kelly (97, RM) por 14.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Eusébio (94, ST) por 13.250 coins é a referência de rating deste recorte.
+- **Ataque:** Eusébio (94, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/07/2026)?**  
-Zinedine Zidane (95, Icons) aparece como melhor custo-benefício, a 12.250 coins no PC.
+Chloe Kelly (97, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
