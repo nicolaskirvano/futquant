@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T09:34:44.000Z
+pubDatetime: 2026-08-01T10:00:10.000Z
 title: "Investimentos EA FC em 01/08: radar de alta — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.8% em 24h** e **+84.6% em 7 dias**.
+- A mediana é de **+14.0% em 24h** e **+84.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pernille Harder | 89 | GPFBL | 42k coins | +8.6% | +90% | Esticada |
-| Maximilian Beier | 85 | Bundesliga | 22k coins | +4.3% | +88.2% | Esticada |
 | Javier Mascherano | 88 | LALIGA EA SPORTS | 24k coins | +2.2% | +88% | Esticada |
-| Julia Zigiotti | 84 | Barclays WSL | 50k coins | +15% | +87.7% | Esticada |
-| Andriy Shevchenko | 93 | — | 52k coins | +20.4% | +86.7% | Esticada |
-| Thibaut Courtois | 92 | — | 64k coins | +18.6% | +85.4% | Esticada |
-| Said El Mala | 90 | — | 37k coins | +23.3% | +85% | Esticada |
+| Julia Zigiotti | 84 | Barclays WSL | 50k coins | +18.5% | +87.7% | Esticada |
+| Chiamaka Nnadozie | 90 | Barclays WSL | 92k coins | +3.3% | +87% | Esticada |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 98k coins | +12.4% | +86.9% | Esticada |
+| Aleix García | 93 | — | 32k coins | +31.4% | +86.1% | Esticada |
+| Said El Mala | 90 | — | 34k coins | +23.3% | +85% | Esticada |
 | Santiago Sosa | 93 | — | 30k coins | +31.9% | +84.6% | Esticada |
-| Chiamaka Nnadozie | 90 | Barclays WSL | 92k coins | +2.2% | +83.3% | Esticada |
-| Karim Benzema | 87 | ROSHN Saudi League | 100k coins | +15.8% | +83.3% | Esticada |
+| Roberto Baggio | 94 | — | 153k coins | +15.3% | +83.1% | Esticada |
 | Karen Araya | 86 | D1 Arkema | 26k coins | +6% | +82.8% | Esticada |
-| Jan Oblak | 89 | LALIGA EA SPORTS | 48k coins | +27% | +80.8% | Esticada |
-| Mario Lemina | 88 | Trendyol Süper Lig | 60k coins | +28.3% | +79.1% | Esticada |
+| Jan Oblak | 89 | LALIGA EA SPORTS | 48k coins | +28.4% | +82.7% | Esticada |
+| Maximilian Beier | 85 | Bundesliga | 22k coins | +1.1% | +82.4% | Esticada |
 | Youri Tielemans | 96 | — | 240k coins | +14% | +78.9% | Esticada |
-| Crysencio Summerville | 86 | Premier League | 85k coins | +25% | +78.9% | Esticada |
+| Serhou Guirassy | 88 | Bundesliga | 40k coins | +13.7% | +78.5% | Esticada |
+| Crysencio Summerville | 86 | Premier League | 85k coins | +25% | +77.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Pernille Harder (89)** — 42k coins, **+90% em 7 dias** (+8.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maximilian Beier (85)** — 22k coins, **+88.2% em 7 dias** (+4.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Javier Mascherano (88)** — 24k coins, **+88% em 7 dias** (+2.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julia Zigiotti (84)** — 50k coins, **+87.7% em 7 dias** (+15% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julia Zigiotti (84)** — 50k coins, **+87.7% em 7 dias** (+18.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andriy Shevchenko (93)** — 52k coins, **+86.7% em 7 dias** (+20.4% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Chiamaka Nnadozie (90)** — 92k coins, **+87% em 7 dias** (+3.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Marcos Llorente (86)** — 98k coins, **+86.9% em 7 dias** (+12.4% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
