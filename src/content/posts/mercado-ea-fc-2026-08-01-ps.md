@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:00:09.000Z
+pubDatetime: 2026-08-01T22:00:09.000Z
 title: "Mercado EA FC em 01/08: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Tara McKeown (95, sem liga), com +60% em 24h, a 60k coins no Console (PS)."
+    a: "Laura Dick (93, sem liga), com +60% em 24h, a 38k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Tariq Lamptey (89), -47.8% em 24h, a 21k coins."
+    a: "Kelechi Iheanacho (87), -49.5% em 24h, a 54k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 120k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 70k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 883 cartas em alta contra 624 em queda (média 5.21%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 1062 cartas em alta contra 590 em queda (média 6.33%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**01/08/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **883 subiram**, **624 caíram** (80+ e 5k+ coins), média de **5.21%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**01/08/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **1062 subiram**, **590 caíram** (80+ e 5k+ coins), média de **6.33%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tara McKeown (95) **+60%** · 🔴 **Maior baixa:** Tariq Lamptey (89) **-47.8%**
+> 🟢 **Maior alta:** Laura Dick (93) **+60%** · 🔴 **Maior baixa:** Kelechi Iheanacho (87) **-49.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: altas e baixas — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -37,24 +37,24 @@ Hoje (**01/08/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.6% entre as cartas que se moveram; o universo observado reúne 2043 cartas.
-- **Concentração:** Bundesliga aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 64.3% entre as cartas que se moveram; o universo observado reúne 2178 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tara McKeown | 95 | — | 60k coins | +60% | +34.8% |
-| Blaise Matuidi | 95 | — | 32k coins | +60% | +72.2% |
-| Ona Batlle | 96 | — | 98k coins | +59.7% | -17.5% |
-| Kyle Walker | 97 | — | 175k coins | +59.1% | +23.2% |
-| Paolo Maldini | 94 | Icons | 38k coins | +58.7% | -52% |
-| Jonathan Tah | 88 | Bundesliga | 25k coins | +58.6% | +24.3% |
-| Khadija Shaw | 90 | Barclays WSL | 496k coins | +58.5% | +77.8% |
-| Jennifer Echegini | 86 | D1 Arkema | 34k coins | +58% | +75.9% |
-| Marc-André ter Stegen | 89 | LALIGA EA SPORTS | 179k coins | +57.9% | +80% |
-| Hugo Sánchez | 89 | Icons | 132k coins | +57.1% | +57.1% |
+| Laura Dick | 93 | — | 38k coins | +60% | +27% |
+| Nabil Bentaleb | 86 | Ligue 1 McDonald's | 48k coins | +59.7% | +93.9% |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 38k coins | +59.4% | +71.9% |
+| Bryan Mbeumo | 87 | Premier League | 55k coins | +59.1% | +147.7% |
+| Federico Chiesa | 86 | Premier League | 201k coins | +58.9% | +45.9% |
+| Louisa Necib | 88 | D1 Arkema | 29k coins | +58.1% | +7.3% |
+| Nikola Katić | 90 | — | 153k coins | +57.3% | +50.4% |
+| Thierry Henry | 86 | Icons | 957k coins | +57.1% | +67.8% |
+| Zlatan Ibrahimović | 92 | Icons | 3.50M coins | +56.8% | +73.8% |
+| Lisa Baum | 85 | GPFBL | 22k coins | +56.4% | +36.5% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Hoje (**01/08/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tara McKeown (95)** subiu **+60%** em 24h, a **60k coins** (faixa do dia: 34k–79k). Está +15% acima da média de 7 dias (aquecida).
+- **Laura Dick (93)** subiu **+60%** em 24h, a **38k coins** (faixa do dia: 22k–49k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Blaise Matuidi (95)** subiu **+60%** em 24h, a **32k coins** (faixa do dia: 19.000–34k). Está +35% acima da média de 7 dias (aquecida).
+- **Nabil Bentaleb (86)** subiu **+59.7%** em 24h, a **48k coins** (faixa do dia: 22k–48k). Está +97% acima da média de 7 dias (aquecida).
 
-- **Ona Batlle (96)** subiu **+59.7%** em 24h, a **98k coins** (faixa do dia: 56k–106k). Está -9% abaixo da média de 7 dias (descontada).
+- **Jean-Mattéo Bahoya (89)** subiu **+59.4%** em 24h, a **38k coins** (faixa do dia: 22k–95k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tariq Lamptey | 89 | — | 21k coins | -47.8% | -42.5% |
-| Pape Gueye | 95 | — | 38k coins | -47.6% | -1.9% |
-| Raphinha | 93 | — | 26k coins | -45.3% | -27.1% |
-| Charles De Ketelaere | 89 | Serie A TIM | 30k coins | -45.2% | +51.7% |
-| Mohamed Salah | 91 | Premier League | 26k coins | -44.6% | -48% |
-| Mario Götze | 88 | Bundesliga | 33k coins | -44% | -27.2% |
-| Jürgen Kohler | 90 | Bundesliga | 22k coins | -43.8% | -25% |
-| Wesley Sneijder | 89 | Serie A TIM | 24k coins | -43.6% | +1% |
-| Charles De Ketelaere | 88 | Serie A TIM | 40k coins | -43.5% | -81.3% |
-| Alyssa Naeher | 88 | NWSL | 20k coins | -42.1% | -3.6% |
+| Kelechi Iheanacho | 87 | Scottish Premiership | 54k coins | -49.5% | +105.6% |
+| Wout Weghorst | 85 | Eredivisie | 52k coins | -48% | -49.7% |
+| Enzo Fernández | 91 | Premier League | 68k coins | -45.1% | -27.1% |
+| Wesley Sneijder | 89 | Serie A TIM | 23k coins | -43.5% | +9.1% |
+| Nico Williams | 89 | LALIGA EA SPORTS | 58k coins | -42.6% | -50% |
+| Carlos Tévez | 93 | — | 184k coins | -41.9% | +47.5% |
+| Kieffer Moore | 88 | EFL Championship | 25k coins | -40.8% | -28.6% |
+| Gianluigi Donnarumma | 89 | Premier League | 196k coins | -39.9% | -31.6% |
+| Malang Sarr | 96 | — | 35k coins | -39.3% | -27.9% |
+| Emily van Egmond | 88 | Barclays WSL | 92k coins | -38.7% | -61.2% |
 
 
 ### Análise das baixas
 
-- **Tariq Lamptey (89)** caiu **-47.8%** em 24h, a **21k coins** (faixa do dia: 21k–40k). Está -47% abaixo da média de 7 dias (descontada).
+- **Kelechi Iheanacho (87)** caiu **-49.5%** em 24h, a **54k coins** (faixa do dia: 30k–110k). Está em linha com a média de 7 dias (+4%).
 
-- **Pape Gueye (95)** caiu **-47.6%** em 24h, a **38k coins** (faixa do dia: 36k–92k). Está -33% abaixo da média de 7 dias (descontada).
+- **Wout Weghorst (85)** caiu **-48%** em 24h, a **52k coins** (faixa do dia: 41k–116k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Raphinha (93)** caiu **-45.3%** em 24h, a **26k coins** (faixa do dia: 24k–45k). Está -39% abaixo da média de 7 dias (descontada).
+- **Enzo Fernández (91)** caiu **-45.1%** em 24h, a **68k coins** (faixa do dia: 26k–115k). Está +40% acima da média de 7 dias (aquecida).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -101,14 +101,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Maicon | 88 | 120k coins | 125k coins | 54% |
+| Ryan Gravenberch | 93 | 70k coins | 74k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tara McKeown já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Laura Dick já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tariq Lamptey recuou -47.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kelechi Iheanacho recuou -49.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Tara McKeown (95, sem liga), com +60% em 24h, a 60k coins no Console (PS).
+Laura Dick (93, sem liga), com +60% em 24h, a 38k coins no Console (PS).
 
 **E a maior queda do dia?**
-Tariq Lamptey (89), -47.8% em 24h, a 21k coins.
+Kelechi Iheanacho (87), -49.5% em 24h, a 54k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Maicon (88) — 54% de probabilidade de alta, a 120k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 70k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 883 cartas em alta contra 624 em queda (média 5.21%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 1062 cartas em alta contra 590 em queda (média 6.33%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
