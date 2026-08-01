@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:00:25.000Z
+pubDatetime: 2026-08-01T19:00:24.000Z
 title: "Mercado Bundesliga no EA FC em 01/08 — PS"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Bundesliga no EA FC hoje?"
     a: "Loïs Openda (83), a 800k coins no Console (PS) em 01/08/2026."
   - q: "Quem mais valorizou na Bundesliga esta semana no EA FC?"
-    a: "Can Uzun (89), +83.3% em 7 dias, a 110k coins."
+    a: "Michael Olise (87), +90% em 7 dias, a 188k coins."
   - q: "Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -33,15 +33,15 @@ A **Bundesliga** é uma das ligas mais usadas no **EA FC Ultimate Team** — e s
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Loïs Openda | 83 | ST | 800k coins | 0% |
-| Michael Olise | 88 | RM | 414k coins | +66.7% |
-| Serge Gnabry | 90 | CAM | 257k coins | +11.2% |
-| Harry Kane | 92 | ST | 200k coins | +17% |
-| Jamal Musiala | 89 | CAM | 194k coins | -30.2% |
-| Luis Díaz | 91 | LM | 190k coins | +14.4% |
-| Malik Tillman | 88 | CAM | 130k coins | -12.1% |
-| Harry Kane | 91 | ST | 122k coins | -23.8% |
-| Luis Díaz | 86 | LM | 120k coins | -29.8% |
-| Can Uzun | 89 | CAM | 110k coins | 0% |
+| Michael Olise | 88 | RM | 397k coins | +23.7% |
+| Serge Gnabry | 90 | CAM | 300k coins | +14.9% |
+| Harry Kane | 92 | ST | 257k coins | +131.2% |
+| Felix Nmecha | 86 | CDM | 219k coins | +31.9% |
+| Jamal Musiala | 89 | CAM | 215k coins | -14.7% |
+| Michael Olise | 87 | RM | 188k coins | +22.6% |
+| Luis Díaz | 91 | LM | 165k coins | +28.8% |
+| Lukas Klostermann | 88 | CB | 164k coins | -4% |
+| Can Uzun | 89 | CAM | 110k coins | -2.7% |
 
 
 ## 📈 Em alta na Bundesliga (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Can Uzun | 89 | CAM | 110k coins | +83.3% |
-| Serhou Guirassy | 88 | ST | 39k coins | +76.9% |
-| Christian Günter | 84 | LB | 20k coins | +76.7% |
-| Johan Bakayoko | 88 | RW | 36k coins | +71.4% |
-| Harry Kane | 92 | ST | 200k coins | +69.5% |
-| Danny da Costa | 84 | RB | 25k coins | +68.3% |
-| Luis Díaz | 91 | LM | 190k coins | +66.7% |
-| Włodzimierz Smolarek | 86 | ST | 14.500 coins | +62.5% |
-| Nicolas Seiwald | 85 | CB | 21k coins | +58.8% |
-| Maximilian Beier | 85 | ST | 85k coins | +52.9% |
+| Michael Olise | 87 | RM | 188k coins | +90% |
+| Serhou Guirassy | 88 | ST | 42k coins | +85.7% |
+| Can Uzun | 89 | CAM | 110k coins | +78.3% |
+| Grimaldo | 84 | LM | 2.300 coins | +76.9% |
+| Luis Díaz | 91 | LM | 165k coins | +70.5% |
+| Zé Roberto | 87 | LM | 70k coins | +69.7% |
+| Grimaldo | 87 | LM | 23k coins | +64.3% |
+| Maximilian Beier | 85 | ST | 21k coins | +60.8% |
+| Grimaldo | 92 | LM | 43k coins | +59.4% |
+| Michael Olise | 88 | RM | 397k coins | +58.8% |
 
 
 ## 📈 Análise da Bundesliga
 
 A carta mais valiosa da liga é **Loïs Openda (83)**, a 800k coins. 
-No movimento da semana, **Can Uzun (89)** lidera as altas (+83.3% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Michael Olise (87)** lidera as altas (+90% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## ⚙️ A engine por trás deste post
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Loïs Openda (83), a 800k coins no Console (PS) em 01/08/2026.
 
 **Quem mais valorizou na Bundesliga esta semana no EA FC?**  
-Can Uzun (89), +83.3% em 7 dias, a 110k coins.
+Michael Olise (87), +90% em 7 dias, a 188k coins.
 
 **Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
