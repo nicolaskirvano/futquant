@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:00:23.000Z
+pubDatetime: 2026-08-01T13:00:24.000Z
 title: "Mercado Bundesliga no EA FC em 01/08 — PS"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Bundesliga no EA FC hoje?"
     a: "Loïs Openda (83), a 800k coins no Console (PS) em 01/08/2026."
   - q: "Quem mais valorizou na Bundesliga esta semana no EA FC?"
-    a: "Maximilian Beier (85), +82.4% em 7 dias, a 22k coins."
+    a: "Nicolas Seiwald (85), +82.4% em 7 dias, a 30k coins."
   - q: "Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -33,15 +33,15 @@ A **Bundesliga** é uma das ligas mais usadas no **EA FC Ultimate Team** — e s
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Loïs Openda | 83 | ST | 800k coins | 0% |
-| Serge Gnabry | 90 | CAM | 287k coins | +14.1% |
-| Jamal Musiala | 89 | CAM | 227k coins | -35.9% |
-| Felix Nmecha | 86 | CDM | 177k coins | +1.8% |
-| Michael Olise | 87 | RM | 169k coins | +3% |
-| Luis Díaz | 91 | LM | 167k coins | -23.9% |
-| Lukas Klostermann | 88 | CB | 166k coins | -4.6% |
-| Harry Kane | 91 | ST | 155k coins | -19.1% |
-| Luis Díaz | 87 | LM | 136k coins | +3.7% |
-| Karim Adeyemi | 86 | RM | 111k coins | -25.3% |
+| Serge Gnabry | 90 | CAM | 300k coins | +5.5% |
+| Jamal Musiala | 89 | CAM | 215k coins | -39.8% |
+| Luis Díaz | 91 | LM | 190k coins | -10.4% |
+| Harry Kane | 92 | ST | 176k coins | -11.9% |
+| Felix Nmecha | 86 | CDM | 173k coins | +8% |
+| Michael Olise | 87 | RM | 162k coins | +5.1% |
+| Lukas Klostermann | 88 | CB | 155k coins | -10.9% |
+| Luis Díaz | 87 | LM | 140k coins | +2.2% |
+| Harry Kane | 91 | ST | 131k coins | -16.6% |
 
 
 ## 📈 Em alta na Bundesliga (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Maximilian Beier | 85 | ST | 22k coins | +82.4% |
-| Tomáš Rosický | 89 | CAM | 28k coins | +79.3% |
-| Christian Günter | 84 | LB | 48k coins | +79.3% |
-| Serhou Guirassy | 88 | ST | 40k coins | +78.5% |
-| Dayot Upamecano | 85 | CB | 2.200 coins | +76.5% |
-| Manuel Neuer | 86 | GK | 61k coins | +75.7% |
-| Michael Olise | 87 | RM | 169k coins | +75.3% |
-| Luis Díaz | 86 | LM | 50k coins | +61.6% |
-| Włodzimierz Smolarek | 86 | ST | 14.500 coins | +53.1% |
-| Can Uzun | 89 | CAM | 109k coins | +52.8% |
+| Nicolas Seiwald | 85 | CB | 30k coins | +82.4% |
+| Michael Olise | 87 | RM | 162k coins | +71.1% |
+| Johan Bakayoko | 88 | RW | 36k coins | +68.7% |
+| Harry Kane | 92 | ST | 176k coins | +60.9% |
+| Maximilian Beier | 85 | ST | 20k coins | +58.8% |
+| Luis Díaz | 87 | LM | 140k coins | +58.2% |
+| Timo Werner | 87 | LW | 30k coins | +56.5% |
+| Luis Díaz | 91 | LM | 190k coins | +53.8% |
+| Can Uzun | 89 | CAM | 110k coins | +51.4% |
+| Joshua Kimmich | 89 | CDM | 5.200 coins | +47.1% |
 
 
 ## 📈 Análise da Bundesliga
 
 A carta mais valiosa da liga é **Loïs Openda (83)**, a 800k coins. 
-No movimento da semana, **Maximilian Beier (85)** lidera as altas (+82.4% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Nicolas Seiwald (85)** lidera as altas (+82.4% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## ⚙️ A engine por trás deste post
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Loïs Openda (83), a 800k coins no Console (PS) em 01/08/2026.
 
 **Quem mais valorizou na Bundesliga esta semana no EA FC?**  
-Maximilian Beier (85), +82.4% em 7 dias, a 22k coins.
+Nicolas Seiwald (85), +82.4% em 7 dias, a 30k coins.
 
 **Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
