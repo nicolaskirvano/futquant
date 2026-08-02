@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:00:24.000Z
+pubDatetime: 2026-08-02T01:00:24.000Z
 title: "Mercado Bundesliga no EA FC em 01/08 — PS"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ faq:
   - q: "Qual o jogador mais caro da Bundesliga no EA FC hoje?"
     a: "Loïs Openda (83), a 800k coins no Console (PS) em 01/08/2026."
   - q: "Quem mais valorizou na Bundesliga esta semana no EA FC?"
-    a: "Serhou Guirassy (88), +84.6% em 7 dias, a 42k coins."
+    a: "Malik Tillman (88), +88.9% em 7 dias, a 167k coins."
   - q: "Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
@@ -33,15 +33,15 @@ A **Bundesliga** é uma das ligas mais usadas no **EA FC Ultimate Team** — e s
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
 | Loïs Openda | 83 | ST | 800k coins | 0% |
-| Serhou Guirassy | 89 | ST | 550k coins | +89.3% |
-| Michael Olise | 88 | RM | 480k coins | +37.1% |
-| Harry Kane | 92 | ST | 290k coins | +132% |
-| Serge Gnabry | 90 | CAM | 263k coins | +7.7% |
-| Michael Olise | 87 | RM | 205k coins | +23.1% |
-| Harry Kane | 92 | ST | 180k coins | +26.2% |
-| Lukas Klostermann | 88 | CB | 164k coins | -5.7% |
-| Malik Tillman | 88 | CAM | 146k coins | +2.8% |
-| Luis Díaz | 87 | LM | 139k coins | -12.3% |
+| Harry Kane | 92 | ST | 300k coins | +23.9% |
+| Harry Kane | 92 | ST | 290k coins | +123.1% |
+| Serge Gnabry | 90 | CAM | 289k coins | +3.7% |
+| Jamal Musiala | 89 | CAM | 275k coins | +2.6% |
+| Luis Díaz | 86 | LM | 207k coins | +50% |
+| Lukas Klostermann | 88 | CB | 200k coins | +16.9% |
+| Michael Olise | 87 | RM | 188k coins | +16.9% |
+| Felix Nmecha | 86 | CDM | 173k coins | +6.1% |
+| Harry Kane | 91 | ST | 168k coins | +11.3% |
 
 
 ## 📈 Em alta na Bundesliga (7 dias)
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
-| Serhou Guirassy | 88 | ST | 42k coins | +84.6% |
+| Malik Tillman | 88 | CAM | 167k coins | +88.9% |
+| Dayot Upamecano | 85 | CB | 2.400 coins | +87.5% |
+| Uli Hoeneß | 86 | RM | 30k coins | +84.5% |
+| Harry Kane | 89 | ST | 3.300 coins | +83.3% |
 | Can Uzun | 89 | CAM | 110k coins | +83.3% |
-| Michael Olise | 88 | RM | 480k coins | +79.6% |
-| Fábio Vieira | 87 | CAM | 32k coins | +77.1% |
-| Jean-Mattéo Bahoya | 89 | LM | 38k coins | +71.9% |
-| Harry Kane | 92 | ST | 290k coins | +67.6% |
-| Uli Hoeneß | 86 | RM | 26k coins | +61% |
-| Nicolas Seiwald | 85 | CB | 38k coins | +52% |
-| Harry Kane | 92 | ST | 180k coins | +48.8% |
-| Malik Tillman | 88 | CAM | 146k coins | +48.7% |
+| Luka Vušković | 86 | CB | 20k coins | +78.2% |
+| Harry Kane | 92 | ST | 290k coins | +71.6% |
+| Johan Bakayoko | 88 | RW | 44k coins | +71.2% |
+| Sven Ulreich | 87 | GK | 40k coins | +66.7% |
+| Serhou Guirassy | 88 | ST | 36k coins | +66.7% |
 
 
 ## 📈 Análise da Bundesliga
 
 A carta mais valiosa da liga é **Loïs Openda (83)**, a 800k coins. 
-No movimento da semana, **Serhou Guirassy (88)** lidera as altas (+84.6% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+No movimento da semana, **Malik Tillman (88)** lidera as altas (+88.9% em 7 dias), sinal de procura crescente por cartas da Bundesliga. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## ⚙️ A engine por trás deste post
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Loïs Openda (83), a 800k coins no Console (PS) em 01/08/2026.
 
 **Quem mais valorizou na Bundesliga esta semana no EA FC?**  
-Serhou Guirassy (88), +84.6% em 7 dias, a 42k coins.
+Malik Tillman (88), +88.9% em 7 dias, a 167k coins.
 
 **Onde ver os preços das cartas da Bundesliga no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Bundesliga, atualizados todos os dias, com as mais valiosas e as que mais valorizam.

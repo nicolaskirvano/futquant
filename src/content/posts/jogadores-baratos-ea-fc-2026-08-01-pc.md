@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:00:21.000Z
+pubDatetime: 2026-08-02T01:00:21.000Z
 title: "Jogadores baratos EA FC em 01/08: abaixo de 15k — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.467 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 12.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.233 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ademola Lookman | 97 | ST | — | 14.000 coins | -1.8% |
-| Bremer | 97 | CB | — | 14.750 coins | -6.2% |
-| Manuel Lanzini | 96 | CAM | — | 12.000 coins | +2.1% |
-| Lorenzo Insigne | 96 | CAM | — | 12.000 coins | +2.1% |
-| Héctor Bellerín | 96 | RB | — | 12.000 coins | +4.2% |
-| Mayra Ramírez | 96 | ST | — | 12.000 coins | +6.2% |
-| Manuela Giugliano | 96 | CM | — | 12.000 coins | 0% |
-| Eduardo Quaresma | 96 | CB | — | 12.000 coins | -2% |
-| Moussa Diaby | 96 | RM | — | 12.000 coins | 0% |
-| Jessie Fleming | 96 | CM | — | 12.250 coins | 0% |
-| Randal Kolo Muani | 96 | ST | — | 12.250 coins | 0% |
+| Ademola Lookman | 97 | ST | — | 14.000 coins | +7.1% |
+| Randal Kolo Muani | 96 | ST | — | 11.250 coins | +4.2% |
+| Manuela Giugliano | 96 | CM | — | 11.750 coins | 0% |
+| Ivan Perišić | 96 | RW | — | 12.000 coins | 0% |
+| Ethan Mbappé | 96 | CM | — | 12.000 coins | +16.7% |
+| Manuel Lanzini | 96 | CAM | — | 12.000 coins | +8.5% |
+| Lorenzo Insigne | 96 | CAM | — | 12.000 coins | 0% |
+| Arnaut Danjuma | 96 | LM | — | 12.000 coins | +2.1% |
+| Rodrigo Mora | 96 | CAM | — | 12.250 coins | +2.1% |
 | Jess Park | 96 | CM | — | 12.250 coins | +2.1% |
-| Ciro Immobile | 96 | ST | — | 12.500 coins | +4.3% |
-| Tyrhys Dolan | 96 | RM | — | 12.500 coins | +4.2% |
-| Grace Geyoro | 96 | CM | — | 12.500 coins | -2% |
+| Xherdan Shaqiri | 96 | CAM | — | 12.250 coins | +4.2% |
+| Ciro Immobile | 96 | ST | — | 12.250 coins | +4.3% |
+| Mayra Ramírez | 96 | ST | — | 12.500 coins | +4.2% |
+| Jessie Fleming | 96 | CM | — | 12.500 coins | 0% |
+| Ayoze | 96 | ST | — | 12.500 coins | +4.2% |
 
 
 ## 📈 Destaques
 
 - **Ademola Lookman (97, ST)** da —, a apenas **14.000 coins**
 
-- **Bremer (97, CB)** da —, a apenas **14.750 coins**
+- **Randal Kolo Muani (96, ST)** da —, a apenas **11.250 coins**
 
-- **Manuel Lanzini (96, CAM)** da —, a apenas **12.000 coins**
+- **Manuela Giugliano (96, CM)** da —, a apenas **11.750 coins**
 
-- **Lorenzo Insigne (96, CAM)** da —, a apenas **12.000 coins**
+- **Ivan Perišić (96, RW)** da —, a apenas **12.000 coins**
 
-- **Héctor Bellerín (96, RB)** da —, a apenas **12.000 coins**
+- **Ethan Mbappé (96, CM)** da —, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Bremer (97, CB) por 14.750 coins é a referência de rating deste recorte.
-
-- **Meio:** Manuel Lanzini (96, CAM) por 12.000 coins é a referência de rating deste recorte.
+- **Meio:** Manuela Giugliano (96, CM) por 11.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Ademola Lookman (97, ST) por 14.000 coins é a referência de rating deste recorte.
 
