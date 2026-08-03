@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Kahn</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micky van de Ven</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Valery</text>
-<rect x="285" y="153" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sara Holmgaard</text>
-<rect x="285" y="211" width="475" height="28" rx="7" fill="#22c55e"/>
-<text x="770" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Timo Werner</text>
-<rect x="285" y="269" width="464" height="28" rx="7" fill="#22c55e"/>
-<text x="759" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matthieu Udol</text>
-<rect x="285" y="327" width="462" height="28" rx="7" fill="#22c55e"/>
-<text x="757" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Esmee Brugts</text>
-<rect x="285" y="385" width="459" height="28" rx="7" fill="#22c55e"/>
-<text x="754" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Elisabeth Terland</text>
+<rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
+<text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Guti</text>
+<rect x="285" y="211" width="470" height="28" rx="7" fill="#22c55e"/>
+<text x="765" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louis Reed</text>
+<rect x="285" y="269" width="457" height="28" rx="7" fill="#22c55e"/>
+<text x="752" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Martín Cauteruccio</text>
+<rect x="285" y="327" width="456" height="28" rx="7" fill="#22c55e"/>
+<text x="751" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rio Ferdinand</text>
+<rect x="285" y="385" width="450" height="28" rx="7" fill="#22c55e"/>
+<text x="745" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.2%</text>
 </svg>
