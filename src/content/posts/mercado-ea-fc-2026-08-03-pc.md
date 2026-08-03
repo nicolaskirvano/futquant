@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:00:18.000Z
+pubDatetime: 2026-08-03T22:00:18.000Z
 title: "Mercado EA FC em 03/08: altas e baixas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Bryan Mbeumo (87, Premier League), com +60% em 24h, a 70k coins no PC."
+    a: "Didier Drogba (89, Icons), com +60% em 24h, a 106k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Roony Bardghji (90), -47.7% em 24h, a 26k coins."
+    a: "Jaap Stam (91), -49% em 24h, a 40k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 338 cartas em alta contra 338 em queda (média 2.84%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 826 cartas em alta contra 886 em queda (média 2.34%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **03/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **338 em alta** e **338 em queda**, média de **2.84%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **03/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **826 em alta** e **886 em queda**, média de **2.34%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bryan Mbeumo (87) **+60%** · 🔴 **Maior baixa:** Roony Bardghji (90) **-47.7%**
+> 🟢 **Maior alta:** Didier Drogba (89) **+60%** · 🔴 **Maior baixa:** Jaap Stam (91) **-49%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: altas e baixas — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **03/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 834 cartas.
-- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 2406 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bryan Mbeumo | 87 | Premier League | 70k coins | +60% | +115.4% |
-| Lilian Thuram | 88 | Icons | 135k coins | +58% | +11.7% |
-| Marquinhos | 88 | Ligue 1 McDonald's | 46k coins | +58% | +11.9% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 32k coins | +56.1% | +116.9% |
-| Hidetoshi Nakata | 88 | Serie A TIM | 25k coins | +55.2% | -23.5% |
-| Haris Tabaković | 85 | Bundesliga | 112k coins | +55% | +44.4% |
-| Santiago Sosa | 93 | — | 48k coins | +53.2% | +72.7% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 50k coins | +52.7% | +42.9% |
-| Aya Miyama | 90 | Icons | 148k coins | +51% | +117.6% |
-| Sol Campbell | 91 | — | 22k coins | +50% | -17.4% |
+| Didier Drogba | 89 | Icons | 106k coins | +60% | +60% |
+| Bia Zaneratto | 84 | NWSL | 55k coins | +59.4% | +37.5% |
+| Ronaldinho | 93 | Icons | 1.78M coins | +58% | +8.4% |
+| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +57.1% | +44.7% |
+| Grimaldo | 88 | — | 68k coins | +56.1% | +6.3% |
+| Julian Ryerson | 93 | — | 110k coins | +56% | +57.1% |
+| Michael Olise | 88 | Bundesliga | 585k coins | +56% | +78.4% |
+| Janina Minge | 88 | — | 22k coins | +55.2% | -12.6% |
+| Ingrid Syrstad Engen | 90 | — | 38k coins | +55% | +29.2% |
+| Nene Dorgeles | 91 | — | 25k coins | +53.9% | +26.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **03/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bryan Mbeumo (87)** subiu **+60%** em 24h, a **70k coins** (faixa do dia: 28k–70k). Está +22% acima da média de 7 dias (aquecida).
+- **Didier Drogba (89)** subiu **+60%** em 24h, a **106k coins** (faixa do dia: 68k–109k). Está em linha com a média de 7 dias (+6%).
 
-- **Lilian Thuram (88)** subiu **+58%** em 24h, a **135k coins** (faixa do dia: 82k–170k). Está +11% acima da média de 7 dias (aquecida).
+- **Bia Zaneratto (84)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 34k–55k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Marquinhos (88)** subiu **+58%** em 24h, a **46k coins** (faixa do dia: 28k–60k). Está em linha com a média de 7 dias (+7%).
+- **Ronaldinho (93)** subiu **+58%** em 24h, a **1.78M coins** (faixa do dia: 1.60M–6.20M). Está -48% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roony Bardghji | 90 | LALIGA EA SPORTS | 26k coins | -47.7% | +4% |
-| Hannah Hampton | 92 | — | 25k coins | -47.4% | -21.1% |
-| Robin Risser | 90 | — | 35k coins | -46.2% | +2.9% |
-| Antonio Di Natale | 89 | Serie A TIM | 157k coins | -44.2% | -3.9% |
-| Nicolò Zaniolo | 86 | Serie A TIM | 22k coins | -43.9% | +57.1% |
-| Olivia Holdt | 90 | — | 20k coins | -43.7% | -16.7% |
-| Zé Roberto | 87 | Bundesliga | 60k coins | -43.6% | -14.3% |
-| Richard Ríos | 88 | Liga Portugal | 68k coins | -43.3% | -43.3% |
-| Wesley | 88 | Serie A TIM | 40k coins | -43.2% | -45.5% |
-| Mateo Chávez | 89 | — | 58k coins | -42.4% | +66.1% |
+| Jaap Stam | 91 | Eredivisie | 40k coins | -49% | -97.4% |
+| Franco Baresi | 91 | Icons | 69k coins | -48.5% | 0% |
+| Rafael Leão | 87 | Serie A TIM | 599k coins | -48.5% | +10% |
+| Douglas Luiz | 96 | — | 60k coins | -48.5% | -70.9% |
+| Carlos Alberto | 91 | Icons | 107k coins | -48.3% | -10% |
+| Virgil van Dijk | 90 | Premier League | 1.20M coins | -47.8% | -42.4% |
+| Carlos Tévez | 88 | Premier League | 30k coins | -47.5% | -15.2% |
+| Jens Petter Hauge | 88 | Eliteserien | 50k coins | -47.4% | -55.6% |
+| George Best | 90 | Icons | 250k coins | -47.3% | +21.1% |
+| Antonio Di Natale | 89 | Serie A TIM | 157k coins | -45.9% | -10.8% |
 
 
 ### Análise das baixas
 
-- **Roony Bardghji (90)** caiu **-47.7%** em 24h, a **26k coins** (faixa do dia: 26k–55k). Está -37% abaixo da média de 7 dias (descontada).
+- **Jaap Stam (91)** caiu **-49%** em 24h, a **40k coins** (faixa do dia: 40k–78k). Está -95% abaixo da média de 7 dias (descontada).
 
-- **Hannah Hampton (92)** caiu **-47.4%** em 24h, a **25k coins** (faixa do dia: 24k–50k). Está -30% abaixo da média de 7 dias (descontada).
+- **Franco Baresi (91)** caiu **-48.5%** em 24h, a **69k coins** (faixa do dia: 69k–142k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Robin Risser (90)** caiu **-46.2%** em 24h, a **35k coins** (faixa do dia: 26k–65k). Está -8% abaixo da média de 7 dias (descontada).
+- **Rafael Leão (87)** caiu **-48.5%** em 24h, a **599k coins** (faixa do dia: 540k–1.27M). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Bryan Mbeumo já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Didier Drogba já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Roony Bardghji recuou -47.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jaap Stam recuou -49%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Bryan Mbeumo (87, Premier League), com +60% em 24h, a 70k coins no PC.
+Didier Drogba (89, Icons), com +60% em 24h, a 106k coins no PC.
 
 **E a maior queda do dia?**
-Roony Bardghji (90), -47.7% em 24h, a 26k coins.
+Jaap Stam (91), -49% em 24h, a 40k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 338 cartas em alta contra 338 em queda (média 2.84%).
+Hoje o mercado está em alta — predominam as valorizações, com 826 cartas em alta contra 886 em queda (média 2.34%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

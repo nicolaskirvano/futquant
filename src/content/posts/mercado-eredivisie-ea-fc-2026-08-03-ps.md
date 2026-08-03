@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:00:23.000Z
+pubDatetime: 2026-08-03T22:00:23.000Z
 title: "Mercado Eredivisie no EA FC em 03/08 — PS"
 draft: false
 featured: false
@@ -12,16 +12,16 @@ tags:
 description: "Panorama de preços da Eredivisie no EA FC Ultimate Team em 03/08/2026 (Console (PS)): os jogadores mais caros e os que mais valorizam na liga, com dados reais."
 faq:
   - q: "Qual o jogador mais caro da Eredivisie no EA FC hoje?"
-    a: "Couhaib Driouech (86), a 102k coins no Console (PS) em 03/08/2026."
+    a: "Couhaib Driouech (86), a 94k coins no Console (PS) em 03/08/2026."
   - q: "Quem mais valorizou na Eredivisie esta semana no EA FC?"
-    a: "Sergiño Dest (86), +60.9% em 7 dias, a 25k coins."
+    a: "Couhaib Driouech (86), +88.5% em 7 dias, a 94k coins."
   - q: "Onde ver os preços das cartas da Eredivisie no EA FC Ultimate Team?"
     a: "O FutQuant acompanha os preços de todas as cartas da Eredivisie, atualizados todos os dias, com as mais valiosas e as que mais valorizam."
 ---
 
 A **Eredivisie** é uma das ligas mais usadas no **EA FC Ultimate Team** — e seus preços se mexem todo dia. O **FutQuant** acompanha cada carta da liga e traz abaixo o panorama de **03/08/2026** no **Console (PS)**.
 
-> 👑 **Carta mais valiosa da Eredivisie:** Couhaib Driouech (86), a 102k coins.
+> 👑 **Carta mais valiosa da Eredivisie:** Couhaib Driouech (86), a 94k coins.
 
 ![Gráfico de 24h para os destaques de Mercado Eredivisie no EA FC em 03/08 — PS](/charts/mercado-eredivisie-ea-fc-2026-08-03-ps.svg)
 
@@ -32,15 +32,15 @@ A **Eredivisie** é uma das ligas mais usadas no **EA FC Ultimate Team** — e s
 
 | Jogador | OVR | Pos | Preço | 24h |
 | --- | --- | --- | --- | --- |
-| Couhaib Driouech | 86 | LW | 102k coins | -41.2% |
-| Steven Berghuis | 86 | CAM | 75k coins | +41.5% |
-| Kento Shiogai | 83 | ST | 68k coins | +12.5% |
-| Joël Drommel | 84 | GK | 60k coins | +10.4% |
-| Paul Wanner | 84 | CM | 59k coins | +7.4% |
-| Jorthy Mokio | 84 | CDM | 55k coins | +17% |
-| Mohamed Ihattaren | 84 | RM | 55k coins | +1.1% |
-| Ahmetcan Kaplan | 88 | CB | 50k coins | +33.3% |
-| Mauro Júnior | 86 | LB | 50k coins | +10% |
+| Couhaib Driouech | 86 | LW | 94k coins | -4.9% |
+| Steven Berghuis | 86 | CAM | 74k coins | +56.2% |
+| Kento Shiogai | 83 | ST | 68k coins | 0% |
+| Paul Wanner | 84 | CM | 58k coins | +7.3% |
+| Joël Drommel | 84 | GK | 55k coins | -0.8% |
+| Ahmetcan Kaplan | 88 | CB | 50k coins | +22.7% |
+| Mauro Júnior | 86 | LB | 49k coins | +4.2% |
+| Dennis Man | 86 | RM | 49k coins | +3.3% |
+| Mohamed Ihattaren | 84 | RM | 48k coins | -9.1% |
 | Ayase Ueda | 80 | ST | 48k coins | +1.1% |
 
 
@@ -50,22 +50,22 @@ Cartas da liga que mais valorizaram na última semana:
 
 | Jogador | OVR | Pos | Preço | 7d |
 | --- | --- | --- | --- | --- |
+| Couhaib Driouech | 86 | LW | 94k coins | +88.5% |
 | Sergiño Dest | 86 | RB | 25k coins | +60.9% |
-| Dennis Man | 86 | RM | 38k coins | +31.1% |
-| Quinten Timber | 85 | CM | 38k coins | +26.1% |
-| Kees Smit | 86 | CAM | 14.750 coins | +25.5% |
-| Dirk Kuyt | 88 | CAM | 31k coins | +22.5% |
-| Jorthy Mokio | 84 | CDM | 55k coins | +12.2% |
-| Couhaib Driouech | 86 | LW | 102k coins | +11.1% |
-| Paul Wanner | 84 | CM | 59k coins | +9.1% |
+| Dennis Man | 86 | RM | 49k coins | +56.3% |
+| Paul Wanner | 84 | CM | 58k coins | +30% |
+| Tjaronn Chery | 85 | CAM | 32k coins | +20.4% |
+| Dirk Kuyt | 88 | CAM | 19.500 coins | +15.8% |
+| Quinten Timber | 85 | CM | 24k coins | +10.1% |
+| Joël Drommel | 84 | GK | 55k coins | +9.2% |
 | Jordan Ayew | 80 | ST | 47k coins | +8.7% |
-| Jorthy Mokio | 86 | CDM | 32k coins | +8.3% |
+| Melle Meulensteen | 84 | CDM | 47k coins | +5.6% |
 
 
 ## 📈 Análise da Eredivisie
 
-A carta mais valiosa da liga é **Couhaib Driouech (86)**, a 102k coins. 
-No movimento da semana, **Sergiño Dest (86)** lidera as altas (+60.9% em 7 dias), sinal de procura crescente por cartas da Eredivisie. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
+A carta mais valiosa da liga é **Couhaib Driouech (86)**, a 94k coins. 
+No movimento da semana, **Couhaib Driouech (86)** lidera as altas (+88.5% em 7 dias), sinal de procura crescente por cartas da Eredivisie. Quem busca custo-benefício na liga deve observar as cartas que ainda não dispararam.
 
 
 ## 🧪 De onde vêm estes números
@@ -75,10 +75,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o jogador mais caro da Eredivisie no EA FC hoje?**  
-Couhaib Driouech (86), a 102k coins no Console (PS) em 03/08/2026.
+Couhaib Driouech (86), a 94k coins no Console (PS) em 03/08/2026.
 
 **Quem mais valorizou na Eredivisie esta semana no EA FC?**  
-Sergiño Dest (86), +60.9% em 7 dias, a 25k coins.
+Couhaib Driouech (86), +88.5% em 7 dias, a 94k coins.
 
 **Onde ver os preços das cartas da Eredivisie no EA FC Ultimate Team?**  
 O FutQuant acompanha os preços de todas as cartas da Eredivisie, atualizados todos os dias, com as mais valiosas e as que mais valorizam.
