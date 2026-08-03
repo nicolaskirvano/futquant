@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:00:20.000Z
+pubDatetime: 2026-08-03T19:00:19.000Z
 title: "Investimentos EA FC em 03/08: radar de alta — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Kingsley Coman (87, ROSHN Saudi League) lidera, com +87% em 7 dias a 56k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Thelo Aasgaard (87, Scottish Premiership) lidera, com +90% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Kingsley Coman (87) acumula **+87% em 7 dias** a 56k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Thelo Aasgaard (87) acumula **+90% em 7 dias** a 35k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC em 03/08: radar de alta — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+79.1% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.8% em 24h** e **+78.3% em 7 dias**.
+- **14 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Kingsley Coman | 87 | ROSHN Saudi League | 56k coins | +5.5% | +87% | Esticada |
-| Gustaf Lagerbielke | 91 | — | 43k coins | +31.6% | +86.5% | Esticada |
-| Hayley Lauder | 85 | Scottish Women's League | 29k coins | +33% | +86.2% | Esticada |
-| Casillas | 95 | — | 175k coins | +29.6% | +84.2% | Esticada |
-| Salem Al Dawsari | 92 | — | 38k coins | +20.9% | +81.8% | Esticada |
-| Harry Maguire | 97 | — | 140k coins | +18.4% | +80% | Esticada |
-| Angelo Stiller | 85 | Bundesliga | 25k coins | +3.3% | +79.7% | Esticada |
-| Rivaldo | 91 | Icons | 96k coins | +12.6% | +79.1% | Esticada |
-| Anass Zaroury | 86 | Hellas Liga | 59k coins | +1.7% | +77.4% | Esticada |
-| Mohamed Simakan | 93 | — | 44k coins | +12.5% | +76.5% | Esticada |
-| Daniel Muñoz | 97 | — | 195k coins | +19.9% | +74.6% | Esticada |
-| Roman Yaremchuk | 89 | Ligue 1 McDonald's | 68k coins | +5.4% | +74.5% | Esticada |
-| Toni Kroos | 95 | — | 173k coins | +10.8% | +74% | Esticada |
-| Cláudio Braga | 87 | Scottish Premiership | 28k coins | +26.7% | +72.7% | Esticada |
-| Marcelo | 96 | — | 150k coins | +13.3% | +72.2% | Esticada |
+| Thelo Aasgaard | 87 | Scottish Premiership | 35k coins | +13.4% | +90% | Esticada |
+| Ayyoub Bouaddi | 95 | — | 46k coins | +32.8% | +89.6% | Esticada |
+| Kingsley Coman | 87 | ROSHN Saudi League | 54k coins | +10.9% | +86.1% | Esticada |
+| Anass Zaroury | 86 | Hellas Liga | 60k coins | +5.3% | +86% | Esticada |
+| Georginio Wijnaldum | 87 | Brasileirão | 24k coins | +20% | +84.6% | Esticada |
+| Oscar Bobb | 88 | Premier League | 29k coins | +6.6% | +84.1% | Esticada |
+| Guti | 86 | LALIGA EA SPORTS | 16.750 coins | +16.2% | +83% | Esticada |
+| Roberto Baggio | 91 | Icons | 160k coins | +32.2% | +78.3% | Esticada |
+| Lazar Carević | 92 | — | 40k coins | +19.7% | +72.8% | Esticada |
+| Mohamed Simakan | 93 | — | 35k coins | +1.2% | +70.6% | Esticada |
+| Henrik Larsson | 91 | — | 33k coins | +10% | +65% | Esticada |
+| Nico O'Reilly | 96 | — | 140k coins | +12.8% | +63.9% | Esticada |
+| Davide Zappacosta | 88 | Serie A TIM | 26k coins | +6% | +63.1% | Esticada |
+| Javier Zanetti | 89 | Icons | 117k coins | +39.1% | +60.3% | Esticada |
+| Renato Veiga | 94 | — | 23k coins | +2.2% | +55% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Kingsley Coman (87)** — 56k coins, **+87% em 7 dias** (+5.5% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thelo Aasgaard (87)** — 35k coins, **+90% em 7 dias** (+13.4% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gustaf Lagerbielke (91)** — 43k coins, **+86.5% em 7 dias** (+31.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ayyoub Bouaddi (95)** — 46k coins, **+89.6% em 7 dias** (+32.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hayley Lauder (85)** — 29k coins, **+86.2% em 7 dias** (+33% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kingsley Coman (87)** — 54k coins, **+86.1% em 7 dias** (+10.9% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Casillas (95)** — 175k coins, **+84.2% em 7 dias** (+29.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Anass Zaroury (86)** — 60k coins, **+86% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Salem Al Dawsari (92)** — 38k coins, **+81.8% em 7 dias** (+20.9% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georginio Wijnaldum (87)** — 24k coins, **+84.6% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Kingsley Coman (87, ROSHN Saudi League) lidera, com +87% em 7 dias a 56k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Thelo Aasgaard (87, Scottish Premiership) lidera, com +90% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
