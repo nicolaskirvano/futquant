@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T09:51:37.000Z
+pubDatetime: 2026-08-04T13:00:08.000Z
 title: "Mercado EA FC em 04/08: altas e baixas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Jurriën Timber (87, Premier League), com +58.5% em 24h, a 32k coins no Console (PS)."
+    a: "Josip Šutalo (90, Eredivisie), com +60% em 24h, a 21k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Michaël Essien (86), -48.9% em 24h, a 90k coins."
+    a: "Charles De Ketelaere (89), -48.6% em 24h, a 30k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 427 cartas em alta contra 496 em queda (média 1.27%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 583 cartas em alta contra 591 em queda (média 0.97%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **04/08/2026** no Console (PS) com mercado **de lado** — altas e quedas se equilibram: **427 cartas subiram** e **496 caíram** (80+ acima de 5k coins), variação média de **1.27%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **04/08/2026** no Console (PS) com mercado **de lado** — altas e quedas se equilibram: **583 cartas subiram** e **591 caíram** (80+ acima de 5k coins), variação média de **0.97%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jurriën Timber (87) **+58.5%** · 🔴 **Maior baixa:** Michaël Essien (86) **-48.9%**
+> 🟢 **Maior alta:** Josip Šutalo (90) **+60%** · 🔴 **Maior baixa:** Charles De Ketelaere (89) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: altas e baixas — Console (PS)](/charts/mercado-ea-fc-2026-08-04-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **04/08/2026** no Console (PS) com mercado **de lado
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.3% entre as cartas que se moveram; o universo observado reúne 1163 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.7% entre as cartas que se moveram; o universo observado reúne 1515 cartas.
+- **Concentração:** Serie A TIM aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jurriën Timber | 87 | Premier League | 32k coins | +58.5% | +58.5% |
-| Luka Modrić | 90 | Serie A TIM | 149k coins | +58.1% | +125.9% |
-| Sócrates | 89 | Icons | 110k coins | +56.2% | +41.2% |
-| Gheorghe Hagi | 90 | Icons | 130k coins | +51.2% | +175.1% |
-| Marina Hegering | 87 | GPFBL | 48k coins | +47.3% | +131.7% |
-| Mario Lemina | 89 | Trendyol Süper Lig | 124k coins | +45.8% | +44.6% |
-| Ona Batlle | 96 | — | 120k coins | +43.4% | +12.3% |
-| Maximiliano Caufriez | 86 | Ligue 2 BKT | 30k coins | +43.4% | -21.7% |
-| Nico Schlotterbeck | 87 | Bundesliga | 69k coins | +43.1% | +41% |
-| Debinha | 89 | NWSL | 282k coins | +43.1% | +203.1% |
+| Josip Šutalo | 90 | Eredivisie | 21k coins | +60% | -24% |
+| Hakan Çalhanoğlu | 88 | Serie A TIM | 70k coins | +59.1% | — |
+| Yuito Suzuki | 89 | — | 28k coins | +56.9% | +79.4% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 48k coins | +56.5% | +228.8% |
+| Steph Catley | 90 | Barclays WSL | 60k coins | +54.8% | +20.6% |
+| Trincão | 86 | Liga Portugal | 22k coins | +50.8% | +32.8% |
+| Francés | 84 | LALIGA EA SPORTS | 24k coins | +50.8% | +78.2% |
+| Ousmane Diomande | 85 | Liga Portugal | 49k coins | +47.4% | -2% |
+| Zlatan Ibrahimović | 93 | Icons | 4.80M coins | +45.3% | +38% |
+| Tara McKeown | 89 | NWSL | 23k coins | +43.7% | +21.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **04/08/2026** no Console (PS) com mercado **de lado
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jurriën Timber (87)** subiu **+58.5%** em 24h, a **32k coins** (faixa do dia: 13.250–34k). Está +52% acima da média de 7 dias (aquecida).
+- **Josip Šutalo (90)** subiu **+60%** em 24h, a **21k coins** (faixa do dia: 19.500–111k). Está -57% abaixo da média de 7 dias (descontada).
 
-- **Luka Modrić (90)** subiu **+58.1%** em 24h, a **149k coins** (faixa do dia: 100k–170k). Está +31% acima da média de 7 dias (aquecida).
+- **Hakan Çalhanoğlu (88)** subiu **+59.1%** em 24h, a **70k coins** (faixa do dia: 40k–70k). Está +94% acima da média de 7 dias (aquecida).
 
-- **Sócrates (89)** subiu **+56.2%** em 24h, a **110k coins** (faixa do dia: 74k–131k). Está em linha com a média de 7 dias (+4%).
+- **Yuito Suzuki (89)** subiu **+56.9%** em 24h, a **28k coins** (faixa do dia: 13.750–35k). Está +48% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Michaël Essien | 86 | Icons | 90k coins | -48.9% | +32.9% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 31k coins | -47.8% | +10.2% |
-| Tyler Morton | 88 | Ligue 1 McDonald's | 22k coins | -47.5% | +5.7% |
-| Ona Batlle | 88 | — | 94k coins | -47.5% | +10.5% |
-| Josip Šutalo | 90 | Eredivisie | 40k coins | -46.3% | -9% |
-| Khadija Shaw | 91 | — | 70k coins | -46.2% | -27.1% |
-| Park Ji Sung | 91 | Eredivisie | 100k coins | -44.7% | +169.2% |
-| Marinette Pichon | 90 | Icons | 110k coins | -43.8% | +33.3% |
-| Rasmus Højlund | 91 | — | 27k coins | -43.8% | -1.9% |
-| Cristian Manea | 88 | SUPERLIGA | 34k coins | -43.1% | -17.1% |
+| Charles De Ketelaere | 89 | Serie A TIM | 30k coins | -48.6% | -38.5% |
+| Cristian Manea | 88 | SUPERLIGA | 40k coins | -45.5% | -19% |
+| Khadija Shaw | 91 | — | 70k coins | -41.7% | -21.3% |
+| Rose Lavelle | 88 | NWSL | 54k coins | -37.6% | +11.3% |
+| Linda Caicedo | 87 | Liga F | 52k coins | -36.6% | -10.3% |
+| Mario Lemina | 89 | Trendyol Süper Lig | 114k coins | -36.1% | -26.4% |
+| Yoane Wissa | 95 | — | 70k coins | -35.9% | +21.6% |
+| Yasin Ayari | 95 | — | 30k coins | -35.8% | -7.6% |
+| Ronald Koeman Jr. | 91 | — | 36k coins | -35.2% | +17.6% |
+| Anthony Gordon | 90 | Premier League | 750k coins | -33.3% | +59.7% |
 
 
 ### Análise das baixas
 
-- **Michaël Essien (86)** caiu **-48.9%** em 24h, a **90k coins** (faixa do dia: 90k–180k). Está em linha com a média de 7 dias (+4%).
+- **Charles De Ketelaere (89)** caiu **-48.6%** em 24h, a **30k coins** (faixa do dia: 15.000–45k). Está em linha com a média de 7 dias (-2%).
 
-- **Giovani Lo Celso (91)** caiu **-47.8%** em 24h, a **31k coins** (faixa do dia: 20k–55k). Está em linha com a média de 7 dias (+5%).
+- **Cristian Manea (88)** caiu **-45.5%** em 24h, a **40k coins** (faixa do dia: 31k–68k). Está em linha com a média de 7 dias (-3%).
 
-- **Tyler Morton (88)** caiu **-47.5%** em 24h, a **22k coins** (faixa do dia: 12.750–39k). Está -13% abaixo da média de 7 dias (descontada).
+- **Khadija Shaw (91)** caiu **-41.7%** em 24h, a **70k coins** (faixa do dia: 60k–145k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jurriën Timber já avançou 58.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Josip Šutalo já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Michaël Essien recuou -48.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Charles De Ketelaere recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,13 +120,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Jurriën Timber (87, Premier League), com +58.5% em 24h, a 32k coins no Console (PS).
+Josip Šutalo (90, Eredivisie), com +60% em 24h, a 21k coins no Console (PS).
 
 **E a maior queda do dia?**
-Michaël Essien (86), -48.9% em 24h, a 90k coins.
+Charles De Ketelaere (89), -48.6% em 24h, a 30k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 427 cartas em alta contra 496 em queda (média 1.27%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 583 cartas em alta contra 591 em queda (média 0.97%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
