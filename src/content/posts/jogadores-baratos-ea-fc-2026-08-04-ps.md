@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T13:00:10.000Z
+pubDatetime: 2026-08-04T16:00:11.000Z
 title: "Jogadores baratos EA FC em 04/08: abaixo de 15k — Console (PS)"
 draft: false
 featured: false
