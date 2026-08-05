@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T13:00:23.000Z
+pubDatetime: 2026-08-05T16:00:24.000Z
 title: "Mercado Trendyol Süper Lig no EA FC em 05/08 — PS"
 draft: false
 featured: false
