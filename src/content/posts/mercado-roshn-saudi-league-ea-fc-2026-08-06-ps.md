@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T16:00:23.000Z
+pubDatetime: 2026-08-06T19:00:26.000Z
 title: "Mercado ROSHN Saudi League no EA FC em 06/08 — PS"
 draft: false
 featured: false
