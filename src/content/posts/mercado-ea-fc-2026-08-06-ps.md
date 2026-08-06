@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T09:20:59.000Z
+pubDatetime: 2026-08-06T10:00:09.000Z
 title: "Mercado EA FC em 06/08: altas e baixas — Console (PS)"
 draft: false
 featured: true
