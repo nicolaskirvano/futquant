@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:00:24.000Z
+pubDatetime: 2026-08-08T13:00:25.000Z
 title: "Mercado Premier League no EA FC em 08/08 — PS"
 draft: false
 featured: false
