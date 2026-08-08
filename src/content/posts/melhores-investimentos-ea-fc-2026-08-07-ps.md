@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T22:00:10.000Z
+pubDatetime: 2026-08-08T01:00:09.000Z
 title: "Investimentos EA FC em 07/08: radar de alta — Console (PS)"
 draft: false
 featured: true

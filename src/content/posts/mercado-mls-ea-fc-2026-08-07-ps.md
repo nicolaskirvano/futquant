@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T22:00:25.000Z
+pubDatetime: 2026-08-08T01:00:24.000Z
 title: "Mercado MLS no EA FC em 07/08 — PS"
 draft: false
 featured: false
